@@ -7,7 +7,7 @@
   "type": "module",
   "scripts": {
     "start": "tsc --build && node ./dist/index.js",
-    "format": "prettier --write \"src/**/*.ts\" \"./**/*.{json, prettierrc}\" \".github/**/*.yml\""
+    "format": "prettier --write \"src/**/*.ts\" \"./**/*.{json, prettierrc}\""
   },
   "dependencies": {
     "@types/axios": "0.14.0",
