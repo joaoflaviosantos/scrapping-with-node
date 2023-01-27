@@ -1,4 +1,4 @@
-# Scrapping with Node.js
+# Wikipedia Scrapping with Cheerio
 
 [github.com/kentlouisetonino/wikipedia-web-scraper](https://github.com/kentlouisetonino/wikipedia-web-scraper)
 
