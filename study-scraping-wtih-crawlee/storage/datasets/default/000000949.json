@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukaskrivka/github-issues-to-spreadsheet",
+	"uniqueIdentifier": "lukaskrivka/github-issues-to-spreadsheet",
+	"owner": "lukaskrivka",
+	"title": "Github Issues Tracker",
+	"description": "Collect all open issues from GitHub repositories across multiple accounts and upload them to your spreadsheet. Make teams more productive with efficient issue tracking and never miss one.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 3164
+}

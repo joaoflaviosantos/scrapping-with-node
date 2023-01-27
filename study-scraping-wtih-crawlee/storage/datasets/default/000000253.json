@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/los-angeles-apparel-scraper",
+	"uniqueIdentifier": "mshopik/los-angeles-apparel-scraper",
+	"owner": "mshopik",
+	"title": "Los Angeles Apparel Scraper",
+	"description": "Scrape Los Angeles Apparel and extract data on apparel from losangelesapparel.net. Our Los Angeles Apparel API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:43:38.614Z",
+	"runCount": 425
+}

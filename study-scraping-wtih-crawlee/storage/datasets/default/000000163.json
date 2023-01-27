@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/biossance-scraper",
+	"uniqueIdentifier": "mshopik/biossance-scraper",
+	"owner": "mshopik",
+	"title": "Biossance Scraper",
+	"description": "Scrape Biossance and extract data on skin and nail care from biossance.com. Our Biossance API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:17:02.205Z",
+	"runCount": 426
+}

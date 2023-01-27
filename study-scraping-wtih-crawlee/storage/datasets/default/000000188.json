@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/semihandmade-scraper",
+	"uniqueIdentifier": "mshopik/semihandmade-scraper",
+	"owner": "mshopik",
+	"title": "Semihandmade Scraper",
+	"description": "Scrape Semihandmade and extract data on home furnishings from semihandmade.com. Our Semihandmade API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:03:07.953Z",
+	"runCount": 425
+}

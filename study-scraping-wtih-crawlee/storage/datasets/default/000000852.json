@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/thibault/extract-signatures-chambre-depute-luxembourg",
+	"uniqueIdentifier": "thibault/extract-signatures-chambre-depute-luxembourg",
+	"owner": "thibault",
+	"title": "Petition.lu signature extractor.",
+	"description": "This Actor let you extract signatures from Luxembourgish official petition website petitions.lu. You'll get firstname(s), lastname(s), and city.",
+	"modifiedDate": "2022-10-10T09:07:48.166Z",
+	"runCount": 319
+}

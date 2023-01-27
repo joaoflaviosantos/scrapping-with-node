@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/marine-layer-scraper",
+	"uniqueIdentifier": "mshopik/marine-layer-scraper",
+	"owner": "mshopik",
+	"title": "Marine Layer Scraper",
+	"description": "Scrape Marine Layer and extract data on apparel from marinelayer.com. Our Marine Layer API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:44:09.911Z",
+	"runCount": 425
+}

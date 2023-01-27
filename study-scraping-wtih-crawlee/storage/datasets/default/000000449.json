@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/morphe-uk-scraper",
+	"uniqueIdentifier": "mshopik/morphe-uk-scraper",
+	"owner": "mshopik",
+	"title": "Morphe UK Scraper",
+	"description": "Scrape Morphe UK and extract data on make-up and cosmetics from uk.morphe.com. Our Morphe UK API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:33:14.401Z",
+	"runCount": 425
+}

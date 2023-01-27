@@ -1,0 +1,9 @@
+{
+	"id": "nxl5bDAbmFlpRQj",
+	"json": "{\"id\":\"nxl5bDAbmFlpRQj\",\"url\":\"https://apify.com/bibim/ss-scraper-js-version\",\"loadedUrl\":\"https://apify.com/bibim/ss-scraper-js-version\",\"uniqueKey\":\"https://apify.com/bibim/ss-scraper-js-version\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:30.302Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/bibim/ss-scraper-js-version",
+	"url": "https://apify.com/bibim/ss-scraper-js-version"
+}

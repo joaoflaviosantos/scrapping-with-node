@@ -1,0 +1,9 @@
+{
+	"id": "FTrIsm0zOoVS5Mx",
+	"json": "{\"id\":\"FTrIsm0zOoVS5Mx\",\"url\":\"https://apify.com/mshopik/jaded-london-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/jaded-london-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/jaded-london-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:09.850Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/jaded-london-scraper",
+	"url": "https://apify.com/mshopik/jaded-london-scraper"
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dtrungtin/gpuchecker-scraper",
+	"uniqueIdentifier": "dtrungtin/gpuchecker-scraper",
+	"owner": "dtrungtin",
+	"title": "GPUCHECK Scraper",
+	"description": "Extract only new gpu, cpu, quality, resolution, game, and corresponding fps from the last run",
+	"modifiedDate": "2022-05-12T07:45:04.667Z",
+	"runCount": 501
+}

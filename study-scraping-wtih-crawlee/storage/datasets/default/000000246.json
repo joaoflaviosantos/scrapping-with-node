@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/charcoal-clothing-scraper",
+	"uniqueIdentifier": "mshopik/charcoal-clothing-scraper",
+	"owner": "mshopik",
+	"title": "Charcoal Clothing Scraper",
+	"description": "Scrape Charcoal Clothing and extract data on apparel from charcoalclothing.com.au. Our Charcoal Clothing API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:08:53.396Z",
+	"runCount": 426
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jancurn/analyze-domains",
+	"uniqueIdentifier": "jancurn/analyze-domains",
+	"owner": "jancurn",
+	"title": "Naked Domains Analyzer",
+	"description": "Crawls and downloads web pages running on a list of provided naked domains e.g. \"example.com\". The actor stores HTML snapshot, screenshot, text body, and HTTP response headers of all the pages. It also extracts email addresses, phones, social handles for Facebook, Twitter, LinkedIn, and Instagram.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 3580
+}

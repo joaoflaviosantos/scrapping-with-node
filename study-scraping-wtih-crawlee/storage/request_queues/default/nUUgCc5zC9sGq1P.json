@@ -1,0 +1,9 @@
+{
+	"id": "nUUgCc5zC9sGq1P",
+	"json": "{\"id\":\"nUUgCc5zC9sGq1P\",\"url\":\"https://apify.com/junglee/Amazon-crawler\",\"loadedUrl\":\"https://apify.com/junglee/amazon-crawler\",\"uniqueKey\":\"https://apify.com/junglee/Amazon-crawler\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:47:41.701Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/junglee/Amazon-crawler",
+	"url": "https://apify.com/junglee/Amazon-crawler"
+}

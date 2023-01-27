@@ -1,0 +1,9 @@
+{
+	"id": "jLyCzlb0C4gzhwV",
+	"json": "{\"id\":\"jLyCzlb0C4gzhwV\",\"url\":\"https://www.homecenter.com.co\",\"loadedUrl\":\"https://www.homecenter.com.co/homecenter-co/\",\"uniqueKey\":\"https://www.homecenter.com.co\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:32:33.905Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.homecenter.com.co",
+	"url": "https://www.homecenter.com.co"
+}

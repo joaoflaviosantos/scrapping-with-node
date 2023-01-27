@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/pocesar/facebook-post-comments",
+	"uniqueIdentifier": "pocesar/facebook-post-comments",
+	"owner": "pocesar",
+	"title": "Facebook post comments",
+	"description": "Get Facebook comments from public posts URLs",
+	"modifiedDate": "2022-12-29T09:08:33.935Z",
+	"runCount": 1469
+}

@@ -1,0 +1,9 @@
+{
+	"id": "4fxDJFsD5gwf0gu",
+	"json": "{\"id\":\"4fxDJFsD5gwf0gu\",\"url\":\"https://www.lne.es\",\"loadedUrl\":\"https://www.lne.es/\",\"uniqueKey\":\"https://www.lne.es\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:33:13.519Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.lne.es",
+	"url": "https://www.lne.es"
+}

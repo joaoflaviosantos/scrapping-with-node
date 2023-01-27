@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/mita-sneakers-scraper",
+	"uniqueIdentifier": "mshopik/mita-sneakers-scraper",
+	"owner": "mshopik",
+	"title": "mita sneakers Scraper",
+	"description": "Scrape mita sneakers and extract data on footwear from mita-sneakers.co.jp. Our mita sneakers API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:51:42.569Z",
+	"runCount": 431
+}

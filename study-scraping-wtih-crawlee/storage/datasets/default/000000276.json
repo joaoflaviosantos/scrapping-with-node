@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/skims-scraper",
+	"uniqueIdentifier": "mshopik/skims-scraper",
+	"owner": "mshopik",
+	"title": "SKIMS Scraper",
+	"description": "Scrape SKIMS and extract data on beauty and fitness from skims.com. Our SKIMS API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:33:10.861Z",
+	"runCount": 425
+}

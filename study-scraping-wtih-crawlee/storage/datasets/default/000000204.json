@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/bleusalt-scraper",
+	"uniqueIdentifier": "mshopik/bleusalt-scraper",
+	"owner": "mshopik",
+	"title": "Bleusalt Scraper",
+	"description": "Scrape Bleusalt and extract data on women's clothing from bleusalt.com. Our Bleusalt API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:09:20.848Z",
+	"runCount": 427
+}

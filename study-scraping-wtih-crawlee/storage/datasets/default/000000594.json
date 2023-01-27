@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/petr_cermak/flatten-json",
+	"uniqueIdentifier": "petr_cermak/flatten-json",
+	"owner": "petr_cermak",
+	"title": "Flatten Json",
+	"description": "This act extracts all arrays from input JSON and extends their elements with the core object.",
+	"modifiedDate": "2022-03-17T22:05:13.216Z",
+	"runCount": 483
+}

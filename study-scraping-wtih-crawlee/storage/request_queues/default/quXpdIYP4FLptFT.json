@@ -1,0 +1,9 @@
+{
+	"id": "quXpdIYP4FLptFT",
+	"json": "{\"id\":\"quXpdIYP4FLptFT\",\"url\":\"https://apify.com/mshopik/vuori-clothing-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/vuori-clothing-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/vuori-clothing-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:28.573Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/vuori-clothing-scraper",
+	"url": "https://apify.com/mshopik/vuori-clothing-scraper"
+}

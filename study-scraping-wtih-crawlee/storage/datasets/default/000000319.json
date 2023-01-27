@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/andrewtaylor/craigslist-scraper",
+	"uniqueIdentifier": "andrewtaylor/craigslist-scraper",
+	"owner": "andrewtaylor",
+	"title": "Craigslist Scraper",
+	"description": "Scrapes Craigslist for new posts matching your search criteria and sends an email alert. Ideal for finding new leads, items for sale, housing, job postings, gigs, and more! Be the first to respond to new posts.",
+	"modifiedDate": "2021-05-21T02:03:41.497Z",
+	"runCount": 93204
+}

@@ -1,0 +1,9 @@
+{
+	"id": "PeNAiMaVU5EdDxB",
+	"json": "{\"id\":\"PeNAiMaVU5EdDxB\",\"url\":\"https://apify.com/nguyendan/startupjobs-to-jazzhr\",\"loadedUrl\":\"https://apify.com/nguyendan/startupjobs-to-jazzhr\",\"uniqueKey\":\"https://apify.com/nguyendan/startupjobs-to-jazzhr\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:05.134Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/nguyendan/startupjobs-to-jazzhr",
+	"url": "https://apify.com/nguyendan/startupjobs-to-jazzhr"
+}

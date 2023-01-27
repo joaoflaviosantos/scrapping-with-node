@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/css-scraper",
+	"uniqueIdentifier": "jupri/css-scraper",
+	"owner": "jupri",
+	"title": "CSS Selector",
+	"description": "Scrape a Webpage using CSS Selector",
+	"modifiedDate": "2023-01-02T19:59:35.302Z",
+	"runCount": 162
+}

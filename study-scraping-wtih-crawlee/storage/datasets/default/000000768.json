@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/eneiromatos/expired-article-hunter",
+	"uniqueIdentifier": "eneiromatos/expired-article-hunter",
+	"owner": "eneiromatos",
+	"title": "Expired Article Hunter",
+	"description": "Expired Article Hunter is a Wayback Machine Scraper designed to extract expired content to be reused in Moneysites and PBNs. With EAH Wayback Machine Scraper you'll never have to write or buy articles again!",
+	"modifiedDate": "2022-12-07T16:42:39.970Z",
+	"runCount": 66
+}

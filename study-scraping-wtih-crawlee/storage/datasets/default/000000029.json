@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/maxcopell/tripadvisor",
+	"uniqueIdentifier": "maxcopell/tripadvisor",
+	"owner": "maxcopell",
+	"title": "Tripadvisor Scraper",
+	"description": "This unofficial Tripadvisor API is a user-friendly no-code data extraction tool that lets you scrape Tripadvisor for information on hotels, restaurants, and things to do. Get reviews, pricing, contact details, amenities, awards, and more. Download your data in JSON, CSV, Excel, and other formats.",
+	"modifiedDate": "2023-01-25T15:17:10.012Z",
+	"runCount": 64453
+}

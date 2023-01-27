@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/vanadragos/covid-19-romania",
+	"uniqueIdentifier": "vanadragos/covid-19-romania",
+	"owner": "vanadragos",
+	"title": "Coronavirus stats in Romania",
+	"description": "Gets an actual number of examined and infected people by COVID-19 in Romania from https://stirioficiale.ro/informatii",
+	"modifiedDate": "2021-04-13T11:53:01.840Z",
+	"runCount": 118285
+}

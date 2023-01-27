@@ -1,0 +1,9 @@
+{
+	"id": "GxduWCv3epl7AR2",
+	"json": "{\"id\":\"GxduWCv3epl7AR2\",\"url\":\"https://pt.wiktionary.org\",\"loadedUrl\":\"https://pt.wiktionary.org/wiki/Wikcion%C3%A1rio:P%C3%A1gina_principal\",\"uniqueKey\":\"https://pt.wiktionary.org\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:32:32.715Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://pt.wiktionary.org",
+	"url": "https://pt.wiktionary.org"
+}

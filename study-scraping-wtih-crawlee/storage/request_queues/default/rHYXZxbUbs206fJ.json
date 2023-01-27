@@ -1,0 +1,9 @@
+{
+	"id": "rHYXZxbUbs206fJ",
+	"json": "{\"id\":\"rHYXZxbUbs206fJ\",\"url\":\"https://apify.com/oyildirim/totalwine-actor\",\"loadedUrl\":\"https://apify.com/oyildirim/totalwine-actor\",\"uniqueKey\":\"https://apify.com/oyildirim/totalwine-actor\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:25.654Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/oyildirim/totalwine-actor",
+	"url": "https://apify.com/oyildirim/totalwine-actor"
+}

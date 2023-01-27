@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/zuzka/slack-messages-downloader",
+	"uniqueIdentifier": "zuzka/slack-messages-downloader",
+	"owner": "zuzka",
+	"title": "Slack Messages Downloader",
+	"description": "Download up to 1,000 Slack messages from a public channel of your choice. Extract message text, image URL, timestamp, reply count, user ID, reply user IDs, and more. Export Slack data in JSON, CSV, and Excel and use it for archives, backups, and automated reports.",
+	"modifiedDate": "2023-01-23T17:32:45.963Z",
+	"runCount": 54
+}

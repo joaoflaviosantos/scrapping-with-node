@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/kick-game-scraper",
+	"uniqueIdentifier": "mshopik/kick-game-scraper",
+	"owner": "mshopik",
+	"title": "Kick Game Scraper",
+	"description": "Scrape Kick Game and extract data on footwear from kickgame.co.uk. Our Kick Game API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:52:08.585Z",
+	"runCount": 426
+}

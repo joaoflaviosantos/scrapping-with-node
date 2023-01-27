@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/quacker/twitter-history-hashtag",
+	"uniqueIdentifier": "quacker/twitter-history-hashtag",
+	"owner": "quacker",
+	"title": "Twitter History Hashtag Scraper",
+	"description": "Scrape tweets with given hashtags in given time range. Extract Twitter usernames, profile photos, follower count, tweets, hashtags, favorite count, and more.",
+	"modifiedDate": "2023-01-20T12:28:25.980Z",
+	"runCount": 734
+}

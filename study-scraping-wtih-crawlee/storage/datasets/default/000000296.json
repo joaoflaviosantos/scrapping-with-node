@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/junglee/amazon-asins-scraper",
+	"uniqueIdentifier": "junglee/amazon-asins-scraper",
+	"owner": "junglee",
+	"title": "Amazon ASINs scraper",
+	"description": "Gets you product data from Amazon. Unofficial API. Scrapes and downloads product information without using the Amazon API, including reviews, prices, descriptions.",
+	"modifiedDate": "2022-12-01T11:08:56.057Z",
+	"runCount": 702
+}

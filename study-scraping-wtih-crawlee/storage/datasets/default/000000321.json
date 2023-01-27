@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/andrey_bykov/sReality-monitor",
+	"uniqueIdentifier": "andrey_bykov/sReality-monitor",
+	"owner": "andrey_bykov",
+	"title": "sReality Listings Monitor",
+	"description": "Searches and monitors sReality listings matching location and filters provided on user input. Optionally notifies about changes",
+	"modifiedDate": "2022-12-04T04:05:04.443Z",
+	"runCount": 20258
+}

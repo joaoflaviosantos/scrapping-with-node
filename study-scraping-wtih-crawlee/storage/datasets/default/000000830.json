@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mnmkng/rebuilder",
+	"uniqueIdentifier": "mnmkng/rebuilder",
+	"owner": "mnmkng",
+	"title": "Rebuilder",
+	"description": "Rebuild your actors easily with a simple regular expression. This actor will fetch all your existing actors and match their names. Those that pass will be rebuilt. Schedule this for maximum effectiveness. It can also rebuild itself!",
+	"modifiedDate": "2022-09-26T15:19:34.814Z",
+	"runCount": 1206
+}

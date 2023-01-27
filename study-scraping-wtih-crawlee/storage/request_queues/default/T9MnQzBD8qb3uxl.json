@@ -1,0 +1,9 @@
+{
+	"id": "T9MnQzBD8qb3uxl",
+	"json": "{\"id\":\"T9MnQzBD8qb3uxl\",\"url\":\"https://apify.com/dtrungtin/booking-scraper\",\"loadedUrl\":\"https://apify.com/dtrungtin/booking-scraper\",\"uniqueKey\":\"https://apify.com/dtrungtin/booking-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:05.309Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/dtrungtin/booking-scraper",
+	"url": "https://apify.com/dtrungtin/booking-scraper"
+}

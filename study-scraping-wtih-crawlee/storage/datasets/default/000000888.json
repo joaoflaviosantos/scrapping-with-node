@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/vaclavrut/motionmail-send-invoice",
+	"uniqueIdentifier": "vaclavrut/motionmail-send-invoice",
+	"owner": "vaclavrut",
+	"title": "Motionmail Send Invoice",
+	"description": "Automation actor for sending invoices to the accounting department from Motionmailapp.com for paid accounts. Specify in the input to whom the actor should send the email with an attached invoice in PDF. Update the environment attributes as the Username and the Password and set up a Scheduler.",
+	"modifiedDate": "2022-06-20T13:52:52.063Z",
+	"runCount": 502
+}

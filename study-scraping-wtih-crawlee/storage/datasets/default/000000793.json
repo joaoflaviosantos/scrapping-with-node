@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/54skyxenon/sign-hack-actor",
+	"uniqueIdentifier": "54skyxenon/sign-hack-actor",
+	"owner": "54skyxenon",
+	"title": "Sign Friendly Actor",
+	"description": "Sign Friendly is an app we made for HackPrague 2021 that aims to facilitate communication in the deaf community. The Actor API returns a URL(s) to a short clip of a word's translation in sign language and spelling translation images.",
+	"modifiedDate": "2021-10-17T09:26:46.017Z",
+	"runCount": 563
+}

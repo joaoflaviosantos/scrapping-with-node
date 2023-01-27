@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dtrungtin/gettyimages-scraper",
+	"uniqueIdentifier": "dtrungtin/gettyimages-scraper",
+	"owner": "dtrungtin",
+	"title": "Getty Images Scraper",
+	"description": "It allows you to extract the image information. It also downloads the images and zip/save them under Apify key-value store.",
+	"modifiedDate": "2022-03-21T08:46:38.295Z",
+	"runCount": 425
+}

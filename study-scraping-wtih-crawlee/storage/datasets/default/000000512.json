@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/alexey/web-technology-lookup",
+	"uniqueIdentifier": "alexey/web-technology-lookup",
+	"owner": "alexey",
+	"title": "Web Technology Lookup",
+	"description": "Identifies technologies on websites, such as CMS, web frameworks, ecommerce platforms, JavaScript libraries, analytics tools and more.",
+	"modifiedDate": "2022-11-23T05:05:09.588Z",
+	"runCount": 170
+}

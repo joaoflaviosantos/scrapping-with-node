@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/rrortega/google-currency-exchange",
+	"uniqueIdentifier": "rrortega/google-currency-exchange",
+	"owner": "rrortega",
+	"title": "Google Currency Exchange",
+	"description": "Currency converter that uses google search to get the exchange rate in real time. Supports cryptocurrencies.",
+	"modifiedDate": "2022-12-30T05:55:01.347Z",
+	"runCount": 110
+}

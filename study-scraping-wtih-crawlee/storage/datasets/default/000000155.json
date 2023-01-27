@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/example-selenium",
+	"uniqueIdentifier": "apify/example-selenium",
+	"owner": "apify",
+	"title": "Example Selenium",
+	"description": "Example of loading a web page in headless Chrome using Selenium Webdriver.",
+	"modifiedDate": "2022-11-24T14:25:55.754Z",
+	"runCount": 6610
+}

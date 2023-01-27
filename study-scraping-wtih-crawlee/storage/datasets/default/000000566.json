@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/primally-pure-scraper",
+	"uniqueIdentifier": "mshopik/primally-pure-scraper",
+	"owner": "mshopik",
+	"title": "Primally Pure Scraper",
+	"description": "Scrape Primally Pure and extract data on skin and nail care from primallypure.com. Our Primally Pure API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:21:24.891Z",
+	"runCount": 425
+}

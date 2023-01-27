@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/drinksight/save-to-s3",
+	"uniqueIdentifier": "drinksight/save-to-s3",
+	"owner": "drinksight",
+	"title": "Save To S3",
+	"description": "Designed to be run from an ACTOR.RUN.SUCCEEDED webhook, this actor downloads a task run's default dataset and saves it to an S3 bucket.",
+	"modifiedDate": "2022-10-10T09:02:28.543Z",
+	"runCount": 334739
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/capterra-scraper",
+	"uniqueIdentifier": "epctex/capterra-scraper",
+	"owner": "epctex",
+	"title": "Capterra Scraper",
+	"description": "Scrape data from the Capterra software database. Crawl and extract product information, related products, insights with numeric values, extended real client reviews, portfolio and much more. Scrape the huge Capterra database and top software listings by any search term.",
+	"modifiedDate": "2023-01-25T02:01:26.255Z",
+	"runCount": 1237
+}

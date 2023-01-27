@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/northern-brewer-scraper",
+	"uniqueIdentifier": "mshopik/northern-brewer-scraper",
+	"owner": "mshopik",
+	"title": "Northern Brewer Scraper",
+	"description": "Scrape Northern Brewer and extract data on alcoholic beverages from northernbrewer.com. Our Northern Brewer API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:51:51.794Z",
+	"runCount": 425
+}

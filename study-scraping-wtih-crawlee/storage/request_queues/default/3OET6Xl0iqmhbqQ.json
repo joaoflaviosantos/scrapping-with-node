@@ -1,0 +1,9 @@
+{
+	"id": "3OET6Xl0iqmhbqQ",
+	"json": "{\"id\":\"3OET6Xl0iqmhbqQ\",\"url\":\"https://apify.com/mshopik/troy-lee-designs-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/troy-lee-designs-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/troy-lee-designs-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:07.614Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/troy-lee-designs-scraper",
+	"url": "https://apify.com/mshopik/troy-lee-designs-scraper"
+}

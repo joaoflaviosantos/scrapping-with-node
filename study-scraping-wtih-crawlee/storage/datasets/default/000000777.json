@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/watchescom-scraper",
+	"uniqueIdentifier": "mshopik/watchescom-scraper",
+	"owner": "mshopik",
+	"title": "Watches.com Scraper",
+	"description": "Scrape Watches.com and extract data on antiques and collectibles from watches.com. Our Watches.com API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:56:28.864Z",
+	"runCount": 434
+}

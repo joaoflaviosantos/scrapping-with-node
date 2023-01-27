@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dtrungtin/imdb-scraper",
+	"uniqueIdentifier": "dtrungtin/imdb-scraper",
+	"owner": "dtrungtin",
+	"title": "IMDb Scraper",
+	"description": "Free IMDb API to extract and download data on movies, TV shows, video games, and other listings from IMDb. Delivers custom machine-readable IMDb datasets containing all information on your selected listings.",
+	"modifiedDate": "2022-09-21T06:27:57.945Z",
+	"runCount": 5169
+}

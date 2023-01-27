@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/altitude-sports-scraper",
+	"uniqueIdentifier": "mshopik/altitude-sports-scraper",
+	"owner": "mshopik",
+	"title": "Altitude Sports Scraper",
+	"description": "Scrape Altitude Sports and extract data on athletic apparel from altitude-sports.com. Our Altitude Sports API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:41:05.509Z",
+	"runCount": 425
+}

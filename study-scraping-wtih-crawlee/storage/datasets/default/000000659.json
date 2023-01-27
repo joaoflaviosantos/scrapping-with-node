@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/nguyendan/startupjobs-to-jazzhr",
+	"uniqueIdentifier": "nguyendan/startupjobs-to-jazzhr",
+	"owner": "nguyendan",
+	"title": "StartupJobs and JazzHR integration",
+	"description": "Automatically transfers job applications from StartupJobs that are connected to a job offer that exists in JazzHR and puts them into JazzHR. The transferred applications are saved into the dataset so that on consecutive runs, they are not processed again. Built on StartupJobs API and JazzHR API.",
+	"modifiedDate": "2022-01-04T09:35:41.202Z",
+	"runCount": 16169
+}

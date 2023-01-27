@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/katerinahronik/car-accidents-statistics-cz",
+	"uniqueIdentifier": "katerinahronik/car-accidents-statistics-cz",
+	"owner": "katerinahronik",
+	"title": "Car Accidents Statistics Cz",
+	"description": "Apify actor to download car accidents statistics in the CR from Transport Research Centre (https://nehody.cdv.cz/).",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 493
+}

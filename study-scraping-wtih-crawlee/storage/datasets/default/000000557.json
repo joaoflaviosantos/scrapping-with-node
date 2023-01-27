@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/strajk/bergfreunde-bergfreunde-eu-scraper",
+	"uniqueIdentifier": "strajk/bergfreunde-bergfreunde-eu-scraper",
+	"owner": "strajk",
+	"title": "Bergfreunde (bergfreunde.eu) scraper",
+	"description": "Scrapes products titles, prices, images and availability. Does NOT scrape product details.",
+	"modifiedDate": "2022-10-12T07:52:14.473Z",
+	"runCount": 246
+}

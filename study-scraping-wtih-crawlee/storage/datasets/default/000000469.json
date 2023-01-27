@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/juansgaitan/dns-extractor",
+	"uniqueIdentifier": "juansgaitan/dns-extractor",
+	"owner": "juansgaitan",
+	"title": "DNS Extractor",
+	"description": "Gets the IP addresses & *Reverse DNS from an input url.\n\n*Reverse DNS is IP address to domain name mapping - the opposite of forward (normal) DNS which maps domain names to IP addresses.",
+	"modifiedDate": "2022-10-10T09:04:26.017Z",
+	"runCount": 599
+}

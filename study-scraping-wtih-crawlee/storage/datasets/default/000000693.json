@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/strajk/alza-alza-cz-sk-co-uk-de-at-hu-scraper",
+	"uniqueIdentifier": "strajk/alza-alza-cz-sk-co-uk-de-at-hu-scraper",
+	"owner": "strajk",
+	"title": "Alza (alza.cz/sk/co.uk/de/at/hu) scraper",
+	"description": "Scrapes products titles, prices, images and availability. Does NOT scrape product details.",
+	"modifiedDate": "2022-08-15T15:31:32.603Z",
+	"runCount": 218
+}

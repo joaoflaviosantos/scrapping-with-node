@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/onthelist-scraper",
+	"uniqueIdentifier": "mshopik/onthelist-scraper",
+	"owner": "mshopik",
+	"title": "OnTheList Scraper",
+	"description": "Scrape OnTheList and extract data on  from onthelist-store.com. Our OnTheList API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:00:07.177Z",
+	"runCount": 427
+}

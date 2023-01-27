@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/fangamer-scraper",
+	"uniqueIdentifier": "mshopik/fangamer-scraper",
+	"owner": "mshopik",
+	"title": "Fangamer Scraper",
+	"description": "Scrape Fangamer and extract data on  from fangamer.com. Our Fangamer API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:35:12.505Z",
+	"runCount": 428
+}

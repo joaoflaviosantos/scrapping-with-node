@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/printfresh-scraper",
+	"uniqueIdentifier": "mshopik/printfresh-scraper",
+	"owner": "mshopik",
+	"title": "PRINTFRESH Scraper",
+	"description": "Scrape PRINTFRESH and extract data on home and garden from printfresh.com. Our PRINTFRESH API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:10:41.828Z",
+	"runCount": 426
+}

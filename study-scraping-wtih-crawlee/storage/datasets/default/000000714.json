@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/autofacts/asos",
+	"uniqueIdentifier": "autofacts/asos",
+	"owner": "autofacts",
+	"title": "ASOS Actor",
+	"description": "ASOS category/product public data extractor. The data includes title,description,images,price and so on.",
+	"modifiedDate": "2022-06-22T12:27:32.971Z",
+	"runCount": 477
+}

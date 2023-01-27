@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/binance-futures-leaderboard",
+	"uniqueIdentifier": "epctex/binance-futures-leaderboard",
+	"owner": "epctex",
+	"title": "Binance Futures Leaderboard Scraper",
+	"description": "Scrape and extract data on top users and their current positions from Binance Futures Leaderboard,  the largest cryptocurrency exchange in the world. Use all filtering and sorting options provided by Binance to integrate top user crypto positions into your coin trading strategy.",
+	"modifiedDate": "2023-01-25T02:01:29.998Z",
+	"runCount": 99337
+}

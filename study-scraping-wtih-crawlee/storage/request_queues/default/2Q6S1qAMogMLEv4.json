@@ -1,0 +1,9 @@
+{
+	"id": "2Q6S1qAMogMLEv4",
+	"json": "{\"id\":\"2Q6S1qAMogMLEv4\",\"url\":\"https://apify.com/compass/easy-google-maps\",\"loadedUrl\":\"https://apify.com/compass/easy-google-maps\",\"uniqueKey\":\"https://apify.com/compass/easy-google-maps\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:06.635Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/compass/easy-google-maps",
+	"url": "https://apify.com/compass/easy-google-maps"
+}

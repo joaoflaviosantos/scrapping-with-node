@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/windsor-fashions-scraper",
+	"uniqueIdentifier": "mshopik/windsor-fashions-scraper",
+	"owner": "mshopik",
+	"title": "Windsor Fashions Scraper",
+	"description": "Scrape Windsor Fashions and extract data on women's clothing from windsorstore.com. Our Windsor Fashions API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:49:35.559Z",
+	"runCount": 428
+}

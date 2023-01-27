@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/metacritic-scraper",
+	"uniqueIdentifier": "epctex/metacritic-scraper",
+	"owner": "epctex",
+	"title": "Metacritic Scraper",
+	"description": "Extract any data from Metacritic right away! Games, Music, Movies, TV Shows, People, Companies, and more information are ready for you. Get reviews immediately! Search for any keyword, filter by your needs, or get listing pages! Export your data by XML, JSON, CSV, Excel, or HTML",
+	"modifiedDate": "2023-01-18T20:52:29.517Z",
+	"runCount": 73
+}

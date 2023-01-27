@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/thirdlove-scraper",
+	"uniqueIdentifier": "mshopik/thirdlove-scraper",
+	"owner": "mshopik",
+	"title": "ThirdLove Scraper",
+	"description": "Scrape ThirdLove and extract data on undergarments from thirdlove.com. Our ThirdLove API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:40:24.923Z",
+	"runCount": 425
+}

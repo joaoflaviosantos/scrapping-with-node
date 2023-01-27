@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/harney-and-sons-fine-scraper",
+	"uniqueIdentifier": "mshopik/harney-and-sons-fine-scraper",
+	"owner": "mshopik",
+	"title": "Harney Sons Fine Teas Scraper",
+	"description": "Scrape Harney Sons Fine Teas and extract data on coffee and tea from harney.com. Our Harney Sons Fine Teas API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:54:33.860Z",
+	"runCount": 429
+}

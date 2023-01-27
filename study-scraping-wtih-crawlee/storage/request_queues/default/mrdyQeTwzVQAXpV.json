@@ -1,0 +1,9 @@
+{
+	"id": "mrdyQeTwzVQAXpV",
+	"json": "{\"id\":\"mrdyQeTwzVQAXpV\",\"url\":\"https://apify.com/inutil_labs/wscrp-free\",\"loadedUrl\":\"https://apify.com/inutil_labs/wscrp-free\",\"uniqueKey\":\"https://apify.com/inutil_labs/wscrp-free\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:44.120Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/inutil_labs/wscrp-free",
+	"url": "https://apify.com/inutil_labs/wscrp-free"
+}

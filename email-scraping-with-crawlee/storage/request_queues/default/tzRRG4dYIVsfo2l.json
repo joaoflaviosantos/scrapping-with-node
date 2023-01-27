@@ -1,0 +1,9 @@
+{
+	"id": "tzRRG4dYIVsfo2l",
+	"json": "{\"id\":\"tzRRG4dYIVsfo2l\",\"url\":\"https://produto.mercadolivre.com.br\",\"loadedUrl\":\"https://www.mercadolivre.com.br/\",\"uniqueKey\":\"https://produto.mercadolivre.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:32:32.493Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://produto.mercadolivre.com.br",
+	"url": "https://produto.mercadolivre.com.br"
+}

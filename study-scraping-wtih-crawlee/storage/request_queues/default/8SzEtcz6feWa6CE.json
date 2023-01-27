@@ -1,0 +1,9 @@
+{
+	"id": "8SzEtcz6feWa6CE",
+	"json": "{\"id\":\"8SzEtcz6feWa6CE\",\"url\":\"https://apify.com/yeyo/hepsiburada-scraper\",\"loadedUrl\":\"https://apify.com/yeyo/hepsiburada-scraper\",\"uniqueKey\":\"https://apify.com/yeyo/hepsiburada-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:44.922Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/yeyo/hepsiburada-scraper",
+	"url": "https://apify.com/yeyo/hepsiburada-scraper"
+}

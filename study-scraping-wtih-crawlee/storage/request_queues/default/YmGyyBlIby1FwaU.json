@@ -1,0 +1,9 @@
+{
+	"id": "YmGyyBlIby1FwaU",
+	"json": "{\"id\":\"YmGyyBlIby1FwaU\",\"url\":\"https://apify.com/petrpatek/covid-usa-cdc\",\"loadedUrl\":\"https://apify.com/petrpatek/covid-usa-cdc\",\"uniqueKey\":\"https://apify.com/petrpatek/covid-usa-cdc\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:17.260Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/petrpatek/covid-usa-cdc",
+	"url": "https://apify.com/petrpatek/covid-usa-cdc"
+}

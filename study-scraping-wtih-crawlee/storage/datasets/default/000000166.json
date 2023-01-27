@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/desmond-and-dempsey-scraper",
+	"uniqueIdentifier": "mshopik/desmond-and-dempsey-scraper",
+	"owner": "mshopik",
+	"title": "Desmond Dempsey Scraper",
+	"description": "Scrape Desmond Dempsey and extract data on apparel from desmondanddempsey.com. Our Desmond Dempsey API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:07:35.878Z",
+	"runCount": 425
+}

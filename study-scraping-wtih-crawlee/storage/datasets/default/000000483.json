@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukaskrivka/find-IPs-from-proxy-groups",
+	"uniqueIdentifier": "lukaskrivka/find-IPs-from-proxy-groups",
+	"owner": "lukaskrivka",
+	"title": "Find IPs from Proxy Groups",
+	"description": "Simple actor to list IPs that you have allocated in any of your proxy groups. You have to specify the total count of the IPs you have in the groups you want to test for this to work properly.",
+	"modifiedDate": "2022-06-20T13:57:19.323Z",
+	"runCount": 233
+}

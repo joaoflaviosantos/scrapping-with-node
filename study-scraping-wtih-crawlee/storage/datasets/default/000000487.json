@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lhotanok/google-news-scraper",
+	"uniqueIdentifier": "lhotanok/google-news-scraper",
+	"owner": "lhotanok",
+	"title": "Google News Scraper",
+	"description": "Gets featured articles from Google News with title, link, source, publication date and image.",
+	"modifiedDate": "2022-11-07T09:27:05.459Z",
+	"runCount": 337
+}

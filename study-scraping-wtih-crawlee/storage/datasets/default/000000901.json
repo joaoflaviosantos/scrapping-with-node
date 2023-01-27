@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/tkapler/deepl-actor",
+	"uniqueIdentifier": "tkapler/deepl-actor",
+	"owner": "tkapler",
+	"title": "DeepL (AI translation) Actor",
+	"description": "Receive high-quality translations from/to 24 languages using the DeepL API. It uses a proprietary algorithm with convolutional neural networks (CNNs) and translate far better than e.g. Google Translate. Free Tier is available.",
+	"modifiedDate": "2021-10-17T10:23:34.763Z",
+	"runCount": 49
+}

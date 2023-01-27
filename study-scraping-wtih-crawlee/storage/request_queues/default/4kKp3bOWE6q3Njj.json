@@ -1,0 +1,9 @@
+{
+	"id": "4kKp3bOWE6q3Njj",
+	"json": "{\"id\":\"4kKp3bOWE6q3Njj\",\"url\":\"https://apify.com/jupri/markdown-test\",\"loadedUrl\":\"https://apify.com/jupri/markdown-test\",\"uniqueKey\":\"https://apify.com/jupri/markdown-test\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:54.748Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jupri/markdown-test",
+	"url": "https://apify.com/jupri/markdown-test"
+}

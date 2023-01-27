@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/icebergg/facebook-groups-scraper",
+	"uniqueIdentifier": "icebergg/facebook-groups-scraper",
+	"owner": "icebergg",
+	"title": "Facebook Groups Scraper",
+	"description": "Extract data from one or multiple public Facebook groups. Get group and post URLs, post text, comments, timestamp, likes and comments count, and basic commentator info. Download the data in JSON, CSV, and Excel and use it in apps, spreadsheets, and reports.",
+	"modifiedDate": "2023-01-23T09:09:36.978Z",
+	"runCount": 256
+}

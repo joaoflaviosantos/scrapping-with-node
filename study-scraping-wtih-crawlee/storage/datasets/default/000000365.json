@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/american-giant-scraper",
+	"uniqueIdentifier": "mshopik/american-giant-scraper",
+	"owner": "mshopik",
+	"title": "American Giant Scraper",
+	"description": "Scrape American Giant and extract data on apparel from american-giant.com. Our American Giant API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:53:47.054Z",
+	"runCount": 425
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ZaDyQ1XdOINAJg5",
+	"json": "{\"id\":\"ZaDyQ1XdOINAJg5\",\"url\":\"https://apify.com/strajk/team-sport-teamsport-cz-scraper\",\"loadedUrl\":\"https://apify.com/strajk/team-sport-teamsport-cz-scraper\",\"uniqueKey\":\"https://apify.com/strajk/team-sport-teamsport-cz-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:18.354Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/strajk/team-sport-teamsport-cz-scraper",
+	"url": "https://apify.com/strajk/team-sport-teamsport-cz-scraper"
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/vitaly-us-scraper",
+	"uniqueIdentifier": "mshopik/vitaly-us-scraper",
+	"owner": "mshopik",
+	"title": "Vitaly US Scraper",
+	"description": "Scrape Vitaly US and extract data on headwear from vitalydesign.com. Our Vitaly US API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:31:24.623Z",
+	"runCount": 426
+}

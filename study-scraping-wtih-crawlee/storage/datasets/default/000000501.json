@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/quick-start",
+	"uniqueIdentifier": "apify/quick-start",
+	"owner": "apify",
+	"title": "Quick Start for Actor Creation",
+	"description": "Contains a basic boilerplate of an Apify actor with Node.js source code and a custom Dockerfile. The purpose of this actor is to help you get started quickly to create your own actors.",
+	"modifiedDate": "2022-10-18T18:06:11.976Z",
+	"runCount": 484
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/pocesar/covid-brazil",
+	"uniqueIdentifier": "pocesar/covid-brazil",
+	"owner": "pocesar",
+	"title": "Coronavirus stats in Brazil",
+	"description": "Gets an actual number of infected people and deaths per region by COVID-19 in Brazil from https://covid.saude.gov.br/",
+	"modifiedDate": "2022-03-26T08:01:33.775Z",
+	"runCount": 37143
+}

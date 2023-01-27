@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/sylwanin/linkedin-company-ads",
+	"uniqueIdentifier": "sylwanin/linkedin-company-ads",
+	"owner": "sylwanin",
+	"title": "Linkedin Company Ads",
+	"description": "The actor \"linkedin company ads\" will allow you to scout any linkedin company page and know if a company is using linkedin ads on their post and the total number of promoted posts\n\nA more detailled report will be available in the next version (what tools used, expiration date etc ..)",
+	"modifiedDate": "2022-12-05T09:10:33.368Z",
+	"runCount": 31
+}

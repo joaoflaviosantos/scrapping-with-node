@@ -1,0 +1,9 @@
+{
+	"id": "VpYX0dqVmRxnsgQ",
+	"json": "{\"id\":\"VpYX0dqVmRxnsgQ\",\"url\":\"https://apify.com/hooli/google-trending-searches\",\"loadedUrl\":\"https://apify.com/hooli/google-trending-searches\",\"uniqueKey\":\"https://apify.com/hooli/google-trending-searches\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:43.007Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/hooli/google-trending-searches",
+	"url": "https://apify.com/hooli/google-trending-searches"
+}

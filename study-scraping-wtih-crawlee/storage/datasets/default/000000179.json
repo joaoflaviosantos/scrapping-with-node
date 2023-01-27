@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/mack-weldon-scraper",
+	"uniqueIdentifier": "mshopik/mack-weldon-scraper",
+	"owner": "mshopik",
+	"title": "Mack Weldon Scraper",
+	"description": "Scrape Mack Weldon and extract data on men's clothing from mackweldon.com. Our Mack Weldon API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:45:01.781Z",
+	"runCount": 426
+}

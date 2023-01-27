@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/david.lukac/le-figaro-scraper",
+	"uniqueIdentifier": "david.lukac/le-figaro-scraper",
+	"owner": "david.lukac",
+	"title": "Le Figaro Scraper",
+	"description": "Scrape news data from lefigaro.fr with this unofficial API. Extract articles, monitor their popularity and performance and automate the fight against fake news. Filter the results by authors, topics, categories, or publication dates. Preview or download the results in your preferred format.",
+	"modifiedDate": "2022-08-07T17:44:03.056Z",
+	"runCount": 253
+}

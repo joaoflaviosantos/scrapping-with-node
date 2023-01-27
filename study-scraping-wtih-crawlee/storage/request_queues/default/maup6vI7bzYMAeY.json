@@ -1,0 +1,9 @@
+{
+	"id": "maup6vI7bzYMAeY",
+	"json": "{\"id\":\"maup6vI7bzYMAeY\",\"url\":\"https://apify.com/apify/send-mail\",\"loadedUrl\":\"https://apify.com/apify/send-mail\",\"uniqueKey\":\"https://apify.com/apify/send-mail\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:47:46.691Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/apify/send-mail",
+	"url": "https://apify.com/apify/send-mail"
+}

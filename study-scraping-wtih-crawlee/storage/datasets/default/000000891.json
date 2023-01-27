@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/bibim/ss-scraper-js-version",
+	"uniqueIdentifier": "bibim/ss-scraper-js-version",
+	"owner": "bibim",
+	"title": "ss.lv scraper",
+	"description": "Get info from Latvian ss.lv ad site. Get the newest or all ads in the selected category. Download the data in JSON, CSV, Excel, and more.",
+	"modifiedDate": "2023-01-18T17:54:45.514Z",
+	"runCount": 188
+}

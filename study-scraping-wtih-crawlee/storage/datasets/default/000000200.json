@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/la-colombe-coffee-roasters-scraper",
+	"uniqueIdentifier": "mshopik/la-colombe-coffee-roasters-scraper",
+	"owner": "mshopik",
+	"title": "La Colombe Coffee Roasters Scraper",
+	"description": "Scrape La Colombe Coffee Roasters and extract data on coffee and tea from lacolombe.com. Our La Colombe Coffee Roasters API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:55:56.017Z",
+	"runCount": 426
+}

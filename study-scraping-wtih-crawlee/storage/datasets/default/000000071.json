@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/petr_cermak/anti-captcha-recaptcha",
+	"uniqueIdentifier": "petr_cermak/anti-captcha-recaptcha",
+	"owner": "petr_cermak",
+	"title": "Anti Captcha Recaptcha",
+	"description": "🧰 Actor for solving Google reCAPTCHA using the anti-captcha.com service. You need to have an anti-captcha subscription.",
+	"modifiedDate": "2022-08-29T09:15:44.603Z",
+	"runCount": null
+}

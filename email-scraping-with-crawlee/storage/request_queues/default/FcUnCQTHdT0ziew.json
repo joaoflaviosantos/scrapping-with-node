@@ -1,0 +1,9 @@
+{
+	"id": "FcUnCQTHdT0ziew",
+	"json": "{\"id\":\"FcUnCQTHdT0ziew\",\"url\":\"https://www.domondo.es\",\"loadedUrl\":\"https://www.domondo.es/\",\"uniqueKey\":\"https://www.domondo.es\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:32:46.288Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.domondo.es",
+	"url": "https://www.domondo.es"
+}

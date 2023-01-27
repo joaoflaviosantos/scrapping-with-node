@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dtrungtin/covid-vi",
+	"uniqueIdentifier": "dtrungtin/covid-vi",
+	"owner": "dtrungtin",
+	"title": "Coronavirus stats in Vietnam",
+	"description": "Gets an actual number of tested cases, number of confirmed cases and number of deaths by COVID-19 in the Vietnam from https://ncov.moh.gov.vn/.",
+	"modifiedDate": "2021-09-23T08:33:32.636Z",
+	"runCount": 128027
+}

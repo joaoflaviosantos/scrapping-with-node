@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/nobull-scraper",
+	"uniqueIdentifier": "mshopik/nobull-scraper",
+	"owner": "mshopik",
+	"title": "NOBULL Scraper",
+	"description": "Scrape NOBULL and extract data on footwear from nobullproject.com. Our NOBULL API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:49:18.685Z",
+	"runCount": 426
+}

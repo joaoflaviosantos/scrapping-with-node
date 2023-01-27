@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/lekker-home-scraper",
+	"uniqueIdentifier": "mshopik/lekker-home-scraper",
+	"owner": "mshopik",
+	"title": "Lekker Home Scraper",
+	"description": "Scrape Lekker Home and extract data on living room furniture from lekkerhome.com. Our Lekker Home API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:03:54.329Z",
+	"runCount": 427
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/vrbo-property",
+	"uniqueIdentifier": "jupri/vrbo-property",
+	"owner": "jupri",
+	"title": "VRBO Scraper",
+	"description": "Scrape property data from VRBO.com",
+	"modifiedDate": "2023-01-05T03:50:21.042Z",
+	"runCount": 497
+}

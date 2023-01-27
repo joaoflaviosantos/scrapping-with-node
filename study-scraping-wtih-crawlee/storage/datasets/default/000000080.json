@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/google-play-scraper",
+	"uniqueIdentifier": "epctex/google-play-scraper",
+	"owner": "epctex",
+	"title": "Google Play Scraper",
+	"description": "Get reviews and extensive information from Google Play! Extract title, price, ratings, download rates, screenshots, released date, version number, developer information, and many more things for any region or language. Unlimited and insanely fast! Export your data by XML, JSON, CSV, Excel, or HTML!",
+	"modifiedDate": "2023-01-23T09:16:45.934Z",
+	"runCount": 4073
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/dynaquest-pc-scraper",
+	"uniqueIdentifier": "mshopik/dynaquest-pc-scraper",
+	"owner": "mshopik",
+	"title": "DynaQuest PC Scraper",
+	"description": "Scrape DynaQuest PC and extract data on computer hardware from dynaquestpc.com. Our DynaQuest PC API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:59:01.467Z",
+	"runCount": 425
+}

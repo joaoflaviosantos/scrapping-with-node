@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/junglee/free-amazon-product-scraper",
+	"uniqueIdentifier": "junglee/free-amazon-product-scraper",
+	"owner": "junglee",
+	"title": "Free Amazon Product Scraper",
+	"description": "Gets you product data from Amazon. Unofficial API. Scrapes and downloads product information without using the Amazon API, including reviews, prices, descriptions, and ASIN.",
+	"modifiedDate": "2023-01-20T12:00:33.493Z",
+	"runCount": 1745
+}

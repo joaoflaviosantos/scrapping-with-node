@@ -1,0 +1,9 @@
+{
+	"id": "s44cGI2UAclwlaj",
+	"json": "{\"id\":\"s44cGI2UAclwlaj\",\"url\":\"https://apify.com/lukaskrivka/dedup-datasets\",\"loadedUrl\":\"https://apify.com/lukaskrivka/dedup-datasets\",\"uniqueKey\":\"https://apify.com/lukaskrivka/dedup-datasets\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:43.444Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/lukaskrivka/dedup-datasets",
+	"url": "https://apify.com/lukaskrivka/dedup-datasets"
+}

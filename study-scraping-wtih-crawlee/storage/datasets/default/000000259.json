@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/bychari-scraper",
+	"uniqueIdentifier": "mshopik/bychari-scraper",
+	"owner": "mshopik",
+	"title": "BYCHARI Scraper",
+	"description": "Scrape BYCHARI and extract data on clothing accessories from bychari.com. Our BYCHARI API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:08:42.460Z",
+	"runCount": 427
+}

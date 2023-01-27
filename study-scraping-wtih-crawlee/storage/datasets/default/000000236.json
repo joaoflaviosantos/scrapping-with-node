@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/native-scraper",
+	"uniqueIdentifier": "mshopik/native-scraper",
+	"owner": "mshopik",
+	"title": "Native Scraper",
+	"description": "Scrape Native and extract data on hygiene and toiletries from nativecos.com. Our Native API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:39:56.313Z",
+	"runCount": 425
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/screenshot-url",
+	"uniqueIdentifier": "apify/screenshot-url",
+	"owner": "apify",
+	"title": "Website Screenshot Generator",
+	"description": "Create a screenshot of a website based on a specified URL. The screenshot is stored as the output in a key-value store. It can be used to monitor web changes regularly after setting up the scheduler.",
+	"modifiedDate": "2022-07-25T12:43:05.550Z",
+	"runCount": 453506
+}

@@ -1,0 +1,9 @@
+{
+	"id": "IJlTD4zuVy7uDWA",
+	"json": "{\"id\":\"IJlTD4zuVy7uDWA\",\"url\":\"https://apify.com/junglee/amazon-asins-scraper\",\"loadedUrl\":\"https://apify.com/junglee/amazon-asins-scraper\",\"uniqueKey\":\"https://apify.com/junglee/amazon-asins-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:43.575Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/junglee/amazon-asins-scraper",
+	"url": "https://apify.com/junglee/amazon-asins-scraper"
+}

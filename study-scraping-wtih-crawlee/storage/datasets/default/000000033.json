@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukaskrivka/article-extractor-smart",
+	"uniqueIdentifier": "lukaskrivka/article-extractor-smart",
+	"owner": "lukaskrivka",
+	"title": "Smart Article Extractor",
+	"description": "📰 Smart Article Extractor extracts articles from any scientific, academic, or news website with just one click. The extractor crawls the whole website and automatically distinguishes articles from other web pages. Download your data as HTML table, JSON, Excel, RSS feed, and more.",
+	"modifiedDate": "2022-12-10T22:28:52.418Z",
+	"runCount": 126007
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/gemplers-scraper",
+	"uniqueIdentifier": "mshopik/gemplers-scraper",
+	"owner": "mshopik",
+	"title": "Gempler's Scraper",
+	"description": "Scrape Gempler's and extract data on gardening and landscaping from gemplers.com. Our Gempler's API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:18:34.693Z",
+	"runCount": 426
+}

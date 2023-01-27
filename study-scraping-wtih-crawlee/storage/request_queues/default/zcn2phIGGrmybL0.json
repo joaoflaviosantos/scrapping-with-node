@@ -1,0 +1,9 @@
+{
+	"id": "zcn2phIGGrmybL0",
+	"json": "{\"id\":\"zcn2phIGGrmybL0\",\"url\":\"https://apify.com/zuzka/instagram-followers-count-scraper\",\"loadedUrl\":\"https://apify.com/zuzka/instagram-followers-count-scraper\",\"uniqueKey\":\"https://apify.com/zuzka/instagram-followers-count-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:39.768Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/zuzka/instagram-followers-count-scraper",
+	"url": "https://apify.com/zuzka/instagram-followers-count-scraper"
+}

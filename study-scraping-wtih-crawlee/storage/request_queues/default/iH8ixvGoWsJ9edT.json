@@ -1,0 +1,9 @@
+{
+	"id": "iH8ixvGoWsJ9edT",
+	"json": "{\"id\":\"iH8ixvGoWsJ9edT\",\"url\":\"https://apify.com/mshopik/beachsissi-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/beachsissi-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/beachsissi-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:03.042Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/beachsissi-scraper",
+	"url": "https://apify.com/mshopik/beachsissi-scraper"
+}

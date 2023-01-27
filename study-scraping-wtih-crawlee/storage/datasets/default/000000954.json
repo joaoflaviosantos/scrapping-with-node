@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/apt2b-scraper",
+	"uniqueIdentifier": "mshopik/apt2b-scraper",
+	"owner": "mshopik",
+	"title": "Apt2B Scraper",
+	"description": "Scrape Apt2B and extract data on living room furniture from apt2b.com. Our Apt2B API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:49:34.370Z",
+	"runCount": 439
+}

@@ -1,0 +1,9 @@
+{
+	"id": "aMU0faf3XJLXNvR",
+	"json": "{\"id\":\"aMU0faf3XJLXNvR\",\"url\":\"https://www.normatel.com.br\",\"loadedUrl\":\"https://www.normatel.com.br/\",\"uniqueKey\":\"https://www.normatel.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:33:08.548Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.normatel.com.br",
+	"url": "https://www.normatel.com.br"
+}

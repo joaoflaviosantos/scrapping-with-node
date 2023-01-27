@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/asda-scraper",
+	"uniqueIdentifier": "jupri/asda-scraper",
+	"owner": "jupri",
+	"title": "Asda.com Grocery Scraper",
+	"description": "Scrape data from ASDA.com Grocery Store",
+	"modifiedDate": "2022-10-14T21:44:11.732Z",
+	"runCount": 278
+}

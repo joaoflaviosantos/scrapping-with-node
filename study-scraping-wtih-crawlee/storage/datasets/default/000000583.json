@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/gavilar/ingatlancom-scraper",
+	"uniqueIdentifier": "gavilar/ingatlancom-scraper",
+	"owner": "gavilar",
+	"title": "Ingatlan.com Scraper",
+	"description": "Scraper for the Hungarian property market Ingatlan.com",
+	"modifiedDate": "2022-01-18T17:50:15.215Z",
+	"runCount": 570
+}

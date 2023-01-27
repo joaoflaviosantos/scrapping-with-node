@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/monkey/realtorcomlight",
+	"uniqueIdentifier": "monkey/realtorcomlight",
+	"owner": "monkey",
+	"title": "Realtor.com Scraper Light",
+	"description": "Lightweight Realtor.com scraper. It doesn't go into property details, making it 43 times faster and cheaper. You still get price, size, location, coordinates, type, broker, year built, zip code, etc for millions of properties listed on Realtor.com, filtered according to your needs.",
+	"modifiedDate": "2022-08-27T19:33:49.651Z",
+	"runCount": 380
+}

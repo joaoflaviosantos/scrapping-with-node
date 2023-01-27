@@ -1,0 +1,9 @@
+{
+	"id": "SYfbHHPMcKg9c3N",
+	"json": "{\"id\":\"SYfbHHPMcKg9c3N\",\"url\":\"https://apify.com/anchor/leboncoin\",\"loadedUrl\":\"https://apify.com/anchor/leboncoin\",\"uniqueKey\":\"https://apify.com/anchor/leboncoin\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:42.845Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/anchor/leboncoin",
+	"url": "https://apify.com/anchor/leboncoin"
+}

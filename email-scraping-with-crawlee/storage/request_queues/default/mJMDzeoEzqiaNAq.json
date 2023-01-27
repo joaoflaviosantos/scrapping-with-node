@@ -1,0 +1,9 @@
+{
+	"id": "mJMDzeoEzqiaNAq",
+	"json": "{\"id\":\"mJMDzeoEzqiaNAq\",\"url\":\"https://www.ikea.com\",\"loadedUrl\":\"https://www.ikea.com/\",\"uniqueKey\":\"https://www.ikea.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:33:14.472Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ikea.com",
+	"url": "https://www.ikea.com"
+}

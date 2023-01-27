@@ -1,0 +1,9 @@
+{
+	"id": "Cfrjhz3QarXyeHC",
+	"json": "{\"id\":\"Cfrjhz3QarXyeHC\",\"url\":\"https://apify.com/pocesar/json-downloader\",\"loadedUrl\":\"https://apify.com/pocesar/json-downloader\",\"uniqueKey\":\"https://apify.com/pocesar/json-downloader\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:47:56.256Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/pocesar/json-downloader",
+	"url": "https://apify.com/pocesar/json-downloader"
+}

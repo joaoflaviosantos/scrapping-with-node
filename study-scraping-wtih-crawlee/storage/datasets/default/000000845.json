@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/aurimas/workable-jobs-scraper",
+	"uniqueIdentifier": "aurimas/workable-jobs-scraper",
+	"owner": "aurimas",
+	"title": "Workable Jobs Scraper",
+	"description": "The jobs web scraper is a powerful tool for developers looking to integrate and enrich their platforms with real-time job data. Export job data from Workable with ease. Scrape live data with with a 7-day free trial.",
+	"modifiedDate": "2023-01-14T00:46:05.011Z",
+	"runCount": 123
+}

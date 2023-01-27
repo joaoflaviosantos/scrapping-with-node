@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/vici-scraper",
+	"uniqueIdentifier": "mshopik/vici-scraper",
+	"owner": "mshopik",
+	"title": "VICI Scraper",
+	"description": "Scrape VICI and extract data on  from vicicollection.com. Our VICI API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:12:01.652Z",
+	"runCount": 425
+}

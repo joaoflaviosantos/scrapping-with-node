@@ -1,0 +1,9 @@
+{
+	"id": "H2v8T49kgHUTKZe",
+	"json": "{\"id\":\"H2v8T49kgHUTKZe\",\"url\":\"https://apify.com/store?page=18\",\"loadedUrl\":\"https://apify.com/store?page=18\",\"uniqueKey\":\"https://apify.com/store?page=18\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"LIST\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:34.412Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/store?page=18",
+	"url": "https://apify.com/store?page=18"
+}

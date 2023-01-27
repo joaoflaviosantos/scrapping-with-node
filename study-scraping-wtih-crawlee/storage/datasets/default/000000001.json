@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/cheerio-scraper",
+	"uniqueIdentifier": "apify/cheerio-scraper",
+	"owner": "apify",
+	"title": "Cheerio Scraper",
+	"description": "Crawls websites using raw HTTP requests, parses the HTML with the Cheerio library, and extracts data from the pages using a Node.js code. Supports both recursive crawling and lists of URLs. This actor is a high-performance alternative to apify/web-scraper for websites that do not require JavaScript.",
+	"modifiedDate": "2022-12-12T12:18:30.413Z",
+	"runCount": null
+}

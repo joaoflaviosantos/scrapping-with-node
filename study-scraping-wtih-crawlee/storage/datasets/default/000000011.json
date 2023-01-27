@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/quacker/twitter-scraper",
+	"uniqueIdentifier": "quacker/twitter-scraper",
+	"owner": "quacker",
+	"title": "Twitter Scraper",
+	"description": "Scrape tweets from any Twitter user profile. Top Twitter API alternative to scrape Twitter hashtags, threads, replies, followers, images, videos, statistics, and Twitter history. Download your data in any format, including JSON and Excel. Seamless integration with apps, reports, and databases.",
+	"modifiedDate": "2023-01-24T10:37:56.046Z",
+	"runCount": 797440
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/skull-shaver-scraper",
+	"uniqueIdentifier": "mshopik/skull-shaver-scraper",
+	"owner": "mshopik",
+	"title": "Skull Shaver Scraper",
+	"description": "Scrape Skull Shaver and extract data on shaving and hair removal from skullshaver.com. Our Skull Shaver API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:20:30.101Z",
+	"runCount": 427
+}

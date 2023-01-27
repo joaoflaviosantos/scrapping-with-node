@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/monitoring-checker-schema",
+	"uniqueIdentifier": "apify/monitoring-checker-schema",
+	"owner": "apify",
+	"title": "Monitoring Checker Schema",
+	"description": "The monitoring checker schema is a part of the Apify Monitoring Suite (apify/monitoring). See its readme for more information and how to use this.",
+	"modifiedDate": "2022-10-19T20:25:47.064Z",
+	"runCount": 181353
+}

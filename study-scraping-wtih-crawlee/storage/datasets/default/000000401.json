@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/edx-scraper",
+	"uniqueIdentifier": "epctex/edx-scraper",
+	"owner": "epctex",
+	"title": "edX Online Course Scraper",
+	"description": "Scrape thousands of course data from edx. Crawl and extract titles, images, course details, owners, and all other course details. You can specify search terms, language any many more.",
+	"modifiedDate": "2023-01-25T02:01:27.672Z",
+	"runCount": 626
+}

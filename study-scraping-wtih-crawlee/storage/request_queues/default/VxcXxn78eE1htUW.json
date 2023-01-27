@@ -1,0 +1,9 @@
+{
+	"id": "VxcXxn78eE1htUW",
+	"json": "{\"id\":\"VxcXxn78eE1htUW\",\"url\":\"https://apify.com/sandboxcmd/lazada-scraper\",\"loadedUrl\":\"https://apify.com/sandboxcmd/lazada-scraper\",\"uniqueKey\":\"https://apify.com/sandboxcmd/lazada-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:43.271Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/sandboxcmd/lazada-scraper",
+	"url": "https://apify.com/sandboxcmd/lazada-scraper"
+}

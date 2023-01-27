@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/cotopaxi-scraper",
+	"uniqueIdentifier": "mshopik/cotopaxi-scraper",
+	"owner": "mshopik",
+	"title": "Cotopaxi Scraper",
+	"description": "Scrape Cotopaxi and extract data on athletic apparel from cotopaxi.com. Our Cotopaxi API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:47:20.057Z",
+	"runCount": 427
+}

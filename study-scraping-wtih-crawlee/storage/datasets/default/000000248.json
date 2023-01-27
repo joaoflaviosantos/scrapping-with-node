@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/primitive-skateboarding-scraper",
+	"uniqueIdentifier": "mshopik/primitive-skateboarding-scraper",
+	"owner": "mshopik",
+	"title": "Primitive Skateboarding Scraper",
+	"description": "Scrape Primitive Skateboarding and extract data on skate sports from primitiveskate.com. Our Primitive Skateboarding API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:21:36.593Z",
+	"runCount": 425
+}

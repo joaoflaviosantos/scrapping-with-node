@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/patreon",
+	"uniqueIdentifier": "jupri/patreon",
+	"owner": "jupri",
+	"title": "Patreon.com Scraper",
+	"description": "Scrape posts from Patreon.com",
+	"modifiedDate": "2022-12-26T11:11:24.762Z",
+	"runCount": 171
+}

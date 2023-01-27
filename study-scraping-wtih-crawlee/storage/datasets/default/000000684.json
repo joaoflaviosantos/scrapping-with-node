@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jannovotny/failed-runs-monitor",
+	"uniqueIdentifier": "jannovotny/failed-runs-monitor",
+	"owner": "jannovotny",
+	"title": "Failed Runs Monitor",
+	"description": "This actor will let you know about failed or time outed runs of your actors and tasks via Slack or email. It can also notice you about successful runs with empty dataset, check JSON schema of dataset items, or about runs that are running for too long.",
+	"modifiedDate": "2022-10-10T09:03:42.913Z",
+	"runCount": 110905
+}

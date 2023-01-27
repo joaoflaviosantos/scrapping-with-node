@@ -1,0 +1,9 @@
+{
+	"id": "WVx6nftoZEWjtjN",
+	"json": "{\"id\":\"WVx6nftoZEWjtjN\",\"url\":\"https://www.wiler-k.com.br\",\"loadedUrl\":\"https://www.wiler-k.com.br/\",\"uniqueKey\":\"https://www.wiler-k.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:32:16.690Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wiler-k.com.br",
+	"url": "https://www.wiler-k.com.br"
+}

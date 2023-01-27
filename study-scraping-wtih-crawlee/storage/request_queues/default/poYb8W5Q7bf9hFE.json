@@ -1,0 +1,9 @@
+{
+	"id": "poYb8W5Q7bf9hFE",
+	"json": "{\"id\":\"poYb8W5Q7bf9hFE\",\"url\":\"https://apify.com/mshopik/the-goulet-pen-company-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/the-goulet-pen-company-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/the-goulet-pen-company-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:20.305Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/the-goulet-pen-company-scraper",
+	"url": "https://apify.com/mshopik/the-goulet-pen-company-scraper"
+}

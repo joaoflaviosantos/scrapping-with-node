@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/colourpop-scraper",
+	"uniqueIdentifier": "mshopik/colourpop-scraper",
+	"owner": "mshopik",
+	"title": "ColourPop Scraper",
+	"description": "Scrape ColourPop and extract data on make-up and cosmetics from colourpop.com. Our ColourPop API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:29:47.128Z",
+	"runCount": 429
+}

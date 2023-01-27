@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/barry8schneider/task-metrics",
+	"uniqueIdentifier": "barry8schneider/task-metrics",
+	"owner": "barry8schneider",
+	"title": "Task Metrics",
+	"description": "This actor provides basic metrics for each run of a given actor:  Duration, ItemCount, Items Per Compute Unit, and Items Per Minute. The data can be exported for analysis.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 521
+}

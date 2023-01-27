@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/perfect-snacks-scraper",
+	"uniqueIdentifier": "mshopik/perfect-snacks-scraper",
+	"owner": "mshopik",
+	"title": "Perfect Snacks Scraper",
+	"description": "Scrape Perfect Snacks and extract data on nutrition from perfectsnacks.com. Our Perfect Snacks API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:04:59.156Z",
+	"runCount": 425
+}

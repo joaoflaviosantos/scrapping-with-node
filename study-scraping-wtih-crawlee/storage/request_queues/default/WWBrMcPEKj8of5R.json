@@ -1,0 +1,9 @@
+{
+	"id": "WWBrMcPEKj8of5R",
+	"json": "{\"id\":\"WWBrMcPEKj8of5R\",\"url\":\"https://apify.com/hanatsai/us-news-scraper\",\"loadedUrl\":\"https://apify.com/hanatsai/us-news-scraper\",\"uniqueKey\":\"https://apify.com/hanatsai/us-news-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:53.629Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/hanatsai/us-news-scraper",
+	"url": "https://apify.com/hanatsai/us-news-scraper"
+}

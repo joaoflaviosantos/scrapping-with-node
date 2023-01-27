@@ -1,0 +1,9 @@
+{
+	"id": "PELcqxICgLicrED",
+	"json": "{\"id\":\"PELcqxICgLicrED\",\"url\":\"https://apify.com/mshopik/grill-hey-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/grill-hey-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/grill-hey-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:54.705Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/grill-hey-scraper",
+	"url": "https://apify.com/mshopik/grill-hey-scraper"
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/hamza.alwan/reverso-translator",
+	"uniqueIdentifier": "hamza.alwan/reverso-translator",
+	"owner": "hamza.alwan",
+	"title": "Reverso Translator",
+	"description": "Translate any text to any of the supported languages using reverso.net",
+	"modifiedDate": "2023-01-04T08:42:03.631Z",
+	"runCount": 74
+}

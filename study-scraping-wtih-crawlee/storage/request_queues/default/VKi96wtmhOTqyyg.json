@@ -1,0 +1,9 @@
+{
+	"id": "VKi96wtmhOTqyyg",
+	"json": "{\"id\":\"VKi96wtmhOTqyyg\",\"url\":\"https://apify.com/glenn/gif-scroll-animation\",\"loadedUrl\":\"https://apify.com/glenn/gif-scroll-animation\",\"uniqueKey\":\"https://apify.com/glenn/gif-scroll-animation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:47:45.168Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/glenn/gif-scroll-animation",
+	"url": "https://apify.com/glenn/gif-scroll-animation"
+}

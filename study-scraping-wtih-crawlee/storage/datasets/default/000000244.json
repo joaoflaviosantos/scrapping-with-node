@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/gaiam-scraper",
+	"uniqueIdentifier": "mshopik/gaiam-scraper",
+	"owner": "mshopik",
+	"title": "Gaiam Scraper",
+	"description": "Scrape Gaiam and extract data on fitness from gaiam.com. Our Gaiam API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:39:31.283Z",
+	"runCount": 426
+}

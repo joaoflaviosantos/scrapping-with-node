@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/botkier-scraper",
+	"uniqueIdentifier": "mshopik/botkier-scraper",
+	"owner": "mshopik",
+	"title": "Botkier Scraper",
+	"description": "Scrape Botkier and extract data on clothing accessories from botkier.com. Our Botkier API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:08:53.114Z",
+	"runCount": 425
+}

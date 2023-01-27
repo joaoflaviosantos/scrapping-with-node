@@ -1,0 +1,9 @@
+{
+	"id": "dCdRjlt9RK2yxXH",
+	"json": "{\"id\":\"dCdRjlt9RK2yxXH\",\"url\":\"https://apify.com/mshopik/thuma-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/thuma-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/thuma-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:28.571Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/thuma-scraper",
+	"url": "https://apify.com/mshopik/thuma-scraper"
+}

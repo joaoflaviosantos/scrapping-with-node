@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/pax-scraper",
+	"uniqueIdentifier": "mshopik/pax-scraper",
+	"owner": "mshopik",
+	"title": "PAX Scraper",
+	"description": "Scrape PAX and extract data on smoking and vaping from pax.com. Our PAX API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:46:33.262Z",
+	"runCount": 425
+}

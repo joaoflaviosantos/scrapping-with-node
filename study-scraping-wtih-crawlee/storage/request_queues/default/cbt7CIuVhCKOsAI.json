@@ -1,0 +1,9 @@
+{
+	"id": "cbt7CIuVhCKOsAI",
+	"json": "{\"id\":\"cbt7CIuVhCKOsAI\",\"url\":\"https://apify.com/jupri/yelp\",\"loadedUrl\":\"https://apify.com/jupri/yelp\",\"uniqueKey\":\"https://apify.com/jupri/yelp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:57.054Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jupri/yelp",
+	"url": "https://apify.com/jupri/yelp"
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/unif-scraper",
+	"uniqueIdentifier": "mshopik/unif-scraper",
+	"owner": "mshopik",
+	"title": "UNIF Scraper",
+	"description": "Scrape UNIF and extract data on footwear from unifclothing.com. Our UNIF API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:35:07.094Z",
+	"runCount": 425
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/petr_cermak/MSSQL-insert",
+	"uniqueIdentifier": "petr_cermak/MSSQL-insert",
+	"owner": "petr_cermak",
+	"title": "Microsoft SQL Server Insert",
+	"description": "This actor takes a crawler execution and inserts its results into a remote MSSQL database.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 612
+}

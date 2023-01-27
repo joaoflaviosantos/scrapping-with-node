@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jancurn/find-broken-links",
+	"uniqueIdentifier": "jancurn/find-broken-links",
+	"owner": "jancurn",
+	"title": "Broken Links Checker",
+	"description": "Crawls a website and finds broken links. Unlike other similar SEO analysis tools, the actor also reports broken URL #fragments. The results are stored in a JSON and HTML report.",
+	"modifiedDate": "2022-08-19T11:11:32.182Z",
+	"runCount": 27657
+}

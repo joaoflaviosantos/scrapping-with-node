@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/grunt-style-llc-scraper",
+	"uniqueIdentifier": "mshopik/grunt-style-llc-scraper",
+	"owner": "mshopik",
+	"title": "Grunt Style, LLC Scraper",
+	"description": "Scrape Grunt Style, LLC and extract data on apparel from gruntstyle.com. Our Grunt Style, LLC API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:49:42.465Z",
+	"runCount": 426
+}

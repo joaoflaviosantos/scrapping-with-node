@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/itech-deals-scraper",
+	"uniqueIdentifier": "mshopik/itech-deals-scraper",
+	"owner": "mshopik",
+	"title": "iTech Deals Scraper",
+	"description": "Scrape iTech Deals and extract data on consumer electronics from itechdeals.com. Our iTech Deals API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:20:07.869Z",
+	"runCount": 426
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/zuzka/instagram-comment-scraper",
+	"uniqueIdentifier": "zuzka/instagram-comment-scraper",
+	"owner": "zuzka",
+	"title": "Instagram Comment Scraper",
+	"description": "Add one or more Instagram post URLs to scrape all comments fast. Get post ids, position, timestamp, owner ids, usernames, profile pics, and URLs. Download data in structured formats such as JSON, CSV, XML, Excel, and HTML and use in reports, spreadsheets, and applications.",
+	"modifiedDate": "2023-01-06T11:04:33.373Z",
+	"runCount": 9348
+}

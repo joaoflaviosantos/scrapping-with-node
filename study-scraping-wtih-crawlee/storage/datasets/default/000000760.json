@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/natasha.lekh/epoch-times-scraper",
+	"uniqueIdentifier": "natasha.lekh/epoch-times-scraper",
+	"owner": "natasha.lekh",
+	"title": "Epoch Times Scraper",
+	"description": "Scrape news data from theepochtimes.com with this unofficial API. Extract articles, monitor their popularity and performance and automate the fight against fake news. Filter the results by authors, topics, categories, or publication dates. Preview or download the results in your preferred format.",
+	"modifiedDate": "2022-08-07T19:20:41.855Z",
+	"runCount": 251
+}

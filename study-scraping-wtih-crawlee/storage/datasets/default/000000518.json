@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/hynekh/graphics-cards-scraper",
+	"uniqueIdentifier": "hynekh/graphics-cards-scraper",
+	"owner": "hynekh",
+	"title": "Graphics cards scraper",
+	"description": "This actor scrape all in-stock graphics cards in Czech E-shops: alza.cz, czc.cz, mironet.cz and tsbohemia.cz. If you are interested only in some GPU models, you can filter saved data by input Filter.",
+	"modifiedDate": "2021-04-28T23:33:29.336Z",
+	"runCount": 142550
+}

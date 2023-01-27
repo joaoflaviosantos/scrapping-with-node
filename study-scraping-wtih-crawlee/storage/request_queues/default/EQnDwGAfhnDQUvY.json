@@ -1,0 +1,9 @@
+{
+	"id": "EQnDwGAfhnDQUvY",
+	"json": "{\"id\":\"EQnDwGAfhnDQUvY\",\"url\":\"https://apify.com/jancurn/probe-page-resources\",\"loadedUrl\":\"https://apify.com/jancurn/probe-page-resources\",\"uniqueKey\":\"https://apify.com/jancurn/probe-page-resources\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:49.647Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jancurn/probe-page-resources",
+	"url": "https://apify.com/jancurn/probe-page-resources"
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/skyscanner-flight",
+	"uniqueIdentifier": "jupri/skyscanner-flight",
+	"owner": "jupri",
+	"title": "Skyscanner ✈️ Flight",
+	"description": "Scan data about flights from skyscanner.com. The best flight deals to everywhere, from anywhere.",
+	"modifiedDate": "2022-12-26T18:55:20.397Z",
+	"runCount": 8668
+}

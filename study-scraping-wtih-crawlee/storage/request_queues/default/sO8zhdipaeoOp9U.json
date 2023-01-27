@@ -1,0 +1,9 @@
+{
+	"id": "sO8zhdipaeoOp9U",
+	"json": "{\"id\":\"sO8zhdipaeoOp9U\",\"url\":\"https://apify.com/pocesar/shopify-scraper\",\"loadedUrl\":\"https://apify.com/pocesar/shopify-scraper\",\"uniqueKey\":\"https://apify.com/pocesar/shopify-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:38.585Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/pocesar/shopify-scraper",
+	"url": "https://apify.com/pocesar/shopify-scraper"
+}

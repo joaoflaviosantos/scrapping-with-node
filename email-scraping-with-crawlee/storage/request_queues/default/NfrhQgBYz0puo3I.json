@@ -1,0 +1,9 @@
+{
+	"id": "NfrhQgBYz0puo3I",
+	"json": "{\"id\":\"NfrhQgBYz0puo3I\",\"url\":\"https://www.vivadecora.com.br\",\"loadedUrl\":\"https://www.vivadecora.com.br/\",\"uniqueKey\":\"https://www.vivadecora.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:32:16.054Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.vivadecora.com.br",
+	"url": "https://www.vivadecora.com.br"
+}

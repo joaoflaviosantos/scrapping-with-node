@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/krakorj/covid-russia",
+	"uniqueIdentifier": "krakorj/covid-russia",
+	"owner": "krakorj",
+	"title": "Coronavirus stats in Russia",
+	"description": "Gets an actual number of examined and infected people by COVID-19 in Russia stats from https://www.rosminzdrav.ru/ministry/covid19",
+	"modifiedDate": "2021-04-12T09:41:51.585Z",
+	"runCount": 120410
+}

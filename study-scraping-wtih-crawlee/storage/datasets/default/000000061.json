@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/hello-world",
+	"uniqueIdentifier": "apify/hello-world",
+	"owner": "apify",
+	"title": "Hello World Example",
+	"description": "An example of a simple Apify actor. It takes a greeting message on input, prints it and stores a new message to output.",
+	"modifiedDate": "2022-06-28T09:40:30.750Z",
+	"runCount": 264623
+}

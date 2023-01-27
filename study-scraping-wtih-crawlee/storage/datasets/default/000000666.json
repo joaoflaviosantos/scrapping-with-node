@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/tesco-grocery",
+	"uniqueIdentifier": "jupri/tesco-grocery",
+	"owner": "jupri",
+	"title": "Tesco Grocery Scraper",
+	"description": "Scrape data from Tesco.com grocery website",
+	"modifiedDate": "2022-12-28T10:33:53.584Z",
+	"runCount": 148
+}

@@ -1,0 +1,9 @@
+{
+	"id": "h6gaT4CdsyaBYEf",
+	"json": "{\"id\":\"h6gaT4CdsyaBYEf\",\"url\":\"https://apify.com/alexey/web-technology-lookup\",\"loadedUrl\":\"https://apify.com/alexey/web-technology-lookup\",\"uniqueKey\":\"https://apify.com/alexey/web-technology-lookup\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:49.971Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/alexey/web-technology-lookup",
+	"url": "https://apify.com/alexey/web-technology-lookup"
+}

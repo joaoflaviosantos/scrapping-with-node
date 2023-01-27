@@ -1,0 +1,9 @@
+{
+	"id": "17aflkXRUIimR6X",
+	"json": "{\"id\":\"17aflkXRUIimR6X\",\"url\":\"https://www.leroymerlin.com.br\",\"loadedUrl\":\"https://www.leroymerlin.com.br/\",\"uniqueKey\":\"https://www.leroymerlin.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:31:42.911Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.leroymerlin.com.br",
+	"url": "https://www.leroymerlin.com.br"
+}

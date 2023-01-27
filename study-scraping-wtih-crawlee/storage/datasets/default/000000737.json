@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/unique-vintage-scraper",
+	"uniqueIdentifier": "mshopik/unique-vintage-scraper",
+	"owner": "mshopik",
+	"title": "Unique Vintage Scraper",
+	"description": "Scrape Unique Vintage and extract data on apparel from unique-vintage.com. Our Unique Vintage API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:46:29.946Z",
+	"runCount": 427
+}

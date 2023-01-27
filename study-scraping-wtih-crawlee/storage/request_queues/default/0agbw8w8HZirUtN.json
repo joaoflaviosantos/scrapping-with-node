@@ -1,0 +1,9 @@
+{
+	"id": "0agbw8w8HZirUtN",
+	"json": "{\"id\":\"0agbw8w8HZirUtN\",\"url\":\"https://apify.com/ganevdev/webdesignernews-scraper\",\"loadedUrl\":\"https://apify.com/ganevdev/webdesignernews-scraper\",\"uniqueKey\":\"https://apify.com/ganevdev/webdesignernews-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:12.645Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/ganevdev/webdesignernews-scraper",
+	"url": "https://apify.com/ganevdev/webdesignernews-scraper"
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/enco/carsandbids",
+	"uniqueIdentifier": "enco/carsandbids",
+	"owner": "enco",
+	"title": "Cars & Bids Scraper",
+	"description": "Extract data about cars auctions from the Cars & Bids website. For the scrape, you can filter by  body style, year, mileage, etc. As the output, you'll get only the cars you need.",
+	"modifiedDate": "2022-12-30T21:33:09.003Z",
+	"runCount": 157
+}

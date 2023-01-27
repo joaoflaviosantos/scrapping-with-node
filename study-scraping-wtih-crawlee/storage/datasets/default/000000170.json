@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/mirascreencom-scraper",
+	"uniqueIdentifier": "mshopik/mirascreencom-scraper",
+	"owner": "mshopik",
+	"title": "mirascreen.com Scraper",
+	"description": "Scrape mirascreen.com and extract data on consumer electronics from mirascreen.com. Our mirascreen.com API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:39:49.658Z",
+	"runCount": 426
+}

@@ -1,0 +1,9 @@
+{
+	"id": "3N3kNwft7KNDW6m",
+	"json": "{\"id\":\"3N3kNwft7KNDW6m\",\"url\":\"https://apify.com/jupri/zillow-scraper\",\"loadedUrl\":\"https://apify.com/jupri/zillow-scraper\",\"uniqueKey\":\"https://apify.com/jupri/zillow-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:42.802Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jupri/zillow-scraper",
+	"url": "https://apify.com/jupri/zillow-scraper"
+}

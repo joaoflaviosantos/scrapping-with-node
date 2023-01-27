@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/the-goulet-pen-company-scraper",
+	"uniqueIdentifier": "mshopik/the-goulet-pen-company-scraper",
+	"owner": "mshopik",
+	"title": "The Goulet Pen Company Scraper",
+	"description": "Scrape The Goulet Pen Company and extract data on office products from gouletpens.com. Our The Goulet Pen Company API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:52:18.776Z",
+	"runCount": 426
+}

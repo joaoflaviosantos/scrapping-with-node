@@ -1,0 +1,9 @@
+{
+	"id": "Lv0aE06L3FZcXvi",
+	"json": "{\"id\":\"Lv0aE06L3FZcXvi\",\"url\":\"https://apify.com/shmlkv/facebook-marketplace\",\"loadedUrl\":\"https://apify.com/shmlkv/facebook-marketplace\",\"uniqueKey\":\"https://apify.com/shmlkv/facebook-marketplace\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:30.522Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/shmlkv/facebook-marketplace",
+	"url": "https://apify.com/shmlkv/facebook-marketplace"
+}

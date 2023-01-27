@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/glosterr/Magiceden-Marketplace-Scraper",
+	"uniqueIdentifier": "glosterr/Magiceden-Marketplace-Scraper",
+	"owner": "glosterr",
+	"title": "Magic Eden NFT Marketplace Scraper",
+	"description": "Magic Eden Marketplace Scraper is a scraper for the biggest NFT Marketplace in Solana Network. Just input the list of collections that you want to scrape and get either raw or beautified results.",
+	"modifiedDate": "2022-09-04T22:06:52.036Z",
+	"runCount": 904
+}

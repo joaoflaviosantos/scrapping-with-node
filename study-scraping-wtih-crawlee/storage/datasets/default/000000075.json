@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/timwhite/YouTube-Channel-Data-Scraper",
+	"uniqueIdentifier": "timwhite/YouTube-Channel-Data-Scraper",
+	"owner": "timwhite",
+	"title": "Youtube Channel Email Finder",
+	"description": "Scrape & download all the details about a channel from the YouTube channel's \"About\" page.  Get emails, phone numbers, locations, & social media profiles including TikTok, Instagram, Twitter, and YouTube. Download structured data in JSON, CSV, XML, Excel, and HTML.",
+	"modifiedDate": "2022-08-25T19:40:10.379Z",
+	"runCount": 2571
+}

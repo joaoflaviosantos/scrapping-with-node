@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/strajk/axit-axit-cz-scraper",
+	"uniqueIdentifier": "strajk/axit-axit-cz-scraper",
+	"owner": "strajk",
+	"title": "Axit (axit.cz) scraper",
+	"description": "Scrapes products titles, prices, images and availability. Does NOT scrape product details. Uses Crawlee (Apify v3).",
+	"modifiedDate": "2022-10-13T12:05:30.641Z",
+	"runCount": 151
+}

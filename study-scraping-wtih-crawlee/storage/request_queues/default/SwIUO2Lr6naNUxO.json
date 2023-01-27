@@ -1,0 +1,9 @@
+{
+	"id": "SwIUO2Lr6naNUxO",
+	"json": "{\"id\":\"SwIUO2Lr6naNUxO\",\"url\":\"https://apify.com/medh/IMDB-Titles-Scraper-By-Company\",\"loadedUrl\":\"https://apify.com/medh/imdb-titles-scraper-by-company\",\"uniqueKey\":\"https://apify.com/medh/IMDB-Titles-Scraper-By-Company\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:49.261Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/medh/IMDB-Titles-Scraper-By-Company",
+	"url": "https://apify.com/medh/IMDB-Titles-Scraper-By-Company"
+}

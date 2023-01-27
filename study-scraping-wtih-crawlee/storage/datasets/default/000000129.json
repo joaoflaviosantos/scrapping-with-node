@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jancurn/residential-proxy-probe",
+	"uniqueIdentifier": "jancurn/residential-proxy-probe",
+	"owner": "jancurn",
+	"title": "Residential Proxy Probe",
+	"description": "Find residential proxy sessions on Apify Proxy with target IP addresses geo-located in specific postal codes or DMAs.",
+	"modifiedDate": "2021-08-08T20:26:26.124Z",
+	"runCount": 1651
+}

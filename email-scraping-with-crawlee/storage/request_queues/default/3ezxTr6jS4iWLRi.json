@@ -1,0 +1,9 @@
+{
+	"id": "3ezxTr6jS4iWLRi",
+	"json": "{\"id\":\"3ezxTr6jS4iWLRi\",\"url\":\"https://www.dicionarioinformal.com.br\",\"loadedUrl\":\"https://www.dicionarioinformal.com.br/\",\"uniqueKey\":\"https://www.dicionarioinformal.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:32:32.385Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.dicionarioinformal.com.br",
+	"url": "https://www.dicionarioinformal.com.br"
+}

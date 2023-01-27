@@ -1,0 +1,9 @@
+{
+	"id": "RXDtjHSVh2MU3fv",
+	"json": "{\"id\":\"RXDtjHSVh2MU3fv\",\"url\":\"https://apify.com/mtrunkat/web-scraper-experimental-dbgr\",\"loadedUrl\":\"https://apify.com/mtrunkat/web-scraper-experimental-dbgr\",\"uniqueKey\":\"https://apify.com/mtrunkat/web-scraper-experimental-dbgr\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:22.505Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mtrunkat/web-scraper-experimental-dbgr",
+	"url": "https://apify.com/mtrunkat/web-scraper-experimental-dbgr"
+}

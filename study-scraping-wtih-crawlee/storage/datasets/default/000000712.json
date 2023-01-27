@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/fertilizer-grow-organic-scraper",
+	"uniqueIdentifier": "mshopik/fertilizer-grow-organic-scraper",
+	"owner": "mshopik",
+	"title": "Organic Fertilizer– Grow Scraper",
+	"description": "Scrape Organic Fertilizer– Grow and extract data on gardening and landscaping from groworganic.com. Our Organic Fertilizer– Grow API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:59:58.932Z",
+	"runCount": 427
+}

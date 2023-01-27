@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/ivanvs/craigslist-scraper",
+	"uniqueIdentifier": "ivanvs/craigslist-scraper",
+	"owner": "ivanvs",
+	"title": "Craigslist Scraper",
+	"description": "Extract data from classified advertisements on Craigslist. Scrape contact details from jobs, housing, items wanted, items for sale, services, community service, gigs, events and resumes listed on Craigslist. Download listings data in JSON, XML, Excel, and other versatile",
+	"modifiedDate": "2022-12-12T10:02:28.930Z",
+	"runCount": 201
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/buykud-scraper",
+	"uniqueIdentifier": "mshopik/buykud-scraper",
+	"owner": "mshopik",
+	"title": "Buykud Scraper",
+	"description": "Scrape Buykud and extract data on apparel from buykud.com. Our Buykud API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:07:04.923Z",
+	"runCount": 425
+}

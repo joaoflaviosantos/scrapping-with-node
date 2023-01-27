@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/olukai-scraper",
+	"uniqueIdentifier": "mshopik/olukai-scraper",
+	"owner": "mshopik",
+	"title": "OluKai Scraper",
+	"description": "Scrape OluKai and extract data on footwear from olukai.com. Our OluKai API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:57:49.753Z",
+	"runCount": 425
+}

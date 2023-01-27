@@ -1,0 +1,9 @@
+{
+	"id": "Udu868SksM9yu5N",
+	"json": "{\"id\":\"Udu868SksM9yu5N\",\"url\":\"https://apify.com/krakorj/covid-serbia\",\"loadedUrl\":\"https://apify.com/krakorj/covid-serbia\",\"uniqueKey\":\"https://apify.com/krakorj/covid-serbia\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:30.743Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/krakorj/covid-serbia",
+	"url": "https://apify.com/krakorj/covid-serbia"
+}

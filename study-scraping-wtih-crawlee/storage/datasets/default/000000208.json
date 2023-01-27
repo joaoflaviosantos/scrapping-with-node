@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/wwwshopmissacom-scraper",
+	"uniqueIdentifier": "mshopik/wwwshopmissacom-scraper",
+	"owner": "mshopik",
+	"title": "www.shopmissa.com Scraper",
+	"description": "Scrape www.shopmissa.com and extract data on make-up and cosmetics from shopmissa.com. Our www.shopmissa.com API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:45:29.303Z",
+	"runCount": 425
+}

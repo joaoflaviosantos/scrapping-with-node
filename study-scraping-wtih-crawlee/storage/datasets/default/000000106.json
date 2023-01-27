@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/leesar-scraper",
+	"uniqueIdentifier": "mshopik/leesar-scraper",
+	"owner": "mshopik",
+	"title": "Leesa® Scraper",
+	"description": "Scrape Leesa® and extract data on bed and bath from leesa.com. Our Leesa® API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:41:58.166Z",
+	"runCount": 425
+}

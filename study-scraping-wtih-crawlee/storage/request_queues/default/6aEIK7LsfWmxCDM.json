@@ -1,0 +1,9 @@
+{
+	"id": "6aEIK7LsfWmxCDM",
+	"json": "{\"id\":\"6aEIK7LsfWmxCDM\",\"url\":\"https://apify.com/epctex/bbb-scraper\",\"loadedUrl\":\"https://apify.com/epctex/bbb-scraper\",\"uniqueKey\":\"https://apify.com/epctex/bbb-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:53.611Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/epctex/bbb-scraper",
+	"url": "https://apify.com/epctex/bbb-scraper"
+}

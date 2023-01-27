@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/vuori-clothing-scraper",
+	"uniqueIdentifier": "mshopik/vuori-clothing-scraper",
+	"owner": "mshopik",
+	"title": "Vuori Clothing Scraper",
+	"description": "Scrape Vuori Clothing and extract data on athletic apparel from vuoriclothing.com. Our Vuori Clothing API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:39:06.525Z",
+	"runCount": 426
+}

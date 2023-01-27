@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/bjj-fanatics-scraper",
+	"uniqueIdentifier": "mshopik/bjj-fanatics-scraper",
+	"owner": "mshopik",
+	"title": "BJJ Fanatics Scraper",
+	"description": "Scrape BJJ Fanatics and extract data on martial arts from bjjfanatics.com. Our BJJ Fanatics API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:43:52.090Z",
+	"runCount": 430
+}

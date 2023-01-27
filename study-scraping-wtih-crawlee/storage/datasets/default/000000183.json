@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/electric-scraper",
+	"uniqueIdentifier": "mshopik/electric-scraper",
+	"owner": "mshopik",
+	"title": "Electric Scraper",
+	"description": "Scrape Electric and extract data on apparel from electriccalifornia.com. Our Electric API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:07:13.662Z",
+	"runCount": 425
+}

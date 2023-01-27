@@ -1,0 +1,9 @@
+{
+	"id": "Wm8ls9PcRPfr247",
+	"json": "{\"id\":\"Wm8ls9PcRPfr247\",\"url\":\"https://apify.com/apify/example-selenium\",\"loadedUrl\":\"https://apify.com/apify/example-selenium\",\"uniqueKey\":\"https://apify.com/apify/example-selenium\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:56.923Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/apify/example-selenium",
+	"url": "https://apify.com/apify/example-selenium"
+}

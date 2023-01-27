@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/vbartonicek/topuniversities-scraper",
+	"uniqueIdentifier": "vbartonicek/topuniversities-scraper",
+	"owner": "vbartonicek",
+	"title": "Top Universities Scraper",
+	"description": "Scrapes the QS World University Rankings to get a list of the top universities.",
+	"modifiedDate": "2022-03-03T15:52:44.808Z",
+	"runCount": 23320
+}

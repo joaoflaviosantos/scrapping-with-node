@@ -1,0 +1,9 @@
+{
+	"id": "pYl8pAWY33ggiyk",
+	"json": "{\"id\":\"pYl8pAWY33ggiyk\",\"url\":\"https://apify.com/petr_cermak/MySQL-insert\",\"loadedUrl\":\"https://apify.com/petr_cermak/mysql-insert\",\"uniqueKey\":\"https://apify.com/petr_cermak/MySQL-insert\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:47.326Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/petr_cermak/MySQL-insert",
+	"url": "https://apify.com/petr_cermak/MySQL-insert"
+}

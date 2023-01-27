@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/ec-scraper",
+	"uniqueIdentifier": "mshopik/ec-scraper",
+	"owner": "mshopik",
+	"title": "EC Scraper",
+	"description": "Scrape EC and extract data on food from jayagrocer.com. Our EC API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:04:43.621Z",
+	"runCount": 426
+}

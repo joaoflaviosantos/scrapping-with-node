@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/wefunder",
+	"uniqueIdentifier": "jupri/wefunder",
+	"owner": "jupri",
+	"title": "Wefunder Scraper",
+	"description": "Scrape campaigns data from Wefunder.com",
+	"modifiedDate": "2022-12-18T09:35:51.017Z",
+	"runCount": 150
+}

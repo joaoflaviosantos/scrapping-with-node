@@ -1,0 +1,9 @@
+{
+	"id": "DSC7InENiggnfGb",
+	"json": "{\"id\":\"DSC7InENiggnfGb\",\"url\":\"https://www.bellopersianas.com.br\",\"loadedUrl\":\"https://www.bellopersianas.com.br/\",\"uniqueKey\":\"https://www.bellopersianas.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:32:15.064Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.bellopersianas.com.br",
+	"url": "https://www.bellopersianas.com.br"
+}

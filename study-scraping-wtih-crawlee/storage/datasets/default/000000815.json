@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/bluemercury-scraper",
+	"uniqueIdentifier": "mshopik/bluemercury-scraper",
+	"owner": "mshopik",
+	"title": "bluemercury Scraper",
+	"description": "Scrape bluemercury and extract data on make-up and cosmetics from bluemercury.com. Our bluemercury API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:15:26.347Z",
+	"runCount": 432
+}

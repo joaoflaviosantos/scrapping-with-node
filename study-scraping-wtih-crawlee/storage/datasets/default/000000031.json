@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jancurn/extract-metadata",
+	"uniqueIdentifier": "jancurn/extract-metadata",
+	"owner": "jancurn",
+	"title": "Metadata Extractor",
+	"description": "A small efficient actor that loads a web page, parses its HTML using Cheerio library and extracts the following meta-data from the <HEAD> tag, such as page title, description, author etc.",
+	"modifiedDate": "2022-03-07T11:08:55.703Z",
+	"runCount": 98034
+}

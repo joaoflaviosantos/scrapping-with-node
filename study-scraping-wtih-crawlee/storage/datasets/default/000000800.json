@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/pat-mcgrath-labs-scraper",
+	"uniqueIdentifier": "mshopik/pat-mcgrath-labs-scraper",
+	"owner": "mshopik",
+	"title": "PAT McGRATH LABS Scraper",
+	"description": "Scrape PAT McGRATH LABS and extract data on make-up and cosmetics from patmcgrath.com. Our PAT McGRATH LABS API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:58:12.630Z",
+	"runCount": 432
+}

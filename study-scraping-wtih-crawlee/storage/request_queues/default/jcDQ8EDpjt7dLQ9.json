@@ -1,0 +1,9 @@
+{
+	"id": "jcDQ8EDpjt7dLQ9",
+	"json": "{\"id\":\"jcDQ8EDpjt7dLQ9\",\"url\":\"https://apify.com/mshopik/electric-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/electric-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/electric-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:07.291Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/electric-scraper",
+	"url": "https://apify.com/mshopik/electric-scraper"
+}

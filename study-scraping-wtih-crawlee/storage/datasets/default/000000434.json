@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/black-rifle-coffee-company-scraper",
+	"uniqueIdentifier": "mshopik/black-rifle-coffee-company-scraper",
+	"owner": "mshopik",
+	"title": "Black Rifle Coffee Company Scraper",
+	"description": "Scrape Black Rifle Coffee Company and extract data on coffee and tea from blackriflecoffee.com. Our Black Rifle Coffee Company API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:44:00.298Z",
+	"runCount": 425
+}

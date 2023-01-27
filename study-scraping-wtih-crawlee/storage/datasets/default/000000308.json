@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/email-signature-generator",
+	"uniqueIdentifier": "apify/email-signature-generator",
+	"owner": "apify",
+	"title": "Apify Email Signature Generator",
+	"description": "Generates a standardized email signature for Apify team members, using provided details.",
+	"modifiedDate": "2022-10-19T20:51:07.708Z",
+	"runCount": 130
+}

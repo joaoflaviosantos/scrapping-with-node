@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/alexey/pinterest-crawler",
+	"uniqueIdentifier": "alexey/pinterest-crawler",
+	"owner": "alexey",
+	"title": "Pinterest Scraper",
+	"description": "Our free Pinterest Scraper allows you to get \"pins\" along with a user's profile. This unofficial Pinterest API is designed to give you more details than you can see in the web interface. It also enables you to extract public data from Pinterest without limits.",
+	"modifiedDate": "2022-04-28T21:49:22.887Z",
+	"runCount": 1912
+}

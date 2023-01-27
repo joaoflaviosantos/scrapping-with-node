@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/equidem/Dataset-Validity-Checker",
+	"uniqueIdentifier": "equidem/Dataset-Validity-Checker",
+	"owner": "equidem",
+	"title": "Dataset Validity Checker",
+	"description": "Automatically checks, whether default datasets created by runs of an actor differ too much from the previously encountered ones, allowing it to warn you about web scraping problems caused by, e.g., a website layout changing, or other significant changes in the resulting data.",
+	"modifiedDate": "2022-10-10T09:03:10.200Z",
+	"runCount": 4787
+}

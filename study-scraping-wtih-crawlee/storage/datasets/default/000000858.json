@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/microworlds/jumia-scraper",
+	"uniqueIdentifier": "microworlds/jumia-scraper",
+	"owner": "microworlds",
+	"title": "Jumia Scraper",
+	"description": "Jumia Scraper extracts data from any Jumia product, catalog, or category pages - parses and converts the data to structured formats: HTML table, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-09-21T07:55:52.761Z",
+	"runCount": 490
+}

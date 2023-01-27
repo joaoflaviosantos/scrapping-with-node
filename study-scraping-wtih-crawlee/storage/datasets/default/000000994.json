@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/example-github-gist",
+	"uniqueIdentifier": "apify/example-github-gist",
+	"owner": "apify",
+	"title": "Example using GitHub Gist",
+	"description": "Example of an Apify actor with source code hosted in a GitHub Gist. For example, this is useful if you want to have public code examples accompanied by a working API that anyone can try straight away.",
+	"modifiedDate": "2022-10-18T17:54:58.681Z",
+	"runCount": 435
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/big-brain.io/linkedIn-contacts-uploader",
+	"uniqueIdentifier": "big-brain.io/linkedIn-contacts-uploader",
+	"owner": "big-brain.io",
+	"title": "Linkedin Contacts CSV Uploader",
+	"description": "Send connection requests and bypass Linkedin's new limits by importing a Google Sheet or public CSV with email addresses. Go from 100 connection requests per week to 1000 per day.",
+	"modifiedDate": "2022-04-06T14:56:31.138Z",
+	"runCount": 1002
+}

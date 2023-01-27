@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/shopify-scraper",
+	"uniqueIdentifier": "jupri/shopify-scraper",
+	"owner": "jupri",
+	"title": "Shopify Commerce",
+	"description": "Scrape products data from shopify e-commerce websites.",
+	"modifiedDate": "2022-11-04T13:43:06.668Z",
+	"runCount": 470
+}

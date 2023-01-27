@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/vanquish-fitness-scraper",
+	"uniqueIdentifier": "mshopik/vanquish-fitness-scraper",
+	"owner": "mshopik",
+	"title": "Vanquish Fitness Scraper",
+	"description": "Scrape Vanquish Fitness and extract data on athletic apparel from vqfit.com. Our Vanquish Fitness API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:30:29.512Z",
+	"runCount": 427
+}

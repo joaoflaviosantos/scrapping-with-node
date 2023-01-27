@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/mistorepk-scraper",
+	"uniqueIdentifier": "mshopik/mistorepk-scraper",
+	"owner": "mshopik",
+	"title": "mistore.pk Scraper",
+	"description": "Scrape mistore.pk and extract data on mobile phones from mistore.pk. Our mistore.pk API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:12:30.515Z",
+	"runCount": 430
+}

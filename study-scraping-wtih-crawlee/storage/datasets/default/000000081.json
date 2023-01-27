@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mtrunkat/article-text-extractor",
+	"uniqueIdentifier": "mtrunkat/article-text-extractor",
+	"owner": "mtrunkat",
+	"title": "Article Text Extractor",
+	"description": "Simply extracts article texts and other meta info from the given URL. Uses https://github.com/ageitgey/node-unfluff which is a NodeJS implementation of https://github.com/grangier/python-goose.",
+	"modifiedDate": "2022-06-20T13:53:08.496Z",
+	"runCount": 105261
+}

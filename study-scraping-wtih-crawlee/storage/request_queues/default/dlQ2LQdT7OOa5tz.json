@@ -1,0 +1,9 @@
+{
+	"id": "dlQ2LQdT7OOa5tz",
+	"json": "{\"id\":\"dlQ2LQdT7OOa5tz\",\"url\":\"https://apify.com/equidem/Dataset-Validity-Checker\",\"loadedUrl\":\"https://apify.com/equidem/dataset-validity-checker\",\"uniqueKey\":\"https://apify.com/equidem/Dataset-Validity-Checker\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:20.192Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/equidem/Dataset-Validity-Checker",
+	"url": "https://apify.com/equidem/Dataset-Validity-Checker"
+}

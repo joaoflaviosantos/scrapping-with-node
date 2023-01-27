@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/binance-futures-listener",
+	"uniqueIdentifier": "epctex/binance-futures-listener",
+	"owner": "epctex",
+	"title": "Binance Futures Listener",
+	"description": "Listen to any trader and their current positions from Binance Futures Leaderboard, the largest cryptocurrency exchange in the world. Get notified whenever a trader opens or closes a position via email or any custom webhook integration. Extremely fast and unlimited!",
+	"modifiedDate": "2023-01-20T09:34:14.878Z",
+	"runCount": 5
+}

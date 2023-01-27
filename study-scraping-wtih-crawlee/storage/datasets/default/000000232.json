@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/portland-leather-goods-scraper",
+	"uniqueIdentifier": "mshopik/portland-leather-goods-scraper",
+	"owner": "mshopik",
+	"title": "Portland Leather Goods Scraper",
+	"description": "Scrape Portland Leather Goods and extract data on clothing accessories from portlandleathergoods.com. Our Portland Leather Goods API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:08:50.762Z",
+	"runCount": 425
+}

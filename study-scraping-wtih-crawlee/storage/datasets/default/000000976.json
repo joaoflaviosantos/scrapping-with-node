@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/pocesar/run-webhook-digest",
+	"uniqueIdentifier": "pocesar/run-webhook-digest",
+	"owner": "pocesar",
+	"title": "Power Webhook Integration",
+	"description": "Allows you to provide multiple HTTP endpoints, that receive a more complete JSON from the run, and allow you to hit those endpoints using a proxy, and enable you to do conditional webhook calls with some lines of Javascript code and you can link/chain one actor to another",
+	"modifiedDate": "2022-09-27T17:38:51.116Z",
+	"runCount": 14719
+}

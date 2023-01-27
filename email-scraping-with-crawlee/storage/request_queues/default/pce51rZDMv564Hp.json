@@ -1,0 +1,9 @@
+{
+	"id": "pce51rZDMv564Hp",
+	"json": "{\"id\":\"pce51rZDMv564Hp\",\"url\":\"https://www.gfcasadecor.com\",\"loadedUrl\":\"https://www.gfcasadecor.com/\",\"uniqueKey\":\"https://www.gfcasadecor.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:31:46.626Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.gfcasadecor.com",
+	"url": "https://www.gfcasadecor.com"
+}

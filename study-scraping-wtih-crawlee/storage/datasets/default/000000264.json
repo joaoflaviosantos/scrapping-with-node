@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/pelagic-fishing-gear-scraper",
+	"uniqueIdentifier": "mshopik/pelagic-fishing-gear-scraper",
+	"owner": "mshopik",
+	"title": "PELAGIC Fishing Gear Scraper",
+	"description": "Scrape PELAGIC Fishing Gear and extract data on fishing from pelagicgear.com. Our PELAGIC Fishing Gear API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:03:59.257Z",
+	"runCount": 425
+}

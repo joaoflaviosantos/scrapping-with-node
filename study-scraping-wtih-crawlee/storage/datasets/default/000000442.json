@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/snow-peak-scraper",
+	"uniqueIdentifier": "mshopik/snow-peak-scraper",
+	"owner": "mshopik",
+	"title": "Snow Peak Scraper",
+	"description": "Scrape Snow Peak and extract data on recreation from snowpeak.com. Our Snow Peak API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:04:01.427Z",
+	"runCount": 426
+}

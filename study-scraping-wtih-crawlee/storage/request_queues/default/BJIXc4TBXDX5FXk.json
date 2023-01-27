@@ -1,0 +1,9 @@
+{
+	"id": "BJIXc4TBXDX5FXk",
+	"json": "{\"id\":\"BJIXc4TBXDX5FXk\",\"url\":\"https://apify.com/epctex/playstation-store-scraper\",\"loadedUrl\":\"https://apify.com/epctex/playstation-store-scraper\",\"uniqueKey\":\"https://apify.com/epctex/playstation-store-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:32.593Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/epctex/playstation-store-scraper",
+	"url": "https://apify.com/epctex/playstation-store-scraper"
+}

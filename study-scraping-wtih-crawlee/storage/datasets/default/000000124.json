@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jaroslavhejlek/kickstarter-location-to-ids",
+	"uniqueIdentifier": "jaroslavhejlek/kickstarter-location-to-ids",
+	"owner": "jaroslavhejlek",
+	"title": "Kickstarter Location To Ids",
+	"description": "Helper actor which queries Kickstarter places and outputs a list of 10 location with their Kickstarter ID's (needed when querying Kickstarter by location).",
+	"modifiedDate": "2021-05-18T22:12:28.891Z",
+	"runCount": 13315
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/brilliant-scraper",
+	"uniqueIdentifier": "mshopik/brilliant-scraper",
+	"owner": "mshopik",
+	"title": "Brilliant Scraper",
+	"description": "Scrape Brilliant and extract data on tv and video equipment from brilliant.tech. Our Brilliant API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:05:51.350Z",
+	"runCount": 426
+}

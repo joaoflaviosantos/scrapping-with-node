@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/mnml-scraper",
+	"uniqueIdentifier": "mshopik/mnml-scraper",
+	"owner": "mshopik",
+	"title": "MNML Scraper",
+	"description": "Scrape MNML and extract data on casual apparel from mnml.la. Our MNML API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:30:35.520Z",
+	"runCount": 425
+}

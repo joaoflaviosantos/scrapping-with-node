@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/princess-polly-usa-scraper",
+	"uniqueIdentifier": "mshopik/princess-polly-usa-scraper",
+	"owner": "mshopik",
+	"title": "Princess Polly USA Scraper",
+	"description": "Scrape Princess Polly USA and extract data on women's clothing from us.princesspolly.com. Our Princess Polly USA API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:32:32.643Z",
+	"runCount": 425
+}

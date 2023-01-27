@@ -1,0 +1,9 @@
+{
+	"id": "06o0wrmduQt6hpj",
+	"json": "{\"id\":\"06o0wrmduQt6hpj\",\"url\":\"https://apify.com/zuzka/covid-hr\",\"loadedUrl\":\"https://apify.com/zuzka/covid-hr\",\"uniqueKey\":\"https://apify.com/zuzka/covid-hr\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:42.489Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/zuzka/covid-hr",
+	"url": "https://apify.com/zuzka/covid-hr"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "5ykvWuz9Iee3jZN",
+	"json": "{\"id\":\"5ykvWuz9Iee3jZN\",\"url\":\"https://apify.com/mshopik/bychari-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/bychari-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/bychari-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:31.022Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/bychari-scraper",
+	"url": "https://apify.com/mshopik/bychari-scraper"
+}

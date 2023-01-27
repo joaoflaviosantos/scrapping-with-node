@@ -1,0 +1,9 @@
+{
+	"id": "vIrs7DYBMeHL67g",
+	"json": "{\"id\":\"vIrs7DYBMeHL67g\",\"url\":\"https://casavogue.globo.com\",\"loadedUrl\":\"https://casavogue.globo.com/\",\"uniqueKey\":\"https://casavogue.globo.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:32:28.778Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://casavogue.globo.com",
+	"url": "https://casavogue.globo.com"
+}

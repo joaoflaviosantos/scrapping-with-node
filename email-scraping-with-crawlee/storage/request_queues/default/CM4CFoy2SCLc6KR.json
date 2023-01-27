@@ -1,0 +1,9 @@
+{
+	"id": "CM4CFoy2SCLc6KR",
+	"json": "{\"id\":\"CM4CFoy2SCLc6KR\",\"url\":\"https://www.pontofrio.com.br\",\"loadedUrl\":\"https://www.pontofrio.com.br/\",\"uniqueKey\":\"https://www.pontofrio.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:31:46.067Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.pontofrio.com.br",
+	"url": "https://www.pontofrio.com.br"
+}

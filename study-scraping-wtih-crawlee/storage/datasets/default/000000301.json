@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/katerinahronik/heureka-scraper",
+	"uniqueIdentifier": "katerinahronik/heureka-scraper",
+	"owner": "katerinahronik",
+	"title": "Heureka Scraper",
+	"description": "The actor scrapes all products from defined sub-categories (given as input) from Heureka.cz . For each product, it gets following data: item url, item name, current price, if the product is in TOP ones, list of shops where to buy it, product specification and reviews.",
+	"modifiedDate": "2021-05-10T09:13:43.248Z",
+	"runCount": 623
+}

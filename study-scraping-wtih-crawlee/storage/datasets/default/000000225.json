@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/lifxcom-lifx-us-scraper",
+	"uniqueIdentifier": "mshopik/lifxcom-lifx-us-scraper",
+	"owner": "mshopik",
+	"title": "LIFX.com– LIFX US Scraper",
+	"description": "Scrape LIFX.com– LIFX US and extract data on consumer electronics from lifx.com. Our LIFX.com– LIFX US API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:17:17.853Z",
+	"runCount": 425
+}

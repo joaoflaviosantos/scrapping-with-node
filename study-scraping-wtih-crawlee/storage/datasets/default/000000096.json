@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/tamino-scraper",
+	"uniqueIdentifier": "mshopik/tamino-scraper",
+	"owner": "mshopik",
+	"title": "Tamino Scraper",
+	"description": "Scrape Tamino and extract data on antiques and collectibles from taminoautographs.com. Our Tamino API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:57:24.487Z",
+	"runCount": 426
+}

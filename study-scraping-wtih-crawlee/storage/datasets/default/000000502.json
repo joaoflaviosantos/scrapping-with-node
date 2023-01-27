@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/sandboxcmd/lazada-scraper",
+	"uniqueIdentifier": "sandboxcmd/lazada-scraper",
+	"owner": "sandboxcmd",
+	"title": "Lazada Product Scraper",
+	"description": "Lazada scraper to extract data from Lazada based on keywords and country. Scrape and download product information without using the Lazada API, including reviews, prices, descriptions. Download your data as HTML table, JSON, CSV, Excel, XML.",
+	"modifiedDate": "2022-06-21T17:09:29.751Z",
+	"runCount": 301
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/compass/easy-google-maps",
+	"uniqueIdentifier": "compass/easy-google-maps",
+	"owner": "compass",
+	"title": "Easy Google Maps Scraper",
+	"description": "Collect data from Google Maps. Just enter what you want to scrape, e.g. restaurants, and where you want to search, e.g. New York. Free and easy web scraping of map data.",
+	"modifiedDate": "2022-12-11T17:13:15.693Z",
+	"runCount": 5453
+}

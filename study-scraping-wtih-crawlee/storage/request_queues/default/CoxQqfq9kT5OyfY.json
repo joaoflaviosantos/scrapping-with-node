@@ -1,0 +1,9 @@
+{
+	"id": "CoxQqfq9kT5OyfY",
+	"json": "{\"id\":\"CoxQqfq9kT5OyfY\",\"url\":\"https://apify.com/jancurn/find-broken-links\",\"loadedUrl\":\"https://apify.com/jancurn/find-broken-links\",\"uniqueKey\":\"https://apify.com/jancurn/find-broken-links\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:38.036Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jancurn/find-broken-links",
+	"url": "https://apify.com/jancurn/find-broken-links"
+}

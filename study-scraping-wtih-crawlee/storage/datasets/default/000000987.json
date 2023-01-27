@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/yelp",
+	"uniqueIdentifier": "jupri/yelp",
+	"owner": "jupri",
+	"title": "Yelper 240",
+	"description": "Scrape Business data from Yelp.com",
+	"modifiedDate": "2022-12-23T06:16:00.082Z",
+	"runCount": 64
+}

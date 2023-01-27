@@ -1,0 +1,9 @@
+{
+	"id": "yGYKaJML4BwJpsp",
+	"json": "{\"id\":\"yGYKaJML4BwJpsp\",\"url\":\"https://apify.com/andrey_bykov/sReality-monitor\",\"loadedUrl\":\"https://apify.com/andrey_bykov/sreality-monitor\",\"uniqueKey\":\"https://apify.com/andrey_bykov/sReality-monitor\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:52.424Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/andrey_bykov/sReality-monitor",
+	"url": "https://apify.com/andrey_bykov/sReality-monitor"
+}

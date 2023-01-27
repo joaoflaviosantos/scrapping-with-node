@@ -1,0 +1,9 @@
+{
+	"id": "YmRvF6e70SX2U4F",
+	"json": "{\"id\":\"YmRvF6e70SX2U4F\",\"url\":\"https://apify.com/jupri/g2-reviews\",\"loadedUrl\":\"https://apify.com/jupri/g2-reviews\",\"uniqueKey\":\"https://apify.com/jupri/g2-reviews\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:49.748Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jupri/g2-reviews",
+	"url": "https://apify.com/jupri/g2-reviews"
+}

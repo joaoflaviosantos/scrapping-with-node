@@ -1,0 +1,9 @@
+{
+	"id": "2zVVXAnsHzso29i",
+	"json": "{\"id\":\"2zVVXAnsHzso29i\",\"url\":\"https://apify.com/petrpatek/simple-captcha-tesseract\",\"loadedUrl\":\"https://apify.com/petrpatek/simple-captcha-tesseract\",\"uniqueKey\":\"https://apify.com/petrpatek/simple-captcha-tesseract\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:18.118Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/petrpatek/simple-captcha-tesseract",
+	"url": "https://apify.com/petrpatek/simple-captcha-tesseract"
+}

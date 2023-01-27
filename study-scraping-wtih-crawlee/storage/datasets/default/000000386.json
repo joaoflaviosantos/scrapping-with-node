@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/autofacts/metadata",
+	"uniqueIdentifier": "autofacts/metadata",
+	"owner": "autofacts",
+	"title": "Metadata scraper",
+	"description": "Metadata scraper can used to fetch website's base info inlcudes title, description and other seo infos.",
+	"modifiedDate": "2022-05-22T14:22:51.734Z",
+	"runCount": 610
+}

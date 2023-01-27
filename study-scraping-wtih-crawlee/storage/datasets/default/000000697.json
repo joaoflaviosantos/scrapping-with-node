@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/algolia-website-indexer",
+	"uniqueIdentifier": "apify/algolia-website-indexer",
+	"owner": "apify",
+	"title": "Algolia Website Indexer",
+	"description": "The Indexer crawls recursively a website using the Puppeteer browser (headless Chrome) and indexes the selected pages to the Algolia index.",
+	"modifiedDate": "2022-10-19T20:51:30.467Z",
+	"runCount": 7735
+}

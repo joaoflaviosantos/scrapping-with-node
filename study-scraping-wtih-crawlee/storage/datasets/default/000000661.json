@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/onewheel-future-motion-scraper",
+	"uniqueIdentifier": "mshopik/onewheel-future-motion-scraper",
+	"owner": "mshopik",
+	"title": "Onewheel // Future Motion Scraper",
+	"description": "Scrape Onewheel // Future Motion and extract data on skate sports from onewheel.com. Our Onewheel // Future Motion API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:41:16.292Z",
+	"runCount": 426
+}

@@ -1,0 +1,9 @@
+{
+	"id": "U5wVpK6SIvT9y3Z",
+	"json": "{\"id\":\"U5wVpK6SIvT9y3Z\",\"url\":\"https://apify.com/alexey/google-maps-pins-map-ocr\",\"loadedUrl\":\"https://apify.com/alexey/google-maps-pins-map-ocr\",\"uniqueKey\":\"https://apify.com/alexey/google-maps-pins-map-ocr\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:36.956Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/alexey/google-maps-pins-map-ocr",
+	"url": "https://apify.com/alexey/google-maps-pins-map-ocr"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "95BmR39QXdR6I3J",
+	"json": "{\"id\":\"95BmR39QXdR6I3J\",\"url\":\"https://apify.com/medh/Movies-Quotes\",\"loadedUrl\":\"https://apify.com/medh/movies-quotes\",\"uniqueKey\":\"https://apify.com/medh/Movies-Quotes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:05.926Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/medh/Movies-Quotes",
+	"url": "https://apify.com/medh/Movies-Quotes"
+}

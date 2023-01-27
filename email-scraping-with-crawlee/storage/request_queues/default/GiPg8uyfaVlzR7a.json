@@ -1,0 +1,9 @@
+{
+	"id": "GiPg8uyfaVlzR7a",
+	"json": "{\"id\":\"GiPg8uyfaVlzR7a\",\"url\":\"https://sp.olx.com.br\",\"loadedUrl\":\"https://www.olx.com.br/estado-sp\",\"uniqueKey\":\"https://sp.olx.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:32:41.891Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://sp.olx.com.br",
+	"url": "https://sp.olx.com.br"
+}

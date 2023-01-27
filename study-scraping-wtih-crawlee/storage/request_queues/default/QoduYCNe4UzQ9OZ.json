@@ -1,0 +1,9 @@
+{
+	"id": "QoduYCNe4UzQ9OZ",
+	"json": "{\"id\":\"QoduYCNe4UzQ9OZ\",\"url\":\"https://apify.com/mshopik/summersalt-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/summersalt-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/summersalt-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:30.996Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/summersalt-scraper",
+	"url": "https://apify.com/mshopik/summersalt-scraper"
+}

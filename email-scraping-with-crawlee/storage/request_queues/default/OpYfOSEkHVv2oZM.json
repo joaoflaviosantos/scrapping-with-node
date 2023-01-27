@@ -1,0 +1,9 @@
+{
+	"id": "OpYfOSEkHVv2oZM",
+	"json": "{\"id\":\"OpYfOSEkHVv2oZM\",\"url\":\"https://www.sinonimos.com.br\",\"loadedUrl\":\"https://www.sinonimos.com.br/\",\"uniqueKey\":\"https://www.sinonimos.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:31:54.662Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.sinonimos.com.br",
+	"url": "https://www.sinonimos.com.br"
+}

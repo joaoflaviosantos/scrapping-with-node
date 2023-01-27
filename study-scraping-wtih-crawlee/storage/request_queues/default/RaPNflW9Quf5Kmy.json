@@ -1,0 +1,9 @@
+{
+	"id": "RaPNflW9Quf5Kmy",
+	"json": "{\"id\":\"RaPNflW9Quf5Kmy\",\"url\":\"https://apify.com/maria.f/news-au-scraper\",\"loadedUrl\":\"https://apify.com/maria.f/news-au-scraper\",\"uniqueKey\":\"https://apify.com/maria.f/news-au-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:03.210Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/maria.f/news-au-scraper",
+	"url": "https://apify.com/maria.f/news-au-scraper"
+}

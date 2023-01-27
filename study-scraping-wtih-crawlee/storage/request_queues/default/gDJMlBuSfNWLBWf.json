@@ -1,0 +1,9 @@
+{
+	"id": "gDJMlBuSfNWLBWf",
+	"json": "{\"id\":\"gDJMlBuSfNWLBWf\",\"url\":\"https://apify.com/alexey/google-maps-radar-search\",\"loadedUrl\":\"https://apify.com/alexey/google-maps-radar-search\",\"uniqueKey\":\"https://apify.com/alexey/google-maps-radar-search\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:50.141Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/alexey/google-maps-radar-search",
+	"url": "https://apify.com/alexey/google-maps-radar-search"
+}

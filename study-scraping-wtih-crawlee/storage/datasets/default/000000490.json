@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/eneiromatos/home-depot-web-scraper",
+	"uniqueIdentifier": "eneiromatos/home-depot-web-scraper",
+	"owner": "eneiromatos",
+	"title": "Home Depot Web Scraper",
+	"description": "Home Depot Web Scraper is a data extraction tool engineered to extract information from homedepot.com products, such as prices, codes, variations, availability, images and much more. You can target keywords, category URLs, product URLs and segment your dataset by price range.",
+	"modifiedDate": "2023-01-02T10:02:48.623Z",
+	"runCount": 236
+}

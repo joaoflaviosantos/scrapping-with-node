@@ -1,0 +1,9 @@
+{
+	"id": "SunxfPyFhtRXbcF",
+	"json": "{\"id\":\"SunxfPyFhtRXbcF\",\"url\":\"https://apify.com/yonny/python-3-example\",\"loadedUrl\":\"https://apify.com/yonny/python-3-example\",\"uniqueKey\":\"https://apify.com/yonny/python-3-example\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:47:51.425Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/yonny/python-3-example",
+	"url": "https://apify.com/yonny/python-3-example"
+}

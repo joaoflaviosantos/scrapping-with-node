@@ -1,0 +1,9 @@
+{
+	"id": "lvzYulqG1DSOW6g",
+	"json": "{\"id\":\"lvzYulqG1DSOW6g\",\"url\":\"https://www.elperiodico.com\",\"loadedUrl\":\"https://www.elperiodico.com/es/\",\"uniqueKey\":\"https://www.elperiodico.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:33:09.247Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.elperiodico.com",
+	"url": "https://www.elperiodico.com"
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/drobnikj/keboola-input-mapping",
+	"uniqueIdentifier": "drobnikj/keboola-input-mapping",
+	"owner": "drobnikj",
+	"title": "Keboola Input Mapping",
+	"description": "It parses the input table from Apify <> Keboola extractor and maps the data into another task or actor input.",
+	"modifiedDate": "2022-07-14T13:57:11.486Z",
+	"runCount": 652
+}

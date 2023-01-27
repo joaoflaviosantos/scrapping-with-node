@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/firmy",
+	"uniqueIdentifier": "jupri/firmy",
+	"owner": "jupri",
+	"title": "Firmy Scraper",
+	"description": "Scrape business data from Firmy.cz",
+	"modifiedDate": "2022-10-21T18:12:36.494Z",
+	"runCount": 128
+}

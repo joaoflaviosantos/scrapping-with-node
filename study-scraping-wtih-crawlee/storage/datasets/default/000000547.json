@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/petdoorscom-scraper",
+	"uniqueIdentifier": "mshopik/petdoorscom-scraper",
+	"owner": "mshopik",
+	"title": "PetDoors.com Scraper",
+	"description": "Scrape PetDoors.com and extract data on pet food and supplies from petdoors.com. Our PetDoors.com API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:09:10.962Z",
+	"runCount": 427
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/maria.f/cbc-scraper",
+	"uniqueIdentifier": "maria.f/cbc-scraper",
+	"owner": "maria.f",
+	"title": "CBC Scraper",
+	"description": "Scrape news data from cbc.ca with this unofficial API. Extract articles, monitor their popularity and performance and automate the fight against fake news. Filter the results by authors, topics, categories, or publication dates. Preview or download the results in your preferred format.",
+	"modifiedDate": "2022-08-07T19:04:20.201Z",
+	"runCount": 251
+}

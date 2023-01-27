@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/klymit-scraper",
+	"uniqueIdentifier": "mshopik/klymit-scraper",
+	"owner": "mshopik",
+	"title": "Klymit Scraper",
+	"description": "Scrape Klymit and extract data on bed and bath from klymit.com. Our Klymit API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:01:50.577Z",
+	"runCount": 425
+}

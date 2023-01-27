@@ -1,0 +1,9 @@
+{
+	"id": "5V1TMrGdtXx2gzI",
+	"json": "{\"id\":\"5V1TMrGdtXx2gzI\",\"url\":\"https://apify.com/lukass/shopee-scraper\",\"loadedUrl\":\"https://apify.com/lukass/shopee-scraper\",\"uniqueKey\":\"https://apify.com/lukass/shopee-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:18.724Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/lukass/shopee-scraper",
+	"url": "https://apify.com/lukass/shopee-scraper"
+}

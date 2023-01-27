@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/kayak-hotels",
+	"uniqueIdentifier": "jupri/kayak-hotels",
+	"owner": "jupri",
+	"title": "Kayak.com Hotels Scraper",
+	"description": "Scrape hotels prices from Kayak.com",
+	"modifiedDate": "2022-12-08T14:33:07.040Z",
+	"runCount": 6034
+}

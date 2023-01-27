@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/sock-fancy-scraper",
+	"uniqueIdentifier": "mshopik/sock-fancy-scraper",
+	"owner": "mshopik",
+	"title": "Sock Fancy Scraper",
+	"description": "Scrape Sock Fancy and extract data on apparel from sockfancy.com. Our Sock Fancy API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:20:57.873Z",
+	"runCount": 426
+}

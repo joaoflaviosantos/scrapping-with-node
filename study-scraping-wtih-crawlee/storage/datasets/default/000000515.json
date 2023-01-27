@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jancurn/selenium-custom-firefox",
+	"uniqueIdentifier": "jancurn/selenium-custom-firefox",
+	"owner": "jancurn",
+	"title": "Selenium Custom Firefox POC",
+	"description": "Uses Selenium to run custom build of Firefox that is harder to detect. The actor just saves a screenshot and snapshot of the HTML.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 88
+}

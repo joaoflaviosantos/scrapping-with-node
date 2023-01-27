@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/zuzka/instagram-followers-count-scraper",
+	"uniqueIdentifier": "zuzka/instagram-followers-count-scraper",
+	"owner": "zuzka",
+	"title": "Instagram Followers Count Scraper",
+	"description": "Scrape the counts of followers & follows from any Instagram profile. You can schedule the actor to run every hour and see how the numbers change. Download structured data in JSON, CSV, XML, Excel, and HTML to use in applications, reports, and/or spreadsheets.",
+	"modifiedDate": "2022-12-07T09:53:50.339Z",
+	"runCount": 273
+}

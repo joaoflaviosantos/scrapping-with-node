@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/autofacts/sephora",
+	"uniqueIdentifier": "autofacts/sephora",
+	"owner": "autofacts",
+	"title": "Sephora Scraper",
+	"description": "Sephora scraper to fetch product or products of category.",
+	"modifiedDate": "2022-10-29T14:11:28.438Z",
+	"runCount": 18719
+}

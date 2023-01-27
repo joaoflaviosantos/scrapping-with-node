@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/sinners-attire-scraper",
+	"uniqueIdentifier": "mshopik/sinners-attire-scraper",
+	"owner": "mshopik",
+	"title": "SINNERS ATTIRE Scraper",
+	"description": "Scrape SINNERS ATTIRE and extract data on men's clothing from sinnersattire.com. Our SINNERS ATTIRE API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:32:55.747Z",
+	"runCount": 424
+}

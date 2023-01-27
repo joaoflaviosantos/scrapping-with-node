@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/quacker/twitter-list-scraper",
+	"uniqueIdentifier": "quacker/twitter-list-scraper",
+	"owner": "quacker",
+	"title": "Twitter List Scraper",
+	"description": "Scrape posts from your or any public list of Twitter accounts.",
+	"modifiedDate": "2023-01-20T09:55:34.507Z",
+	"runCount": 51
+}

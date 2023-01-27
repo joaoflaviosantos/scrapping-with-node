@@ -1,0 +1,9 @@
+{
+	"id": "PBeYvjLHeTbYquF",
+	"json": "{\"id\":\"PBeYvjLHeTbYquF\",\"url\":\"https://apify.com/jaroslavhejlek/kickstarter-location-to-ids\",\"loadedUrl\":\"https://apify.com/jaroslavhejlek/kickstarter-location-to-ids\",\"uniqueKey\":\"https://apify.com/jaroslavhejlek/kickstarter-location-to-ids\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:41.527Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jaroslavhejlek/kickstarter-location-to-ids",
+	"url": "https://apify.com/jaroslavhejlek/kickstarter-location-to-ids"
+}

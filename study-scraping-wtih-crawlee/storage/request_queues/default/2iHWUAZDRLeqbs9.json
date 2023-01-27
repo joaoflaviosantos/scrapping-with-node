@@ -1,0 +1,9 @@
+{
+	"id": "2iHWUAZDRLeqbs9",
+	"json": "{\"id\":\"2iHWUAZDRLeqbs9\",\"url\":\"https://apify.com/mshopik/fungi-perfecti-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/fungi-perfecti-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/fungi-perfecti-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:28.686Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/fungi-perfecti-scraper",
+	"url": "https://apify.com/mshopik/fungi-perfecti-scraper"
+}

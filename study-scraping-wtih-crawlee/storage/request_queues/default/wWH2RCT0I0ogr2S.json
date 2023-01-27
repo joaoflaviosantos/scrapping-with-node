@@ -1,0 +1,9 @@
+{
+	"id": "wWH2RCT0I0ogr2S",
+	"json": "{\"id\":\"wWH2RCT0I0ogr2S\",\"url\":\"https://apify.com/epctex/imdb-advanced-scraper\",\"loadedUrl\":\"https://apify.com/epctex/imdb-advanced-scraper\",\"uniqueKey\":\"https://apify.com/epctex/imdb-advanced-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:29.459Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/epctex/imdb-advanced-scraper",
+	"url": "https://apify.com/epctex/imdb-advanced-scraper"
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/example-counter",
+	"uniqueIdentifier": "apify/example-counter",
+	"owner": "apify",
+	"title": "Example Counter",
+	"description": "This actor simply counts up from one. In each run it prints one number. Its state (counter position) is stored in a named key-value store. The name of the store is example-counter and you can find in Apify app under Storages.",
+	"modifiedDate": "2022-10-18T17:54:25.422Z",
+	"runCount": 1027
+}

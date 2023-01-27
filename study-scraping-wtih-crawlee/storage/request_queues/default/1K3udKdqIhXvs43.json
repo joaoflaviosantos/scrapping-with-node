@@ -1,0 +1,9 @@
+{
+	"id": "1K3udKdqIhXvs43",
+	"json": "{\"id\":\"1K3udKdqIhXvs43\",\"url\":\"https://apify.com/hynekhruska/indeed-scraper\",\"loadedUrl\":\"https://apify.com/hynekhruska/indeed-scraper\",\"uniqueKey\":\"https://apify.com/hynekhruska/indeed-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:47:45.918Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/hynekhruska/indeed-scraper",
+	"url": "https://apify.com/hynekhruska/indeed-scraper"
+}

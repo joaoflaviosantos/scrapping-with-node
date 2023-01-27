@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/drobnikj/send-crawler-results",
+	"uniqueIdentifier": "drobnikj/send-crawler-results",
+	"owner": "drobnikj",
+	"title": "Send Legacy PhantomJS Crawler Results",
+	"description": "This actor downloads results from Legacy PhantomJS Crawler task and sends them to email as attachments. It is designed to run from finish webhook.",
+	"modifiedDate": "2022-09-26T15:18:23.192Z",
+	"runCount": 9190
+}

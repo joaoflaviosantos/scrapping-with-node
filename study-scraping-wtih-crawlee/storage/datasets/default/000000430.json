@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/sugar-and-cotton-scraper",
+	"uniqueIdentifier": "mshopik/sugar-and-cotton-scraper",
+	"owner": "mshopik",
+	"title": "Sugar Cotton Scraper",
+	"description": "Scrape Sugar Cotton and extract data on clothing accessories from sugarandcotton.com. Our Sugar Cotton API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:50:09.281Z",
+	"runCount": 425
+}

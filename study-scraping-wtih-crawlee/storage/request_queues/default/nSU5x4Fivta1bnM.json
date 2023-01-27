@@ -1,0 +1,9 @@
+{
+	"id": "nSU5x4Fivta1bnM",
+	"json": "{\"id\":\"nSU5x4Fivta1bnM\",\"url\":\"https://apify.com/juansgaitan/counter\",\"loadedUrl\":\"https://apify.com/juansgaitan/counter\",\"uniqueKey\":\"https://apify.com/juansgaitan/counter\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:14.591Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/juansgaitan/counter",
+	"url": "https://apify.com/juansgaitan/counter"
+}

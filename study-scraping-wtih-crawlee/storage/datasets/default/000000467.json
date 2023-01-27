@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/astr-the-label-scraper",
+	"uniqueIdentifier": "mshopik/astr-the-label-scraper",
+	"owner": "mshopik",
+	"title": "ASTR The Label Scraper",
+	"description": "Scrape ASTR The Label and extract data on apparel from astrthelabel.com. Our ASTR The Label API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:10:29.279Z",
+	"runCount": 425
+}

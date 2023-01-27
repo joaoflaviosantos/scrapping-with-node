@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/biotrust-scraper",
+	"uniqueIdentifier": "mshopik/biotrust-scraper",
+	"owner": "mshopik",
+	"title": "BioTRUST Scraper",
+	"description": "Scrape BioTRUST and extract data on vitamins and supplements from biotrust.com. Our BioTRUST API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:48:42.350Z",
+	"runCount": 430
+}

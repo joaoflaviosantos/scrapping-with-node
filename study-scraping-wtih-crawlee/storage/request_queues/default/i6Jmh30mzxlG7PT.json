@@ -1,0 +1,9 @@
+{
+	"id": "i6Jmh30mzxlG7PT",
+	"json": "{\"id\":\"i6Jmh30mzxlG7PT\",\"url\":\"https://apify.com/petr_cermak/json-to-xlsx\",\"loadedUrl\":\"https://apify.com/petr_cermak/json-to-xlsx\",\"uniqueKey\":\"https://apify.com/petr_cermak/json-to-xlsx\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:26.279Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/petr_cermak/json-to-xlsx",
+	"url": "https://apify.com/petr_cermak/json-to-xlsx"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "n9mo1TS79LDtZnU",
+	"json": "{\"id\":\"n9mo1TS79LDtZnU\",\"url\":\"https://apify.com/mshopik/blacktailor-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/blacktailor-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/blacktailor-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:19.902Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/blacktailor-scraper",
+	"url": "https://apify.com/mshopik/blacktailor-scraper"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "eubNWsYRrtKCtEA",
+	"json": "{\"id\":\"eubNWsYRrtKCtEA\",\"url\":\"https://apify.com/mshopik/andi-bagus-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/andi-bagus-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/andi-bagus-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:25.335Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/andi-bagus-scraper",
+	"url": "https://apify.com/mshopik/andi-bagus-scraper"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "WhCBcwKXk4r0BTs",
+	"json": "{\"id\":\"WhCBcwKXk4r0BTs\",\"url\":\"https://apify.com/epctex/forever21-scraper\",\"loadedUrl\":\"https://apify.com/epctex/forever21-scraper\",\"uniqueKey\":\"https://apify.com/epctex/forever21-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:42.550Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/epctex/forever21-scraper",
+	"url": "https://apify.com/epctex/forever21-scraper"
+}

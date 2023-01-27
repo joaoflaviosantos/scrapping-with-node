@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mtrunkat/delete-untitled-actors",
+	"uniqueIdentifier": "mtrunkat/delete-untitled-actors",
+	"owner": "mtrunkat",
+	"title": "Delete Untitled Actors",
+	"description": "Deletes all actors and tasks named untitled-X, my-actor-X, my-task-X from your account. In a minute. For free. With one click!",
+	"modifiedDate": "2022-10-10T09:05:39.054Z",
+	"runCount": 347
+}

@@ -1,0 +1,9 @@
+{
+	"id": "z01eImEYaGzGuGS",
+	"json": "{\"id\":\"z01eImEYaGzGuGS\",\"url\":\"https://apify.com/mcdowell/Google-Maps-Route-Scraper\",\"loadedUrl\":\"https://apify.com/mcdowell/google-maps-route-scraper\",\"uniqueKey\":\"https://apify.com/mcdowell/Google-Maps-Route-Scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:32.416Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mcdowell/Google-Maps-Route-Scraper",
+	"url": "https://apify.com/mcdowell/Google-Maps-Route-Scraper"
+}

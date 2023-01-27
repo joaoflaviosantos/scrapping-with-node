@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/paynes-gray-scraper",
+	"uniqueIdentifier": "mshopik/paynes-gray-scraper",
+	"owner": "mshopik",
+	"title": "Paynes Gray Scraper",
+	"description": "Scrape Paynes Gray and extract data on home and interior decor from paynesgray.com. Our Paynes Gray API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:02:07.280Z",
+	"runCount": 425
+}

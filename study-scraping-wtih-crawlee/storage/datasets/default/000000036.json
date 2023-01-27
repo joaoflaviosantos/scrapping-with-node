@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/icebergg/facebook-posts-scraper",
+	"uniqueIdentifier": "icebergg/facebook-posts-scraper",
+	"owner": "icebergg",
+	"title": "Facebook Posts Scraper",
+	"description": "Extract data from hundreds of Facebook posts from one or multiple Facebook pages. Get post URL, post text, page URL, timestamp, number of likes, shares, comments, and more. Download the data in JSON, CSV, and Excel and use it in apps, spreadsheets, and reports.",
+	"modifiedDate": "2023-01-13T09:52:10.358Z",
+	"runCount": 657
+}

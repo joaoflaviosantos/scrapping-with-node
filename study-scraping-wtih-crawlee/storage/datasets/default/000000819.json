@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/public-goods-scraper",
+	"uniqueIdentifier": "mshopik/public-goods-scraper",
+	"owner": "mshopik",
+	"title": "Public Goods Scraper",
+	"description": "Scrape Public Goods and extract data on food from publicgoods.com. Our Public Goods API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:47:28.756Z",
+	"runCount": 428
+}

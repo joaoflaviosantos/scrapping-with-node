@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/smallwoods-scraper",
+	"uniqueIdentifier": "mshopik/smallwoods-scraper",
+	"owner": "mshopik",
+	"title": "Smallwoods Scraper",
+	"description": "Scrape Smallwoods and extract data on home and interior decor from smallwoodhome.com. Our Smallwoods API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:06:47.836Z",
+	"runCount": 425
+}

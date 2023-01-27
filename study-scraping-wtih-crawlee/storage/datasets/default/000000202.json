@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/umbra-scraper",
+	"uniqueIdentifier": "mshopik/umbra-scraper",
+	"owner": "mshopik",
+	"title": "Umbra Scraper",
+	"description": "Scrape Umbra and extract data on home and interior decor from umbra.com. Our Umbra API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:56:24.854Z",
+	"runCount": 425
+}

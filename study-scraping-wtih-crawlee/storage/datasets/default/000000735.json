@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/duckduckgo-scraper",
+	"uniqueIdentifier": "epctex/duckduckgo-scraper",
+	"owner": "epctex",
+	"title": "DuckDuckGo Scraper",
+	"description": "Search anything from DuckDuckGo without any limits! Get images, videos, news, or search results from DuckDuckGo right away! Extremely fast, unlimited usage. Adjust your results by region or safety modes. Export your data by XML, JSON, CSV, Excel, or HTML!",
+	"modifiedDate": "2023-01-23T07:26:49.660Z",
+	"runCount": 7
+}

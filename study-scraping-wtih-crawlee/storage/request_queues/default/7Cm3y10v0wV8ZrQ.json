@@ -1,0 +1,9 @@
+{
+	"id": "7Cm3y10v0wV8ZrQ",
+	"json": "{\"id\":\"7Cm3y10v0wV8ZrQ\",\"url\":\"https://apify.com/pocesar/facebook-latest-posts-scraper\",\"loadedUrl\":\"https://apify.com/pocesar/facebook-latest-posts-scraper\",\"uniqueKey\":\"https://apify.com/pocesar/facebook-latest-posts-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:05.660Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/pocesar/facebook-latest-posts-scraper",
+	"url": "https://apify.com/pocesar/facebook-latest-posts-scraper"
+}

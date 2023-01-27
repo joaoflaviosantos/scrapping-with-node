@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/petr_cermak/PostgreSQL-insert",
+	"uniqueIdentifier": "petr_cermak/PostgreSQL-insert",
+	"owner": "petr_cermak",
+	"title": "PostgreSQL Insert",
+	"description": "This act takes a crawler execution and inserts it's results into a remote PostgreSQL database.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 7767
+}

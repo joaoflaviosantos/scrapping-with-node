@@ -1,0 +1,9 @@
+{
+	"id": "lOU9qOGY1DAShn7",
+	"json": "{\"id\":\"lOU9qOGY1DAShn7\",\"url\":\"https://apify.com/vaclavrut/sitemap-sniffer\",\"loadedUrl\":\"https://apify.com/vaclavrut/sitemap-sniffer\",\"uniqueKey\":\"https://apify.com/vaclavrut/sitemap-sniffer\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:52.141Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/vaclavrut/sitemap-sniffer",
+	"url": "https://apify.com/vaclavrut/sitemap-sniffer"
+}

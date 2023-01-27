@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/blendjet-scraper",
+	"uniqueIdentifier": "mshopik/blendjet-scraper",
+	"owner": "mshopik",
+	"title": "BlendJet Scraper",
+	"description": "Scrape BlendJet and extract data on home appliances from blendjet.com. Our BlendJet API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:31:48.770Z",
+	"runCount": 425
+}

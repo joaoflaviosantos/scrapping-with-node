@@ -1,0 +1,9 @@
+{
+	"id": "IIH0qzMuE2NyrSP",
+	"json": "{\"id\":\"IIH0qzMuE2NyrSP\",\"url\":\"https://woman.elperiodico.com\",\"loadedUrl\":\"https://woman.elperiodico.com/\",\"uniqueKey\":\"https://woman.elperiodico.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:33:15.008Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://woman.elperiodico.com",
+	"url": "https://woman.elperiodico.com"
+}

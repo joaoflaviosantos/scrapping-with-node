@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/freelancer-scraper",
+	"uniqueIdentifier": "jupri/freelancer-scraper",
+	"owner": "jupri",
+	"title": "Freelancer",
+	"description": "Search & scrape freelance jobs data from Freelancer.com",
+	"modifiedDate": "2022-12-28T15:27:57.978Z",
+	"runCount": 269
+}

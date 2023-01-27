@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/clockworks/tiktok-scraper",
+	"uniqueIdentifier": "clockworks/tiktok-scraper",
+	"owner": "clockworks",
+	"title": "TikTok Scraper",
+	"description": "Powerful TikTok scraper to extract data from TikTok videos, hashtags, and users. Use it to scrape TikTok profiles, comments, hashtags, posts, URLs, numbers of shares, followers, hearts, names, video, and music-related data. Download TikTok data as a HTML, JSON, CSV, Excel, or XML doc.",
+	"modifiedDate": "2022-12-22T13:35:50.964Z",
+	"runCount": 954575
+}

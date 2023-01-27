@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/zomato",
+	"uniqueIdentifier": "jupri/zomato",
+	"owner": "jupri",
+	"title": "Zomato 🍔 Scraper",
+	"description": "Scrape Restaurants data from Zomato.com",
+	"modifiedDate": "2022-12-19T10:51:21.484Z",
+	"runCount": 216
+}

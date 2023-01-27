@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/frye-since-1863-scraper",
+	"uniqueIdentifier": "mshopik/frye-since-1863-scraper",
+	"owner": "mshopik",
+	"title": "FRYE Since 1863 Scraper",
+	"description": "Scrape FRYE Since 1863 and extract data on men's clothing from thefryecompany.com. Our FRYE Since 1863 API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:53:09.786Z",
+	"runCount": 426
+}

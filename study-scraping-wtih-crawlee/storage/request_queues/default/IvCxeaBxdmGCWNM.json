@@ -1,0 +1,9 @@
+{
+	"id": "IvCxeaBxdmGCWNM",
+	"json": "{\"id\":\"IvCxeaBxdmGCWNM\",\"url\":\"https://apify.com/lhotanok/trip-scraper\",\"loadedUrl\":\"https://apify.com/lhotanok/trip-scraper\",\"uniqueKey\":\"https://apify.com/lhotanok/trip-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:37.052Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/lhotanok/trip-scraper",
+	"url": "https://apify.com/lhotanok/trip-scraper"
+}

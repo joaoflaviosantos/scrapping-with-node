@@ -1,0 +1,9 @@
+{
+	"id": "PtXTlpp3jM3O1px",
+	"json": "{\"id\":\"PtXTlpp3jM3O1px\",\"url\":\"https://apify.com/chin/apify-factual\",\"loadedUrl\":\"https://apify.com/chin/apify-factual\",\"uniqueKey\":\"https://apify.com/chin/apify-factual\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:58.209Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/chin/apify-factual",
+	"url": "https://apify.com/chin/apify-factual"
+}

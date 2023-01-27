@@ -1,0 +1,9 @@
+{
+	"id": "zsLaM3j0VILGvr1",
+	"json": "{\"id\":\"zsLaM3j0VILGvr1\",\"url\":\"https://apify.com/bares43/kaktus-dobijecka\",\"loadedUrl\":\"https://apify.com/bares43/kaktus-dobijecka\",\"uniqueKey\":\"https://apify.com/bares43/kaktus-dobijecka\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:54.685Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/bares43/kaktus-dobijecka",
+	"url": "https://apify.com/bares43/kaktus-dobijecka"
+}

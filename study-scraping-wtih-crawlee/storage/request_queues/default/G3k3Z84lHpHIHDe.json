@@ -1,0 +1,9 @@
+{
+	"id": "G3k3Z84lHpHIHDe",
+	"json": "{\"id\":\"G3k3Z84lHpHIHDe\",\"url\":\"https://apify.com/mshopik/lovepop-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/lovepop-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/lovepop-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:53.690Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/lovepop-scraper",
+	"url": "https://apify.com/mshopik/lovepop-scraper"
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/sounds-true-scraper",
+	"uniqueIdentifier": "mshopik/sounds-true-scraper",
+	"owner": "mshopik",
+	"title": "Sounds True Scraper",
+	"description": "Scrape Sounds True and extract data on religion and belief from soundstrue.com. Our Sounds True API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:12:55.522Z",
+	"runCount": 425
+}

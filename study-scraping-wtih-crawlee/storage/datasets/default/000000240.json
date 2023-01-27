@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/hatch-collection-scraper",
+	"uniqueIdentifier": "mshopik/hatch-collection-scraper",
+	"owner": "mshopik",
+	"title": "HATCH Collection Scraper",
+	"description": "Scrape HATCH Collection and extract data on apparel from hatchcollection.com. Our HATCH Collection API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:56:27.963Z",
+	"runCount": 426
+}

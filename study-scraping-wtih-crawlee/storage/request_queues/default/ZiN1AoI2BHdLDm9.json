@@ -1,0 +1,9 @@
+{
+	"id": "ZiN1AoI2BHdLDm9",
+	"json": "{\"id\":\"ZiN1AoI2BHdLDm9\",\"url\":\"https://apify.com/autofacts/shopify\",\"loadedUrl\":\"https://apify.com/autofacts/shopify\",\"uniqueKey\":\"https://apify.com/autofacts/shopify\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:56.772Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/autofacts/shopify",
+	"url": "https://apify.com/autofacts/shopify"
+}

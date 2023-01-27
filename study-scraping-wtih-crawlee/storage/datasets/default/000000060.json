@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dtrungtin/airbnb-scraper",
+	"uniqueIdentifier": "dtrungtin/airbnb-scraper",
+	"owner": "dtrungtin",
+	"title": "Airbnb Scraper",
+	"description": "Scrape whole cities or extract data from hundreds of Airbnb rentals in seconds. Extract host information, addresses, locations, prices, availability, stars, reviews, images, and host/guest details for free. Download scraped data in various formats including HTML, JSON and Excel.",
+	"modifiedDate": "2023-01-16T18:50:42.989Z",
+	"runCount": 63880
+}

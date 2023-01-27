@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/the-chivery-scraper",
+	"uniqueIdentifier": "mshopik/the-chivery-scraper",
+	"owner": "mshopik",
+	"title": "The Chivery Scraper",
+	"description": "Scrape The Chivery and extract data on casual apparel from thechivery.com. Our The Chivery API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:02:45.781Z",
+	"runCount": 427
+}

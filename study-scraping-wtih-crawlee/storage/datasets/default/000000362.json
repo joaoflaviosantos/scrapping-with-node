@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/novelkeys-llc-scraper",
+	"uniqueIdentifier": "mshopik/novelkeys-llc-scraper",
+	"owner": "mshopik",
+	"title": "NovelKeys, LLC Scraper",
+	"description": "Scrape NovelKeys, LLC and extract data on computers from novelkeys.xyz. Our NovelKeys, LLC API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:42:55.025Z",
+	"runCount": 426
+}

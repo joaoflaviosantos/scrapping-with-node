@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mtrunkat/24-hour-stats",
+	"uniqueIdentifier": "mtrunkat/24-hour-stats",
+	"owner": "mtrunkat",
+	"title": "24 Hour Stats",
+	"description": "This act can be used as synchronous API. Returns a JSON containing actor runs finished in the last 24 hours along with information about their default datasets and request queues. Actors might be filtered via input array \"actIds\".",
+	"modifiedDate": "2022-06-20T13:52:51.904Z",
+	"runCount": 98
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/brodo-store-scraper",
+	"uniqueIdentifier": "mshopik/brodo-store-scraper",
+	"owner": "mshopik",
+	"title": "BRODO Store Scraper",
+	"description": "Scrape BRODO Store and extract data on  from bro.do. Our BRODO Store API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:10:47.330Z",
+	"runCount": 428
+}

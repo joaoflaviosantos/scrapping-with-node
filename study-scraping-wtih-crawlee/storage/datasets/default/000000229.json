@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/stealth-angel-survival-scraper",
+	"uniqueIdentifier": "mshopik/stealth-angel-survival-scraper",
+	"owner": "mshopik",
+	"title": "Stealth Angel Survival Scraper",
+	"description": "Scrape Stealth Angel Survival and extract data on outdoors from stealthangelsurvival.com. Our Stealth Angel Survival API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:20:07.833Z",
+	"runCount": 426
+}

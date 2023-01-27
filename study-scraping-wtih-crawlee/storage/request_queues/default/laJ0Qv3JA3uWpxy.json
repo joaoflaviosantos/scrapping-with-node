@@ -1,0 +1,9 @@
+{
+	"id": "laJ0Qv3JA3uWpxy",
+	"json": "{\"id\":\"laJ0Qv3JA3uWpxy\",\"url\":\"https://apify.com/mshopik/true-leaf-market-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/true-leaf-market-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/true-leaf-market-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:29.263Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/true-leaf-market-scraper",
+	"url": "https://apify.com/mshopik/true-leaf-market-scraper"
+}

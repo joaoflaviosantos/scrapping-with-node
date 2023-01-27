@@ -1,0 +1,9 @@
+{
+	"id": "T841685DjVyYZTv",
+	"json": "{\"id\":\"T841685DjVyYZTv\",\"url\":\"https://apify.com/spidoosho/bing-wallpaper\",\"loadedUrl\":\"https://apify.com/spidoosho/bing-wallpaper\",\"uniqueKey\":\"https://apify.com/spidoosho/bing-wallpaper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:48.577Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/spidoosho/bing-wallpaper",
+	"url": "https://apify.com/spidoosho/bing-wallpaper"
+}

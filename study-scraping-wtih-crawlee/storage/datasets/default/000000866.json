@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mnmkng/repl",
+	"uniqueIdentifier": "mnmkng/repl",
+	"owner": "mnmkng",
+	"title": "REPL",
+	"description": "Develop scripts and tools blazingly fast with this Apify REPL. You no longer need to build your actor with every code change just to test something out. Create a REPL task and hack away. No builds needed. Latest Apify included.",
+	"modifiedDate": "2021-07-19T09:35:11.550Z",
+	"runCount": 564
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/kitsch-scraper",
+	"uniqueIdentifier": "mshopik/kitsch-scraper",
+	"owner": "mshopik",
+	"title": "KITSCH Scraper",
+	"description": "Scrape KITSCH and extract data on clothing accessories from mykitsch.com. Our KITSCH API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:51:29.323Z",
+	"runCount": 425
+}

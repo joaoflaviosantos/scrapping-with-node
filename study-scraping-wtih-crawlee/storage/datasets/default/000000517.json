@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/monitoring-reporter-slack",
+	"uniqueIdentifier": "apify/monitoring-reporter-slack",
+	"owner": "apify",
+	"title": "Monitoring Reporter Slack",
+	"description": "The Monitoring reporter slack is a part of the Apify Monitoring Suite (apify/monitoring). See its readme for more information and how to use this.",
+	"modifiedDate": "2022-10-19T20:44:01.058Z",
+	"runCount": 30706
+}

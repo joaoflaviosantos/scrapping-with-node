@@ -1,0 +1,9 @@
+{
+	"id": "XYYKFHeu2JWK1J5",
+	"json": "{\"id\":\"XYYKFHeu2JWK1J5\",\"url\":\"https://www.informacion.es\",\"loadedUrl\":\"https://www.informacion.es/\",\"uniqueKey\":\"https://www.informacion.es\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:33:10.222Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.informacion.es",
+	"url": "https://www.informacion.es"
+}

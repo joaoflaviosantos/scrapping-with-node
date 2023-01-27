@@ -1,0 +1,9 @@
+{
+	"id": "WQK84HJDVuK3KQH",
+	"json": "{\"id\":\"WQK84HJDVuK3KQH\",\"url\":\"https://apify.com/mshopik/fresh-water-systems-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/fresh-water-systems-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/fresh-water-systems-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:02.930Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/fresh-water-systems-scraper",
+	"url": "https://apify.com/mshopik/fresh-water-systems-scraper"
+}

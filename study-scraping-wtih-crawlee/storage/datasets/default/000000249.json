@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/gymshark-uk-scraper",
+	"uniqueIdentifier": "mshopik/gymshark-uk-scraper",
+	"owner": "mshopik",
+	"title": "Gymshark UK Scraper",
+	"description": "Scrape Gymshark UK and extract data on apparel from uk.gymshark.com. Our Gymshark UK API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:29:20.188Z",
+	"runCount": 425
+}

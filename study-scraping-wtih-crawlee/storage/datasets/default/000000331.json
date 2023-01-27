@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/dormify-scraper",
+	"uniqueIdentifier": "mshopik/dormify-scraper",
+	"owner": "mshopik",
+	"title": "Dormify Scraper",
+	"description": "Scrape Dormify and extract data on home and interior decor from dormify.com. Our Dormify API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:55:55.474Z",
+	"runCount": 425
+}

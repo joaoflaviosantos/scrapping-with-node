@@ -1,0 +1,9 @@
+{
+	"id": "5Ooq4C9UyWhuExv",
+	"json": "{\"id\":\"5Ooq4C9UyWhuExv\",\"url\":\"https://apify.com/jupri/patreon\",\"loadedUrl\":\"https://apify.com/jupri/patreon\",\"uniqueKey\":\"https://apify.com/jupri/patreon\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:37.243Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jupri/patreon",
+	"url": "https://apify.com/jupri/patreon"
+}

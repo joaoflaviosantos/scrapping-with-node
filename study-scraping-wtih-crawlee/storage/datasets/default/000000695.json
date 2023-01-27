@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/katerinahronik/covid-sa",
+	"uniqueIdentifier": "katerinahronik/covid-sa",
+	"owner": "katerinahronik",
+	"title": "Coronavirus stats in Saudi Arabia",
+	"description": "Gets the statistics of the actual number of infected, recovered and deceased people by COVID-19 in Saudi Arabia from https://covid19.moh.gov.sa/.",
+	"modifiedDate": "2021-06-21T06:01:05.504Z",
+	"runCount": 116759
+}

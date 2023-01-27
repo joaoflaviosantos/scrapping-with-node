@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/c-a-r-i-scraper",
+	"uniqueIdentifier": "mshopik/c-a-r-i-scraper",
+	"owner": "mshopik",
+	"title": " Scraper",
+	"description": "Scrape  and extract data on footwear from cariuma.com. Our  API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:57:55.278Z",
+	"runCount": 429
+}

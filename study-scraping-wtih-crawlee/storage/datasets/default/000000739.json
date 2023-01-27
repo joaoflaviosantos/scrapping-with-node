@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/tomashujer/los-angeles-times-scraper",
+	"uniqueIdentifier": "tomashujer/los-angeles-times-scraper",
+	"owner": "tomashujer",
+	"title": "Los Angeles Times Scraper",
+	"description": "Scrape news data from latimes.com with this unofficial API. Extract articles, monitor their popularity and performance and automate the fight against fake news. Filter the results by authors, topics, categories, or publication dates. Preview or download the results in your preferred format.",
+	"modifiedDate": "2022-08-07T21:05:08.289Z",
+	"runCount": 251
+}

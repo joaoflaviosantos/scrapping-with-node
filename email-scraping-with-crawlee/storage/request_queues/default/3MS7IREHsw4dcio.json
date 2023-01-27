@@ -1,0 +1,9 @@
+{
+	"id": "3MS7IREHsw4dcio",
+	"json": "{\"id\":\"3MS7IREHsw4dcio\",\"url\":\"https://www.betterware.com.mx\",\"loadedUrl\":\"https://www.betterware.com.mx/mx/es/\",\"uniqueKey\":\"https://www.betterware.com.mx\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:33:37.735Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.betterware.com.mx",
+	"url": "https://www.betterware.com.mx"
+}

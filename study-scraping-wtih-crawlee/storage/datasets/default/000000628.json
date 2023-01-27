@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/stussycom-scraper",
+	"uniqueIdentifier": "mshopik/stussycom-scraper",
+	"owner": "mshopik",
+	"title": "Stussy.com Scraper",
+	"description": "Scrape Stussy.com and extract data on apparel from stussy.com. Our Stussy.com API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:31:54.074Z",
+	"runCount": 427
+}

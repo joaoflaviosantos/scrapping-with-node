@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/drobnikj/covid-stats-france",
+	"uniqueIdentifier": "drobnikj/covid-stats-france",
+	"owner": "drobnikj",
+	"title": "Coronavirus stats in France",
+	"description": "Gets an actual number of examined and infected people by COVID-19 in France from https://www.santepubliquefrance.fr/.",
+	"modifiedDate": "2021-04-12T07:39:47.440Z",
+	"runCount": 115731
+}

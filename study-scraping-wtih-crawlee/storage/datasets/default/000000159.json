@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/google-shopping-scraper",
+	"uniqueIdentifier": "epctex/google-shopping-scraper",
+	"owner": "epctex",
+	"title": "Google Shopping Scraper",
+	"description": "Extract information from the Google Shopping website! Get reviews, product descriptions, prices, merchant names, and merchant affiliation links in any country domain using Google SERP. Get results in JSON, XML, CSV, Excel, and HTML formats without limitations!",
+	"modifiedDate": "2023-01-18T19:27:39.779Z",
+	"runCount": 10744
+}

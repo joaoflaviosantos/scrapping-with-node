@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/trulia",
+	"uniqueIdentifier": "jupri/trulia",
+	"owner": "jupri",
+	"title": "Trulia Explorer",
+	"description": "Search & Extract properties info from Trulia.com",
+	"modifiedDate": "2022-12-18T07:50:53.798Z",
+	"runCount": 87
+}

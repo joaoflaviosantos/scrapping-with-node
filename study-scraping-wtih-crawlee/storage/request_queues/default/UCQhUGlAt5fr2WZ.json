@@ -1,0 +1,9 @@
+{
+	"id": "UCQhUGlAt5fr2WZ",
+	"json": "{\"id\":\"UCQhUGlAt5fr2WZ\",\"url\":\"https://apify.com/cyberfly/DuckDuckGo\",\"loadedUrl\":\"https://apify.com/cyberfly/duckduckgo\",\"uniqueKey\":\"https://apify.com/cyberfly/DuckDuckGo\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:18.683Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/cyberfly/DuckDuckGo",
+	"url": "https://apify.com/cyberfly/DuckDuckGo"
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/maria.f/abc-scraper",
+	"uniqueIdentifier": "maria.f/abc-scraper",
+	"owner": "maria.f",
+	"title": "ABC Scraper",
+	"description": "Scrape news data from abc.net.au with this unofficial API. Extract articles, monitor their popularity and performance and automate the fight against fake news. Filter the results by authors, topics, categories, or publication dates. Preview or download the results in your preferred format.",
+	"modifiedDate": "2022-08-07T18:48:54.439Z",
+	"runCount": 251
+}

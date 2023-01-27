@@ -1,0 +1,9 @@
+{
+	"id": "T82dGIixP0BZMxz",
+	"json": "{\"id\":\"T82dGIixP0BZMxz\",\"url\":\"https://apify.com/jupri/kickstarter\",\"loadedUrl\":\"https://apify.com/jupri/kickstarter\",\"uniqueKey\":\"https://apify.com/jupri/kickstarter\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:42.285Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jupri/kickstarter",
+	"url": "https://apify.com/jupri/kickstarter"
+}

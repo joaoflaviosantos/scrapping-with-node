@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/zuzka/covid-es",
+	"uniqueIdentifier": "zuzka/covid-es",
+	"owner": "zuzka",
+	"title": "Coronavirus stats in Spain",
+	"description": "Gets an actual number of infected, hospitalized, recovered and deceased people by COVID-19 in Spain from https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm.",
+	"modifiedDate": "2021-06-21T05:59:37.109Z",
+	"runCount": 118790
+}

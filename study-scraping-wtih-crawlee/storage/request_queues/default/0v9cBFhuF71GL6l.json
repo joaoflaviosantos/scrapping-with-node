@@ -1,0 +1,9 @@
+{
+	"id": "0v9cBFhuF71GL6l",
+	"json": "{\"id\":\"0v9cBFhuF71GL6l\",\"url\":\"https://apify.com/alexey/pinterest-crawler\",\"loadedUrl\":\"https://apify.com/alexey/pinterest-crawler\",\"uniqueKey\":\"https://apify.com/alexey/pinterest-crawler\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:37.726Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/alexey/pinterest-crawler",
+	"url": "https://apify.com/alexey/pinterest-crawler"
+}

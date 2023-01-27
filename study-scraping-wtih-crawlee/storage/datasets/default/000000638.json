@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/ufc-store-scraper",
+	"uniqueIdentifier": "mshopik/ufc-store-scraper",
+	"owner": "mshopik",
+	"title": "UFC Store Scraper",
+	"description": "Scrape UFC Store and extract data on sporting from ufcstore.com. Our UFC Store API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:59:10.809Z",
+	"runCount": 428
+}

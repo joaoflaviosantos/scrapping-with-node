@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mtnfranke/telegram-scraper",
+	"uniqueIdentifier": "mtnfranke/telegram-scraper",
+	"owner": "mtnfranke",
+	"title": "Telegram Scraper",
+	"description": "Powerful Telegram scraper to extract data from Chats and Groups. Use it to scrape, filter, search, and backup all your message history. Download Telegram message data as a HTML, JSON, CSV, Excel, or XML doc.",
+	"modifiedDate": "2022-08-23T07:41:47.076Z",
+	"runCount": 2697
+}

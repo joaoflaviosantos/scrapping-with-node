@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/sports-basement-scraper",
+	"uniqueIdentifier": "mshopik/sports-basement-scraper",
+	"owner": "mshopik",
+	"title": "Sports Basement Scraper",
+	"description": "Scrape Sports Basement and extract data on home and garden from sportsbasement.com. Our Sports Basement API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:16:24.620Z",
+	"runCount": 425
+}

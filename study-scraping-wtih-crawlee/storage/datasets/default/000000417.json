@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/monitoring-reporter-mail",
+	"uniqueIdentifier": "apify/monitoring-reporter-mail",
+	"owner": "apify",
+	"title": "Monitoring Reporter Mail",
+	"description": "The Monitoring reporter mail is a part of the Apify Monitoring Suite (apify/monitoring). See its readme for more information and how to use this.",
+	"modifiedDate": "2022-10-19T20:44:28.207Z",
+	"runCount": 15632
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/page-analyzer",
+	"uniqueIdentifier": "apify/page-analyzer",
+	"owner": "apify",
+	"title": "Web Page Analyzer",
+	"description": "Performs analysis of a webpage to figure the best way how to scrapes its data. On input, it takes an URL and array of strings to search for, and on output, it returns a definition of a crawler.",
+	"modifiedDate": "2023-01-05T00:03:56.965Z",
+	"runCount": 42314
+}

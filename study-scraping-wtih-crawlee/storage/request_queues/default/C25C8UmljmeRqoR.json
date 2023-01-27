@@ -1,0 +1,9 @@
+{
+	"id": "C25C8UmljmeRqoR",
+	"json": "{\"id\":\"C25C8UmljmeRqoR\",\"url\":\"https://apify.com/lukaskrivka/website-checker-playwright\",\"loadedUrl\":\"https://apify.com/lukaskrivka/website-checker-playwright\",\"uniqueKey\":\"https://apify.com/lukaskrivka/website-checker-playwright\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:14.610Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/lukaskrivka/website-checker-playwright",
+	"url": "https://apify.com/lukaskrivka/website-checker-playwright"
+}

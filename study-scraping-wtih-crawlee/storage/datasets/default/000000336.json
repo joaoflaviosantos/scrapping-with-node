@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/manscaped-scraper",
+	"uniqueIdentifier": "mshopik/manscaped-scraper",
+	"owner": "mshopik",
+	"title": "Manscaped Scraper",
+	"description": "Scrape Manscaped and extract data on shaving and hair removal from manscaped.com. Our Manscaped API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:11:52.657Z",
+	"runCount": 426
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/sergeylukin/steam-puppeteer",
+	"uniqueIdentifier": "sergeylukin/steam-puppeteer",
+	"owner": "sergeylukin",
+	"title": "Steam Scraper",
+	"description": "Fetch all purchased games from Steam profile page",
+	"modifiedDate": "2022-11-22T14:33:17.032Z",
+	"runCount": 562
+}

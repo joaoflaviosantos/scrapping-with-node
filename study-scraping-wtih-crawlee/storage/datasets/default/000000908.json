@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/arccos-golf-scraper",
+	"uniqueIdentifier": "mshopik/arccos-golf-scraper",
+	"owner": "mshopik",
+	"title": "Arccos Golf Scraper",
+	"description": "Scrape Arccos Golf and extract data on sporting from arccosgolf.com. Our Arccos Golf API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:05:15.499Z",
+	"runCount": 428
+}

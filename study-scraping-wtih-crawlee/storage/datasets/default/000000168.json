@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/thinx-scraper",
+	"uniqueIdentifier": "mshopik/thinx-scraper",
+	"owner": "mshopik",
+	"title": "Thinx Thinx (BTWN) Speax Scraper",
+	"description": "Scrape Thinx Thinx (BTWN) Speax and extract data on women's health from shethinx.com. Our Thinx Thinx (BTWN) Speax API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:36:14.071Z",
+	"runCount": 426
+}

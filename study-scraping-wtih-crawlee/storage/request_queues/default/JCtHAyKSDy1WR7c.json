@@ -1,0 +1,9 @@
+{
+	"id": "JCtHAyKSDy1WR7c",
+	"json": "{\"id\":\"JCtHAyKSDy1WR7c\",\"url\":\"https://apify.com/mshopik/lovevery-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/lovevery-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/lovevery-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:53.266Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/lovevery-scraper",
+	"url": "https://apify.com/mshopik/lovevery-scraper"
+}

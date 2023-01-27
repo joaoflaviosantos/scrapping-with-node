@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/teabox-scraper",
+	"uniqueIdentifier": "mshopik/teabox-scraper",
+	"owner": "mshopik",
+	"title": "Teabox Scraper",
+	"description": "Scrape Teabox and extract data on coffee and tea from teabox.com. Our Teabox API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:59:18.029Z",
+	"runCount": 427
+}

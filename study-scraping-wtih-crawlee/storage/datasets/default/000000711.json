@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/motherhood-maternity-scraper",
+	"uniqueIdentifier": "mshopik/motherhood-maternity-scraper",
+	"owner": "mshopik",
+	"title": "Motherhood Maternity Scraper",
+	"description": "Scrape Motherhood Maternity and extract data on women's clothing from motherhood.com. Our Motherhood Maternity API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:51:21.038Z",
+	"runCount": 426
+}

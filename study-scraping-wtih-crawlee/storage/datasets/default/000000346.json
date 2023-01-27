@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/danielle-nicole-inc-scraper",
+	"uniqueIdentifier": "mshopik/danielle-nicole-inc-scraper",
+	"owner": "mshopik",
+	"title": "Danielle Nicole, Inc. Scraper",
+	"description": "Scrape Danielle Nicole, Inc. and extract data on bags and luggage from danielle-nicole.com. Our Danielle Nicole, Inc. API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:45:39.801Z",
+	"runCount": 425
+}

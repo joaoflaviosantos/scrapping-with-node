@@ -1,0 +1,9 @@
+{
+	"id": "u8yYX5vJJPM9eib",
+	"json": "{\"id\":\"u8yYX5vJJPM9eib\",\"url\":\"https://apify.com/jupri/tesco-grocery\",\"loadedUrl\":\"https://apify.com/jupri/tesco-grocery\",\"uniqueKey\":\"https://apify.com/jupri/tesco-grocery\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:15.965Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jupri/tesco-grocery",
+	"url": "https://apify.com/jupri/tesco-grocery"
+}

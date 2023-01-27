@@ -1,0 +1,9 @@
+{
+	"id": "OBNNXuG2VMfVU8F",
+	"json": "{\"id\":\"OBNNXuG2VMfVU8F\",\"url\":\"https://apify.com/alexey/apple-maps-scraper\",\"loadedUrl\":\"https://apify.com/alexey/apple-maps-scraper\",\"uniqueKey\":\"https://apify.com/alexey/apple-maps-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:21.352Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/alexey/apple-maps-scraper",
+	"url": "https://apify.com/alexey/apple-maps-scraper"
+}

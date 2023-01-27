@@ -1,0 +1,9 @@
+{
+	"id": "eRP7aH5ru2tSwhE",
+	"json": "{\"id\":\"eRP7aH5ru2tSwhE\",\"url\":\"https://apify.com/jancurn/example-sitemap-cheerio\",\"loadedUrl\":\"https://apify.com/jancurn/example-sitemap-cheerio\",\"uniqueKey\":\"https://apify.com/jancurn/example-sitemap-cheerio\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:09.664Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jancurn/example-sitemap-cheerio",
+	"url": "https://apify.com/jancurn/example-sitemap-cheerio"
+}

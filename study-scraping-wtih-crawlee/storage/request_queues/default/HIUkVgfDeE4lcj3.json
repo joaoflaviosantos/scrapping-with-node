@@ -1,0 +1,9 @@
+{
+	"id": "HIUkVgfDeE4lcj3",
+	"json": "{\"id\":\"HIUkVgfDeE4lcj3\",\"url\":\"https://apify.com/juansgaitan/big-query\",\"loadedUrl\":\"https://apify.com/juansgaitan/big-query\",\"uniqueKey\":\"https://apify.com/juansgaitan/big-query\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:39.329Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/juansgaitan/big-query",
+	"url": "https://apify.com/juansgaitan/big-query"
+}

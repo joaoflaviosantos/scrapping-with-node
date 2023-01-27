@@ -1,0 +1,9 @@
+{
+	"id": "Gp1IKktTM47HpHl",
+	"json": "{\"id\":\"Gp1IKktTM47HpHl\",\"url\":\"https://apify.com/zuzka/india-times-scraper\",\"loadedUrl\":\"https://apify.com/zuzka/india-times-scraper\",\"uniqueKey\":\"https://apify.com/zuzka/india-times-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:53.745Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/zuzka/india-times-scraper",
+	"url": "https://apify.com/zuzka/india-times-scraper"
+}

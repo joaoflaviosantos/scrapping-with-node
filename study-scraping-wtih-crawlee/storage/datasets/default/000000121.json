@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/anchor/LinkedIn-people-finder",
+	"uniqueIdentifier": "anchor/LinkedIn-people-finder",
+	"owner": "anchor",
+	"title": "LinkedIn People Finder",
+	"description": "LinkedIn People Finder gets the LinkedIn page of someone you are looking for. You can also provide a list of names, and you will get a list of their LinkedIn URLs.",
+	"modifiedDate": "2022-05-18T08:59:35.035Z",
+	"runCount": 4357
+}

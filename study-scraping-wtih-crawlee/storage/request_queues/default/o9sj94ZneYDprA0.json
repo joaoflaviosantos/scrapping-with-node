@@ -1,0 +1,9 @@
+{
+	"id": "o9sj94ZneYDprA0",
+	"json": "{\"id\":\"o9sj94ZneYDprA0\",\"url\":\"https://apify.com/apify/example-counter\",\"loadedUrl\":\"https://apify.com/apify/example-counter\",\"uniqueKey\":\"https://apify.com/apify/example-counter\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:05.948Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/apify/example-counter",
+	"url": "https://apify.com/apify/example-counter"
+}

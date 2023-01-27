@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/the-happy-planner-scraper",
+	"uniqueIdentifier": "mshopik/the-happy-planner-scraper",
+	"owner": "mshopik",
+	"title": "The Happy Planner Scraper",
+	"description": "Scrape The Happy Planner and extract data on arts and crafts from thehappyplanner.com. Our The Happy Planner API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:47:43.977Z",
+	"runCount": 425
+}

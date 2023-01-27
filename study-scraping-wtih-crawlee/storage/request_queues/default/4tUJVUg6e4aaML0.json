@@ -1,0 +1,9 @@
+{
+	"id": "4tUJVUg6e4aaML0",
+	"json": "{\"id\":\"4tUJVUg6e4aaML0\",\"url\":\"https://apify.com/dhrumil/opensea-collection-scraper\",\"loadedUrl\":\"https://apify.com/dhrumil/opensea-collection-scraper\",\"uniqueKey\":\"https://apify.com/dhrumil/opensea-collection-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:51.181Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/dhrumil/opensea-collection-scraper",
+	"url": "https://apify.com/dhrumil/opensea-collection-scraper"
+}

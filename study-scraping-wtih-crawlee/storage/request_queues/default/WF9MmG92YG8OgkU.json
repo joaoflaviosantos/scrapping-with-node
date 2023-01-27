@@ -1,0 +1,9 @@
+{
+	"id": "WF9MmG92YG8OgkU",
+	"json": "{\"id\":\"WF9MmG92YG8OgkU\",\"url\":\"https://apify.com/pocesar/spawn-workers\",\"loadedUrl\":\"https://apify.com/pocesar/spawn-workers\",\"uniqueKey\":\"https://apify.com/pocesar/spawn-workers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:06.067Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/pocesar/spawn-workers",
+	"url": "https://apify.com/pocesar/spawn-workers"
+}

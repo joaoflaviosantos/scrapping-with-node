@@ -1,0 +1,9 @@
+{
+	"id": "dkh1reHRrDPaqQx",
+	"json": "{\"id\":\"dkh1reHRrDPaqQx\",\"url\":\"https://www.telhanorte.com.br\",\"loadedUrl\":\"https://www.telhanorte.com.br/\",\"uniqueKey\":\"https://www.telhanorte.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:31:42.711Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.telhanorte.com.br",
+	"url": "https://www.telhanorte.com.br"
+}

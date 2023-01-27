@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dtrungtin/canva-templates-scraper",
+	"uniqueIdentifier": "dtrungtin/canva-templates-scraper",
+	"owner": "dtrungtin",
+	"title": "Canva Templates Scraper",
+	"description": "Extracting all templates from the template list page.",
+	"modifiedDate": "2022-12-20T07:52:35.528Z",
+	"runCount": 610
+}

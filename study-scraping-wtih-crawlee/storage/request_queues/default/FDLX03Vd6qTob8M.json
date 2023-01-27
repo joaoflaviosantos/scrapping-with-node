@@ -1,0 +1,9 @@
+{
+	"id": "FDLX03Vd6qTob8M",
+	"json": "{\"id\":\"FDLX03Vd6qTob8M\",\"url\":\"https://apify.com/mtrunkat/24-hour-stats\",\"loadedUrl\":\"https://apify.com/mtrunkat/24-hour-stats\",\"uniqueKey\":\"https://apify.com/mtrunkat/24-hour-stats\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:09.452Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mtrunkat/24-hour-stats",
+	"url": "https://apify.com/mtrunkat/24-hour-stats"
+}

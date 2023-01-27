@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/quacker/easy-twitter-scraper",
+	"uniqueIdentifier": "quacker/easy-twitter-scraper",
+	"owner": "quacker",
+	"title": "Easy Twitter Search Scraper",
+	"description": "Scrape Twitter for any keyword, and extract public information, like Twitter usernames, profile photos, followers count, tweets, hashtags, and more.",
+	"modifiedDate": "2023-01-20T10:08:59.114Z",
+	"runCount": 4390
+}

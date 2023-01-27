@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/onidivo/covid-ir",
+	"uniqueIdentifier": "onidivo/covid-ir",
+	"owner": "onidivo",
+	"title": "Coronavirus stats in Iran",
+	"description": "Get statistics of COVID-19 virus in Iran from https://corona.ihio.gov.ir",
+	"modifiedDate": "2021-04-12T07:57:35.961Z",
+	"runCount": 121397
+}

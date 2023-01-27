@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/m0uka/steam-store-scraper",
+	"uniqueIdentifier": "m0uka/steam-store-scraper",
+	"owner": "m0uka",
+	"title": "Steam Store Scraper",
+	"description": "Steam Store Scraper is a simple actor that crawles the Steam's frontpage and extracts data from individual store pages. The extracted data is stored in a dataset, from where you can extract it to various formats, such as JSON, XML, CSV, Excel, etc..",
+	"modifiedDate": "2022-05-23T12:09:56.366Z",
+	"runCount": 387
+}

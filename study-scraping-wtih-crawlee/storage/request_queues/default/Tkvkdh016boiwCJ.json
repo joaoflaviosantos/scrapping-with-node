@@ -1,0 +1,9 @@
+{
+	"id": "Tkvkdh016boiwCJ",
+	"json": "{\"id\":\"Tkvkdh016boiwCJ\",\"url\":\"https://apify.com/mshopik/cotopaxi-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/cotopaxi-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/cotopaxi-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:41.084Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/cotopaxi-scraper",
+	"url": "https://apify.com/mshopik/cotopaxi-scraper"
+}

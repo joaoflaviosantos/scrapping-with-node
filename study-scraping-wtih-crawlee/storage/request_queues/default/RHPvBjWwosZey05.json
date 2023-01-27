@@ -1,0 +1,9 @@
+{
+	"id": "RHPvBjWwosZey05",
+	"json": "{\"id\":\"RHPvBjWwosZey05\",\"url\":\"https://apify.com/hanatsai/fox-news-scraper\",\"loadedUrl\":\"https://apify.com/hanatsai/fox-news-scraper\",\"uniqueKey\":\"https://apify.com/hanatsai/fox-news-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:27.275Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/hanatsai/fox-news-scraper",
+	"url": "https://apify.com/hanatsai/fox-news-scraper"
+}

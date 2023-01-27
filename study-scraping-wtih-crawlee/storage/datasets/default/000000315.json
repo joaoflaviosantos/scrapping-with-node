@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dan.scraper/google-jobs-scraper",
+	"uniqueIdentifier": "dan.scraper/google-jobs-scraper",
+	"owner": "dan.scraper",
+	"title": "Google Jobs Scraper",
+	"description": "Google Jobs Scraper is to enable you to scrape Google Jobs Results, extract \"googleJobs\", \"categories\". Allow customizing country or language or job radius and extraction of custom attributes. Download data as HTML table, JSON, CSV, Excel, XML.",
+	"modifiedDate": "2022-11-27T14:04:52.420Z",
+	"runCount": 16394
+}

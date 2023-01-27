@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/zillow-scraper",
+	"uniqueIdentifier": "jupri/zillow-scraper",
+	"owner": "jupri",
+	"title": "Zillow Property Scraper",
+	"description": "Search property data from Zillow.com",
+	"modifiedDate": "2022-12-06T15:53:48.482Z",
+	"runCount": 50431
+}

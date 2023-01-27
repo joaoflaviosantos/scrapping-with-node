@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/cyberfly/actor-probe",
+	"uniqueIdentifier": "cyberfly/actor-probe",
+	"owner": "cyberfly",
+	"title": "Actor Probe",
+	"description": "Reports performance stats of any actor calculated from its runs on a daily and weekly basis. Notification will be skipped if no new runs are found since the last report.",
+	"modifiedDate": "2022-10-10T09:02:01.079Z",
+	"runCount": 22
+}

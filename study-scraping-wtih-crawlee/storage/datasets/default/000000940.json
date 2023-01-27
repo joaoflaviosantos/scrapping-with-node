@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/strajk/fdf-bike-shop-fdfbikeshop-cz-scraper",
+	"uniqueIdentifier": "strajk/fdf-bike-shop-fdfbikeshop-cz-scraper",
+	"owner": "strajk",
+	"title": "FDF Bike Shop (fdfbikeshop.cz) scraper",
+	"description": "Scrapes products titles, prices, images and availability. Does NOT scrape product details.",
+	"modifiedDate": "2022-10-12T09:04:08.910Z",
+	"runCount": 271
+}

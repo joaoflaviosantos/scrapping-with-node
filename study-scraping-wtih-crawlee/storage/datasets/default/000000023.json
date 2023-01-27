@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/petr_cermak/transfermarkt",
+	"uniqueIdentifier": "petr_cermak/transfermarkt",
+	"owner": "petr_cermak",
+	"title": "Transfermarkt Scraper",
+	"description": "⚽ Use this free tool as an API for the Transfermarkt website. Scrape and extract data from competition, club or player pages, or almost any Transfermarkt page. Download your data as HTML table, JSON, CSV, Excel, XML, and RSS feed.",
+	"modifiedDate": "2022-04-22T08:01:45.848Z",
+	"runCount": 10965
+}

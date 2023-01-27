@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/alexey/glassdoor-jobs-scraper",
+	"uniqueIdentifier": "alexey/glassdoor-jobs-scraper",
+	"owner": "alexey",
+	"title": "Glassdoor Scraper",
+	"description": "Scrapes job data from Glassdoor. Fast and free Glassdoor Scraper to extract all data from job listings including salaries, companies, and reviews.",
+	"modifiedDate": "2022-09-13T10:48:55.465Z",
+	"runCount": 10692
+}

@@ -1,0 +1,9 @@
+{
+	"id": "HpdL6gTOS4Gs4W6",
+	"json": "{\"id\":\"HpdL6gTOS4Gs4W6\",\"url\":\"https://apify.com/mstephen190/s3-bucket-uploader\",\"loadedUrl\":\"https://apify.com/mstephen190/s3-bucket-uploader\",\"uniqueKey\":\"https://apify.com/mstephen190/s3-bucket-uploader\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:48.628Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mstephen190/s3-bucket-uploader",
+	"url": "https://apify.com/mstephen190/s3-bucket-uploader"
+}

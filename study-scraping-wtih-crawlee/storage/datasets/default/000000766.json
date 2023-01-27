@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/maria.f/cnbc-scraper",
+	"uniqueIdentifier": "maria.f/cnbc-scraper",
+	"owner": "maria.f",
+	"title": "CNBC Scraper",
+	"description": "Scrape news data from cnbc.com with this unofficial API. Extract articles, monitor their popularity and performance and automate the fight against fake news. Filter the results by authors, topics, categories, or publication dates. Preview or download the results in your preferred format.",
+	"modifiedDate": "2022-08-07T19:02:39.525Z",
+	"runCount": 273
+}

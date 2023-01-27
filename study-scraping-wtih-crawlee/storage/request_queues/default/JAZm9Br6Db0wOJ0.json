@@ -1,0 +1,9 @@
+{
+	"id": "JAZm9Br6Db0wOJ0",
+	"json": "{\"id\":\"JAZm9Br6Db0wOJ0\",\"url\":\"https://apify.com/yeyo/single-tweet-scraper\",\"loadedUrl\":\"https://apify.com/yeyo/single-tweet-scraper\",\"uniqueKey\":\"https://apify.com/yeyo/single-tweet-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:47.619Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/yeyo/single-tweet-scraper",
+	"url": "https://apify.com/yeyo/single-tweet-scraper"
+}

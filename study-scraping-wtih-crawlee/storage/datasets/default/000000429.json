@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/figs-scraper",
+	"uniqueIdentifier": "mshopik/figs-scraper",
+	"owner": "mshopik",
+	"title": "FIGS Scraper",
+	"description": "Scrape FIGS and extract data on apparel from wearfigs.com. Our FIGS API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:37:08.164Z",
+	"runCount": 426
+}

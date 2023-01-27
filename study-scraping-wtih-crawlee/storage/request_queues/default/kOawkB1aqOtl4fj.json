@@ -1,0 +1,9 @@
+{
+	"id": "kOawkB1aqOtl4fj",
+	"json": "{\"id\":\"kOawkB1aqOtl4fj\",\"url\":\"https://apify.com/valek.josef/create-mini-actor\",\"loadedUrl\":\"https://apify.com/valek.josef/create-mini-actor\",\"uniqueKey\":\"https://apify.com/valek.josef/create-mini-actor\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:48.701Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/valek.josef/create-mini-actor",
+	"url": "https://apify.com/valek.josef/create-mini-actor"
+}

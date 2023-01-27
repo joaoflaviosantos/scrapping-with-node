@@ -1,0 +1,9 @@
+{
+	"id": "7QetjMXljFaliNp",
+	"json": "{\"id\":\"7QetjMXljFaliNp\",\"url\":\"https://apify.com/pocesar/sitemap-to-request-queue\",\"loadedUrl\":\"https://apify.com/pocesar/sitemap-to-request-queue\",\"uniqueKey\":\"https://apify.com/pocesar/sitemap-to-request-queue\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:13.710Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/pocesar/sitemap-to-request-queue",
+	"url": "https://apify.com/pocesar/sitemap-to-request-queue"
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dtrungtin/dnb-companies-scraper",
+	"uniqueIdentifier": "dtrungtin/dnb-companies-scraper",
+	"owner": "dtrungtin",
+	"title": "DNB Companies Scraper",
+	"description": "Filtering and extracting data about companies from https://www.dnb.com. Easily filtering results by different criteria such as revenue minimum, number of employees minimum, located in different countries, etc.",
+	"modifiedDate": "2023-01-04T07:53:54.891Z",
+	"runCount": 525
+}

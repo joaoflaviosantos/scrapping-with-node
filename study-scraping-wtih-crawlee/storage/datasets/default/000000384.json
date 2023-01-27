@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/nigels/jobs-scraper",
+	"uniqueIdentifier": "nigels/jobs-scraper",
+	"owner": "nigels",
+	"title": "Google Jobs Scraper",
+	"description": "Scrape Google Jobs with ease by specifying query and other optional keywords. AI enhanced version to come,\n\nFeel free to contact us in case of any special requests :) Alos feel free to contact us if you run on any errors. Usually should be fixed within days :)",
+	"modifiedDate": "2022-12-11T09:07:26.783Z",
+	"runCount": 584
+}

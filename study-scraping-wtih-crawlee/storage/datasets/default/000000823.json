@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/strajk/team-sport-teamsport-cz-scraper",
+	"uniqueIdentifier": "strajk/team-sport-teamsport-cz-scraper",
+	"owner": "strajk",
+	"title": "Team Sport (teamsport.cz) scraper",
+	"description": "Scrapes products titles, prices, images and availability. Does NOT scrape product details.",
+	"modifiedDate": "2022-10-12T09:15:58.409Z",
+	"runCount": 165
+}

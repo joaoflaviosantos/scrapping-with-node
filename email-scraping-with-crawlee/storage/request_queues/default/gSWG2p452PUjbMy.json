@@ -1,0 +1,9 @@
+{
+	"id": "gSWG2p452PUjbMy",
+	"json": "{\"id\":\"gSWG2p452PUjbMy\",\"url\":\"https://portal.pinceisatlas.com.br\",\"loadedUrl\":\"https://portal.pinceisatlas.com.br/site/en\",\"uniqueKey\":\"https://portal.pinceisatlas.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:31:53.074Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://portal.pinceisatlas.com.br",
+	"url": "https://portal.pinceisatlas.com.br"
+}

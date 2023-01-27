@@ -1,0 +1,9 @@
+{
+	"id": "eR8nuIKMvTJ5zFR",
+	"json": "{\"id\":\"eR8nuIKMvTJ5zFR\",\"url\":\"https://www.decorefloor.com.br\",\"loadedUrl\":\"https://www.decorefloor.com.br/\",\"uniqueKey\":\"https://www.decorefloor.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:31:43.003Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.decorefloor.com.br",
+	"url": "https://www.decorefloor.com.br"
+}

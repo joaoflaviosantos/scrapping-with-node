@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/forever21-scraper",
+	"uniqueIdentifier": "epctex/forever21-scraper",
+	"owner": "epctex",
+	"title": "Forever21 Scraper",
+	"description": "Extract any product data from Forever21 easily! Images, sizes, SKUs, quantities, colors, and many more values are ready for you. Search for any keyword, filter by your needs, or get category pages! Export your data by XML, JSON, CSV, Excel or HTML.",
+	"modifiedDate": "2023-01-13T11:00:17.447Z",
+	"runCount": 535
+}

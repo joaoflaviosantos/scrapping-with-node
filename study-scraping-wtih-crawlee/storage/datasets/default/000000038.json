@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/pocesar/json-downloader",
+	"uniqueIdentifier": "pocesar/json-downloader",
+	"owner": "pocesar",
+	"title": "API / JSON scraper",
+	"description": "Scrape any API / JSON URLs directly to the dataset, and return them in CSV, XML, HTML, or Excel formats. Transform and filter the output. \nEnables you to follow pagination recursively from the payload without the need to visit the HTML page.",
+	"modifiedDate": "2022-12-12T12:17:50.315Z",
+	"runCount": 5416
+}

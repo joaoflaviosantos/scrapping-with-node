@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/example-call",
+	"uniqueIdentifier": "apify/example-call",
+	"owner": "apify",
+	"title": "Example Call",
+	"description": "A simple example showing how to call another actor from an actor. Note that this actor doesn't accept any input and doesn't generate any output.",
+	"modifiedDate": "2022-10-19T20:52:05.359Z",
+	"runCount": 632
+}

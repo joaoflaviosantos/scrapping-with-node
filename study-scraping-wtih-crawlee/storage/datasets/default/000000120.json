@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/example-puppeteer",
+	"uniqueIdentifier": "apify/example-puppeteer",
+	"owner": "apify",
+	"title": "Example Puppeteer",
+	"description": "Example showing how to use headless Chromium with Puppeteer to open a web page, determine its dimensions, save a screenshot, and print the page to PDF. This actor must use images with Puppeteer (Node.js 8 + Puppeteer on Debian).",
+	"modifiedDate": "2022-11-22T14:24:53.885Z",
+	"runCount": 1433
+}

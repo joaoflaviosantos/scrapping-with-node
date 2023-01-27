@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jancurn/example-sitemap-cheerio",
+	"uniqueIdentifier": "jancurn/example-sitemap-cheerio",
+	"owner": "jancurn",
+	"title": "Example Sitemap Cheerio",
+	"description": "An example actor that first downloads a sitemap in XML format and the crawls each page from the sitemap using the fast CheerioCrawler from Apify SDK.",
+	"modifiedDate": "2022-10-10T09:03:23.638Z",
+	"runCount": 51
+}

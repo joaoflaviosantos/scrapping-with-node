@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/dailysale-scraper",
+	"uniqueIdentifier": "mshopik/dailysale-scraper",
+	"owner": "mshopik",
+	"title": "DailySale Scraper",
+	"description": "Scrape DailySale and extract data on apparel from dailysale.com. Our DailySale API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:46:11.207Z",
+	"runCount": 425
+}

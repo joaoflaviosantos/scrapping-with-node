@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/hunter-fan-scraper",
+	"uniqueIdentifier": "mshopik/hunter-fan-scraper",
+	"owner": "mshopik",
+	"title": "Hunter Fan Scraper",
+	"description": "Scrape Hunter Fan and extract data on hvac and climate control from hunterfan.com. Our Hunter Fan API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:59:24.166Z",
+	"runCount": 427
+}

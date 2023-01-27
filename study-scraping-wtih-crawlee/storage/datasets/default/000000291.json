@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukaskrivka/download-image",
+	"uniqueIdentifier": "lukaskrivka/download-image",
+	"owner": "lukaskrivka",
+	"title": "Example Image Download",
+	"description": "Download a single image from a URL and store it into a key-value store.",
+	"modifiedDate": "2022-06-28T09:40:41.006Z",
+	"runCount": null
+}

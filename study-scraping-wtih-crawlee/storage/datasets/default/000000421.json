@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/petr_cermak/MySQL-insert",
+	"uniqueIdentifier": "petr_cermak/MySQL-insert",
+	"owner": "petr_cermak",
+	"title": "MySQL Insert",
+	"description": "This act takes a crawler execution and inserts it's results into a remote MySQL database.",
+	"modifiedDate": "2022-01-19T21:01:50.722Z",
+	"runCount": 65976
+}

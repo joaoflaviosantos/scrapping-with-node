@@ -1,0 +1,9 @@
+{
+	"id": "bkZ5NmuIXEjj8ex",
+	"json": "{\"id\":\"bkZ5NmuIXEjj8ex\",\"url\":\"https://apify.com/selcukitmis/binance-top-traders-positions\",\"loadedUrl\":\"https://apify.com/selcukitmis/binance-top-traders-positions\",\"uniqueKey\":\"https://apify.com/selcukitmis/binance-top-traders-positions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:49.707Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/selcukitmis/binance-top-traders-positions",
+	"url": "https://apify.com/selcukitmis/binance-top-traders-positions"
+}

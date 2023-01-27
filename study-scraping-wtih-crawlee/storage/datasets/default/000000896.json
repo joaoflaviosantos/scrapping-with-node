@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/krakorj/covid-serbia",
+	"uniqueIdentifier": "krakorj/covid-serbia",
+	"owner": "krakorj",
+	"title": "Coronavirus stats in the Serbia",
+	"description": "Gets an actual number of examined and infected people by COVID-19 in Serbia stats from https://covid19.rs/homepage-english/",
+	"modifiedDate": "2021-04-12T09:41:48.672Z",
+	"runCount": 120946
+}

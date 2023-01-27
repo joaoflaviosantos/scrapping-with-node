@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/boll-and-branch-scraper",
+	"uniqueIdentifier": "mshopik/boll-and-branch-scraper",
+	"owner": "mshopik",
+	"title": "Boll Branch Scraper",
+	"description": "Scrape Boll Branch and extract data on bed and bath from bollandbranch.com. Our Boll Branch API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:15:55.030Z",
+	"runCount": 425
+}

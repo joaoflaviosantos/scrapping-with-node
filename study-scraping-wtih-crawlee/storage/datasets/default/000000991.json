@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/patrik.trefil/c-sharp-apify-actor-example",
+	"uniqueIdentifier": "patrik.trefil/c-sharp-apify-actor-example",
+	"owner": "patrik.trefil",
+	"title": "Actor in C# Example",
+	"description": "Example actor built in C# programming language. Downloads HTML from any page. Works on Apify platform and locally.",
+	"modifiedDate": "2022-07-22T09:33:09.830Z",
+	"runCount": 201
+}

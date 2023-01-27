@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/alexey/facebook-page-ads",
+	"uniqueIdentifier": "alexey/facebook-page-ads",
+	"owner": "alexey",
+	"title": "Facebook Ads Scraper",
+	"description": "Extract advertising data from one or multiple Facebook Pages. Get page details, reach estimates, publisher platforms, report count, number of impressions, ad IDs, timestamps, and more. Download Facebook ads data in JSON, CSV, and Excel and use it in apps, spreadsheets, and reports.",
+	"modifiedDate": "2023-01-24T11:58:02.878Z",
+	"runCount": 14915
+}

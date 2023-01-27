@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/perci/z-library-book-scraper",
+	"uniqueIdentifier": "perci/z-library-book-scraper",
+	"owner": "perci",
+	"title": "Z-library Book Scraper",
+	"description": "Extract the book title, author, publisher, publication year, ISBN, and more from over 10 million e-books available on Z-library. Download data as HTML table, JSON, CSV, Excel, XML.",
+	"modifiedDate": "2022-11-19T04:22:36.169Z",
+	"runCount": 385
+}

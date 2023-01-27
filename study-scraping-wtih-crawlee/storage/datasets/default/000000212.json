@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/thrive-causemetics-scraper",
+	"uniqueIdentifier": "mshopik/thrive-causemetics-scraper",
+	"owner": "mshopik",
+	"title": "Thrive Causemetics Scraper",
+	"description": "Scrape Thrive Causemetics and extract data on make-up and cosmetics from thrivecausemetics.com. Our Thrive Causemetics API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:13:35.614Z",
+	"runCount": 426
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/vaclavrut/executionid-to-xls-and-send",
+	"uniqueIdentifier": "vaclavrut/executionid-to-xls-and-send",
+	"owner": "vaclavrut",
+	"title": "Execution ID To XLS Send",
+	"description": "This actor takes JSON at input, creates it as XLS from the execution ID result and then sends a link by email. The URL is also outputted in the log. Solves attaching XLS files to emails.",
+	"modifiedDate": "2022-10-10T09:08:16.585Z",
+	"runCount": 727
+}

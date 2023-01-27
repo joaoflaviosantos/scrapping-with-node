@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/heatonist-scraper",
+	"uniqueIdentifier": "mshopik/heatonist-scraper",
+	"owner": "mshopik",
+	"title": "HEATONIST Scraper",
+	"description": "Scrape HEATONIST and extract data on food from heatonist.com. Our HEATONIST API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:51:12.157Z",
+	"runCount": 425
+}

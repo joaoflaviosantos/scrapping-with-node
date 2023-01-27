@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mhamas/website-backup",
+	"uniqueIdentifier": "mhamas/website-backup",
+	"owner": "mhamas",
+	"title": "Website Backup",
+	"description": "Enables to create a backup of any website by crawling it, so that you don’t lose any content by accident. Ideal e.g. for your personal or company blog.",
+	"modifiedDate": "2021-10-06T13:16:15.640Z",
+	"runCount": 5520
+}

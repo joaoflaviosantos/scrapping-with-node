@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/petrpatek/covid-19-aggregator",
+	"uniqueIdentifier": "petrpatek/covid-19-aggregator",
+	"owner": "petrpatek",
+	"title": "Coronavirus stats across the World",
+	"description": "Aggregates data from all the Apify coronavirus COVID-19 public actors and unifies them in one overview dataset. Uses our API's for your COVID-19 reports and overviews.",
+	"modifiedDate": "2022-12-12T12:20:09.915Z",
+	"runCount": 179000
+}

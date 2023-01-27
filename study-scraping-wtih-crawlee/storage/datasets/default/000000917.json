@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/2modern-furniture-and-lighting-scraper",
+	"uniqueIdentifier": "mshopik/2modern-furniture-and-lighting-scraper",
+	"owner": "mshopik",
+	"title": "2Modern Furniture Lighting Scraper",
+	"description": "Scrape 2Modern Furniture Lighting and extract data on lamps and lighting from 2modern.com. Our 2Modern Furniture Lighting API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:51:33.500Z",
+	"runCount": 428
+}

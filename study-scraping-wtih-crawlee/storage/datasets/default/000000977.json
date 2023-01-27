@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/theo/the-guardian-scraper",
+	"uniqueIdentifier": "theo/the-guardian-scraper",
+	"owner": "theo",
+	"title": "The Guardian Scraper",
+	"description": "Scrape news data from theguardian.com with this unofficial API. Extract articles, monitor their popularity and performance and automate the fight against fake news. Filter the results by authors, topics, categories, or publication dates. Preview or download the results in your preferred format.",
+	"modifiedDate": "2022-08-07T20:48:41.414Z",
+	"runCount": 255
+}

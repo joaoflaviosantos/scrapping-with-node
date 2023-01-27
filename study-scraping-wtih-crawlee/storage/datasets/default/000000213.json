@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/timbuk2-scraper",
+	"uniqueIdentifier": "mshopik/timbuk2-scraper",
+	"owner": "mshopik",
+	"title": "Timbuk2 Scraper",
+	"description": "Scrape Timbuk2 and extract data on travel from timbuk2.com. Our Timbuk2 API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:53:43.374Z",
+	"runCount": 425
+}

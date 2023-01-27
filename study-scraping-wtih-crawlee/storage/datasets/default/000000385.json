@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jancurn/algolia-webcrawler",
+	"uniqueIdentifier": "jancurn/algolia-webcrawler",
+	"owner": "jancurn",
+	"title": "Algolia Webcrawler",
+	"description": "Crawls a website using one or more sitemaps and imports the data to Algolia search index. The text content is identified using simple CSS selectors.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 318
+}

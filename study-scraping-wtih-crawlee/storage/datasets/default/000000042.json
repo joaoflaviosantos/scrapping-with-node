@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/alexey/quick-instagram-profile-check",
+	"uniqueIdentifier": "alexey/quick-instagram-profile-check",
+	"owner": "alexey",
+	"title": "Instagram API Scraper",
+	"description": "Scrape and download Instagram posts, profiles, places, hashtags, photos without login. Supports search keywords and URL lists. Download your data as HTML table, JSON, CSV, Excel, XML, and RSS feed.",
+	"modifiedDate": "2023-01-23T23:34:50.986Z",
+	"runCount": 306903
+}

@@ -1,0 +1,9 @@
+{
+	"id": "M2eXlUVnhLW9Br4",
+	"json": "{\"id\":\"M2eXlUVnhLW9Br4\",\"url\":\"https://apify.com/lukaskrivka/duplications-checker\",\"loadedUrl\":\"https://apify.com/lukaskrivka/duplications-checker\",\"uniqueKey\":\"https://apify.com/lukaskrivka/duplications-checker\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:38.355Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/lukaskrivka/duplications-checker",
+	"url": "https://apify.com/lukaskrivka/duplications-checker"
+}

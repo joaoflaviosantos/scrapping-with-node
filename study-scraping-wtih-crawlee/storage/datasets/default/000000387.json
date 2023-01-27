@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/iglu/e-commerce-scraper",
+	"uniqueIdentifier": "iglu/e-commerce-scraper",
+	"owner": "iglu",
+	"title": "E-Commerce Scraper",
+	"description": "E-Commerce Scraper API employs AI-powered technologies and eliminates the hassle of data collection. Quickly scrape Amazon, eBay, GameStop, Western Digital, and tons of other e-commerce.",
+	"modifiedDate": "2022-11-15T19:29:24.657Z",
+	"runCount": 4345
+}

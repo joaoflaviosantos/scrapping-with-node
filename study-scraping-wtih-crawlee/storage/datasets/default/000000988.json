@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukas.novotny/ubuntu-images-scraper",
+	"uniqueIdentifier": "lukas.novotny/ubuntu-images-scraper",
+	"owner": "lukas.novotny",
+	"title": "Ubuntu Images Scraper",
+	"description": "This scraper enables you to retrieve Ubuntu image ID(s) available on various public clouds. Ubuntu is a complete Linux operating system, freely available with both community and professional support.",
+	"modifiedDate": "2022-02-16T08:49:48.360Z",
+	"runCount": 454
+}

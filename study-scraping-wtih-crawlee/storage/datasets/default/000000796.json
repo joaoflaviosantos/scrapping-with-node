@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukass/covid-ger",
+	"uniqueIdentifier": "lukass/covid-ger",
+	"owner": "lukass",
+	"title": "Coronavirus stats in Germany",
+	"description": "Gets up-to-date number of people tested for and infected with COVID-19 in Germany from https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html",
+	"modifiedDate": "2021-04-12T07:59:12.563Z",
+	"runCount": 129375
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/emastra/anti-captcha-geetest",
+	"uniqueIdentifier": "emastra/anti-captcha-geetest",
+	"owner": "emastra",
+	"title": "Anti Captcha Geetest",
+	"description": "Solve Geetest captchas with this actor using anti-captcha.com service.",
+	"modifiedDate": "2022-10-10T09:02:56.305Z",
+	"runCount": 462
+}

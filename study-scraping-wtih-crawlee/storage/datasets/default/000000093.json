@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/staticnailscom-scraper",
+	"uniqueIdentifier": "mshopik/staticnailscom-scraper",
+	"owner": "mshopik",
+	"title": "staticnails.com Scraper",
+	"description": "Scrape staticnails.com and extract data on skin and nail care from staticnails.com. Our staticnails.com API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:00:45.790Z",
+	"runCount": 426
+}

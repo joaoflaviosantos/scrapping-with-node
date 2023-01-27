@@ -1,0 +1,9 @@
+{
+	"id": "Z3NzkD1IfYPErLB",
+	"json": "{\"id\":\"Z3NzkD1IfYPErLB\",\"url\":\"https://apify.com/big-brain.io/linkedin-session-cookies\",\"loadedUrl\":\"https://apify.com/big-brain.io/linkedin-session-cookies\",\"uniqueKey\":\"https://apify.com/big-brain.io/linkedin-session-cookies\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:06.869Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/big-brain.io/linkedin-session-cookies",
+	"url": "https://apify.com/big-brain.io/linkedin-session-cookies"
+}

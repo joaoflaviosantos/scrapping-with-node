@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/xing-scraper",
+	"uniqueIdentifier": "epctex/xing-scraper",
+	"owner": "epctex",
+	"title": "XING Scraper",
+	"description": "Advanced scraping on XING for data on millions of companies, jobs, profiles, communities, groups and many more. Crawl Jobs and extract descriptions, images, company details, summarizations and all other properties. You can specify search terms, filters, mappings and much more.",
+	"modifiedDate": "2023-01-25T02:02:25.717Z",
+	"runCount": 1116
+}

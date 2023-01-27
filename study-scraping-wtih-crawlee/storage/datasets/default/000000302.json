@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/kristoferlund/apify-metascraper",
+	"uniqueIdentifier": "kristoferlund/apify-metascraper",
+	"owner": "kristoferlund",
+	"title": "Metascraper",
+	"description": "Simple actor that loads webpage and scrapes metadata using Metascraper library. \n\nMetadata – A library to easily scrape metadata from an article on the web using Open Graph, JSON+LD, regular HTML metadata, and series of fallbacks.\n\nhttps://metascraper.js.org",
+	"modifiedDate": "2022-06-20T13:59:14.079Z",
+	"runCount": 760
+}

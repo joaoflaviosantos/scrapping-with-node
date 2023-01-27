@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/crane-and-canopy-scraper",
+	"uniqueIdentifier": "mshopik/crane-and-canopy-scraper",
+	"owner": "mshopik",
+	"title": "Crane Canopy Scraper",
+	"description": "Scrape Crane Canopy and extract data on bed and bath from craneandcanopy.com. Our Crane Canopy API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:21:04.293Z",
+	"runCount": 426
+}

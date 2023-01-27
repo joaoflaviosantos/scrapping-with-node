@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/krakorj/covid-netherland",
+	"uniqueIdentifier": "krakorj/covid-netherland",
+	"owner": "krakorj",
+	"title": "Coronavirus stats in the Netherlands",
+	"description": "Gets COVID-19 stats in the Netherlands from \nhttps://www.stichting-nice.nl/ (referenced from https://www.rivm.nl/node/152921)",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 51642
+}

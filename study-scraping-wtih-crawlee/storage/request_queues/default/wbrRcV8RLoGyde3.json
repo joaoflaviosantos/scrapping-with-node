@@ -1,0 +1,9 @@
+{
+	"id": "wbrRcV8RLoGyde3",
+	"json": "{\"id\":\"wbrRcV8RLoGyde3\",\"url\":\"https://apify.com/petr_cermak/ftp-upload\",\"loadedUrl\":\"https://apify.com/petr_cermak/ftp-upload\",\"uniqueKey\":\"https://apify.com/petr_cermak/ftp-upload\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:17.432Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/petr_cermak/ftp-upload",
+	"url": "https://apify.com/petr_cermak/ftp-upload"
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/strajk/koloshop-koloshop-cz-scraper",
+	"uniqueIdentifier": "strajk/koloshop-koloshop-cz-scraper",
+	"owner": "strajk",
+	"title": "Koloshop (koloshop.cz) scraper",
+	"description": "Scrapes products titles, prices, images and availability. Does NOT scrape product details.",
+	"modifiedDate": "2022-10-12T09:09:36.622Z",
+	"runCount": 273
+}

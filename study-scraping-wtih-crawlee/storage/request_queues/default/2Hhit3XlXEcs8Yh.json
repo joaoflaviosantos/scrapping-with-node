@@ -1,0 +1,9 @@
+{
+	"id": "2Hhit3XlXEcs8Yh",
+	"json": "{\"id\":\"2Hhit3XlXEcs8Yh\",\"url\":\"https://apify.com/zuzka/reuters-scraper\",\"loadedUrl\":\"https://apify.com/zuzka/reuters-scraper\",\"uniqueKey\":\"https://apify.com/zuzka/reuters-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:07.761Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/zuzka/reuters-scraper",
+	"url": "https://apify.com/zuzka/reuters-scraper"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "5kxUtC7OO3wFqLu",
+	"json": "{\"id\":\"5kxUtC7OO3wFqLu\",\"url\":\"https://apify.com/lukaskrivka/google-sheets\",\"loadedUrl\":\"https://apify.com/lukaskrivka/google-sheets\",\"uniqueKey\":\"https://apify.com/lukaskrivka/google-sheets\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:47:54.444Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/lukaskrivka/google-sheets",
+	"url": "https://apify.com/lukaskrivka/google-sheets"
+}

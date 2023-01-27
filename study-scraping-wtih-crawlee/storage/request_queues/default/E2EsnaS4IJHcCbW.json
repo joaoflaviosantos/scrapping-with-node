@@ -1,0 +1,9 @@
+{
+	"id": "E2EsnaS4IJHcCbW",
+	"json": "{\"id\":\"E2EsnaS4IJHcCbW\",\"url\":\"https://apify.com/vojtam/amazon-seller-scraper\",\"loadedUrl\":\"https://apify.com/vojtam/amazon-seller-scraper\",\"uniqueKey\":\"https://apify.com/vojtam/amazon-seller-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:49.633Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/vojtam/amazon-seller-scraper",
+	"url": "https://apify.com/vojtam/amazon-seller-scraper"
+}

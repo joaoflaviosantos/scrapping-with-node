@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/anchor/Doctolib",
+	"uniqueIdentifier": "anchor/Doctolib",
+	"owner": "anchor",
+	"title": "Doctolib",
+	"description": "Scraping Doctolib is now super easy! By default, you will get names, contact, timings and addresses. Best part : you can customize what info to extract from the app!",
+	"modifiedDate": "2023-01-05T10:57:29.311Z",
+	"runCount": 263
+}

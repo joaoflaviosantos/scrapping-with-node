@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/garden-goods-direct-scraper",
+	"uniqueIdentifier": "mshopik/garden-goods-direct-scraper",
+	"owner": "mshopik",
+	"title": "Garden Goods Direct Scraper",
+	"description": "Scrape Garden Goods Direct and extract data on gardening and landscaping from gardengoodsdirect.com. Our Garden Goods Direct API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:52:00.143Z",
+	"runCount": 425
+}

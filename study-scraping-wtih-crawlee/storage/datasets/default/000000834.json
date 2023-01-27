@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/social-status-scraper",
+	"uniqueIdentifier": "mshopik/social-status-scraper",
+	"owner": "mshopik",
+	"title": "Social Status Scraper",
+	"description": "Scrape Social Status and extract data on apparel from socialstatuspgh.com. Our Social Status API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:58:32.212Z",
+	"runCount": 428
+}

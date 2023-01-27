@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mcdowell/yellow-pages",
+	"uniqueIdentifier": "mcdowell/yellow-pages",
+	"owner": "mcdowell",
+	"title": "Yellow Pages",
+	"description": "Scrape Yellow Pages for addresses, categories, names and phone numbers from listings",
+	"modifiedDate": "2022-12-15T11:43:46.095Z",
+	"runCount": 75
+}

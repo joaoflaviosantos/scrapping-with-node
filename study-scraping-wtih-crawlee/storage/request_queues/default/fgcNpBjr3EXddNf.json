@@ -1,0 +1,9 @@
+{
+	"id": "fgcNpBjr3EXddNf",
+	"json": "{\"id\":\"fgcNpBjr3EXddNf\",\"url\":\"https://apify.com/mshopik/fangamer-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/fangamer-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/fangamer-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:50.138Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/fangamer-scraper",
+	"url": "https://apify.com/mshopik/fangamer-scraper"
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/ethnic-by-outfitters-scraper",
+	"uniqueIdentifier": "mshopik/ethnic-by-outfitters-scraper",
+	"owner": "mshopik",
+	"title": "Ethnic by Outfitters Scraper",
+	"description": "Scrape Ethnic by Outfitters and extract data on women's clothing from ethnic.pk. Our Ethnic by Outfitters API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:00:40.033Z",
+	"runCount": 425
+}

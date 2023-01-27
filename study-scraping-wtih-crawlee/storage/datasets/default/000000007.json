@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/junglee/Amazon-crawler",
+	"uniqueIdentifier": "junglee/Amazon-crawler",
+	"owner": "junglee",
+	"title": "Amazon Product Scraper",
+	"description": "Use this Amazon scraper to collect data based on URL and country from the Amazon website. Extract product information without using the Amazon API, including reviews, prices, descriptions, and Amazon Standard Identification Numbers (ASINs). Download data in various structured formats.",
+	"modifiedDate": "2023-01-20T18:37:25.361Z",
+	"runCount": 25201
+}

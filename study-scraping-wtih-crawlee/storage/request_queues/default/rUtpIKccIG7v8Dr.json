@@ -1,0 +1,9 @@
+{
+	"id": "rUtpIKccIG7v8Dr",
+	"json": "{\"id\":\"rUtpIKccIG7v8Dr\",\"url\":\"https://apify.com/mtrunkat/actor-task-copier\",\"loadedUrl\":\"https://apify.com/mtrunkat/actor-task-copier\",\"uniqueKey\":\"https://apify.com/mtrunkat/actor-task-copier\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:37.659Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mtrunkat/actor-task-copier",
+	"url": "https://apify.com/mtrunkat/actor-task-copier"
+}

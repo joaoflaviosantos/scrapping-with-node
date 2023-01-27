@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/ruggable-scraper",
+	"uniqueIdentifier": "mshopik/ruggable-scraper",
+	"owner": "mshopik",
+	"title": "Ruggable Scraper",
+	"description": "Scrape Ruggable and extract data on rugs and carpets from ruggable.com. Our Ruggable API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:37:38.120Z",
+	"runCount": 425
+}

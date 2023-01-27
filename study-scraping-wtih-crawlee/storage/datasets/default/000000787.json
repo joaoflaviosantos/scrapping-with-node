@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/wandersonsousa/cnpj-brasil-extrator",
+	"uniqueIdentifier": "wandersonsousa/cnpj-brasil-extrator",
+	"owner": "wandersonsousa",
+	"title": "Extrator de CNPJ Brasil",
+	"description": "Este ator extrai dados de empresas cadastradas na receita federal, o scraping é feito na base mais atualizada existente.",
+	"modifiedDate": "2022-09-12T13:04:50.209Z",
+	"runCount": 149
+}

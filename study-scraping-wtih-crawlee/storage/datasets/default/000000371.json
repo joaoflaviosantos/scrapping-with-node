@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/petr_cermak/executions-wait-finish",
+	"uniqueIdentifier": "petr_cermak/executions-wait-finish",
+	"owner": "petr_cermak",
+	"title": "Executions Wait Finish",
+	"description": "This act accepts an array of ExecutionIDs and waits for all of them to finish.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 0
+}

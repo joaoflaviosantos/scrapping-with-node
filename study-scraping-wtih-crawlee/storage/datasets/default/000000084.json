@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/crunchbase-scraper",
+	"uniqueIdentifier": "epctex/crunchbase-scraper",
+	"owner": "epctex",
+	"title": "Crunchbase.com Scraper",
+	"description": "Scrape crunchbase.com for data on millions of organizations and people. Crawl organization listings, extract people, acquisition data, founding years, related topics, events, hubs with interactions, numeric reports data and all other details. You can specify search terms, modes, and much more.",
+	"modifiedDate": "2023-01-25T02:01:25.329Z",
+	"runCount": 925976
+}

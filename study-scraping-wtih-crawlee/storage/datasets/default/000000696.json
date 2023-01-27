@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/davidrychly/covid-sk-3",
+	"uniqueIdentifier": "davidrychly/covid-sk-3",
+	"owner": "davidrychly",
+	"title": "Coronavirus stats in Slovakia",
+	"description": "Gets an actual number of examined and infected people by COVID-19 in the Slovak Republic from https://korona.gov.sk/koronavirus-na-slovensku-v-cislach/.",
+	"modifiedDate": "2021-10-24T19:22:44.018Z",
+	"runCount": 117037
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/sengled-usa-scraper",
+	"uniqueIdentifier": "mshopik/sengled-usa-scraper",
+	"owner": "mshopik",
+	"title": "Sengled USA Scraper",
+	"description": "Scrape Sengled USA and extract data on lamps and lighting from us.sengled.com. Our Sengled USA API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:11:30.995Z",
+	"runCount": 426
+}

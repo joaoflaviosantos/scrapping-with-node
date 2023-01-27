@@ -1,0 +1,9 @@
+{
+	"id": "i1kFmzu6ljsbnLA",
+	"json": "{\"id\":\"i1kFmzu6ljsbnLA\",\"url\":\"https://apify.com/krakorj/covid-russia\",\"loadedUrl\":\"https://apify.com/krakorj/covid-russia\",\"uniqueKey\":\"https://apify.com/krakorj/covid-russia\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:38.171Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/krakorj/covid-russia",
+	"url": "https://apify.com/krakorj/covid-russia"
+}

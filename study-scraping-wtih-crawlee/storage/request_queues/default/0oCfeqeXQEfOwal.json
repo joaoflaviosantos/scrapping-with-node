@@ -1,0 +1,9 @@
+{
+	"id": "0oCfeqeXQEfOwal",
+	"json": "{\"id\":\"0oCfeqeXQEfOwal\",\"url\":\"https://apify.com/medh/ASINs-Extractor\",\"loadedUrl\":\"https://apify.com/medh/asins-extractor\",\"uniqueKey\":\"https://apify.com/medh/ASINs-Extractor\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:10.891Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/medh/ASINs-Extractor",
+	"url": "https://apify.com/medh/ASINs-Extractor"
+}

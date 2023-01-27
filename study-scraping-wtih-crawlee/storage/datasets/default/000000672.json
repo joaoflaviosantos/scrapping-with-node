@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukass/covid-cad",
+	"uniqueIdentifier": "lukass/covid-cad",
+	"owner": "lukass",
+	"title": "Coronavirus stats in Canada",
+	"description": "Gets an actual number of examined and infected people by COVID-19 in Canada from https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+	"modifiedDate": "2021-04-12T07:59:11.847Z",
+	"runCount": 119586
+}

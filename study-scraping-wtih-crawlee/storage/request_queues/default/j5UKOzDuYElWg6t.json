@@ -1,0 +1,9 @@
+{
+	"id": "j5UKOzDuYElWg6t",
+	"json": "{\"id\":\"j5UKOzDuYElWg6t\",\"url\":\"https://apify.com/petrpatek/get-debug-items-from-dataset\",\"loadedUrl\":\"https://apify.com/petrpatek/get-debug-items-from-dataset\",\"uniqueKey\":\"https://apify.com/petrpatek/get-debug-items-from-dataset\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:26.827Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/petrpatek/get-debug-items-from-dataset",
+	"url": "https://apify.com/petrpatek/get-debug-items-from-dataset"
+}

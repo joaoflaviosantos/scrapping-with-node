@@ -1,0 +1,9 @@
+{
+	"id": "hJF8CkLZNcOvJSr",
+	"json": "{\"id\":\"hJF8CkLZNcOvJSr\",\"url\":\"https://apify.com/alexey/bestbuy-products-actor\",\"loadedUrl\":\"https://apify.com/alexey/bestbuy-products-actor\",\"uniqueKey\":\"https://apify.com/alexey/bestbuy-products-actor\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:02.084Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/alexey/bestbuy-products-actor",
+	"url": "https://apify.com/alexey/bestbuy-products-actor"
+}

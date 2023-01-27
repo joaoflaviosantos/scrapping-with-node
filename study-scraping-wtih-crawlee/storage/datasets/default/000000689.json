@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/ontario-cannabis-store-scraper",
+	"uniqueIdentifier": "mshopik/ontario-cannabis-store-scraper",
+	"owner": "mshopik",
+	"title": "Ontario Cannabis Store Scraper",
+	"description": "Scrape Ontario Cannabis Store and extract data on cannabis from ocs.ca. Our Ontario Cannabis Store API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:12:16.469Z",
+	"runCount": 444
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dhrumil/rightmove-scraper",
+	"uniqueIdentifier": "dhrumil/rightmove-scraper",
+	"owner": "dhrumil",
+	"title": "Rightmove Scraper",
+	"description": "Scrape rightmove.co.uk to crawl millions of sale/rent real estate properties from United Kingdom. Our real estate scraper also lets you monitor specific listing for new updates/listing. You can provide multiple search result listings to scrape/monitor.",
+	"modifiedDate": "2023-01-04T16:29:50.747Z",
+	"runCount": 23
+}

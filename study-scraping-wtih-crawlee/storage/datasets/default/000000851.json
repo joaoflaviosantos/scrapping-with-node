@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/100percent-pure-scraper",
+	"uniqueIdentifier": "mshopik/100percent-pure-scraper",
+	"owner": "mshopik",
+	"title": "100% PURE Scraper",
+	"description": "Scrape 100% PURE and extract data on make-up and cosmetics from 100percentpure.com. Our 100% PURE API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:45:43.821Z",
+	"runCount": 428
+}

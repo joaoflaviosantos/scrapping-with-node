@@ -1,0 +1,9 @@
+{
+	"id": "W6CHXlO7Fk1FSca",
+	"json": "{\"id\":\"W6CHXlO7Fk1FSca\",\"url\":\"https://vogaflex.com.br\",\"loadedUrl\":\"https://vogaflex.com.br/\",\"uniqueKey\":\"https://vogaflex.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:31:42.866Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://vogaflex.com.br",
+	"url": "https://vogaflex.com.br"
+}

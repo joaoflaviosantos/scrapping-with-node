@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/yellowpages-au",
+	"uniqueIdentifier": "jupri/yellowpages-au",
+	"owner": "jupri",
+	"title": "YellowPages AU Scraper",
+	"description": "Scrape data from Yellowpages Australia",
+	"modifiedDate": "2022-10-30T13:17:06.695Z",
+	"runCount": 610
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/pocesar/spawn-workers",
+	"uniqueIdentifier": "pocesar/spawn-workers",
+	"owner": "pocesar",
+	"title": "Spawn Workers",
+	"description": "This actor lets you spawn tasks or other actors in parallel on the Apify platform that shares a common output dataset, splitting a RequestQueue-like dataset containing request URLs",
+	"modifiedDate": "2022-10-10T09:07:23.608Z",
+	"runCount": 402
+}

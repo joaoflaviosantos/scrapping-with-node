@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dhrumil/opensea-collection-scraper",
+	"uniqueIdentifier": "dhrumil/opensea-collection-scraper",
+	"owner": "dhrumil",
+	"title": "Opensea Collection Scraper",
+	"description": "Opensea NFT collection scraper for Apify which helps you extract complete list of all assets from given collection.",
+	"modifiedDate": "2023-01-23T04:01:20.520Z",
+	"runCount": 951
+}

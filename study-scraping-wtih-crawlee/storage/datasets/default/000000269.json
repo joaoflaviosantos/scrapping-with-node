@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/bones-coffee-company-scraper",
+	"uniqueIdentifier": "mshopik/bones-coffee-company-scraper",
+	"owner": "mshopik",
+	"title": "Bones Coffee Company Scraper",
+	"description": "Scrape Bones Coffee Company and extract data on coffee and tea from bonescoffee.com. Our Bones Coffee Company API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:01:35.762Z",
+	"runCount": 427
+}

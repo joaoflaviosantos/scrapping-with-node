@@ -1,0 +1,9 @@
+{
+	"id": "lp7yvRsfliZtRlC",
+	"json": "{\"id\":\"lp7yvRsfliZtRlC\",\"url\":\"https://apify.com/dtrungtin/bloomingdales-scraper\",\"loadedUrl\":\"https://apify.com/dtrungtin/bloomingdales-scraper\",\"uniqueKey\":\"https://apify.com/dtrungtin/bloomingdales-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:17.109Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/dtrungtin/bloomingdales-scraper",
+	"url": "https://apify.com/dtrungtin/bloomingdales-scraper"
+}

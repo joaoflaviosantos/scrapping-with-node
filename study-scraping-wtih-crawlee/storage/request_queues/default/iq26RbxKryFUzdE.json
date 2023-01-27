@@ -1,0 +1,9 @@
+{
+	"id": "iq26RbxKryFUzdE",
+	"json": "{\"id\":\"iq26RbxKryFUzdE\",\"url\":\"https://apify.com/dtrungtin/airbnb-scraper\",\"loadedUrl\":\"https://apify.com/dtrungtin/airbnb-scraper\",\"uniqueKey\":\"https://apify.com/dtrungtin/airbnb-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:04.263Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/dtrungtin/airbnb-scraper",
+	"url": "https://apify.com/dtrungtin/airbnb-scraper"
+}

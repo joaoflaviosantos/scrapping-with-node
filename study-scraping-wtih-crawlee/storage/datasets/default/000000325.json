@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/gutenberg-scraper",
+	"uniqueIdentifier": "epctex/gutenberg-scraper",
+	"owner": "epctex",
+	"title": "Free eBook Scraper",
+	"description": "Scrape free eBooks from Project Gutenberg and download eBooks in all formats. Search for keywords and pick a language.",
+	"modifiedDate": "2023-01-25T02:02:08.010Z",
+	"runCount": 602
+}

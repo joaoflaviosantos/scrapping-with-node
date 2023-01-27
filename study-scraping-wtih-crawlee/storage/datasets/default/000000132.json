@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/walmart-scraper",
+	"uniqueIdentifier": "epctex/walmart-scraper",
+	"owner": "epctex",
+	"title": "Walmart Scraper",
+	"description": "Scrape millions of product data from Walmart. Crawl and extract descriptions, images, brand details, prices, variations and all other product details. You can specify search terms, filters, categories, list pages and much more.",
+	"modifiedDate": "2023-01-25T02:01:32.521Z",
+	"runCount": 2474
+}

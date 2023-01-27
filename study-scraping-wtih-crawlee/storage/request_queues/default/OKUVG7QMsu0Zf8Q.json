@@ -1,0 +1,9 @@
+{
+	"id": "OKUVG7QMsu0Zf8Q",
+	"json": "{\"id\":\"OKUVG7QMsu0Zf8Q\",\"url\":\"https://apify.com/drinksight/save-to-s3\",\"loadedUrl\":\"https://apify.com/drinksight/save-to-s3\",\"uniqueKey\":\"https://apify.com/drinksight/save-to-s3\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:23.756Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/drinksight/save-to-s3",
+	"url": "https://apify.com/drinksight/save-to-s3"
+}

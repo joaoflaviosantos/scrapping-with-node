@@ -1,0 +1,9 @@
+{
+	"id": "O6Yh2uxI5ielXQp",
+	"json": "{\"id\":\"O6Yh2uxI5ielXQp\",\"url\":\"https://apify.com/mshopik/aday-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/aday-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/aday-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:16.449Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/aday-scraper",
+	"url": "https://apify.com/mshopik/aday-scraper"
+}

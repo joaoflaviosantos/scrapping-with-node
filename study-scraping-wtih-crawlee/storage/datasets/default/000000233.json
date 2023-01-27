@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/hexcladcom-scraper",
+	"uniqueIdentifier": "mshopik/hexcladcom-scraper",
+	"owner": "mshopik",
+	"title": "hexclad.com Scraper",
+	"description": "Scrape hexclad.com and extract data on cookware and diningware from hexclad.com. Our hexclad.com API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:03:33.794Z",
+	"runCount": 424
+}

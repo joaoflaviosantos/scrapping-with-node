@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jaroslavhejlek/instagram-scraper",
+	"uniqueIdentifier": "jaroslavhejlek/instagram-scraper",
+	"owner": "jaroslavhejlek",
+	"title": "Instagram Scraper",
+	"description": "Scrape and download Instagram posts, profiles, places, hashtags, photos, and comments. Supports search queries and URL lists. Download your data as HTML table, JSON, CSV, Excel, XML, and RSS feed.",
+	"modifiedDate": "2022-12-19T09:47:11.105Z",
+	"runCount": null
+}

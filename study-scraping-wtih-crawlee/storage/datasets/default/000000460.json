@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/catch-surfr-usa-scraper",
+	"uniqueIdentifier": "mshopik/catch-surfr-usa-scraper",
+	"owner": "mshopik",
+	"title": "Catch Surf® USA Scraper",
+	"description": "Scrape Catch Surf® USA and extract data on swimming from catchsurf.com. Our Catch Surf® USA API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:00:55.163Z",
+	"runCount": 426
+}

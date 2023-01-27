@@ -1,0 +1,9 @@
+{
+	"id": "aVVi36iySYcuDRD",
+	"json": "{\"id\":\"aVVi36iySYcuDRD\",\"url\":\"https://apify.com/jupri/youtube-browser\",\"loadedUrl\":\"https://apify.com/jupri/youtube-browser\",\"uniqueKey\":\"https://apify.com/jupri/youtube-browser\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:18.778Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jupri/youtube-browser",
+	"url": "https://apify.com/jupri/youtube-browser"
+}

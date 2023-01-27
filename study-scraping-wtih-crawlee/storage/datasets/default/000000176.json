@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/brumate-scraper",
+	"uniqueIdentifier": "mshopik/brumate-scraper",
+	"owner": "mshopik",
+	"title": "BrüMate Scraper",
+	"description": "Scrape BrüMate and extract data on cookware and diningware from brumate.com. Our BrüMate API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:48:05.026Z",
+	"runCount": 426
+}

@@ -1,0 +1,9 @@
+{
+	"id": "7B2A61XUg0zkPN2",
+	"json": "{\"id\":\"7B2A61XUg0zkPN2\",\"url\":\"https://apify.com/mshopik/charming-charlie-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/charming-charlie-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/charming-charlie-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:20.070Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/charming-charlie-scraper",
+	"url": "https://apify.com/mshopik/charming-charlie-scraper"
+}

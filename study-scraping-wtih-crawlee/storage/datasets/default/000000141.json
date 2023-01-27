@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/pocesar/login-session",
+	"uniqueIdentifier": "pocesar/login-session",
+	"owner": "pocesar",
+	"title": "Login Session",
+	"description": "Get localStorage, sessionStorage and cookies from logins for usage in other actors.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 2000
+}

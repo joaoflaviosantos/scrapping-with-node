@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/trudax/upwork-scraper",
+	"uniqueIdentifier": "trudax/upwork-scraper",
+	"owner": "trudax",
+	"title": "Upwork Scraper",
+	"description": "Extract data from the top freelancing website. Search by URL or search terms, filter by categories, English level, and hourly rate. Get info about freelancers and agencies from upwork.com without login. Download your data as HTML table, JSON, CSV, Excel, or XML.",
+	"modifiedDate": "2023-01-20T01:08:34.121Z",
+	"runCount": 3676
+}

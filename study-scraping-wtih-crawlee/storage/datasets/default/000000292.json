@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/flood/linkedin-company-search-scraper",
+	"uniqueIdentifier": "flood/linkedin-company-search-scraper",
+	"owner": "flood",
+	"title": "LinkedIn Company Search Scraper",
+	"description": "The most efficient way to search and extract company data from LinkedIn.\nScrape thousands of companies in seconds.",
+	"modifiedDate": "2022-12-13T21:22:39.630Z",
+	"runCount": 2085
+}

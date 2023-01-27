@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/ivanvs/remoteok-job-scraper",
+	"uniqueIdentifier": "ivanvs/remoteok-job-scraper",
+	"owner": "ivanvs",
+	"title": "RemoteOK Job Scraper",
+	"description": "Scrape data from RemoteOK site (https://remoteok.com/)",
+	"modifiedDate": "2022-10-16T19:48:41.756Z",
+	"runCount": 270
+}

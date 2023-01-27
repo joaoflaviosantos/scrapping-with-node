@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/spidoosho/bing-wallpaper",
+	"uniqueIdentifier": "spidoosho/bing-wallpaper",
+	"owner": "spidoosho",
+	"title": "Bing Daily Wallpaper Scraper",
+	"description": "Get current Bing Daily Wallpaper or previous ones.",
+	"modifiedDate": "2022-05-19T11:51:03.042Z",
+	"runCount": 291
+}

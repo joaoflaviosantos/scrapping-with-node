@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/bandolier-scraper",
+	"uniqueIdentifier": "mshopik/bandolier-scraper",
+	"owner": "mshopik",
+	"title": "Bandolier Scraper",
+	"description": "Scrape Bandolier and extract data on computers from bandolierstyle.com. Our Bandolier API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:15:22.035Z",
+	"runCount": 425
+}

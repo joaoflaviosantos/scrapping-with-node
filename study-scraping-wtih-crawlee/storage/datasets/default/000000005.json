@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/compass/crawler-google-places",
+	"uniqueIdentifier": "compass/crawler-google-places",
+	"owner": "compass",
+	"title": "Google Maps Scraper",
+	"description": "Extract data from hundreds of Google Maps businesses and locations in seconds. Get Google Maps data including reviews, images, opening hours, location, popular times & more. Go beyond the limits of the official Google Places API. Download data with Google Maps extractor in JSON, CSV, Excel and more.",
+	"modifiedDate": "2023-01-24T23:34:05.975Z",
+	"runCount": null
+}

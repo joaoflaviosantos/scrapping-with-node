@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mhamas/html-string-to-pdf",
+	"uniqueIdentifier": "mhamas/html-string-to-pdf",
+	"owner": "mhamas",
+	"title": "HTML string to PDF",
+	"description": "Convert HTML string to A4 PDF.",
+	"modifiedDate": "2022-12-07T14:05:12.706Z",
+	"runCount": 219861
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/valek.josef/weather-scraper",
+	"uniqueIdentifier": "valek.josef/weather-scraper",
+	"owner": "valek.josef",
+	"title": "Weather Scraper",
+	"description": "Get data about weather forecasts or analyze conditions in any location in the world. This scraper downloads information about forecasts, humidity, temperature, wind, etc. and delivers it in HTML, JSON, XLSX, and more.",
+	"modifiedDate": "2022-06-15T14:33:25.940Z",
+	"runCount": 9865
+}

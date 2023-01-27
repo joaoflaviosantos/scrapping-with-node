@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/wwwvaporcom-scraper",
+	"uniqueIdentifier": "mshopik/wwwvaporcom-scraper",
+	"owner": "mshopik",
+	"title": "www.vapor.com Scraper",
+	"description": "Scrape www.vapor.com and extract data on smoking and vaping from vapor.com. Our www.vapor.com API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:42:22.625Z",
+	"runCount": 425
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/prismplussg-scraper",
+	"uniqueIdentifier": "mshopik/prismplussg-scraper",
+	"owner": "mshopik",
+	"title": "prismplus.sg Scraper",
+	"description": "Scrape prismplus.sg and extract data on computer peripherals from prismplus.sg. Our prismplus.sg API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:51:02.700Z",
+	"runCount": 425
+}

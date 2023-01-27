@@ -1,0 +1,9 @@
+{
+	"id": "uZjN3BWhSWlvu7u",
+	"json": "{\"id\":\"uZjN3BWhSWlvu7u\",\"url\":\"https://apify.com/natasha.lekh/gas-prices-scraper\",\"loadedUrl\":\"https://apify.com/natasha.lekh/gas-prices-scraper\",\"uniqueKey\":\"https://apify.com/natasha.lekh/gas-prices-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:49.923Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/natasha.lekh/gas-prices-scraper",
+	"url": "https://apify.com/natasha.lekh/gas-prices-scraper"
+}

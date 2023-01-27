@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/troy-lee-designs-scraper",
+	"uniqueIdentifier": "mshopik/troy-lee-designs-scraper",
+	"owner": "mshopik",
+	"title": "Troy Lee Designs Scraper",
+	"description": "Scrape Troy Lee Designs and extract data on cycling from troyleedesigns.com. Our Troy Lee Designs API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:20:52.662Z",
+	"runCount": 426
+}

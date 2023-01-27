@@ -1,0 +1,9 @@
+{
+	"id": "NNZrPKIxoTA8ZGD",
+	"json": "{\"id\":\"NNZrPKIxoTA8ZGD\",\"url\":\"https://apify.com/mpj/asos\",\"loadedUrl\":\"https://apify.com/mpj/asos\",\"uniqueKey\":\"https://apify.com/mpj/asos\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:29.385Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mpj/asos",
+	"url": "https://apify.com/mpj/asos"
+}

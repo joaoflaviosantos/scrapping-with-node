@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/o2-industries-scraper",
+	"uniqueIdentifier": "mshopik/o2-industries-scraper",
+	"owner": "mshopik",
+	"title": "O2 Industries Scraper",
+	"description": "Scrape O2 Industries and extract data on  from o2canada.com. Our O2 Industries API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:16:18.310Z",
+	"runCount": 426
+}

@@ -1,0 +1,9 @@
+{
+	"id": "q4nPpwTxO6NASBu",
+	"json": "{\"id\":\"q4nPpwTxO6NASBu\",\"url\":\"https://apify.com/maxcopell/zillow-api-scraper\",\"loadedUrl\":\"https://apify.com/maxcopell/zillow-api-scraper\",\"uniqueKey\":\"https://apify.com/maxcopell/zillow-api-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:15.356Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/maxcopell/zillow-api-scraper",
+	"url": "https://apify.com/maxcopell/zillow-api-scraper"
+}

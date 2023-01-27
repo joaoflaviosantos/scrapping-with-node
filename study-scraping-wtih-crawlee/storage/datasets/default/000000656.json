@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukass/breitbart-scraper",
+	"uniqueIdentifier": "lukass/breitbart-scraper",
+	"owner": "lukass",
+	"title": "Breitbart Scraper",
+	"description": "Scrape news data from breitbart.com with this unofficial API. Extract articles, monitor their popularity and performance and automate the fight against fake news. Filter the results by authors, topics, categories, or publication dates. Preview or download the results in your preferred format.",
+	"modifiedDate": "2022-08-07T18:46:21.610Z",
+	"runCount": 251
+}

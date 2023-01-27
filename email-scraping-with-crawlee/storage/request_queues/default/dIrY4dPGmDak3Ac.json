@@ -1,0 +1,9 @@
+{
+	"id": "dIrY4dPGmDak3Ac",
+	"json": "{\"id\":\"dIrY4dPGmDak3Ac\",\"url\":\"https://www.buscape.com.br\",\"loadedUrl\":\"https://www.buscape.com.br/\",\"uniqueKey\":\"https://www.buscape.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:31:44.321Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.buscape.com.br",
+	"url": "https://www.buscape.com.br"
+}

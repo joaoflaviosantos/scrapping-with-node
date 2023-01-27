@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mnmkng/delete-named-storages",
+	"uniqueIdentifier": "mnmkng/delete-named-storages",
+	"owner": "mnmkng",
+	"title": "Delete Named Storages",
+	"description": "Deletes your named storages by matching their names with a RegExp, selecting a date, or more. Enables deleting multiple named storages fast and safe using a UI rather than API.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 1635
+}

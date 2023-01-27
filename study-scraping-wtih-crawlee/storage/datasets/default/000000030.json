@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dtrungtin/ebay-items-scraper",
+	"uniqueIdentifier": "dtrungtin/ebay-items-scraper",
+	"owner": "dtrungtin",
+	"title": "eBay Scraper",
+	"description": "Unofficial eBay API to extract data from eBay based on keywords or categories. Scrape reviews, prices, product descriptions, images, location, availability, brand, and more. Download extracted data in structured format and use it in reports, spreadsheets, databases, and applications.",
+	"modifiedDate": "2023-01-12T04:16:13.364Z",
+	"runCount": 11185
+}

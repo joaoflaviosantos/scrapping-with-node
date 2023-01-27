@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/leatherup-usa-scraper",
+	"uniqueIdentifier": "mshopik/leatherup-usa-scraper",
+	"owner": "mshopik",
+	"title": "LeatherUp USA Scraper",
+	"description": "Scrape LeatherUp USA and extract data on motorcycles and scooters from leatherup.com. Our LeatherUp USA API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:59:36.345Z",
+	"runCount": 424
+}

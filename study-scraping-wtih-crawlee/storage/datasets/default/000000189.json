@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/bee-inspired-clothing-scraper",
+	"uniqueIdentifier": "mshopik/bee-inspired-clothing-scraper",
+	"owner": "mshopik",
+	"title": "Bee Inspired Clothing Scraper",
+	"description": "Scrape Bee Inspired Clothing and extract data on casual apparel from beeinspiredclothing.com. Our Bee Inspired Clothing API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:30:04.051Z",
+	"runCount": 426
+}

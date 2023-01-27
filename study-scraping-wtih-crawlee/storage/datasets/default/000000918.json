@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mtrunkatova/us-magazine-scraper",
+	"uniqueIdentifier": "mtrunkatova/us-magazine-scraper",
+	"owner": "mtrunkatova",
+	"title": "US Magazine Scraper",
+	"description": "Scrape news data from usmagazine.com with this unofficial API. Extract articles, monitor their popularity and performance and automate the fight against fake news. Filter the results by authors, topics, categories, or publication dates. Preview or download the results in your preferred format.",
+	"modifiedDate": "2022-08-07T19:06:33.510Z",
+	"runCount": 257
+}

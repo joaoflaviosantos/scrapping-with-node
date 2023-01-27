@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/the-flex-company-scraper",
+	"uniqueIdentifier": "mshopik/the-flex-company-scraper",
+	"owner": "mshopik",
+	"title": "The Flex Company Scraper",
+	"description": "Scrape The Flex Company and extract data on hygiene and toiletries from flexfits.com. Our The Flex Company API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2021-11-09T17:31:51.278Z",
+	"runCount": 426
+}

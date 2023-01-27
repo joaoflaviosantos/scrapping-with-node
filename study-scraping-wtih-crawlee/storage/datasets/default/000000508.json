@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jancurn/probe-page-resources",
+	"uniqueIdentifier": "jancurn/probe-page-resources",
+	"owner": "jancurn",
+	"title": "Probe Page Resources",
+	"description": "Sequentially loads a list of URLs in headless Chrome and analyzes HTTP resources requested by each page. Source code at https://github.com/jancurn/act-probe-page-resources",
+	"modifiedDate": "2022-03-17T22:08:47.117Z",
+	"runCount": 956
+}

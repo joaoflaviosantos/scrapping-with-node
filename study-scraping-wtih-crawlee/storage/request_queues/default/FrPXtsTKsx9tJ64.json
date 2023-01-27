@@ -1,0 +1,9 @@
+{
+	"id": "FrPXtsTKsx9tJ64",
+	"json": "{\"id\":\"FrPXtsTKsx9tJ64\",\"url\":\"https://apify.com/mshopik/kindred-bravely-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/kindred-bravely-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/kindred-bravely-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:59.545Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/kindred-bravely-scraper",
+	"url": "https://apify.com/mshopik/kindred-bravely-scraper"
+}

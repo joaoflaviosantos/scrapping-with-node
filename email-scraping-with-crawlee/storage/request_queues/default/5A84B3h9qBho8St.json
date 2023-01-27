@@ -1,0 +1,9 @@
+{
+	"id": "5A84B3h9qBho8St",
+	"json": "{\"id\":\"5A84B3h9qBho8St\",\"url\":\"https://context.reverso.net\",\"loadedUrl\":\"https://context.reverso.net/translation/\",\"uniqueKey\":\"https://context.reverso.net\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:32:11.089Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://context.reverso.net",
+	"url": "https://context.reverso.net"
+}

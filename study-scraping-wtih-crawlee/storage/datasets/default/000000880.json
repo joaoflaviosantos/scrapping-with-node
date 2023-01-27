@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/yeyo/trendyol-scraper",
+	"uniqueIdentifier": "yeyo/trendyol-scraper",
+	"owner": "yeyo",
+	"title": "Trendyol Product Scraper",
+	"description": "This scraper can help you retrieve current and accurate data about products from Trendyol, an online retail platform. This tool can be useful for keeping track of the latest offerings from Trendyol or for gathering information for research or analysis purposes.",
+	"modifiedDate": "2023-01-04T13:07:39.313Z",
+	"runCount": 49
+}

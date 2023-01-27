@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/horne-scraper",
+	"uniqueIdentifier": "mshopik/horne-scraper",
+	"owner": "mshopik",
+	"title": "HORNE Scraper",
+	"description": "Scrape HORNE and extract data on home and interior decor from shophorne.com. Our HORNE API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:05:08.562Z",
+	"runCount": 425
+}

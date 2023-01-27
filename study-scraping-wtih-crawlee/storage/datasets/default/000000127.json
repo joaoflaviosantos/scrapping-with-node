@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/hooli/google-trending-searches",
+	"uniqueIdentifier": "hooli/google-trending-searches",
+	"owner": "hooli",
+	"title": "Google Trending Searches",
+	"description": "Scrape Trending Searches on Google Trends and extract data on daily search trends and related queries. Set country, time frame, and max number of results. No limits or quotas.",
+	"modifiedDate": "2022-11-04T08:40:59.348Z",
+	"runCount": 6855
+}

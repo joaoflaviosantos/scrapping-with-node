@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/vaclavrut/Mall-cz",
+	"uniqueIdentifier": "vaclavrut/Mall-cz",
+	"owner": "vaclavrut",
+	"title": "Mall Scraper",
+	"description": "This actor scrapes all products from Mall.cz. It goes through all categories and pagination and gets all data visible there. It does not scrape the details of the products.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 489
+}

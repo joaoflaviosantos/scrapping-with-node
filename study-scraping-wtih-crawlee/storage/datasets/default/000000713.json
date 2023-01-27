@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukaskrivka/log-scanner",
+	"uniqueIdentifier": "lukaskrivka/log-scanner",
+	"owner": "lukaskrivka",
+	"title": "Log Scanner",
+	"description": "Log scanner helps you to find particular text in your log files. It can scan [Apify](https://apify.com/) runs, tasks, or actors but also arbitrary text files. If you ever had a problem finding that one error in a thousand runs, this is a tool to use.",
+	"modifiedDate": "2022-01-28T12:45:41.415Z",
+	"runCount": 736
+}

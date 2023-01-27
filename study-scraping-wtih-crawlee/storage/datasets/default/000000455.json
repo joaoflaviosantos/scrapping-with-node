@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/christy-dawn-scraper",
+	"uniqueIdentifier": "mshopik/christy-dawn-scraper",
+	"owner": "mshopik",
+	"title": "Christy Dawn Scraper",
+	"description": "Scrape Christy Dawn and extract data on women's clothing from christydawn.com. Our Christy Dawn API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:55:16.033Z",
+	"runCount": 425
+}

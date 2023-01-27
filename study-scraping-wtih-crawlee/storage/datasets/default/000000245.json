@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/chichiclothing-scraper",
+	"uniqueIdentifier": "mshopik/chichiclothing-scraper",
+	"owner": "mshopik",
+	"title": "ChiChiClothing Scraper",
+	"description": "Scrape ChiChiClothing and extract data on women's clothing from chichiclothing.com. Our ChiChiClothing API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:35:49.134Z",
+	"runCount": 426
+}

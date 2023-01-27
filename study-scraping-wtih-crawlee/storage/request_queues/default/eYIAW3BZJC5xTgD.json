@@ -1,0 +1,9 @@
+{
+	"id": "eYIAW3BZJC5xTgD",
+	"json": "{\"id\":\"eYIAW3BZJC5xTgD\",\"url\":\"https://apify.com/lukaskrivka/foursquare-reviews\",\"loadedUrl\":\"https://apify.com/lukaskrivka/foursquare-reviews\",\"uniqueKey\":\"https://apify.com/lukaskrivka/foursquare-reviews\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:28.639Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/lukaskrivka/foursquare-reviews",
+	"url": "https://apify.com/lukaskrivka/foursquare-reviews"
+}

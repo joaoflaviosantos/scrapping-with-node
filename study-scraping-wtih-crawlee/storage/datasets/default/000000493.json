@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/zyberg/spareroom",
+	"uniqueIdentifier": "zyberg/spareroom",
+	"owner": "zyberg",
+	"title": "Spareroom",
+	"description": "Scrape Spare Room listings by postcodes",
+	"modifiedDate": "2022-01-28T10:17:58.371Z",
+	"runCount": 510
+}

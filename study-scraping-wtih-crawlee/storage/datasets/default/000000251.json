@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/katy-perry-collections-scraper",
+	"uniqueIdentifier": "mshopik/katy-perry-collections-scraper",
+	"owner": "mshopik",
+	"title": "Katy Perry Collections Scraper",
+	"description": "Scrape Katy Perry Collections and extract data on footwear from katyperrycollections.com. Our Katy Perry Collections API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2021-11-09T17:35:50.136Z",
+	"runCount": 426
+}

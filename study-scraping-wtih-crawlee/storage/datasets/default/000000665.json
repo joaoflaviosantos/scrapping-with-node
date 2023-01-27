@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukaskrivka/website-checker-playwright",
+	"uniqueIdentifier": "lukaskrivka/website-checker-playwright",
+	"owner": "lukaskrivka",
+	"title": "Website Checker Runner Playwright",
+	"description": "Checks the provided website using Playwright. This is a low level runner, most likely you want to use the high level master actor -  https://apify.com/lukaskrivka/website-checker",
+	"modifiedDate": "2023-01-05T15:19:18.935Z",
+	"runCount": 602
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/unclaimed-baggage-center-scraper",
+	"uniqueIdentifier": "mshopik/unclaimed-baggage-center-scraper",
+	"owner": "mshopik",
+	"title": "Unclaimed Baggage Center Scraper",
+	"description": "Scrape Unclaimed Baggage Center and extract data on travel from unclaimedbaggage.com. Our Unclaimed Baggage Center API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:04:24.265Z",
+	"runCount": 425
+}

@@ -1,0 +1,9 @@
+{
+	"id": "wuCURKMno0q7W18",
+	"json": "{\"id\":\"wuCURKMno0q7W18\",\"url\":\"https://www.madeiramadeira.com.br\",\"loadedUrl\":\"https://www.madeiramadeira.com.br/\",\"uniqueKey\":\"https://www.madeiramadeira.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:31:43.538Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.madeiramadeira.com.br",
+	"url": "https://www.madeiramadeira.com.br"
+}

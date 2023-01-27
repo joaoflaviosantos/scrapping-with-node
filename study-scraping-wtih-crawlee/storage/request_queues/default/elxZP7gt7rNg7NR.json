@@ -1,0 +1,9 @@
+{
+	"id": "elxZP7gt7rNg7NR",
+	"json": "{\"id\":\"elxZP7gt7rNg7NR\",\"url\":\"https://apify.com/patrik.trefil/c-sharp-apify-actor-example\",\"loadedUrl\":\"https://apify.com/patrik.trefil/c-sharp-apify-actor-example\",\"uniqueKey\":\"https://apify.com/patrik.trefil/c-sharp-apify-actor-example\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:58.044Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/patrik.trefil/c-sharp-apify-actor-example",
+	"url": "https://apify.com/patrik.trefil/c-sharp-apify-actor-example"
+}

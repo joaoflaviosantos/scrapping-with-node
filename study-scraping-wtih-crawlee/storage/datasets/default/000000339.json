@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/laird-superfood-scraper",
+	"uniqueIdentifier": "mshopik/laird-superfood-scraper",
+	"owner": "mshopik",
+	"title": "Laird Superfood Scraper",
+	"description": "Scrape Laird Superfood and extract data on beauty and fitness from lairdsuperfood.com. Our Laird Superfood API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:56:39.485Z",
+	"runCount": 425
+}

@@ -1,0 +1,9 @@
+{
+	"id": "MnCWC1JZk7S07q1",
+	"json": "{\"id\":\"MnCWC1JZk7S07q1\",\"url\":\"https://www.iluminet.com\",\"loadedUrl\":\"https://www.iluminet.com/\",\"uniqueKey\":\"https://www.iluminet.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:33:10.479Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.iluminet.com",
+	"url": "https://www.iluminet.com"
+}

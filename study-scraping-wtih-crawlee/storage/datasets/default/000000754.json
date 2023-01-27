@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/bares43/kaktus-dobijecka",
+	"uniqueIdentifier": "bares43/kaktus-dobijecka",
+	"owner": "bares43",
+	"title": "Kaktus dobíječka",
+	"description": "Actor which checks date of top up double action for Czech phone operator Kaktus. It returns date and from-to when this action was available for last time. It's possible to set e-mail for sending notification if the day is today.",
+	"modifiedDate": "2022-10-23T16:43:08.590Z",
+	"runCount": 186
+}

@@ -1,0 +1,9 @@
+{
+	"id": "c6VEkNDkAn6QPdG",
+	"json": "{\"id\":\"c6VEkNDkAn6QPdG\",\"url\":\"https://apify.com/hamza.alwan/reverso-translator\",\"loadedUrl\":\"https://apify.com/hamza.alwan/reverso-translator\",\"uniqueKey\":\"https://apify.com/hamza.alwan/reverso-translator\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:47.004Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/hamza.alwan/reverso-translator",
+	"url": "https://apify.com/hamza.alwan/reverso-translator"
+}

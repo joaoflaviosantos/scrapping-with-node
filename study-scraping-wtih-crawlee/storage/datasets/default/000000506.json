@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/vojtam/amazon-seller-scraper",
+	"uniqueIdentifier": "vojtam/amazon-seller-scraper",
+	"owner": "vojtam",
+	"title": "Amazon Seller Scraper",
+	"description": "Amazon scraper to extract seller information. You can scrape either categories or specific products.",
+	"modifiedDate": "2023-01-11T13:33:43.217Z",
+	"runCount": 296
+}

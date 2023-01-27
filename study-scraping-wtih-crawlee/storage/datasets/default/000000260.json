@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/shady-raysr-scraper",
+	"uniqueIdentifier": "mshopik/shady-raysr-scraper",
+	"owner": "mshopik",
+	"title": "Shady Rays® Polarized Scraper",
+	"description": "Scrape Shady Rays® Polarized and extract data on eyewear from shadyrays.com. Our Shady Rays® Polarized API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:45:44.180Z",
+	"runCount": 420
+}

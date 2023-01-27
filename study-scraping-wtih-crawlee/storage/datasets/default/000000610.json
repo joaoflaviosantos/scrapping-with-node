@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/mapscom-scraper",
+	"uniqueIdentifier": "mshopik/mapscom-scraper",
+	"owner": "mshopik",
+	"title": "Maps.com Scraper",
+	"description": "Scrape Maps.com and extract data on geographic reference from maps.com. Our Maps.com API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:58:18.630Z",
+	"runCount": 444
+}

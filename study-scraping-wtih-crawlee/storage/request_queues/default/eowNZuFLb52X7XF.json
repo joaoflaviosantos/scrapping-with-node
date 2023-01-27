@@ -1,0 +1,9 @@
+{
+	"id": "eowNZuFLb52X7XF",
+	"json": "{\"id\":\"eowNZuFLb52X7XF\",\"url\":\"https://apify.com/mshopik/chichiclothing-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/chichiclothing-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/chichiclothing-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:26.216Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/chichiclothing-scraper",
+	"url": "https://apify.com/mshopik/chichiclothing-scraper"
+}

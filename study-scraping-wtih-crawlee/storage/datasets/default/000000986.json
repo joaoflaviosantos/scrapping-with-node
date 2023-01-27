@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dtrungtin/covid-si",
+	"uniqueIdentifier": "dtrungtin/covid-si",
+	"owner": "dtrungtin",
+	"title": "Coronavirus stats in Slovenia",
+	"description": "Gets an actual number of confirmed cases by COVID-19 in the Slovenia from https://www.gov.si/en/topics/coronavirus-disease-covid-19/.",
+	"modifiedDate": "2021-04-12T07:45:21.037Z",
+	"runCount": 119346
+}

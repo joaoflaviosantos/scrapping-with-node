@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jancurn/screenshot-taker",
+	"uniqueIdentifier": "jancurn/screenshot-taker",
+	"owner": "jancurn",
+	"title": "Screenshot Taker",
+	"description": "Takes a screenshot of one or more web pages using the Chrome browser. The actor enables the setting of custom viewport size, page load timeout, delay, proxies, and output image format.",
+	"modifiedDate": "2021-08-11T21:42:10.239Z",
+	"runCount": 106298
+}

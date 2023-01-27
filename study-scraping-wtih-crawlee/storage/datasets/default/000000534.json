@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/real-watersports-scraper",
+	"uniqueIdentifier": "mshopik/real-watersports-scraper",
+	"owner": "mshopik",
+	"title": "REAL Watersports Scraper",
+	"description": "Scrape REAL Watersports and extract data on surfing from realwatersports.com. Our REAL Watersports API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:19:52.786Z",
+	"runCount": 426
+}

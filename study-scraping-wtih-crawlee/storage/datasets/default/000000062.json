@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dtrungtin/booking-scraper",
+	"uniqueIdentifier": "dtrungtin/booking-scraper",
+	"owner": "dtrungtin",
+	"title": "Booking Scraper",
+	"description": "Scrape Booking with this free hotels scraper and get data about accommodation on Booking.com. You can crawl by keywords or URLs for hotel prices, ratings, reviews, stars, and scrape data from Booking.com with one click.",
+	"modifiedDate": "2023-01-23T21:06:09.260Z",
+	"runCount": 225655
+}

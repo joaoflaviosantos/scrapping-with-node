@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/yellow-octopus-scraper",
+	"uniqueIdentifier": "mshopik/yellow-octopus-scraper",
+	"owner": "mshopik",
+	"title": "Yellow Octopus Scraper",
+	"description": "Scrape Yellow Octopus and extract data on gifts and special events from yellowoctopus.com.au. Our Yellow Octopus API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:19:56.831Z",
+	"runCount": 427
+}

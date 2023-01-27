@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/cettire-scraper",
+	"uniqueIdentifier": "mshopik/cettire-scraper",
+	"owner": "mshopik",
+	"title": "Cettire Scraper",
+	"description": "Scrape Cettire and extract data on apparel from cettire.com. Our Cettire API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:29:37.943Z",
+	"runCount": 436
+}

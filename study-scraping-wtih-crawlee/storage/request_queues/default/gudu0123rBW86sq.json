@@ -1,0 +1,9 @@
+{
+	"id": "gudu0123rBW86sq",
+	"json": "{\"id\":\"gudu0123rBW86sq\",\"url\":\"https://apify.com/mshopik/onthelist-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/onthelist-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/onthelist-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:52.735Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/onthelist-scraper",
+	"url": "https://apify.com/mshopik/onthelist-scraper"
+}

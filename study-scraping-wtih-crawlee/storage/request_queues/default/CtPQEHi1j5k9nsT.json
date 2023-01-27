@@ -1,0 +1,9 @@
+{
+	"id": "CtPQEHi1j5k9nsT",
+	"json": "{\"id\":\"CtPQEHi1j5k9nsT\",\"url\":\"https://apify.com/mshopik/mnml-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/mnml-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/mnml-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:56.127Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/mnml-scraper",
+	"url": "https://apify.com/mshopik/mnml-scraper"
+}

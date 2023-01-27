@@ -1,0 +1,9 @@
+{
+	"id": "YiJkhpQvoFksP7H",
+	"json": "{\"id\":\"YiJkhpQvoFksP7H\",\"url\":\"https://apify.com/katerinahronik/covid-sa\",\"loadedUrl\":\"https://apify.com/katerinahronik/covid-sa\",\"uniqueKey\":\"https://apify.com/katerinahronik/covid-sa\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:34.343Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/katerinahronik/covid-sa",
+	"url": "https://apify.com/katerinahronik/covid-sa"
+}

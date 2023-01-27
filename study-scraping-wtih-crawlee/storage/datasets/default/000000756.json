@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/grill-hey-scraper",
+	"uniqueIdentifier": "mshopik/grill-hey-scraper",
+	"owner": "mshopik",
+	"title": "Hey Grill, Hey Scraper",
+	"description": "Scrape Hey Grill, Hey and extract data on food and drink from heygrillhey.com. Our Hey Grill, Hey API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:15:26.579Z",
+	"runCount": 426
+}

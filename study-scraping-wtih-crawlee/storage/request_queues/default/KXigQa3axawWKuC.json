@@ -1,0 +1,9 @@
+{
+	"id": "KXigQa3axawWKuC",
+	"json": "{\"id\":\"KXigQa3axawWKuC\",\"url\":\"https://apify.com/katerinahronik/car-accidents-statistics-cz\",\"loadedUrl\":\"https://apify.com/katerinahronik/car-accidents-statistics-cz\",\"uniqueKey\":\"https://apify.com/katerinahronik/car-accidents-statistics-cz\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:12.281Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/katerinahronik/car-accidents-statistics-cz",
+	"url": "https://apify.com/katerinahronik/car-accidents-statistics-cz"
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mnmkng/abort-actor-runs",
+	"uniqueIdentifier": "mnmkng/abort-actor-runs",
+	"owner": "mnmkng",
+	"title": "Abort Actor Runs",
+	"description": "This actor enables the aborting of all user's running actors with a single click or by a single API call. Scans all actors of the user, aborts all RUNNING and READY actors. It is set to minimize compute unit usage at the expense of speed. Scans the user's actors sequentially to prevent API abuse.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 705
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/perci/zappos-scraper",
+	"uniqueIdentifier": "perci/zappos-scraper",
+	"owner": "perci",
+	"title": "Zappos.com Scraper",
+	"description": "Scrape product information from Zappos.com. Extract products' names, brands, prices, and more. Download scraped data in various formats, including HTML, JSON, and Excel.",
+	"modifiedDate": "2022-11-28T10:44:28.452Z",
+	"runCount": 173
+}

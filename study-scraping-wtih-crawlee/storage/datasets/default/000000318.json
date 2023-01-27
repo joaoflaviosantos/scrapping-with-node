@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mcdowell/tiktok",
+	"uniqueIdentifier": "mcdowell/tiktok",
+	"owner": "mcdowell",
+	"title": "Tiktok Scraper",
+	"description": "An advanced TikTok scraper that lets you collect  videos, profiles, posts, and other publicly available data on TikTok. Download TikTok data as a HTML, JSON, CSV, Excel, or XML",
+	"modifiedDate": "2023-01-25T09:18:34.575Z",
+	"runCount": 436
+}

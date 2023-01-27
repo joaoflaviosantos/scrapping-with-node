@@ -1,0 +1,9 @@
+{
+	"id": "oZKQZBWDtPNw0IO",
+	"json": "{\"id\":\"oZKQZBWDtPNw0IO\",\"url\":\"https://apify.com/zuzka/covid-wm\",\"loadedUrl\":\"https://apify.com/zuzka/covid-wm\",\"uniqueKey\":\"https://apify.com/zuzka/covid-wm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:17.417Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/zuzka/covid-wm",
+	"url": "https://apify.com/zuzka/covid-wm"
+}

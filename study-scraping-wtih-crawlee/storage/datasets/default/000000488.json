@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/thebigblackfriday-scraper",
+	"uniqueIdentifier": "mshopik/thebigblackfriday-scraper",
+	"owner": "mshopik",
+	"title": "thebigblackfriday Scraper",
+	"description": "Scrape thebigblackfriday and extract data on rugs and carpets from thebigblackfriday.com. Our thebigblackfriday API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2021-11-09T17:36:30.505Z",
+	"runCount": 424
+}

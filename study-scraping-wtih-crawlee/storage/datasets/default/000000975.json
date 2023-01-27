@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dhrumil/zoopla-scraper",
+	"uniqueIdentifier": "dhrumil/zoopla-scraper",
+	"owner": "dhrumil",
+	"title": "Zoopla.co.uk Scraper",
+	"description": "Scrape Zoopla.co.uk to crawl millions of sale/rent real estate properties from United Kingdom. Our real estate scraper also lets you monitor specific listing for new updates/listing. You can provide multiple search result listings to scrape/monitor.",
+	"modifiedDate": "2022-12-30T12:29:12.485Z",
+	"runCount": 44
+}

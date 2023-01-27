@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/drobnikj/firestore-import",
+	"uniqueIdentifier": "drobnikj/firestore-import",
+	"owner": "drobnikj",
+	"title": "Firestore Import",
+	"description": "Imports dataset items to Firestone DB.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 108
+}

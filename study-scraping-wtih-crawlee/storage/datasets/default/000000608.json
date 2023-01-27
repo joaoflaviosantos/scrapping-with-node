@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/easyjet-scraper",
+	"uniqueIdentifier": "epctex/easyjet-scraper",
+	"owner": "epctex",
+	"title": "easyJet Scraper",
+	"description": "Scrape flights from easyJet. Crawl and extract flights, prices, availability, and more. Creates an easyJet API to let you scrape based on round-trip, one-way trip, and passenger management (adults, teens, children, infants) options.",
+	"modifiedDate": "2023-01-25T02:02:50.159Z",
+	"runCount": 385
+}

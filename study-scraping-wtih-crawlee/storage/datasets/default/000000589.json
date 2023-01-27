@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jaroslavhejlek/zip-key-value-store",
+	"uniqueIdentifier": "jaroslavhejlek/zip-key-value-store",
+	"owner": "jaroslavhejlek",
+	"title": "Zip Key-value Store",
+	"description": "Takes the ID of the key-value store, archives all their keys into a zip file, and saves them into the key-value store of the actor. For more than 1000 keys, multiple zip files are created. If their total size is bigger than the actor's available memory, it creates multiple smaller zip files.",
+	"modifiedDate": "2022-06-20T13:53:00.179Z",
+	"runCount": 1121
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/g2-reviews",
+	"uniqueIdentifier": "jupri/g2-reviews",
+	"owner": "jupri",
+	"title": "G2 Product Reviews Scraper",
+	"description": "Scrape product reviews from G2.com",
+	"modifiedDate": "2022-10-28T02:18:29.099Z",
+	"runCount": 2554
+}

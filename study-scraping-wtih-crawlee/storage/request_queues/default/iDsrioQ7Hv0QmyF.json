@@ -1,0 +1,9 @@
+{
+	"id": "iDsrioQ7Hv0QmyF",
+	"json": "{\"id\":\"iDsrioQ7Hv0QmyF\",\"url\":\"https://apify.com/mshopik/jolyn-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/jolyn-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/jolyn-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:03.108Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/jolyn-scraper",
+	"url": "https://apify.com/mshopik/jolyn-scraper"
+}

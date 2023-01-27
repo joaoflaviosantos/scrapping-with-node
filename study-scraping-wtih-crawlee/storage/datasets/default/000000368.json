@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/bohme-scraper",
+	"uniqueIdentifier": "mshopik/bohme-scraper",
+	"owner": "mshopik",
+	"title": "böhme Scraper",
+	"description": "Scrape böhme and extract data on clothing accessories from bohme.com. Our böhme API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:50:54.912Z",
+	"runCount": 425
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jancurn/probe-resources-plus-webhook",
+	"uniqueIdentifier": "jancurn/probe-resources-plus-webhook",
+	"owner": "jancurn",
+	"title": "Probe Resources Plus Webhook",
+	"description": "Calls jancurn/probe-page-resources and then invokes a hard-coded webhook. The act takes same input as jancurn/probe-page-resources",
+	"modifiedDate": "2022-06-20T13:56:14.161Z",
+	"runCount": 21
+}

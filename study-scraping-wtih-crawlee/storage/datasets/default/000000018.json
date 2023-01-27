@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/send-mail",
+	"uniqueIdentifier": "apify/send-mail",
+	"owner": "apify",
+	"title": "Send Email",
+	"description": "The actor automatically sends an email to a specific address. This actor is useful for notifications and reporting. With only 3 lines of javascript code, you'll be on top of your scraping actors and never miss important results or issues.",
+	"modifiedDate": "2022-10-19T20:49:49.767Z",
+	"runCount": 628551
+}

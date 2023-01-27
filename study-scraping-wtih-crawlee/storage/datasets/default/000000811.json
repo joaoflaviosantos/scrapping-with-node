@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukass/covid-est",
+	"uniqueIdentifier": "lukass/covid-est",
+	"owner": "lukass",
+	"title": "Coronavirus stats in Estonia",
+	"description": "Gets an actual number of examined and infected people by COVID-19 in Estonia from https://www.terviseamet.ee/en/covid19.",
+	"modifiedDate": "2021-07-28T10:04:40.509Z",
+	"runCount": 123325
+}

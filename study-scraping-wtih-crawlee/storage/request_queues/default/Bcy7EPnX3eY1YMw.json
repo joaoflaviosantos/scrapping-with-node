@@ -1,0 +1,9 @@
+{
+	"id": "Bcy7EPnX3eY1YMw",
+	"json": "{\"id\":\"Bcy7EPnX3eY1YMw\",\"url\":\"https://apify.com/mshopik/bluemercury-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/bluemercury-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/bluemercury-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:16.563Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/bluemercury-scraper",
+	"url": "https://apify.com/mshopik/bluemercury-scraper"
+}

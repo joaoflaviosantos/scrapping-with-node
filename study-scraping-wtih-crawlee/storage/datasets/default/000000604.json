@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/tasty-scraper",
+	"uniqueIdentifier": "epctex/tasty-scraper",
+	"owner": "epctex",
+	"title": "Tasty Scraper",
+	"description": "Advanced scraping on Tasty for data on millions of recipes, articles, compilations and many more. Crawl Recipes and extract descriptions, images, ingredients, videos and all other properties. You can specify search terms, filters, mappings and much more.",
+	"modifiedDate": "2023-01-25T02:02:26.942Z",
+	"runCount": 984
+}

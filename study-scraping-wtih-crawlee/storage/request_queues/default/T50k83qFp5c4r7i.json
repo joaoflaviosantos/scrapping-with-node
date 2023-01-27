@@ -1,0 +1,9 @@
+{
+	"id": "T50k83qFp5c4r7i",
+	"json": "{\"id\":\"T50k83qFp5c4r7i\",\"url\":\"https://apify.com/jupri/wefunder\",\"loadedUrl\":\"https://apify.com/jupri/wefunder\",\"uniqueKey\":\"https://apify.com/jupri/wefunder\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:29.508Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jupri/wefunder",
+	"url": "https://apify.com/jupri/wefunder"
+}

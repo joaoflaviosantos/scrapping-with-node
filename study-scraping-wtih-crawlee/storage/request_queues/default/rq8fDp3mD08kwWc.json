@@ -1,0 +1,9 @@
+{
+	"id": "rq8fDp3mD08kwWc",
+	"json": "{\"id\":\"rq8fDp3mD08kwWc\",\"url\":\"https://apify.com/petr_cermak/dropbox-upload\",\"loadedUrl\":\"https://apify.com/petr_cermak/dropbox-upload\",\"uniqueKey\":\"https://apify.com/petr_cermak/dropbox-upload\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:42.673Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/petr_cermak/dropbox-upload",
+	"url": "https://apify.com/petr_cermak/dropbox-upload"
+}

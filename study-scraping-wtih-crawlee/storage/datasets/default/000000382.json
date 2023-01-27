@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/zuzka/covid-wm",
+	"uniqueIdentifier": "zuzka/covid-wm",
+	"owner": "zuzka",
+	"title": "Coronavirus stats from Worldometer",
+	"description": "Gets the statistics of COVID-19 in the world from https://www.worldometers.info/coronavirus/.",
+	"modifiedDate": "2021-09-23T09:46:21.414Z",
+	"runCount": 120885
+}

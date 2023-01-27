@@ -1,0 +1,9 @@
+{
+	"id": "LgxprMy674yH6Hj",
+	"json": "{\"id\":\"LgxprMy674yH6Hj\",\"url\":\"https://apify.com/m0uka/keyword-research-tool\",\"loadedUrl\":\"https://apify.com/m0uka/keyword-research-tool\",\"uniqueKey\":\"https://apify.com/m0uka/keyword-research-tool\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:36.847Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/m0uka/keyword-research-tool",
+	"url": "https://apify.com/m0uka/keyword-research-tool"
+}

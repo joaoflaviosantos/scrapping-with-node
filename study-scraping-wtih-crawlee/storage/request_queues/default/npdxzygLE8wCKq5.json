@@ -1,0 +1,9 @@
+{
+	"id": "npdxzygLE8wCKq5",
+	"json": "{\"id\":\"npdxzygLE8wCKq5\",\"url\":\"https://apify.com/zuzka/instagram-profile-scraper\",\"loadedUrl\":\"https://apify.com/zuzka/instagram-profile-scraper\",\"uniqueKey\":\"https://apify.com/zuzka/instagram-profile-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:47:42.203Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/zuzka/instagram-profile-scraper",
+	"url": "https://apify.com/zuzka/instagram-profile-scraper"
+}

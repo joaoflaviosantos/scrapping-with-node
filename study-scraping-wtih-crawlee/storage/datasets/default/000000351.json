@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/helix-sleep-scraper",
+	"uniqueIdentifier": "mshopik/helix-sleep-scraper",
+	"owner": "mshopik",
+	"title": "Helix Sleep Scraper",
+	"description": "Scrape Helix Sleep and extract data on bed and bath from helixsleep.com. Our Helix Sleep API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:43:25.474Z",
+	"runCount": 425
+}

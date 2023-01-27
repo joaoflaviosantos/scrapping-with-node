@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/maxcopell/tripadvisor-hotels-scraper",
+	"uniqueIdentifier": "maxcopell/tripadvisor-hotels-scraper",
+	"owner": "maxcopell",
+	"title": "Tripadvisor Hotels Scraper",
+	"description": "Scrape Tripadvisor hotels. Extract reviews, pricing, contact details, amenities, awards, and other important information about Tripadvisor hotels.",
+	"modifiedDate": "2023-01-25T15:14:55.089Z",
+	"runCount": 669
+}

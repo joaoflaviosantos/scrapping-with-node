@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/zuzka/instagram-profile-scraper",
+	"uniqueIdentifier": "zuzka/instagram-profile-scraper",
+	"owner": "zuzka",
+	"title": "Instagram Profile Scraper",
+	"description": "Scrape all Instagram profile info. Add one or more Instagram usernames and extract followers & follows count, URLs, bio, posts, likes, counts, channel, duration, highlight reel, and more. Download structured data in JSON, CSV, XML, Excel, and HTML to use in applications, reports, and spreadsheets.",
+	"modifiedDate": "2022-12-01T10:09:43.864Z",
+	"runCount": 529302
+}

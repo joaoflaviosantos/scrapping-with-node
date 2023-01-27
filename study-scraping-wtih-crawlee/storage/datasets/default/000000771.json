@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/petr_cermak/execution-to-xlsx",
+	"uniqueIdentifier": "petr_cermak/execution-to-xlsx",
+	"owner": "petr_cermak",
+	"title": "Execution To Xlsx",
+	"description": "The act takes a JSON input containing a crawler executionID, downloads the results and converts them to XLSX.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 718
+}

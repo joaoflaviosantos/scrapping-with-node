@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/maxcopell/tripadvisor-reviews",
+	"uniqueIdentifier": "maxcopell/tripadvisor-reviews",
+	"owner": "maxcopell",
+	"title": "Tripadvisor Reviews Scraper",
+	"description": "This TripAdvisor review scraper is an Apify actor that allows you to extract reviews for a specific place on TripAdvisor. The actor navigates to the specified TripAdvisor page, and extracts the reviews including the review text, rating, and date.",
+	"modifiedDate": "2023-01-25T16:24:25.878Z",
+	"runCount": 17
+}

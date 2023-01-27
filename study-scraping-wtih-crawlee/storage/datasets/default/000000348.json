@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/wonkette-scraper",
+	"uniqueIdentifier": "mshopik/wonkette-scraper",
+	"owner": "mshopik",
+	"title": "Wonkette Scraper",
+	"description": "Scrape Wonkette and extract data on  from wonkette.com. Our Wonkette API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:47:03.414Z",
+	"runCount": 426
+}

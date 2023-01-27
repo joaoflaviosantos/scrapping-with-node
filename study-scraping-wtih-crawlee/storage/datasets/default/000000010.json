@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/bernardo/youtube-scraper",
+	"uniqueIdentifier": "bernardo/youtube-scraper",
+	"owner": "bernardo",
+	"title": "YouTube Scraper",
+	"description": "YouTube crawler and video scraper. Alternative YouTube API with no limits or quotas. Extract and download channel name, likes, number of views, and number of subscribers.",
+	"modifiedDate": "2023-01-17T13:13:47.364Z",
+	"runCount": 69172
+}

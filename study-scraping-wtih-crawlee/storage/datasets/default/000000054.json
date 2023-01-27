@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/alexey/bestbuy-products-actor",
+	"uniqueIdentifier": "alexey/bestbuy-products-actor",
+	"owner": "alexey",
+	"title": "BestBuy products",
+	"description": "Unofficial Best Buy API to scrape product data with no limits from bestbuy.com. Extract id, name, URL, images, currency, current price, original price, sale value, rating, category, and stock status. Download datasets in structured formats for reports, databases, applications, and spreadsheets.",
+	"modifiedDate": "2022-10-26T20:18:45.309Z",
+	"runCount": 577
+}

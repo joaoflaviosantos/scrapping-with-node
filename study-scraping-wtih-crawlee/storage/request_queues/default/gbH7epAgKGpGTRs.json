@@ -1,0 +1,9 @@
+{
+	"id": "gbH7epAgKGpGTRs",
+	"json": "{\"id\":\"gbH7epAgKGpGTRs\",\"url\":\"https://apify.com/advisable_rain/uber-eats-menu-scraper\",\"loadedUrl\":\"https://apify.com/advisable_rain/uber-eats-menu-scraper\",\"uniqueKey\":\"https://apify.com/advisable_rain/uber-eats-menu-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:42.395Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/advisable_rain/uber-eats-menu-scraper",
+	"url": "https://apify.com/advisable_rain/uber-eats-menu-scraper"
+}

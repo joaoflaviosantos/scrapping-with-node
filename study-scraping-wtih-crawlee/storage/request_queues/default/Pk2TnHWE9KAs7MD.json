@@ -1,0 +1,9 @@
+{
+	"id": "Pk2TnHWE9KAs7MD",
+	"json": "{\"id\":\"Pk2TnHWE9KAs7MD\",\"url\":\"https://apify.com/mshopik/la-crosse-technology-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/la-crosse-technology-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/la-crosse-technology-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:18.957Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/la-crosse-technology-scraper",
+	"url": "https://apify.com/mshopik/la-crosse-technology-scraper"
+}

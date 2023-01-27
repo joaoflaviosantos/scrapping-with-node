@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/pocesar/diff-datasets",
+	"uniqueIdentifier": "pocesar/diff-datasets",
+	"owner": "pocesar",
+	"title": "Diff Datasets",
+	"description": "Take one dataset on Apify platform, compare it to another, and output the missing ones.\nThis can also be used to output only changed items, using a compound key",
+	"modifiedDate": "2022-10-10T09:06:41.055Z",
+	"runCount": 30
+}

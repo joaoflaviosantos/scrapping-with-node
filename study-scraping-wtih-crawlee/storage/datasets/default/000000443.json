@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/rokform-scraper",
+	"uniqueIdentifier": "mshopik/rokform-scraper",
+	"owner": "mshopik",
+	"title": "Rokform Scraper",
+	"description": "Scrape Rokform and extract data on mobile and wireless accessories from rokform.com. Our Rokform API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:57:36.723Z",
+	"runCount": 427
+}

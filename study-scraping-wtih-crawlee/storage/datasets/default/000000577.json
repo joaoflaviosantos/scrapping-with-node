@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/example-web-server",
+	"uniqueIdentifier": "apify/example-web-server",
+	"owner": "apify",
+	"title": "Example Web Server",
+	"description": "This example demonstrates how to use web server in actor as communication channel with outer world. Read  more at Apify docs https://docs.apify.com/actors/running#container-web-server",
+	"modifiedDate": "2022-10-19T20:50:26.722Z",
+	"runCount": 363
+}

@@ -1,0 +1,9 @@
+{
+	"id": "b9CEvSeDBwv3Qen",
+	"json": "{\"id\":\"b9CEvSeDBwv3Qen\",\"url\":\"https://apify.com/equidem/price-detector-experimental\",\"loadedUrl\":\"https://apify.com/equidem/price-detector-experimental\",\"uniqueKey\":\"https://apify.com/equidem/price-detector-experimental\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:29.626Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/equidem/price-detector-experimental",
+	"url": "https://apify.com/equidem/price-detector-experimental"
+}

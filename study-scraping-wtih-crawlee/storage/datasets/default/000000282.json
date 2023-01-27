@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/katerinahronik/slack-message",
+	"uniqueIdentifier": "katerinahronik/slack-message",
+	"owner": "katerinahronik",
+	"title": "Slack Message Generator",
+	"description": "This actor sends messages to Slack automatically. It can be used instead of email notifications and is ideal to combine with other actors monitoring successful runs, errors, etc.",
+	"modifiedDate": "2022-06-24T08:43:43.943Z",
+	"runCount": 42317
+}

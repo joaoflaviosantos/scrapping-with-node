@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/organifi-scraper",
+	"uniqueIdentifier": "mshopik/organifi-scraper",
+	"owner": "mshopik",
+	"title": "Organifi Scraper",
+	"description": "Scrape Organifi and extract data on juice from organifishop.com. Our Organifi API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:13:22.533Z",
+	"runCount": 425
+}

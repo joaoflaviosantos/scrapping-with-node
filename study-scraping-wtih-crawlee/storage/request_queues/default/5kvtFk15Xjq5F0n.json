@@ -1,0 +1,9 @@
+{
+	"id": "5kvtFk15Xjq5F0n",
+	"json": "{\"id\":\"5kvtFk15Xjq5F0n\",\"url\":\"https://apify.com/epctex/xing-scraper\",\"loadedUrl\":\"https://apify.com/epctex/xing-scraper\",\"uniqueKey\":\"https://apify.com/epctex/xing-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:42.488Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/epctex/xing-scraper",
+	"url": "https://apify.com/epctex/xing-scraper"
+}

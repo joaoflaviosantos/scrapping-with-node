@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/strajk/bike-discount-bike-discount-de-scraper",
+	"uniqueIdentifier": "strajk/bike-discount-bike-discount-de-scraper",
+	"owner": "strajk",
+	"title": "Bike Discount (bike-discount.de) scraper",
+	"description": "Scrapes products titles, prices, images and availability. Does NOT scrape product details.",
+	"modifiedDate": "2022-10-12T08:10:09.404Z",
+	"runCount": 275
+}

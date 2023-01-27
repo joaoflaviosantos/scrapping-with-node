@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/thuma-scraper",
+	"uniqueIdentifier": "mshopik/thuma-scraper",
+	"owner": "mshopik",
+	"title": "Thuma Scraper",
+	"description": "Scrape Thuma and extract data on bed and bath from thuma.co. Our Thuma API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:06:52.084Z",
+	"runCount": 426
+}

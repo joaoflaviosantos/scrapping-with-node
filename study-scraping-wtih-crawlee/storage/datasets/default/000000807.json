@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dtrungtin/covid-ch",
+	"uniqueIdentifier": "dtrungtin/covid-ch",
+	"owner": "dtrungtin",
+	"title": "Coronavirus stats in Switzerland",
+	"description": "Gets an actual number of tested cases, the number of confirmed cases and the number of deaths by COVID-19 in Switzerland from https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html.",
+	"modifiedDate": "2021-04-12T07:44:57.221Z",
+	"runCount": 119519
+}

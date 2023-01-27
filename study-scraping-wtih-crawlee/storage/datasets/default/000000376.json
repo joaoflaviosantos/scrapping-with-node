@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/monitoring-teardown",
+	"uniqueIdentifier": "apify/monitoring-teardown",
+	"owner": "apify",
+	"title": "Monitoring Teardown",
+	"description": "The monitoring teardown is a part of the Apify Monitoring Suite (apify/monitoring). See its readme for more information and how to use this.",
+	"modifiedDate": "2022-10-19T20:17:52.351Z",
+	"runCount": 672
+}

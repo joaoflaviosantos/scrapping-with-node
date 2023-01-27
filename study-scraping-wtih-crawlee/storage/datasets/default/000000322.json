@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/bbb-scraper",
+	"uniqueIdentifier": "epctex/bbb-scraper",
+	"owner": "epctex",
+	"title": "BBB Scraper",
+	"description": "Scrape data from the Better Business Bureau as known as BBB. Crawl and extract company information, insights, financial projections, social links, accreditations and much more. Scrape the huge BBB Cloud, retrieve charities and businesses in United States, Canada, and Mexico by their categories.",
+	"modifiedDate": "2023-01-25T02:02:17.307Z",
+	"runCount": 1040
+}

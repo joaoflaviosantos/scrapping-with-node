@@ -1,0 +1,9 @@
+{
+	"id": "wffXex5K3lTDJIc",
+	"json": "{\"id\":\"wffXex5K3lTDJIc\",\"url\":\"https://apify.com/valek.josef/append-to-dataset\",\"loadedUrl\":\"https://apify.com/valek.josef/append-to-dataset\",\"uniqueKey\":\"https://apify.com/valek.josef/append-to-dataset\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:53.623Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/valek.josef/append-to-dataset",
+	"url": "https://apify.com/valek.josef/append-to-dataset"
+}

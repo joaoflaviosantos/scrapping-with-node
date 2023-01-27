@@ -1,0 +1,9 @@
+{
+	"id": "IzagHRdaCji0jpR",
+	"json": "{\"id\":\"IzagHRdaCji0jpR\",\"url\":\"https://apify.com/anchor/email-check-verify-validate\",\"loadedUrl\":\"https://apify.com/anchor/email-check-verify-validate\",\"uniqueKey\":\"https://apify.com/anchor/email-check-verify-validate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:44.279Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/anchor/email-check-verify-validate",
+	"url": "https://apify.com/anchor/email-check-verify-validate"
+}

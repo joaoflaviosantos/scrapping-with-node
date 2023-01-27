@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/prettylitter-scraper",
+	"uniqueIdentifier": "mshopik/prettylitter-scraper",
+	"owner": "mshopik",
+	"title": "PrettyLitter Scraper",
+	"description": "Scrape PrettyLitter and extract data on pet food and supplies from prettylitter.com. Our PrettyLitter API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:58:39.709Z",
+	"runCount": 425
+}

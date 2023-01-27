@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/drobnikj/czech-food-delivery-checker",
+	"uniqueIdentifier": "drobnikj/czech-food-delivery-checker",
+	"owner": "drobnikj",
+	"title": "Czech Food Delivery Checker(Košík.cz)",
+	"description": "The scraper checks available time slots to deliver food from Košík.cz. It sends you mail every time new slot appears.",
+	"modifiedDate": "2022-05-07T00:24:42.750Z",
+	"runCount": 30713
+}

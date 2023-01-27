@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/quacker/twitter-people-scraper",
+	"uniqueIdentifier": "quacker/twitter-people-scraper",
+	"owner": "quacker",
+	"title": "Twitter People Scraper",
+	"description": "Insert a keyword that you would type into the Twitter search bar into the scraper’s input field, and extract the results you would view in the People tab.",
+	"modifiedDate": "2023-01-20T10:06:08.951Z",
+	"runCount": 513
+}

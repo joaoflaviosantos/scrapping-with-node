@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mvolfik/hacker-news-keyword-alert",
+	"uniqueIdentifier": "mvolfik/hacker-news-keyword-alert",
+	"owner": "mvolfik",
+	"title": "Hacker News keyword alert",
+	"description": "Actor for the Apify platform that allows receiving notifications when a keyword is mentioned on Hacker News. This enables many use-cases, such as allowing businesses to monitor mentions of their brand, or monitoring news around your favorite technology",
+	"modifiedDate": "2022-07-15T14:04:09.099Z",
+	"runCount": 15525
+}

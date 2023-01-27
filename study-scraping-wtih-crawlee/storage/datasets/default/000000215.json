@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/misen-scraper",
+	"uniqueIdentifier": "mshopik/misen-scraper",
+	"owner": "mshopik",
+	"title": "Misen Scraper",
+	"description": "Scrape Misen and extract data on kitchen and dining from misen.co. Our Misen API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:48:43.794Z",
+	"runCount": 426
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/charming-charlie-scraper",
+	"uniqueIdentifier": "mshopik/charming-charlie-scraper",
+	"owner": "mshopik",
+	"title": "Charming Charlie Scraper",
+	"description": "Scrape Charming Charlie and extract data on children's clothing from charmingcharlie.com. Our Charming Charlie API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:06:50.992Z",
+	"runCount": 425
+}

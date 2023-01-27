@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/heatpressnation-scraper",
+	"uniqueIdentifier": "mshopik/heatpressnation-scraper",
+	"owner": "mshopik",
+	"title": "HeatPressNation Scraper",
+	"description": "Scrape HeatPressNation and extract data on  from heatpressnation.com. Our HeatPressNation API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:38:54.145Z",
+	"runCount": 425
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/spidoosho/notion-org-chart-generator",
+	"uniqueIdentifier": "spidoosho/notion-org-chart-generator",
+	"owner": "spidoosho",
+	"title": "Notion Org Chart Generator",
+	"description": "Generate an image of organization chart from the Employee directory in Notion.",
+	"modifiedDate": "2022-03-03T10:40:14.329Z",
+	"runCount": 144
+}

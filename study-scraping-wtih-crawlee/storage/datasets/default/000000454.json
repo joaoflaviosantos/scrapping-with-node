@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/swee-lee-singapore-scraper",
+	"uniqueIdentifier": "mshopik/swee-lee-singapore-scraper",
+	"owner": "mshopik",
+	"title": "Swee Lee Singapore Scraper",
+	"description": "Scrape Swee Lee Singapore and extract data on music from sweelee.com.sg. Our Swee Lee Singapore API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:05:34.777Z",
+	"runCount": 427
+}

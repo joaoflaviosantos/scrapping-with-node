@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/pocesar/aggregate-fields",
+	"uniqueIdentifier": "pocesar/aggregate-fields",
+	"owner": "pocesar",
+	"title": "Aggregate Fields",
+	"description": "Create an overview of a dataset by aggregating the possible variations from the selected fields. Useful for checking the consistency of data used together with the Results Checker actor.",
+	"modifiedDate": "2022-10-10T09:06:28.540Z",
+	"runCount": 44
+}

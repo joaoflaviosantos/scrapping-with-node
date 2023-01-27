@@ -1,0 +1,9 @@
+{
+	"id": "d04WYoM47jeN7x6",
+	"json": "{\"id\":\"d04WYoM47jeN7x6\",\"url\":\"https://apify.com/petr_cermak/PostgreSQL-insert\",\"loadedUrl\":\"https://apify.com/petr_cermak/postgresql-insert\",\"uniqueKey\":\"https://apify.com/petr_cermak/PostgreSQL-insert\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:28.879Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/petr_cermak/PostgreSQL-insert",
+	"url": "https://apify.com/petr_cermak/PostgreSQL-insert"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "5Zx5MXjI3RgRatc",
+	"json": "{\"id\":\"5Zx5MXjI3RgRatc\",\"url\":\"https://apify.com/petr_cermak/yellow-pages-scraper\",\"loadedUrl\":\"https://apify.com/petr_cermak/yellow-pages-scraper\",\"uniqueKey\":\"https://apify.com/petr_cermak/yellow-pages-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:47:49.764Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/petr_cermak/yellow-pages-scraper",
+	"url": "https://apify.com/petr_cermak/yellow-pages-scraper"
+}

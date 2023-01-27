@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/crown-and-caliber-scraper",
+	"uniqueIdentifier": "mshopik/crown-and-caliber-scraper",
+	"owner": "mshopik",
+	"title": "Crown Caliber Scraper",
+	"description": "Scrape Crown Caliber and extract data on clothing accessories from crownandcaliber.com. Our Crown Caliber API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:43:14.652Z",
+	"runCount": 427
+}

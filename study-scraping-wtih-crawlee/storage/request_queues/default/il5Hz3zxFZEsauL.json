@@ -1,0 +1,9 @@
+{
+	"id": "il5Hz3zxFZEsauL",
+	"json": "{\"id\":\"il5Hz3zxFZEsauL\",\"url\":\"https://apify.com/hynekh/graphics-cards-scraper\",\"loadedUrl\":\"https://apify.com/hynekh/graphics-cards-scraper\",\"uniqueKey\":\"https://apify.com/hynekh/graphics-cards-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:50.170Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/hynekh/graphics-cards-scraper",
+	"url": "https://apify.com/hynekh/graphics-cards-scraper"
+}

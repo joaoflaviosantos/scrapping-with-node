@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/puppeteer-scraper",
+	"uniqueIdentifier": "apify/puppeteer-scraper",
+	"owner": "apify",
+	"title": "Puppeteer Scraper",
+	"description": "Crawls websites with the headless Chrome and Puppeteer library using a provided server-side Node.js code. This crawler is an alternative to apify/web-scraper that gives you finer control over the process. Supports both recursive crawling and list of URLs. Supports login to website.",
+	"modifiedDate": "2022-11-16T15:45:53.400Z",
+	"runCount": null
+}

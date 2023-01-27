@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/alexey/google-maps-pins-map-ocr",
+	"uniqueIdentifier": "alexey/google-maps-pins-map-ocr",
+	"owner": "alexey",
+	"title": "OCR for google map pins",
+	"description": "Actor will try to find pins specified exactly by sprite https://github.com/apify-alexey/gmaps-ocrpin/blob/main/pin.png and store coordinates of the pins found in dataset and OUTPUT",
+	"modifiedDate": "2022-10-19T20:52:53.314Z",
+	"runCount": null
+}

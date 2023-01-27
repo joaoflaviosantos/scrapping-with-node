@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/icebergg/facebook-comments-scraper",
+	"uniqueIdentifier": "icebergg/facebook-comments-scraper",
+	"owner": "icebergg",
+	"title": "Facebook Comments Scraper",
+	"description": "Extract data from hundreds of Facebook comments from one or multiple Facebook posts. Get comment text, timestamp, likes count and basic commenter info. Download the data in JSON, CSV, Excel and use it in apps, spreadsheets, and reports.",
+	"modifiedDate": "2023-01-13T09:52:38.772Z",
+	"runCount": 1121
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/reservebar-scraper",
+	"uniqueIdentifier": "mshopik/reservebar-scraper",
+	"owner": "mshopik",
+	"title": "ReserveBar Scraper",
+	"description": "Scrape ReserveBar and extract data on alcoholic beverages from reservebar.com. Our ReserveBar API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:48:45.297Z",
+	"runCount": 427
+}

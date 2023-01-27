@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/voyn/cars-scraper",
+	"uniqueIdentifier": "voyn/cars-scraper",
+	"owner": "voyn",
+	"title": "Cars Scraper",
+	"description": "Cars.com scraper, great tool for car dealers! Scrape cars from Cars.com to retrieve data such as year, make, model, trim, specs, and price. Additionaly, it'll calculate profit if average price of car given by website.",
+	"modifiedDate": "2022-10-06T13:03:23.903Z",
+	"runCount": 125
+}

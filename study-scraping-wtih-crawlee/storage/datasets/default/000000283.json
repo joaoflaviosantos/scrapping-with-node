@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/vaclavrut/bigjson2csv",
+	"uniqueIdentifier": "vaclavrut/bigjson2csv",
+	"owner": "vaclavrut",
+	"title": "JSON to CSV Converter",
+	"description": "Solution to convert big JSON files to CSV/Excel in JS. Paste URL for the JSON into the input along with the name of the dataset to store the records. The actor uses the dataset to handle the conversion of the items by pushing them to the dataset, which is then downloaded.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 1005
+}

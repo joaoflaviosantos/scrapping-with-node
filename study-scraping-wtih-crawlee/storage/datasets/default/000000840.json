@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/incasecom-scraper",
+	"uniqueIdentifier": "mshopik/incasecom-scraper",
+	"owner": "mshopik",
+	"title": "Incase.com Scraper",
+	"description": "Scrape Incase.com and extract data on laptops and notebooks from incase.com. Our Incase.com API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:03:51.307Z",
+	"runCount": 428
+}

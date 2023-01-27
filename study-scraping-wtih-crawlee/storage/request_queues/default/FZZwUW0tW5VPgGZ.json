@@ -1,0 +1,9 @@
+{
+	"id": "FZZwUW0tW5VPgGZ",
+	"json": "{\"id\":\"FZZwUW0tW5VPgGZ\",\"url\":\"https://apify.com/lukass/covid-az\",\"loadedUrl\":\"https://apify.com/lukass/covid-az\",\"uniqueKey\":\"https://apify.com/lukass/covid-az\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:23.210Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/lukass/covid-az",
+	"url": "https://apify.com/lukass/covid-az"
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/juansgaitan/big-query",
+	"uniqueIdentifier": "juansgaitan/big-query",
+	"owner": "juansgaitan",
+	"title": "Big Query",
+	"description": "Append a CSV file to a Google bigQuery table. Create a \"Service credentials\" at the https://console.cloud.google.com/, copy & paste the JSON file into the variable value for 'CREDENTIALS' and set it as a secret.",
+	"modifiedDate": "2022-10-10T09:03:56.963Z",
+	"runCount": 484
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/oyildirim/totalwine-actor",
+	"uniqueIdentifier": "oyildirim/totalwine-actor",
+	"owner": "oyildirim",
+	"title": "Total Wine Scraper",
+	"description": "Scrape data from Total Wine. Extract descriptions, images, reviews, stock info, and all other product details. The actor supports category URLs and/or searching across the website by any search term.",
+	"modifiedDate": "2022-12-13T18:03:18.504Z",
+	"runCount": 321
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/petr_cermak/json-to-xlsx",
+	"uniqueIdentifier": "petr_cermak/json-to-xlsx",
+	"owner": "petr_cermak",
+	"title": "Json To Xlsx",
+	"description": "The act takes a JSON input and converts it to XLSX.",
+	"modifiedDate": "2022-03-08T11:25:09.211Z",
+	"runCount": 1130
+}

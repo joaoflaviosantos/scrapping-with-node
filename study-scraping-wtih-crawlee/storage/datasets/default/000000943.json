@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mcdowell/amazon-reviews-scraper",
+	"uniqueIdentifier": "mcdowell/amazon-reviews-scraper",
+	"owner": "mcdowell",
+	"title": "Amazon Reviews Scraper",
+	"description": "Scrape and download detailed reviews of Amazon products , including rating score, review description, reactions and images. Download your data as HTML table, JSON, CSV, Excel, XML.",
+	"modifiedDate": "2022-12-29T13:05:33.971Z",
+	"runCount": 35
+}

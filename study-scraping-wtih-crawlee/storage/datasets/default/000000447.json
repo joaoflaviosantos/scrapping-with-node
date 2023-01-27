@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/design-public-scraper",
+	"uniqueIdentifier": "mshopik/design-public-scraper",
+	"owner": "mshopik",
+	"title": "Design Public Scraper",
+	"description": "Scrape Design Public and extract data on home furnishings from designpublic.com. Our Design Public API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:11:01.822Z",
+	"runCount": 426
+}

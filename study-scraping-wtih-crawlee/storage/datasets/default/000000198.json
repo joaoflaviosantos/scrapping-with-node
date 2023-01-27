@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/az-swagg-sauce-scraper",
+	"uniqueIdentifier": "mshopik/az-swagg-sauce-scraper",
+	"owner": "mshopik",
+	"title": "AZ Swagg Sauce Scraper",
+	"description": "Scrape AZ Swagg Sauce and extract data on smoking and vaping from swaggsauce.com. Our AZ Swagg Sauce API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:45:50.437Z",
+	"runCount": 425
+}

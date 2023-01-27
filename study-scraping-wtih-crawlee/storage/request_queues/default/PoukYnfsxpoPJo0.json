@@ -1,0 +1,9 @@
+{
+	"id": "PoukYnfsxpoPJo0",
+	"json": "{\"id\":\"PoukYnfsxpoPJo0\",\"url\":\"https://apify.com/zuzka/slack-messages-downloader\",\"loadedUrl\":\"https://apify.com/zuzka/slack-messages-downloader\",\"uniqueKey\":\"https://apify.com/zuzka/slack-messages-downloader\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:02.813Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/zuzka/slack-messages-downloader",
+	"url": "https://apify.com/zuzka/slack-messages-downloader"
+}

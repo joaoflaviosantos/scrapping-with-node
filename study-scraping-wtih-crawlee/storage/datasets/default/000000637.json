@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/the-couture-club-scraper",
+	"uniqueIdentifier": "mshopik/the-couture-club-scraper",
+	"owner": "mshopik",
+	"title": "The Couture Club Scraper",
+	"description": "Scrape The Couture Club and extract data on women's clothing from thecoutureclub.com. Our The Couture Club API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:54:39.797Z",
+	"runCount": 427
+}

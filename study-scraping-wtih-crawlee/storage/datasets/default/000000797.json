@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/jb-hi-fi-scraper",
+	"uniqueIdentifier": "mshopik/jb-hi-fi-scraper",
+	"owner": "mshopik",
+	"title": "JB Hi-Fi Scraper",
+	"description": "Scrape JB Hi-Fi and extract data on tv and video equipment from jbhifi.com.au. Our JB Hi-Fi API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:29:39.722Z",
+	"runCount": 437
+}

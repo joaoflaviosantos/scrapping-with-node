@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mnmkng/email-notification-webhook",
+	"uniqueIdentifier": "mnmkng/email-notification-webhook",
+	"owner": "mnmkng",
+	"title": "Email Notification Webhook",
+	"description": "This actor sends you an email notification with a log file \nwhen one of your other actors fails, succeeds, times out, you name it.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 31068
+}

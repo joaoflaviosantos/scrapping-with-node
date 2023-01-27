@@ -1,0 +1,9 @@
+{
+	"id": "lwSRoE1DnMhm8T9",
+	"json": "{\"id\":\"lwSRoE1DnMhm8T9\",\"url\":\"https://apify.com/petr_cermak/MSSQL-insert\",\"loadedUrl\":\"https://apify.com/petr_cermak/mssql-insert\",\"uniqueKey\":\"https://apify.com/petr_cermak/MSSQL-insert\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:30.759Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/petr_cermak/MSSQL-insert",
+	"url": "https://apify.com/petr_cermak/MSSQL-insert"
+}

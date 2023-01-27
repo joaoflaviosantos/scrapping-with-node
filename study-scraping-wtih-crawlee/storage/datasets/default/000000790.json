@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/vaclavrut/website-checker-starter",
+	"uniqueIdentifier": "vaclavrut/website-checker-starter",
+	"owner": "vaclavrut",
+	"title": "Website-checker-starter",
+	"description": "Works with lukaskrivka/website-checker. The idea is that this actor manages more URLs on the input, will start website-checker with 10 runs at a time and store all data to one datasets.",
+	"modifiedDate": "2022-10-10T09:08:29.491Z",
+	"runCount": 343
+}

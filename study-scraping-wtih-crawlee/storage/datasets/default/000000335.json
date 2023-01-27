@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/azuro-republic-scraper",
+	"uniqueIdentifier": "mshopik/azuro-republic-scraper",
+	"owner": "mshopik",
+	"title": "Azuro Republic Scraper",
+	"description": "Scrape Azuro Republic and extract data on cookware and diningware from azuro-republic.com. Our Azuro Republic API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:09:26.693Z",
+	"runCount": 427
+}

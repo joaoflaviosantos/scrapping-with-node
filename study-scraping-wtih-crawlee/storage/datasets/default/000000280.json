@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukaskrivka/duplications-checker",
+	"uniqueIdentifier": "lukaskrivka/duplications-checker",
+	"owner": "lukaskrivka",
+	"title": "Duplications Checker",
+	"description": "Check your dataset for duplications. Accept only the highest quality data!",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 36038
+}

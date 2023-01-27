@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/doctorfox/Send-EbulkSMS",
+	"uniqueIdentifier": "doctorfox/Send-EbulkSMS",
+	"owner": "doctorfox",
+	"title": "Send EbulkSMS",
+	"description": "Act to send the an SMS alert whenever a certain price of forex is reached using EbulkSMS.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 16487
+}

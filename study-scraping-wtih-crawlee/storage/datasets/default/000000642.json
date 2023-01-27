@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/strajk/r2-bike-r2-bike-com-scraper",
+	"uniqueIdentifier": "strajk/r2-bike-r2-bike-com-scraper",
+	"owner": "strajk",
+	"title": "r2-bike (r2-bike.com) scraper",
+	"description": "Scrapes products titles, prices, images and availability. Does NOT scrape product details. Uses Crawlee (Apify v3).",
+	"modifiedDate": "2022-11-20T15:44:09.141Z",
+	"runCount": 147
+}

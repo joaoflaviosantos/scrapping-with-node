@@ -1,0 +1,9 @@
+{
+	"id": "Hy3LnaK8Hg7WEXr",
+	"json": "{\"id\":\"Hy3LnaK8Hg7WEXr\",\"url\":\"https://www.xatakahome.com\",\"loadedUrl\":\"https://www.xatakahome.com/\",\"uniqueKey\":\"https://www.xatakahome.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:33:10.871Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.xatakahome.com",
+	"url": "https://www.xatakahome.com"
+}

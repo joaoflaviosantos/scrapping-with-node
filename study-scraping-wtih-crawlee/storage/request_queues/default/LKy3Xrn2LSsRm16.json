@@ -1,0 +1,9 @@
+{
+	"id": "LKy3Xrn2LSsRm16",
+	"json": "{\"id\":\"LKy3Xrn2LSsRm16\",\"url\":\"https://apify.com/apify/screenshot-url\",\"loadedUrl\":\"https://apify.com/apify/screenshot-url\",\"uniqueKey\":\"https://apify.com/apify/screenshot-url\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:05.862Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/apify/screenshot-url",
+	"url": "https://apify.com/apify/screenshot-url"
+}

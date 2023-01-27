@@ -1,0 +1,9 @@
+{
+	"id": "f5zHMVSrVVcqgZQ",
+	"json": "{\"id\":\"f5zHMVSrVVcqgZQ\",\"url\":\"https://apify.com/bares43/rmsystem\",\"loadedUrl\":\"https://apify.com/bares43/rmsystem\",\"uniqueKey\":\"https://apify.com/bares43/rmsystem\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:30.791Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/bares43/rmsystem",
+	"url": "https://apify.com/bares43/rmsystem"
+}

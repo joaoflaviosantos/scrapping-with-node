@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/vital-proteins-scraper",
+	"uniqueIdentifier": "mshopik/vital-proteins-scraper",
+	"owner": "mshopik",
+	"title": "Vital Proteins Scraper",
+	"description": "Scrape Vital Proteins and extract data on vitamins and supplements from vitalproteins.com. Our Vital Proteins API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:38:54.790Z",
+	"runCount": 426
+}

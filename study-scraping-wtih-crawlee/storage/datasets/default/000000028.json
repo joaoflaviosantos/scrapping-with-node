@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/aliexpress-scraper",
+	"uniqueIdentifier": "epctex/aliexpress-scraper",
+	"owner": "epctex",
+	"title": "AliExpress Scraper",
+	"description": "Scrape data from AliExpress. Extract descriptions, image, feedback, questions, prices, and all other product details. You can specify country, language, and region for shipping..",
+	"modifiedDate": "2023-01-25T02:01:37.689Z",
+	"runCount": 20612
+}

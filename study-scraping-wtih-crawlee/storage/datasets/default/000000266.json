@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/olive-and-june-scraper",
+	"uniqueIdentifier": "mshopik/olive-and-june-scraper",
+	"owner": "mshopik",
+	"title": "Olive and June Scraper",
+	"description": "Scrape Olive and June and extract data on skin and nail care from oliveandjune.com. Our Olive and June API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:00:53.042Z",
+	"runCount": 426
+}

@@ -1,0 +1,9 @@
+{
+	"id": "5CawdXvKQjfcm27",
+	"json": "{\"id\":\"5CawdXvKQjfcm27\",\"url\":\"https://apify.com/jancurn/algolia-webcrawler\",\"loadedUrl\":\"https://apify.com/jancurn/algolia-webcrawler\",\"uniqueKey\":\"https://apify.com/jancurn/algolia-webcrawler\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:18.528Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jancurn/algolia-webcrawler",
+	"url": "https://apify.com/jancurn/algolia-webcrawler"
+}

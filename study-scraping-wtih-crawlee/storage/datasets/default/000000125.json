@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/m0uka/similarweb-scraper",
+	"uniqueIdentifier": "m0uka/similarweb-scraper",
+	"owner": "m0uka",
+	"title": "Similarweb Scraper",
+	"description": "A simple but powerful scraper for similarweb.com. Retrieve website popularity information and get it in a JSON/XML/CSV/Excel/HTML table format. Get data such as total visits, traffic sources, competitors, top countries, company info, etc..",
+	"modifiedDate": "2022-12-08T13:12:34.547Z",
+	"runCount": 8634
+}

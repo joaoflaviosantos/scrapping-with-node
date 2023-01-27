@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/trudax/actor-nordstrom-scraper",
+	"uniqueIdentifier": "trudax/actor-nordstrom-scraper",
+	"owner": "trudax",
+	"title": "Nordstrom Scraper",
+	"description": "Nordstrom web scraper to crawl product information including price and sale price, color, and images. Extract all data in a dataset in multiple formats.",
+	"modifiedDate": "2023-01-17T14:27:14.033Z",
+	"runCount": 1788
+}

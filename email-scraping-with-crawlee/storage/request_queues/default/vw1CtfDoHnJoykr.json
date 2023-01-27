@@ -1,0 +1,9 @@
+{
+	"id": "vw1CtfDoHnJoykr",
+	"json": "{\"id\":\"vw1CtfDoHnJoykr\",\"url\":\"https://pt.wikipedia.org\",\"loadedUrl\":\"https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal\",\"uniqueKey\":\"https://pt.wikipedia.org\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:31:47.676Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://pt.wikipedia.org",
+	"url": "https://pt.wikipedia.org"
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/crown-and-paw-scraper",
+	"uniqueIdentifier": "mshopik/crown-and-paw-scraper",
+	"owner": "mshopik",
+	"title": "Crown Paw Scraper",
+	"description": "Scrape Crown Paw and extract data on pets and animals from crownandpaw.com. Our Crown Paw API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:47:13.774Z",
+	"runCount": 425
+}

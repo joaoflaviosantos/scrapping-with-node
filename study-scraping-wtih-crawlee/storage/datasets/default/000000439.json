@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/brave-new-look-scraper",
+	"uniqueIdentifier": "mshopik/brave-new-look-scraper",
+	"owner": "mshopik",
+	"title": "Brave New Look Scraper",
+	"description": "Scrape Brave New Look and extract data on clothing accessories from bravenewlook.com. Our Brave New Look API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:47:51.262Z",
+	"runCount": 427
+}

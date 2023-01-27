@@ -1,0 +1,9 @@
+{
+	"id": "6U2Utz5LTTBH0GO",
+	"json": "{\"id\":\"6U2Utz5LTTBH0GO\",\"url\":\"https://apify.com/lukass/covid-est\",\"loadedUrl\":\"https://apify.com/lukass/covid-est\",\"uniqueKey\":\"https://apify.com/lukass/covid-est\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:16.369Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/lukass/covid-est",
+	"url": "https://apify.com/lukass/covid-est"
+}

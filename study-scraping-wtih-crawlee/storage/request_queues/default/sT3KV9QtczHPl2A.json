@@ -1,0 +1,9 @@
+{
+	"id": "sT3KV9QtczHPl2A",
+	"json": "{\"id\":\"sT3KV9QtczHPl2A\",\"url\":\"https://apify.com/epctex/traffic-generator\",\"loadedUrl\":\"https://apify.com/epctex/traffic-generator\",\"uniqueKey\":\"https://apify.com/epctex/traffic-generator\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:04.109Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/epctex/traffic-generator",
+	"url": "https://apify.com/epctex/traffic-generator"
+}

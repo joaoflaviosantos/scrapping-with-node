@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/trustradius-scraper",
+	"uniqueIdentifier": "epctex/trustradius-scraper",
+	"owner": "epctex",
+	"title": "Trustradius Scraper",
+	"description": "Scrape data from the Trustradius product, vendor and review database. Crawl and extract product information insights with vendor information, extended real client reviews, portfolio and much more. Scrape the huge Trustradius database and top reviews by any search term.",
+	"modifiedDate": "2023-01-25T02:03:23.415Z",
+	"runCount": 1084
+}

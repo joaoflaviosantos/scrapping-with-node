@@ -1,0 +1,9 @@
+{
+	"id": "EMXDQclaskt0S3h",
+	"json": "{\"id\":\"EMXDQclaskt0S3h\",\"url\":\"https://apify.com/lhotanok/fler-scraper\",\"loadedUrl\":\"https://apify.com/lhotanok/fler-scraper\",\"uniqueKey\":\"https://apify.com/lhotanok/fler-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:16.379Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/lhotanok/fler-scraper",
+	"url": "https://apify.com/lhotanok/fler-scraper"
+}

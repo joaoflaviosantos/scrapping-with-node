@@ -1,0 +1,9 @@
+{
+	"id": "J5qhShdr1b0LK75",
+	"json": "{\"id\":\"J5qhShdr1b0LK75\",\"url\":\"https://apify.com/yuri/Icon-burglar\",\"loadedUrl\":\"https://apify.com/yuri/icon-burglar\",\"uniqueKey\":\"https://apify.com/yuri/Icon-burglar\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:54.782Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/yuri/Icon-burglar",
+	"url": "https://apify.com/yuri/Icon-burglar"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "fETENMIrqzn3GgV",
+	"json": "{\"id\":\"fETENMIrqzn3GgV\",\"url\":\"https://apify.com/misceres/seo-audit-tool\",\"loadedUrl\":\"https://apify.com/misceres/seo-audit-tool\",\"uniqueKey\":\"https://apify.com/misceres/seo-audit-tool\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:47:44.312Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/misceres/seo-audit-tool",
+	"url": "https://apify.com/misceres/seo-audit-tool"
+}

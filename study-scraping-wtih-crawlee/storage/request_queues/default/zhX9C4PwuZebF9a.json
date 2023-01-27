@@ -1,0 +1,9 @@
+{
+	"id": "zhX9C4PwuZebF9a",
+	"json": "{\"id\":\"zhX9C4PwuZebF9a\",\"url\":\"https://apify.com/thibault/extract-signatures-chambre-depute-luxembourg\",\"loadedUrl\":\"https://apify.com/thibault/extract-signatures-chambre-depute-luxembourg\",\"uniqueKey\":\"https://apify.com/thibault/extract-signatures-chambre-depute-luxembourg\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:29.564Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/thibault/extract-signatures-chambre-depute-luxembourg",
+	"url": "https://apify.com/thibault/extract-signatures-chambre-depute-luxembourg"
+}

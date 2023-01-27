@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dtrungtin/allrecipes-scraper",
+	"uniqueIdentifier": "dtrungtin/allrecipes-scraper",
+	"owner": "dtrungtin",
+	"title": "Allrecipes Scraper",
+	"description": "Scrape recipes from Allrecipes with ingredients and directions. This easy-to-use actor gets you an Allrecipes dataset in different formats according to your needs.",
+	"modifiedDate": "2022-08-09T09:58:22.846Z",
+	"runCount": 3950
+}

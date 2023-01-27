@@ -1,0 +1,9 @@
+{
+	"id": "3DpFN3FIVSLx1oa",
+	"json": "{\"id\":\"3DpFN3FIVSLx1oa\",\"url\":\"https://apify.com/mshopik/charcoal-clothing-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/charcoal-clothing-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/charcoal-clothing-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:26.738Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/charcoal-clothing-scraper",
+	"url": "https://apify.com/mshopik/charcoal-clothing-scraper"
+}

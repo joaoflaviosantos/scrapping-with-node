@@ -1,0 +1,9 @@
+{
+	"id": "fjxv84vfZ7KnP3E",
+	"json": "{\"id\":\"fjxv84vfZ7KnP3E\",\"url\":\"https://apify.com/maxcopell/tripadvisor-restaurants-scraper\",\"loadedUrl\":\"https://apify.com/maxcopell/tripadvisor-restaurants-scraper\",\"uniqueKey\":\"https://apify.com/maxcopell/tripadvisor-restaurants-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:49.765Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/maxcopell/tripadvisor-restaurants-scraper",
+	"url": "https://apify.com/maxcopell/tripadvisor-restaurants-scraper"
+}

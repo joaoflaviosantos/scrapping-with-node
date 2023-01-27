@@ -1,0 +1,9 @@
+{
+	"id": "5EnrWc3h0Ef7kFD",
+	"json": "{\"id\":\"5EnrWc3h0Ef7kFD\",\"url\":\"https://apify.com/mshopik/the-ridge-wallet-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/the-ridge-wallet-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/the-ridge-wallet-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:30.993Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/the-ridge-wallet-scraper",
+	"url": "https://apify.com/mshopik/the-ridge-wallet-scraper"
+}

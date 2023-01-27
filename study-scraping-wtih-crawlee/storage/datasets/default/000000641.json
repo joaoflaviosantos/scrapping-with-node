@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/republic-wireless-scraper",
+	"uniqueIdentifier": "mshopik/republic-wireless-scraper",
+	"owner": "mshopik",
+	"title": "Republic Wireless Scraper",
+	"description": "Scrape Republic Wireless and extract data on mobile and wireless from republicwireless.com. Our Republic Wireless API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:50:01.277Z",
+	"runCount": 427
+}

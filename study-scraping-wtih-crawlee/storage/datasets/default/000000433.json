@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/harris-farm-markets-scraper",
+	"uniqueIdentifier": "mshopik/harris-farm-markets-scraper",
+	"owner": "mshopik",
+	"title": "Harris Farm Markets Scraper",
+	"description": "Scrape Harris Farm Markets and extract data on food from harrisfarm.com.au. Our Harris Farm Markets API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:01:05.647Z",
+	"runCount": 426
+}

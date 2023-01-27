@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/argos-scraper",
+	"uniqueIdentifier": "jupri/argos-scraper",
+	"owner": "jupri",
+	"title": "Argos Scraper",
+	"description": "Scrape product data from Argos.co.uk",
+	"modifiedDate": "2022-09-08T13:04:51.396Z",
+	"runCount": 191
+}

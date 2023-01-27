@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukass/redfin-scraper",
+	"uniqueIdentifier": "lukass/redfin-scraper",
+	"owner": "lukass",
+	"title": "Redfin scraper",
+	"description": "Scrapes real-estate data from a provided location.",
+	"modifiedDate": "2023-01-09T10:02:00.444Z",
+	"runCount": 425
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/yeyo/hepsiburada-scraper",
+	"uniqueIdentifier": "yeyo/hepsiburada-scraper",
+	"owner": "yeyo",
+	"title": "Hepsiburada Product Scraper",
+	"description": "This scraper is a tool that allows you to extract specific product information from Hepsiburada, an online retail platform. When you use this scraper, you will be able to obtain data about Hepsiburada products that is current and up-to-date. This can be useful if you want to stay informed about the",
+	"modifiedDate": "2022-12-30T10:13:24.723Z",
+	"runCount": 68
+}

@@ -1,0 +1,9 @@
+{
+	"id": "CwjVumVjlLSR9wv",
+	"json": "{\"id\":\"CwjVumVjlLSR9wv\",\"url\":\"https://ventisol.com.br\",\"loadedUrl\":\"https://ventisol.com.br/\",\"uniqueKey\":\"https://ventisol.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:32:42.133Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ventisol.com.br",
+	"url": "https://ventisol.com.br"
+}

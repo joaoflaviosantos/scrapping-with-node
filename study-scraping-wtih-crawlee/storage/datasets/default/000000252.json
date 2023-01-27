@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/lively-scraper",
+	"uniqueIdentifier": "mshopik/lively-scraper",
+	"owner": "mshopik",
+	"title": "LIVELY Scraper",
+	"description": "Scrape LIVELY and extract data on undergarments from wearlively.com. Our LIVELY API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:46:08.294Z",
+	"runCount": 426
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/har-files-for-url-list",
+	"uniqueIdentifier": "apify/har-files-for-url-list",
+	"owner": "apify",
+	"title": "HAR files for URL list",
+	"description": "Generates an HTTP Archive (HAR) file for web pages specified by a list of URLs in JSON or CSV file. Optionally, the pages can be loaded using proxies from a specific country. The resulting HAR files are stored in the key-value store or in the dataset.",
+	"modifiedDate": "2022-10-19T20:49:33.772Z",
+	"runCount": 469
+}

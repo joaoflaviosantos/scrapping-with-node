@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/anchor/email-check-verify-validate",
+	"uniqueIdentifier": "anchor/email-check-verify-validate",
+	"owner": "anchor",
+	"title": "Email check, verify, validate",
+	"description": "Email Check, verify and validate is an email verification tool. It helps you validate any email address online. Check if mailbox really exists ! \nThis email validator checks email address validity in seconds. Verification of emails mainly based on servers response for most accuracy. Upload your CSV.",
+	"modifiedDate": "2022-12-07T22:16:08.808Z",
+	"runCount": 189
+}

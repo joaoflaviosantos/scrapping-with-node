@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/strajk/cyklobazar-cyklobazar-cz-scraper-rss",
+	"uniqueIdentifier": "strajk/cyklobazar-cyklobazar-cz-scraper-rss",
+	"owner": "strajk",
+	"title": "Cyklobazar (cyklobazar.cz) scraper RSS",
+	"description": "Scrapes listings from provided cyklobazar url(s) and saves them in RSS compatible format.",
+	"modifiedDate": "2022-08-15T14:35:31.140Z",
+	"runCount": 274
+}

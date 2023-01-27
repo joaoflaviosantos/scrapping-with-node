@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/only-natural-pet-scraper",
+	"uniqueIdentifier": "mshopik/only-natural-pet-scraper",
+	"owner": "mshopik",
+	"title": "Only Natural Pet Scraper",
+	"description": "Scrape Only Natural Pet and extract data on pet food and supplies from onlynaturalpet.com. Our Only Natural Pet API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:58:07.315Z",
+	"runCount": 426
+}

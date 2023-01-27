@@ -1,0 +1,9 @@
+{
+	"id": "UxhEvOL10QOAIDs",
+	"json": "{\"id\":\"UxhEvOL10QOAIDs\",\"url\":\"https://apify.com/medh/HumbleBundle\",\"loadedUrl\":\"https://apify.com/medh/humblebundle\",\"uniqueKey\":\"https://apify.com/medh/HumbleBundle\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:35.881Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/medh/HumbleBundle",
+	"url": "https://apify.com/medh/HumbleBundle"
+}

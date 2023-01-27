@@ -1,0 +1,9 @@
+{
+	"id": "UWB1bgoSVYTNurg",
+	"json": "{\"id\":\"UWB1bgoSVYTNurg\",\"url\":\"https://apify.com/compass/Google-Maps-Reviews-Scraper\",\"loadedUrl\":\"https://apify.com/compass/google-maps-reviews-scraper\",\"uniqueKey\":\"https://apify.com/compass/Google-Maps-Reviews-Scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:22.425Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/compass/Google-Maps-Reviews-Scraper",
+	"url": "https://apify.com/compass/Google-Maps-Reviews-Scraper"
+}

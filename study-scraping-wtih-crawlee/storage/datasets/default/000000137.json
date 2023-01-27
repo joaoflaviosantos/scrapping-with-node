@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/alexey/facebook-page-posts-checker",
+	"uniqueIdentifier": "alexey/facebook-page-posts-checker",
+	"owner": "alexey",
+	"title": "Facebook page posts checker",
+	"description": "Facebook page checker extracts posts until several years from past, reviews and page details. Groups added as beta, less posts expected but with better details.",
+	"modifiedDate": "2023-01-19T18:34:10.556Z",
+	"runCount": 29420
+}

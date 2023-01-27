@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/47-scraper",
+	"uniqueIdentifier": "mshopik/47-scraper",
+	"owner": "mshopik",
+	"title": "47 Scraper",
+	"description": "Scrape 47 and extract data on apparel from 47brand.com. Our 47 API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:35:42.652Z",
+	"runCount": 425
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/craft-scraper",
+	"uniqueIdentifier": "jupri/craft-scraper",
+	"owner": "jupri",
+	"title": "Craft.co Scraper",
+	"description": "Scrape companies data from Craft.co",
+	"modifiedDate": "2022-11-10T09:56:21.625Z",
+	"runCount": 320
+}

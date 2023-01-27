@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/machines-online-store-scraper",
+	"uniqueIdentifier": "mshopik/machines-online-store-scraper",
+	"owner": "mshopik",
+	"title": "Machines Online Store Scraper",
+	"description": "Scrape Machines Online Store and extract data on consumer electronics from machines.com.my. Our Machines Online Store API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:06:05.750Z",
+	"runCount": 426
+}

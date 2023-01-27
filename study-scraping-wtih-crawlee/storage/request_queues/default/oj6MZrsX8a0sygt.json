@@ -1,0 +1,9 @@
+{
+	"id": "oj6MZrsX8a0sygt",
+	"json": "{\"id\":\"oj6MZrsX8a0sygt\",\"url\":\"https://apify.com/pocesar/request-list-bridge\",\"loadedUrl\":\"https://apify.com/pocesar/request-list-bridge\",\"uniqueKey\":\"https://apify.com/pocesar/request-list-bridge\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:34.545Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/pocesar/request-list-bridge",
+	"url": "https://apify.com/pocesar/request-list-bridge"
+}

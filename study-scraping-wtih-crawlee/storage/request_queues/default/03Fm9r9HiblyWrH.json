@@ -1,0 +1,9 @@
+{
+	"id": "03Fm9r9HiblyWrH",
+	"json": "{\"id\":\"03Fm9r9HiblyWrH\",\"url\":\"https://apify.com/vaclavrut/bigjson2csv\",\"loadedUrl\":\"https://apify.com/vaclavrut/bigjson2csv\",\"uniqueKey\":\"https://apify.com/vaclavrut/bigjson2csv\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:41.899Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/vaclavrut/bigjson2csv",
+	"url": "https://apify.com/vaclavrut/bigjson2csv"
+}

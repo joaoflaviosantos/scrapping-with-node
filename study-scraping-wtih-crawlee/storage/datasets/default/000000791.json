@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jan.turon/baidu-scraper",
+	"uniqueIdentifier": "jan.turon/baidu-scraper",
+	"owner": "jan.turon",
+	"title": "Baidu Scraper",
+	"description": "This actor allows you automatically crawl the result page for your keyword for the Baidu Search engine",
+	"modifiedDate": "2022-09-14T14:17:22.252Z",
+	"runCount": 306
+}

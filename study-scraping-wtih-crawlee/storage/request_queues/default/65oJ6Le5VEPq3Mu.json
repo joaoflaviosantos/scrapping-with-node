@@ -1,0 +1,9 @@
+{
+	"id": "65oJ6Le5VEPq3Mu",
+	"json": "{\"id\":\"65oJ6Le5VEPq3Mu\",\"url\":\"https://apify.com/mtrunkat/example-hacker-news\",\"loadedUrl\":\"https://apify.com/mtrunkat/example-hacker-news\",\"uniqueKey\":\"https://apify.com/mtrunkat/example-hacker-news\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:52.467Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mtrunkat/example-hacker-news",
+	"url": "https://apify.com/mtrunkat/example-hacker-news"
+}

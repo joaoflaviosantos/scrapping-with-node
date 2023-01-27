@@ -1,0 +1,9 @@
+{
+	"id": "Xb3Vw5wNhzJdTE5",
+	"json": "{\"id\":\"Xb3Vw5wNhzJdTE5\",\"url\":\"https://apify.com/mshopik/botkier-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/botkier-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/botkier-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:18.579Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/botkier-scraper",
+	"url": "https://apify.com/mshopik/botkier-scraper"
+}

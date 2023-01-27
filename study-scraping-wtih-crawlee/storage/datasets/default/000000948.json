@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/alexey/vdab-be-jobs",
+	"uniqueIdentifier": "alexey/vdab-be-jobs",
+	"owner": "alexey",
+	"title": "Vdab-be jobs",
+	"description": "Pick up any job categories from Belgium national job board https://www.vdab.be/jobs then choose sorting or filtering if you want and get list results for around 1 cent per 100 jobs!",
+	"modifiedDate": "2022-10-12T01:01:47.750Z",
+	"runCount": 112
+}

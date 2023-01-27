@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/remodelaholic-scraper",
+	"uniqueIdentifier": "mshopik/remodelaholic-scraper",
+	"owner": "mshopik",
+	"title": "Remodelaholic Scraper",
+	"description": "Scrape Remodelaholic and extract data on home improvement from remodelaholic.com. Our Remodelaholic API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:21:28.456Z",
+	"runCount": 426
+}

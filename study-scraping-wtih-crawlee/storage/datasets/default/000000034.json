@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/junglee/amazon-reviews-scraper",
+	"uniqueIdentifier": "junglee/amazon-reviews-scraper",
+	"owner": "junglee",
+	"title": "Amazon Reviews Scraper",
+	"description": "Amazon scraper to extract reviews from Amazon products. Scrape and download detailed reviews without using the Amazon API, including rating score, review description, reactions and images. Download your data as HTML table, JSON, CSV, Excel, XML.",
+	"modifiedDate": "2023-01-16T13:38:07.160Z",
+	"runCount": 1376
+}

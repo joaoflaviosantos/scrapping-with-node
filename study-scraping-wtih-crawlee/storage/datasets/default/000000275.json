@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/the-beachwaver-co-scraper",
+	"uniqueIdentifier": "mshopik/the-beachwaver-co-scraper",
+	"owner": "mshopik",
+	"title": "The Beachwaver Co. Scraper",
+	"description": "Scrape The Beachwaver Co. and extract data on hair care from beachwaver.com. Our The Beachwaver Co. API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:06:49.305Z",
+	"runCount": 426
+}

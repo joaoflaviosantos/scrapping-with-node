@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lordflotrox/linkedin-profile",
+	"uniqueIdentifier": "lordflotrox/linkedin-profile",
+	"owner": "lordflotrox",
+	"title": "LinkedIn Profile",
+	"description": "Get information about a LinkedIn profile given a LinkedIn URL. Useful for programmatically extracting data about profiles at scale without the need for a parser or manual labor.",
+	"modifiedDate": "2023-01-02T20:46:38.217Z",
+	"runCount": 189
+}

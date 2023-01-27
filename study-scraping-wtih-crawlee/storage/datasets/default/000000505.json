@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/valehprague/image-to-text",
+	"uniqueIdentifier": "valehprague/image-to-text",
+	"owner": "valehprague",
+	"title": "Image to Text OCR",
+	"description": "Extract machine readable textual data from image documents",
+	"modifiedDate": "2021-10-25T21:53:07.604Z",
+	"runCount": 521
+}

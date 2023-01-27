@@ -1,0 +1,9 @@
+{
+	"id": "boPet4bM5R1Ojbq",
+	"json": "{\"id\":\"boPet4bM5R1Ojbq\",\"url\":\"https://apify.com/hreal/my-actor\",\"loadedUrl\":\"https://apify.com/hreal/my-actor\",\"uniqueKey\":\"https://apify.com/hreal/my-actor\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:36.528Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/hreal/my-actor",
+	"url": "https://apify.com/hreal/my-actor"
+}

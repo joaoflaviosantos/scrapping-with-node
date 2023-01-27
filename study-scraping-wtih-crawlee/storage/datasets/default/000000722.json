@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/perci/gateway-pundit-scraper",
+	"uniqueIdentifier": "perci/gateway-pundit-scraper",
+	"owner": "perci",
+	"title": "Gateway Pundit Scraper",
+	"description": "Scrape news data from thegatewaypundit.com with this unofficial API. Extract articles, monitor their popularity and performance and automate the fight against fake news. Filter the results by authors, topics, categories, or publication dates. Preview or download the results in your preferred format.",
+	"modifiedDate": "2022-08-07T20:45:27.459Z",
+	"runCount": 251
+}

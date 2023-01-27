@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/hanacure-scraper",
+	"uniqueIdentifier": "mshopik/hanacure-scraper",
+	"owner": "mshopik",
+	"title": "Hanacure Scraper",
+	"description": "Scrape Hanacure and extract data on skin and nail care from hanacure.com. Our Hanacure API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:18:22.434Z",
+	"runCount": 425
+}

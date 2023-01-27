@@ -1,0 +1,9 @@
+{
+	"id": "a1P9p0GMFhW6yXj",
+	"json": "{\"id\":\"a1P9p0GMFhW6yXj\",\"url\":\"https://apify.com/quacker/easy-twitter-scraper\",\"loadedUrl\":\"https://apify.com/quacker/easy-twitter-scraper\",\"uniqueKey\":\"https://apify.com/quacker/easy-twitter-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:47:58.438Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/quacker/easy-twitter-scraper",
+	"url": "https://apify.com/quacker/easy-twitter-scraper"
+}

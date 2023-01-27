@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/nalai-and-co-scraper",
+	"uniqueIdentifier": "mshopik/nalai-and-co-scraper",
+	"owner": "mshopik",
+	"title": "Nalai Co Scraper",
+	"description": "Scrape Nalai Co and extract data on make-up and cosmetics from nalaiandco.com. Our Nalai Co API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:04:53.373Z",
+	"runCount": 425
+}

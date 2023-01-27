@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/alo-yoga-scraper",
+	"uniqueIdentifier": "mshopik/alo-yoga-scraper",
+	"owner": "mshopik",
+	"title": "Alo Yoga Scraper",
+	"description": "Scrape Alo Yoga and extract data on fitness from aloyoga.com. Our Alo Yoga API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:30:32.268Z",
+	"runCount": 426
+}

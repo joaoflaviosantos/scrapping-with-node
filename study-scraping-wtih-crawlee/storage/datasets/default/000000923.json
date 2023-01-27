@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/hafelehome-scraper",
+	"uniqueIdentifier": "mshopik/hafelehome-scraper",
+	"owner": "mshopik",
+	"title": "HäfeleHome Scraper",
+	"description": "Scrape HäfeleHome and extract data on home furnishings from hafelehome.com.vn. Our HäfeleHome API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:10:57.498Z",
+	"runCount": 427
+}

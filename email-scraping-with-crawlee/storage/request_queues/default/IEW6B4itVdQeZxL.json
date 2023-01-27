@@ -1,0 +1,9 @@
+{
+	"id": "IEW6B4itVdQeZxL",
+	"json": "{\"id\":\"IEW6B4itVdQeZxL\",\"url\":\"https://www.bricomart.es\",\"loadedUrl\":\"https://www.bricomart.es/\",\"uniqueKey\":\"https://www.bricomart.es\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:32:41.031Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.bricomart.es",
+	"url": "https://www.bricomart.es"
+}

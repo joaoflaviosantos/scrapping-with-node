@@ -1,0 +1,9 @@
+{
+	"id": "5t3UjnSuGnXVLzo",
+	"json": "{\"id\":\"5t3UjnSuGnXVLzo\",\"url\":\"https://www.soreparos.com.br\",\"loadedUrl\":\"https://www.soreparos.com.br/\",\"uniqueKey\":\"https://www.soreparos.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:31:57.877Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.soreparos.com.br",
+	"url": "https://www.soreparos.com.br"
+}

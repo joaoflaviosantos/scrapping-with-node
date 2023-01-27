@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/junglee/amazon-bestsellers-scraper",
+	"uniqueIdentifier": "junglee/amazon-bestsellers-scraper",
+	"owner": "junglee",
+	"title": "Amazon Best Sellers Scraper",
+	"description": "Scrape the Amazon Best Sellers categories and extract details on top 100 most popular items on Amazon. Download product name, price, URL, and thumbnail image. Best used on .com, .co.uk, .de, .fr, .es, and .it domains. Download your data in various formats: HTML table, JSON, CSV, Excel, and more.",
+	"modifiedDate": "2022-12-15T12:04:56.129Z",
+	"runCount": 12880
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/opesicka/figma-count-files",
+	"uniqueIdentifier": "opesicka/figma-count-files",
+	"owner": "opesicka",
+	"title": "Figma file counter",
+	"description": "Simple actor that counts the number of files in a given Figma team.",
+	"modifiedDate": "2022-11-09T10:42:26.477Z",
+	"runCount": 96
+}

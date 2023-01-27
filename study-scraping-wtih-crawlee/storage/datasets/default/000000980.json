@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mihails/github-champion",
+	"uniqueIdentifier": "mihails/github-champion",
+	"owner": "mihails",
+	"title": "Github Champion",
+	"description": "Find your organization's top contributors. In every time period, performance is measured by the number of assigned issues closed, number of PR reviews, and number of PRs opened.",
+	"modifiedDate": "2022-09-26T15:19:10.053Z",
+	"runCount": 363
+}

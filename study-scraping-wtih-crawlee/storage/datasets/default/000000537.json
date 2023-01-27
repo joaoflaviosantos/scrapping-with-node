@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/rhone-scraper",
+	"uniqueIdentifier": "mshopik/rhone-scraper",
+	"owner": "mshopik",
+	"title": "Rhone Scraper",
+	"description": "Scrape Rhone and extract data on athletic apparel from rhone.com. Our Rhone API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:41:08.823Z",
+	"runCount": 426
+}

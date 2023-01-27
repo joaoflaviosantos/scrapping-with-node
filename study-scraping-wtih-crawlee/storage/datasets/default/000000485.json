@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/hackernews-scraper",
+	"uniqueIdentifier": "epctex/hackernews-scraper",
+	"owner": "epctex",
+	"title": "Hacker News Scraper",
+	"description": "Scrape Y Combinator's Hacker News based on any search criteria. Crawl the front page, Show HN, Ask HN, news, job listings, and historical data. Extract and download links, titles, comments, ratings and more.",
+	"modifiedDate": "2023-01-25T02:02:37.217Z",
+	"runCount": 1479
+}

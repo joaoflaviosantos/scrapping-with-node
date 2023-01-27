@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/campmor-scraper",
+	"uniqueIdentifier": "mshopik/campmor-scraper",
+	"owner": "mshopik",
+	"title": "Campmor Scraper",
+	"description": "Scrape Campmor and extract data on hiking and camping from campmor.com. Our Campmor API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:20:41.873Z",
+	"runCount": 427
+}

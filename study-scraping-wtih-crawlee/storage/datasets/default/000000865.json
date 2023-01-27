@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/pocesar/google-search-by-image",
+	"uniqueIdentifier": "pocesar/google-search-by-image",
+	"owner": "pocesar",
+	"title": "Google Search By Image",
+	"description": "Search Google results by providing image URLs. It can be used for: reverse search, finding people by photo, detecting objects on images, getting product names, finding social media related to the person in the photo, finding related images and terms, and identifying objects on photos",
+	"modifiedDate": "2022-09-06T03:52:39.872Z",
+	"runCount": 173
+}

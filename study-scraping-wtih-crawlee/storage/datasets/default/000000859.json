@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/example-secret-input",
+	"uniqueIdentifier": "apify/example-secret-input",
+	"owner": "apify",
+	"title": "Example Secret Input",
+	"description": "This Apify actor showcases how to use secret fields in the actor input.",
+	"modifiedDate": "2022-10-20T13:40:32.079Z",
+	"runCount": 3
+}

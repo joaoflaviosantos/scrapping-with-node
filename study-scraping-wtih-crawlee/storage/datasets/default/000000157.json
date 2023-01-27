@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/goodreads-scraper",
+	"uniqueIdentifier": "epctex/goodreads-scraper",
+	"owner": "epctex",
+	"title": "Goodreads Scraper",
+	"description": "Scrape goodreads.com for data on millions of books. Crawl book details for images, ISBN, author, description, title, buy links, number of reviews, page number, language, and all other details. You can specify search terms, filters, and much more.",
+	"modifiedDate": "2023-01-25T02:01:31.716Z",
+	"runCount": 13512
+}

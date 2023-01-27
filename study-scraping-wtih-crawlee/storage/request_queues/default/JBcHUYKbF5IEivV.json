@@ -1,0 +1,9 @@
+{
+	"id": "JBcHUYKbF5IEivV",
+	"json": "{\"id\":\"JBcHUYKbF5IEivV\",\"url\":\"https://apify.com/mshopik/sapphire-online-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/sapphire-online-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/sapphire-online-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:26.250Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/sapphire-online-scraper",
+	"url": "https://apify.com/mshopik/sapphire-online-scraper"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "TTU8FBW8H2OCOjx",
+	"json": "{\"id\":\"TTU8FBW8H2OCOjx\",\"url\":\"https://apify.com/mshopik/urban-excess-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/urban-excess-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/urban-excess-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:50.887Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/urban-excess-scraper",
+	"url": "https://apify.com/mshopik/urban-excess-scraper"
+}

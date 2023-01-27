@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukaskrivka/generate-people-pairs",
+	"uniqueIdentifier": "lukaskrivka/generate-people-pairs",
+	"owner": "lukaskrivka",
+	"title": "Generate People Pairs",
+	"description": "Creates pairs from a list of people and posts them to Slack. Keeps track of history and always creates new and shuffled pairs.",
+	"modifiedDate": "2022-05-06T10:57:18.753Z",
+	"runCount": 483
+}

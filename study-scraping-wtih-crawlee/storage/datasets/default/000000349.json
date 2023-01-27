@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/architects-journal-scraper",
+	"uniqueIdentifier": "mshopik/architects-journal-scraper",
+	"owner": "mshopik",
+	"title": "Architects’ Journal Scraper",
+	"description": "Scrape Architects’ Journal and extract data on architecture from architectsjournal.co.uk. Our Architects’ Journal API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:19:55.211Z",
+	"runCount": 425
+}

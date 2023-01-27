@@ -1,0 +1,9 @@
+{
+	"id": "qiCyPXmaYh4JSF2",
+	"json": "{\"id\":\"qiCyPXmaYh4JSF2\",\"url\":\"https://apify.com/mshopik/nobull-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/nobull-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/nobull-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:09.083Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/nobull-scraper",
+	"url": "https://apify.com/mshopik/nobull-scraper"
+}

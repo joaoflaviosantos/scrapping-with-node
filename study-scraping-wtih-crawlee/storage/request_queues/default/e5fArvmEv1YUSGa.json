@@ -1,0 +1,9 @@
+{
+	"id": "e5fArvmEv1YUSGa",
+	"json": "{\"id\":\"e5fArvmEv1YUSGa\",\"url\":\"https://apify.com/zuzka/get-proper-url-from-shortened-one\",\"loadedUrl\":\"https://apify.com/zuzka/get-proper-url-from-shortened-one\",\"uniqueKey\":\"https://apify.com/zuzka/get-proper-url-from-shortened-one\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:14.450Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/zuzka/get-proper-url-from-shortened-one",
+	"url": "https://apify.com/zuzka/get-proper-url-from-shortened-one"
+}

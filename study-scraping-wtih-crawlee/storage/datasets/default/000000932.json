@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/smooth/sockjs-test",
+	"uniqueIdentifier": "smooth/sockjs-test",
+	"owner": "smooth",
+	"title": "SockJS WebSocket Test",
+	"description": "Test SockJS connection between Apify actor and client",
+	"modifiedDate": "2022-10-10T09:07:35.996Z",
+	"runCount": 73
+}

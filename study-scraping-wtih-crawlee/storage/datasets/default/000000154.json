@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/katerinahronik/covid-philippines",
+	"uniqueIdentifier": "katerinahronik/covid-philippines",
+	"owner": "katerinahronik",
+	"title": "Coronavirus stats in Philippines",
+	"description": "Actor gets an up-to-date number of infected, tested, recovered, deceased, PUI and PUM people in the Republic of the Philippines from https://ncovtracker.doh.gov.ph/ .",
+	"modifiedDate": "2021-04-12T09:29:30.150Z",
+	"runCount": 117049
+}

@@ -1,0 +1,9 @@
+{
+	"id": "zHavhxYbrDVrivs",
+	"json": "{\"id\":\"zHavhxYbrDVrivs\",\"url\":\"https://apify.com/dtziugomez/covidYucatan\",\"loadedUrl\":\"https://apify.com/dtziugomez/covidyucatan\",\"uniqueKey\":\"https://apify.com/dtziugomez/covidYucatan\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:18.265Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/dtziugomez/covidYucatan",
+	"url": "https://apify.com/dtziugomez/covidYucatan"
+}

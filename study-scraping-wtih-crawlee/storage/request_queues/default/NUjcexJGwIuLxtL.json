@@ -1,0 +1,9 @@
+{
+	"id": "NUjcexJGwIuLxtL",
+	"json": "{\"id\":\"NUjcexJGwIuLxtL\",\"url\":\"https://apify.com/jancurn/screenshot-taker\",\"loadedUrl\":\"https://apify.com/jancurn/screenshot-taker\",\"uniqueKey\":\"https://apify.com/jancurn/screenshot-taker\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:40.826Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jancurn/screenshot-taker",
+	"url": "https://apify.com/jancurn/screenshot-taker"
+}

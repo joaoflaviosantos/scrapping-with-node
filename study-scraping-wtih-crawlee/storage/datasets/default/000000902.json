@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mcdowell/Google-Maps-Route-Scraper",
+	"uniqueIdentifier": "mcdowell/Google-Maps-Route-Scraper",
+	"owner": "mcdowell",
+	"title": "Google Maps Routes",
+	"description": "A flexible scraper that returns the quickest route between two locations. Can filter paths by avoiding `Ferries`, `Highways` and `Tolls`",
+	"modifiedDate": "2022-09-08T16:06:16.223Z",
+	"runCount": 170
+}

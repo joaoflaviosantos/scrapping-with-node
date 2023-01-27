@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/sneaker-politics-scraper",
+	"uniqueIdentifier": "mshopik/sneaker-politics-scraper",
+	"owner": "mshopik",
+	"title": "Sneaker Politics Scraper",
+	"description": "Scrape Sneaker Politics and extract data on casual apparel from sneakerpolitics.com. Our Sneaker Politics API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:16:01.190Z",
+	"runCount": 449
+}

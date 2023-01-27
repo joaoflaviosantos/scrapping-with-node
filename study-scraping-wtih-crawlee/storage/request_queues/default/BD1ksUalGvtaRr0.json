@@ -1,0 +1,9 @@
+{
+	"id": "BD1ksUalGvtaRr0",
+	"json": "{\"id\":\"BD1ksUalGvtaRr0\",\"url\":\"https://apify.com/epctex/google-play-scraper\",\"loadedUrl\":\"https://apify.com/epctex/google-play-scraper\",\"uniqueKey\":\"https://apify.com/epctex/google-play-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:16.630Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/epctex/google-play-scraper",
+	"url": "https://apify.com/epctex/google-play-scraper"
+}

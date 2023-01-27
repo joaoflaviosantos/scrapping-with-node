@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/morphe-us-scraper",
+	"uniqueIdentifier": "mshopik/morphe-us-scraper",
+	"owner": "mshopik",
+	"title": "Morphe US Scraper",
+	"description": "Scrape Morphe US and extract data on make-up and cosmetics from morphe.com. Our Morphe US API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:35:10.835Z",
+	"runCount": 426
+}

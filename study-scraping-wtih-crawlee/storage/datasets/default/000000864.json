@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukaskrivka/rebirth-failed-requests",
+	"uniqueIdentifier": "lukaskrivka/rebirth-failed-requests",
+	"owner": "lukaskrivka",
+	"title": "Rebirth failed requests",
+	"description": "Rebirth failed requests of past runs into a pristine state with no retries so you can rescrape them by resurrecting the run.",
+	"modifiedDate": "2022-08-09T12:13:35.665Z",
+	"runCount": 452
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/enco/covid-cl",
+	"uniqueIdentifier": "enco/covid-cl",
+	"owner": "enco",
+	"title": "Coronavirus stats in Chile",
+	"description": "Gets an actual number of infected, hospitalized, recovered and deceased people by COVID-19 in Chile from https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/",
+	"modifiedDate": "2021-05-19T06:38:47.503Z",
+	"runCount": 7078
+}

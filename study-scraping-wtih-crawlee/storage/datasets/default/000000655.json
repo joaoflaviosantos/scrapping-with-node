@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/merchology-scraper",
+	"uniqueIdentifier": "mshopik/merchology-scraper",
+	"owner": "mshopik",
+	"title": "Merchology Scraper",
+	"description": "Scrape Merchology and extract data on business services from merchology.com. Our Merchology API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:51:03.870Z",
+	"runCount": 426
+}

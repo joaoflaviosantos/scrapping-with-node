@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/drobnikj/stackoverflow-search-to-slack",
+	"uniqueIdentifier": "drobnikj/stackoverflow-search-to-slack",
+	"owner": "drobnikj",
+	"title": "Stack Overflow Search Scraper",
+	"description": "Searches on StackOverflow site for defined queries and sends them to your slack channel. Create Slack app, set up App name and Slack channel as a workspace, set up name in Bot Users, copy OAuth Access Token.",
+	"modifiedDate": "2022-06-20T13:53:08.256Z",
+	"runCount": 892
+}

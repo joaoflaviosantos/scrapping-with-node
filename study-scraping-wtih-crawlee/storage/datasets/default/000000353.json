@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/dose-of-colors-scraper",
+	"uniqueIdentifier": "mshopik/dose-of-colors-scraper",
+	"owner": "mshopik",
+	"title": "Dose of Colors Scraper",
+	"description": "Scrape Dose of Colors and extract data on make-up and cosmetics from doseofcolors.com. Our Dose of Colors API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:08:36.242Z",
+	"runCount": 427
+}

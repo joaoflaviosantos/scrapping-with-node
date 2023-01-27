@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/glenn/gif-scroll-animation",
+	"uniqueIdentifier": "glenn/gif-scroll-animation",
+	"owner": "glenn",
+	"title": "GIF Scroll Animation",
+	"description": "Free tool to automatically create an animated GIF of any scrolling web page. Useful for testing UX, showcasing your work, and capturing any website as a GIF, including clickable elements and animations. Includes settings to adjust speed, wait before scrolling, slow down on-page animations, and more.",
+	"modifiedDate": "2022-10-19T09:06:59.845Z",
+	"runCount": 57185
+}

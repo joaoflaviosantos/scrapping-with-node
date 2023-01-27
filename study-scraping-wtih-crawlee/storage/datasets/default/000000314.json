@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mstephen190/vanilla-js-scraper",
+	"uniqueIdentifier": "mstephen190/vanilla-js-scraper",
+	"owner": "mstephen190",
+	"title": "Vanilla JS Scraper",
+	"description": "Scrape the web using familiar JavaScript methods! Crawls websites using raw HTTP requests, parses the HTML with the JSDOM package, and extracts data from the pages using Node.js code. Supports both recursive crawling and lists of URLs. This actor is a non jQuery alternative to CheerioScraper.",
+	"modifiedDate": "2022-10-25T07:19:00.705Z",
+	"runCount": 658
+}

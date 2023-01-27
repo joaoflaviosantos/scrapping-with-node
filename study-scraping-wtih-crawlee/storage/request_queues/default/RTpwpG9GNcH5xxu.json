@@ -1,0 +1,9 @@
+{
+	"id": "RTpwpG9GNcH5xxu",
+	"json": "{\"id\":\"RTpwpG9GNcH5xxu\",\"url\":\"https://apify.com/mshopik/turntablelabcom-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/turntablelabcom-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/turntablelabcom-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:14.062Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/turntablelabcom-scraper",
+	"url": "https://apify.com/mshopik/turntablelabcom-scraper"
+}

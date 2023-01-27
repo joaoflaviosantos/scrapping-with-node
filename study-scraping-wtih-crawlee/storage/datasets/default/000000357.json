@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/my-childhood-treasures-scraper",
+	"uniqueIdentifier": "mshopik/my-childhood-treasures-scraper",
+	"owner": "mshopik",
+	"title": "My Childhood Treasures Scraper",
+	"description": "Scrape My Childhood Treasures and extract data on fiber and textile arts from treasurie.com. Our My Childhood Treasures API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:01:24.485Z",
+	"runCount": 426
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/petr_cermak/json-compare",
+	"uniqueIdentifier": "petr_cermak/json-compare",
+	"owner": "petr_cermak",
+	"title": "Json Compare",
+	"description": "Act for comparing 2 JSON arrays of objects.\nBy default the final result set will contain only new and updated records.",
+	"modifiedDate": "2022-10-10T09:06:03.529Z",
+	"runCount": 421
+}

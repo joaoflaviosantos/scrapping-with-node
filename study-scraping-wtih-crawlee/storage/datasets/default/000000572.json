@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/drobnikj/check-crawler-results",
+	"uniqueIdentifier": "drobnikj/check-crawler-results",
+	"owner": "drobnikj",
+	"title": "Scraper Results Checker",
+	"description": "This actor checks results from Apify's scrapers or any other actor that stores its result to a dataset, and sends a notification if there are errors. It's designed to run from webhook.",
+	"modifiedDate": "2022-10-10T09:02:43.401Z",
+	"runCount": 22736
+}

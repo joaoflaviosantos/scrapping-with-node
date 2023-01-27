@@ -1,0 +1,9 @@
+{
+	"id": "db7fmhM3HpnAt2K",
+	"json": "{\"id\":\"db7fmhM3HpnAt2K\",\"url\":\"https://apify.com/jupri/realtor-agents\",\"loadedUrl\":\"https://apify.com/jupri/realtor-agents\",\"uniqueKey\":\"https://apify.com/jupri/realtor-agents\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:28.679Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jupri/realtor-agents",
+	"url": "https://apify.com/jupri/realtor-agents"
+}

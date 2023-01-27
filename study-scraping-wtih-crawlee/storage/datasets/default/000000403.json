@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/expedia-hotels",
+	"uniqueIdentifier": "jupri/expedia-hotels",
+	"owner": "jupri",
+	"title": "Expedia Hotels",
+	"description": "Scrape hotels data from Expedia.com",
+	"modifiedDate": "2022-11-15T02:51:19.694Z",
+	"runCount": 2623
+}

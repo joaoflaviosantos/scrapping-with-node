@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/vaclavrut/sitemap-sniffer",
+	"uniqueIdentifier": "vaclavrut/sitemap-sniffer",
+	"owner": "vaclavrut",
+	"title": "Sitemap Sniffer",
+	"description": "Sitemap sniffer will check the most used variants of sitemaps and you can use that for crawling. This will just save you time so you don't have to check manually.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 1465
+}

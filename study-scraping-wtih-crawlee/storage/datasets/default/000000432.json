@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/nixplay-scraper",
+	"uniqueIdentifier": "mshopik/nixplay-scraper",
+	"owner": "mshopik",
+	"title": "Nixplay Scraper",
+	"description": "Scrape Nixplay and extract data on home and interior decor from nixplay.com. Our Nixplay API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:53:34.801Z",
+	"runCount": 426
+}

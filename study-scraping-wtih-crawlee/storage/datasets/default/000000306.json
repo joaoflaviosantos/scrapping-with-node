@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/maxcopell/tripadvisor-restaurants-scraper",
+	"uniqueIdentifier": "maxcopell/tripadvisor-restaurants-scraper",
+	"owner": "maxcopell",
+	"title": "Tripadvisor Restaurants Scraper",
+	"description": "Scrape Tripadvisor restaurants. Extract number of reviews, review tags, pricing, contact details, amenities, awards, and other important information about Tripadvisor restaurants.",
+	"modifiedDate": "2023-01-25T15:18:00.715Z",
+	"runCount": 1164
+}

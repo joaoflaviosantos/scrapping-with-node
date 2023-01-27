@@ -1,0 +1,9 @@
+{
+	"id": "x3G3nMlHwptNpp0",
+	"json": "{\"id\":\"x3G3nMlHwptNpp0\",\"url\":\"https://apify.com/lukaskrivka/log-scanner\",\"loadedUrl\":\"https://apify.com/lukaskrivka/log-scanner\",\"uniqueKey\":\"https://apify.com/lukaskrivka/log-scanner\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:40.983Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/lukaskrivka/log-scanner",
+	"url": "https://apify.com/lukaskrivka/log-scanner"
+}

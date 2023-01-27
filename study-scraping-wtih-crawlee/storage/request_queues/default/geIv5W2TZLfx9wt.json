@@ -1,0 +1,9 @@
+{
+	"id": "geIv5W2TZLfx9wt",
+	"json": "{\"id\":\"geIv5W2TZLfx9wt\",\"url\":\"https://apify.com/jupri/airbnb\",\"loadedUrl\":\"https://apify.com/jupri/airbnb\",\"uniqueKey\":\"https://apify.com/jupri/airbnb\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:49.769Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jupri/airbnb",
+	"url": "https://apify.com/jupri/airbnb"
+}

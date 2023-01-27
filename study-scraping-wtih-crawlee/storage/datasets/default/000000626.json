@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/couture-candy-scraper",
+	"uniqueIdentifier": "mshopik/couture-candy-scraper",
+	"owner": "mshopik",
+	"title": "Couture Candy Scraper",
+	"description": "Scrape Couture Candy and extract data on women's clothing from couturecandy.com. Our Couture Candy API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:17:09.340Z",
+	"runCount": 427
+}

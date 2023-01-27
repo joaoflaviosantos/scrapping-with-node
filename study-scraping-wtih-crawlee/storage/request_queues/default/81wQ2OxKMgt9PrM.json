@@ -1,0 +1,9 @@
+{
+	"id": "81wQ2OxKMgt9PrM",
+	"json": "{\"id\":\"81wQ2OxKMgt9PrM\",\"url\":\"https://apify.com/glosterr/whoscored-player-information-scraper\",\"loadedUrl\":\"https://apify.com/glosterr/whoscored-player-information-scraper\",\"uniqueKey\":\"https://apify.com/glosterr/whoscored-player-information-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:31.893Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/glosterr/whoscored-player-information-scraper",
+	"url": "https://apify.com/glosterr/whoscored-player-information-scraper"
+}

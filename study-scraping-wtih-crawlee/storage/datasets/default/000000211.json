@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/aday-scraper",
+	"uniqueIdentifier": "mshopik/aday-scraper",
+	"owner": "mshopik",
+	"title": "ADAY Scraper",
+	"description": "Scrape ADAY and extract data on apparel from thisisaday.com. Our ADAY API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:50:22.242Z",
+	"runCount": 427
+}

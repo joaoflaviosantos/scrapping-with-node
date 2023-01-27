@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/miansai-scraper",
+	"uniqueIdentifier": "mshopik/miansai-scraper",
+	"owner": "mshopik",
+	"title": "Miansai Scraper",
+	"description": "Scrape Miansai and extract data on clothing accessories from miansai.com. Our Miansai API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:12:28.119Z",
+	"runCount": 425
+}

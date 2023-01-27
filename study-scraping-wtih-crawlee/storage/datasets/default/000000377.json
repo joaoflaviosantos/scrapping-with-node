@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/image-diff",
+	"uniqueIdentifier": "apify/image-diff",
+	"owner": "apify",
+	"title": "Image Difference Generator",
+	"description": "Returns a difference of two given images as JPEG or PNG image.",
+	"modifiedDate": "2022-10-18T18:00:21.566Z",
+	"runCount": 3392
+}

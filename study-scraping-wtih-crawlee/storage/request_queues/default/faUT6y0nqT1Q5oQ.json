@@ -1,0 +1,9 @@
+{
+	"id": "faUT6y0nqT1Q5oQ",
+	"json": "{\"id\":\"faUT6y0nqT1Q5oQ\",\"url\":\"https://apify.com/jupri/booking-hotels\",\"loadedUrl\":\"https://apify.com/jupri/booking-hotels\",\"uniqueKey\":\"https://apify.com/jupri/booking-hotels\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:12.942Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jupri/booking-hotels",
+	"url": "https://apify.com/jupri/booking-hotels"
+}

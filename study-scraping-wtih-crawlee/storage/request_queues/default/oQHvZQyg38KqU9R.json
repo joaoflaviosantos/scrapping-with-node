@@ -1,0 +1,9 @@
+{
+	"id": "oQHvZQyg38KqU9R",
+	"json": "{\"id\":\"oQHvZQyg38KqU9R\",\"url\":\"https://apify.com/mshopik/wwwexportleftoverscom-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/wwwexportleftoverscom-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/wwwexportleftoverscom-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:29.708Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/wwwexportleftoverscom-scraper",
+	"url": "https://apify.com/mshopik/wwwexportleftoverscom-scraper"
+}

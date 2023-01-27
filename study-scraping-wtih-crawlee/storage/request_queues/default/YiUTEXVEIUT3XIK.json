@@ -1,0 +1,9 @@
+{
+	"id": "YiUTEXVEIUT3XIK",
+	"json": "{\"id\":\"YiUTEXVEIUT3XIK\",\"url\":\"https://apify.com/lukass/idealista-scraper\",\"loadedUrl\":\"https://apify.com/lukass/idealista-scraper\",\"uniqueKey\":\"https://apify.com/lukass/idealista-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:16.937Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/lukass/idealista-scraper",
+	"url": "https://apify.com/lukass/idealista-scraper"
+}

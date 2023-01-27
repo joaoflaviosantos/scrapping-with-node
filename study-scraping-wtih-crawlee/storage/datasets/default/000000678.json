@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/petrpatek/covid-austria",
+	"uniqueIdentifier": "petrpatek/covid-austria",
+	"owner": "petrpatek",
+	"title": "Coronavirus stats in Austria",
+	"description": "Gets an actual number of examined and infected people by COVID-19 in Austria from Sozial Ministerium https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html",
+	"modifiedDate": "2021-06-21T06:03:07.246Z",
+	"runCount": 126730
+}

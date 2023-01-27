@@ -1,0 +1,9 @@
+{
+	"id": "PdqJjUCzDKkJOH6",
+	"json": "{\"id\":\"PdqJjUCzDKkJOH6\",\"url\":\"https://apify.com/mihails/github-champion\",\"loadedUrl\":\"https://apify.com/mihails/github-champion\",\"uniqueKey\":\"https://apify.com/mihails/github-champion\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:54.330Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mihails/github-champion",
+	"url": "https://apify.com/mihails/github-champion"
+}

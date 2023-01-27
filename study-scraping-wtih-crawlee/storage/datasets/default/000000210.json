@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/first-lite-scraper",
+	"uniqueIdentifier": "mshopik/first-lite-scraper",
+	"owner": "mshopik",
+	"title": "First Lite Scraper",
+	"description": "Scrape First Lite and extract data on outdoors from firstlite.com. Our First Lite API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:07:43.650Z",
+	"runCount": 425
+}

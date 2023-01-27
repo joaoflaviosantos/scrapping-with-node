@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/whole-latte-love-scraper",
+	"uniqueIdentifier": "mshopik/whole-latte-love-scraper",
+	"owner": "mshopik",
+	"title": "Whole Latte Love Scraper",
+	"description": "Scrape Whole Latte Love and extract data on small kitchen appliances from wholelattelove.com. Our Whole Latte Love API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:53:20.538Z",
+	"runCount": 427
+}

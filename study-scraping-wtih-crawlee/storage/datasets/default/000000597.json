@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dtrungtin/bloomingdales-scraper",
+	"uniqueIdentifier": "dtrungtin/bloomingdales-scraper",
+	"owner": "dtrungtin",
+	"title": "Bloomingdales Scraper",
+	"description": "Extracts all the products from https://www.bloomingdales.com/",
+	"modifiedDate": "2022-06-09T08:18:34.816Z",
+	"runCount": 530
+}

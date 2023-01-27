@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/monitoring-runner",
+	"uniqueIdentifier": "apify/monitoring-runner",
+	"owner": "apify",
+	"title": "Monitoring Runner",
+	"description": "The monitoring runner is a part of the Apify Monitoring Suite (apify/monitoring). See its readme for more information and how to use this.",
+	"modifiedDate": "2022-10-19T20:48:45.126Z",
+	"runCount": null
+}

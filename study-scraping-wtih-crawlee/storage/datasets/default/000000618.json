@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/actor-readme",
+	"uniqueIdentifier": "jupri/actor-readme",
+	"owner": "jupri",
+	"title": "README Creator",
+	"description": "Get Actor INPUT Schema and convert it to README.MD",
+	"modifiedDate": "2022-12-18T15:04:08.107Z",
+	"runCount": 181
+}

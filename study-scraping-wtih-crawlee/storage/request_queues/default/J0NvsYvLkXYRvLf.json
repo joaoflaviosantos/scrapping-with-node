@@ -1,0 +1,9 @@
+{
+	"id": "J0NvsYvLkXYRvLf",
+	"json": "{\"id\":\"J0NvsYvLkXYRvLf\",\"url\":\"https://apify.com/mshopik/frye-since-1863-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/frye-since-1863-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/frye-since-1863-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:31.910Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/frye-since-1863-scraper",
+	"url": "https://apify.com/mshopik/frye-since-1863-scraper"
+}

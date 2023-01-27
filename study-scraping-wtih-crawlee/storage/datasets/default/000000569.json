@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/iandi-sports-supply-co-scraper",
+	"uniqueIdentifier": "mshopik/iandi-sports-supply-co-scraper",
+	"owner": "mshopik",
+	"title": "I&I Sports Supply Co., Inc. Scraper",
+	"description": "Scrape I&I Sports Supply Co., Inc. and extract data on firearms and weapons from iisports.com. Our I&I Sports Supply Co., Inc. API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:11:22.033Z",
+	"runCount": 427
+}

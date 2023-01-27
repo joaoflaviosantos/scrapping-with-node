@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/icebergg/facebook-reviews-scraper",
+	"uniqueIdentifier": "icebergg/facebook-reviews-scraper",
+	"owner": "icebergg",
+	"title": "Facebook Reviews Scraper",
+	"description": "Extract data from hundreds of Facebook reviews from one or multiple Facebook pages. Get review text, timestamp, review URL, likes and comments count and basic reviewer info. Download the data in JSON, CSV, Excel and use it in apps, spreadsheets, and reports.",
+	"modifiedDate": "2023-01-13T09:51:25.242Z",
+	"runCount": 132
+}

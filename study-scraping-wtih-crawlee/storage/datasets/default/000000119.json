@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jancurn/url-to-pdf",
+	"uniqueIdentifier": "jancurn/url-to-pdf",
+	"owner": "jancurn",
+	"title": "HTML to PDF Converter",
+	"description": "Loads a web page in headless Chrome using Puppeteer and prints it to PDF. The input is a JSON object and output is a PDF file.",
+	"modifiedDate": "2022-06-20T13:53:15.512Z",
+	"runCount": 165544
+}

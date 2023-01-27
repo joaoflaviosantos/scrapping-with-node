@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dtrungtin/appstore-software-scraper",
+	"uniqueIdentifier": "dtrungtin/appstore-software-scraper",
+	"owner": "dtrungtin",
+	"title": "App Store Software Scraper",
+	"description": "Extract information of the apps by category url such as name, type, user rating, age rating, rating content, has in app purchases.",
+	"modifiedDate": "2022-06-06T10:27:28.083Z",
+	"runCount": 282
+}

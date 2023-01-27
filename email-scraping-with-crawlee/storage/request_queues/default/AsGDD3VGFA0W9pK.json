@@ -1,0 +1,9 @@
+{
+	"id": "AsGDD3VGFA0W9pK",
+	"json": "{\"id\":\"AsGDD3VGFA0W9pK\",\"url\":\"https://www.alutam.com.br\",\"loadedUrl\":\"https://www.alutam.com.br/\",\"uniqueKey\":\"https://www.alutam.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:32:43.159Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alutam.com.br",
+	"url": "https://www.alutam.com.br"
+}

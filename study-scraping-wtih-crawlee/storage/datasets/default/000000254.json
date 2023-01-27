@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/brentwood-home-scraper",
+	"uniqueIdentifier": "mshopik/brentwood-home-scraper",
+	"owner": "mshopik",
+	"title": "Brentwood Home Scraper",
+	"description": "Scrape Brentwood Home and extract data on bed and bath from brentwoodhome.com. Our Brentwood Home API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:01:47.866Z",
+	"runCount": 426
+}

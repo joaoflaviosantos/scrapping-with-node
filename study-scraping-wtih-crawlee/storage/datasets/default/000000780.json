@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/tiktok-video-scraper",
+	"uniqueIdentifier": "epctex/tiktok-video-scraper",
+	"owner": "epctex",
+	"title": "Tiktok Video Scraper",
+	"description": "Extract data from TikTok with our advanced scraper. Scrape videos, posts, URLs, numbers of shares, followers, hearts, names, video, and music-related data and download it in various formats including HTML, JSON, CSV, Excel, or XML.",
+	"modifiedDate": "2023-01-02T10:26:47.339Z",
+	"runCount": 68
+}

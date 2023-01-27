@@ -1,0 +1,9 @@
+{
+	"id": "pnTbpkIZmYgHyWr",
+	"json": "{\"id\":\"pnTbpkIZmYgHyWr\",\"url\":\"https://apify.com/lordflotrox/linkedin-profile\",\"loadedUrl\":\"https://apify.com/lordflotrox/linkedin-profile\",\"uniqueKey\":\"https://apify.com/lordflotrox/linkedin-profile\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:28.689Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/lordflotrox/linkedin-profile",
+	"url": "https://apify.com/lordflotrox/linkedin-profile"
+}

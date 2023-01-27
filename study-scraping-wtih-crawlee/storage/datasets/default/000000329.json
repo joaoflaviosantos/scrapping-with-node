@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/manishrc/url-redirect",
+	"uniqueIdentifier": "manishrc/url-redirect",
+	"owner": "manishrc",
+	"title": "URL Redirects",
+	"description": "Actor that takes a list of URLs and provides a list of loaded URLs after redirects",
+	"modifiedDate": "2022-10-10T09:05:08.838Z",
+	"runCount": 11795
+}

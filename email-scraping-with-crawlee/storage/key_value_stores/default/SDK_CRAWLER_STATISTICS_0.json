@@ -1,0 +1,172 @@
+{
+  "requestsFinished": 161,
+  "requestsFailed": 19,
+  "requestsRetries": 17,
+  "requestsFailedPerMinute": 5,
+  "requestsFinishedPerMinute": 44,
+  "requestMinDurationMillis": 233,
+  "requestMaxDurationMillis": 33503,
+  "requestTotalFailedDurationMillis": 217107,
+  "requestTotalFinishedDurationMillis": 898858,
+  "crawlerStartedAt": "2023-01-27T16:31:40.808Z",
+  "crawlerFinishedAt": null,
+  "statsPersistedAt": "2023-01-27T16:35:20.469Z",
+  "crawlerRuntimeMillis": 219666,
+  "crawlerLastStartTimestamp": 1674837100803,
+  "requestRetryHistogram": [
+    163,
+    null,
+    null,
+    17
+  ],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": 11427,
+  "requestAvgFinishedDurationMillis": 5583,
+  "requestTotalDurationMillis": 1115965,
+  "requestsTotal": 180,
+  "requestsWithStatusCode": {
+    "403": 12,
+    "404": 3
+  },
+  "errors": {
+    "<anonymous>": {
+      "missing error code": {
+        "Error": {
+          "Request blocked - received 403 status code.": {
+            "count": 2
+          },
+          "Resource _ served Content-Type application/octet-stream, but only text/html, text/xml, application/xhtml+xml, application/xml, application/json are allowed. Skipping resource.": {
+            "count": 2
+          }
+        }
+      },
+      "ENOTFOUND": {
+        "RequestError": {
+          "getaddrinfo ENOTFOUND _": {
+            "count": 2
+          }
+        }
+      }
+    },
+    "D:\\000 - AREA DE TRABALHO\\JOAO ESTUDO\\scrapping-with-node\\email-scraper-with-crawlee\\node_modules\\got-cjs\\dist\\source\\core\\index.js:802:126": {
+      "ENOTFOUND": {
+        "RequestError": {
+          "getaddrinfo ENOTFOUND www.consertodepersianas.com.br": {
+            "count": 1
+          }
+        }
+      },
+      "ECONNRESET": {
+        "RequestError": {
+          "read ECONNRESET": {
+            "count": 3
+          }
+        }
+      },
+      "HTTP2WRAPPER_NOSETTINGS": {
+        "RequestError": {
+          "Session closed without receiving a SETTINGS frame": {
+            "count": 1
+          }
+        }
+      }
+    },
+    "D:\\000 - AREA DE TRABALHO\\JOAO ESTUDO\\scrapping-with-node\\email-scraper-with-crawlee\\node_modules\\got-cjs\\dist\\source\\core\\index.js:324:21": {
+      "ECONNRESET": {
+        "RequestError": {
+          "read ECONNRESET": {
+            "count": 3
+          }
+        }
+      },
+      "ENOTFOUND": {
+        "RequestError": {
+          "getaddrinfo ENOTFOUND _": {
+            "count": 2
+          }
+        }
+      }
+    },
+    "D:\\000 - AREA DE TRABALHO\\JOAO ESTUDO\\scrapping-with-node\\email-scraper-with-crawlee\\node_modules\\@crawlee\\src\\internals\\basic-crawler.ts:771:19": {
+      "missing error code": {
+        "Error": {
+          "Request blocked - received 403 status code.": {
+            "count": 1
+          }
+        }
+      }
+    },
+    "D:\\000 - AREA DE TRABALHO\\JOAO ESTUDO\\scrapping-with-node\\email-scraper-with-crawlee\\node_modules\\@apify\\src\\index.ts:88:74": {
+      "missing error code": {
+        "Error": {
+          "request timed out after 30 seconds.": {
+            "count": 2
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "D:\\000 - AREA DE TRABALHO\\JOAO ESTUDO\\scrapping-with-node\\email-scraper-with-crawlee\\node_modules\\@crawlee\\src\\internals\\basic-crawler.ts:771:19": {
+      "missing error code": {
+        "Error": {
+          "Request blocked - received 403 status code.": {
+            "count": 3
+          }
+        }
+      }
+    },
+    "<anonymous>": {
+      "missing error code": {
+        "Error": {
+          "Request blocked - received 403 status code.": {
+            "count": 6
+          }
+        }
+      },
+      "ENOTFOUND": {
+        "RequestError": {
+          "getaddrinfo ENOTFOUND _": {
+            "count": 11
+          }
+        }
+      }
+    },
+    "D:\\000 - AREA DE TRABALHO\\JOAO ESTUDO\\scrapping-with-node\\email-scraper-with-crawlee\\node_modules\\@apify\\src\\index.ts:88:74": {
+      "missing error code": {
+        "Error": {
+          "request timed out after 30 seconds.": {
+            "count": 25
+          }
+        }
+      }
+    },
+    "D:\\000 - AREA DE TRABALHO\\JOAO ESTUDO\\scrapping-with-node\\email-scraper-with-crawlee\\node_modules\\got-cjs\\dist\\source\\core\\index.js:802:126": {
+      "ENOTFOUND": {
+        "RequestError": {
+          "getaddrinfo ENOTFOUND www.consertodepersianas.com.br": {
+            "count": 3
+          }
+        }
+      }
+    },
+    "D:\\000 - AREA DE TRABALHO\\JOAO ESTUDO\\scrapping-with-node\\email-scraper-with-crawlee\\node_modules\\got-cjs\\dist\\source\\core\\index.js:324:21": {
+      "ENOTFOUND": {
+        "RequestError": {
+          "getaddrinfo ENOTFOUND _": {
+            "count": 2
+          }
+        }
+      }
+    },
+    "D:\\000 - AREA DE TRABALHO\\JOAO ESTUDO\\scrapping-with-node\\email-scraper-with-crawlee\\node_modules\\got-cjs\\dist\\source\\core\\index.js:802:68": {
+      "ETIMEDOUT": {
+        "TimeoutError": {
+          "Timeout awaiting 'request' for 30000ms": {
+            "count": 1
+          }
+        }
+      }
+    }
+  }
+}

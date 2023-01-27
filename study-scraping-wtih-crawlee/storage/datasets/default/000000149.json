@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mtrunkat/example-hacker-news",
+	"uniqueIdentifier": "mtrunkat/example-hacker-news",
+	"owner": "mtrunkat",
+	"title": "Example Hacker News",
+	"description": "Example crawler for news.ycombinator.com built using Apify SDK.",
+	"modifiedDate": "2022-06-20T13:52:05.410Z",
+	"runCount": 2799
+}

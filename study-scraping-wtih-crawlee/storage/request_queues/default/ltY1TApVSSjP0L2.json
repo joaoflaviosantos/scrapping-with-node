@@ -1,0 +1,9 @@
+{
+	"id": "ltY1TApVSSjP0L2",
+	"json": "{\"id\":\"ltY1TApVSSjP0L2\",\"url\":\"https://apify.com/mshopik/olukai-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/olukai-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/olukai-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:05.544Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/olukai-scraper",
+	"url": "https://apify.com/mshopik/olukai-scraper"
+}

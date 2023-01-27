@@ -1,0 +1,9 @@
+{
+	"id": "ADaf619NZVIoyLb",
+	"json": "{\"id\":\"ADaf619NZVIoyLb\",\"url\":\"https://jysk.es\",\"loadedUrl\":\"https://jysk.es/\",\"uniqueKey\":\"https://jysk.es\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:33:09.908Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://jysk.es",
+	"url": "https://jysk.es"
+}

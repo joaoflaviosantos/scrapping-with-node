@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/urban-industry-scraper",
+	"uniqueIdentifier": "mshopik/urban-industry-scraper",
+	"owner": "mshopik",
+	"title": "Urban Industry Scraper",
+	"description": "Scrape Urban Industry and extract data on casual apparel from urbanindustry.co.uk. Our Urban Industry API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:15:06.421Z",
+	"runCount": 425
+}

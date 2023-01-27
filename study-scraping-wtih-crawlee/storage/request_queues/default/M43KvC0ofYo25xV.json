@@ -1,0 +1,9 @@
+{
+	"id": "M43KvC0ofYo25xV",
+	"json": "{\"id\":\"M43KvC0ofYo25xV\",\"url\":\"https://apify.com/zhen/Bloxy-Tokens-Contract\",\"loadedUrl\":\"https://apify.com/zhen/bloxy-tokens-contract\",\"uniqueKey\":\"https://apify.com/zhen/Bloxy-Tokens-Contract\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:53.863Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/zhen/Bloxy-Tokens-Contract",
+	"url": "https://apify.com/zhen/Bloxy-Tokens-Contract"
+}

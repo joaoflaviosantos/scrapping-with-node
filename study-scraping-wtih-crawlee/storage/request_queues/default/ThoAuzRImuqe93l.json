@@ -1,0 +1,9 @@
+{
+	"id": "ThoAuzRImuqe93l",
+	"json": "{\"id\":\"ThoAuzRImuqe93l\",\"url\":\"https://apify.com/mshopik/your-super-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/your-super-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/your-super-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:02.676Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/your-super-scraper",
+	"url": "https://apify.com/mshopik/your-super-scraper"
+}

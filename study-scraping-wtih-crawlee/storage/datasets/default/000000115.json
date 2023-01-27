@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/pocesar/shopify-scraper",
+	"uniqueIdentifier": "pocesar/shopify-scraper",
+	"owner": "pocesar",
+	"title": "Shopify Scraper",
+	"description": "Automate monitoring prices on the most popular solution for building online stores and selling products online. Crawl arbitrary Shopify-powered online stores and extract a list of all products in a structured form, including product title, price, description, etc.",
+	"modifiedDate": "2022-08-07T20:09:07.226Z",
+	"runCount": 15322
+}

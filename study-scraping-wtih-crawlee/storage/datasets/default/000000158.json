@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/hooli/easy-google-scraper",
+	"uniqueIdentifier": "hooli/easy-google-scraper",
+	"owner": "hooli",
+	"title": "Easy Google Search Scraper",
+	"description": "Make collecting data from Google easy with Easy Google Scraper. Extract organic and paid Google search engine results pages, then download your data as HTML table, JSON, CSV, Excel, or XML.",
+	"modifiedDate": "2023-01-03T09:43:36.313Z",
+	"runCount": 2653
+}

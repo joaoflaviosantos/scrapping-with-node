@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/youtube-browser",
+	"uniqueIdentifier": "jupri/youtube-browser",
+	"owner": "jupri",
+	"title": "Youtube Explorer",
+	"description": "Scrape publicly data about video, movie, song, music from Youtube.com. Search videos, sort & filter by type, upload date, video quality & features.",
+	"modifiedDate": "2022-12-29T19:11:46.342Z",
+	"runCount": 446
+}

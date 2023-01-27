@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jaroslavhejlek/measure-downloaded-bytes",
+	"uniqueIdentifier": "jaroslavhejlek/measure-downloaded-bytes",
+	"owner": "jaroslavhejlek",
+	"title": "Measure Downloaded Bytes",
+	"description": "Example of how to measure downloaded data from network requests made by a webpage.",
+	"modifiedDate": "2023-01-07T10:22:07.345Z",
+	"runCount": 503
+}

@@ -1,0 +1,9 @@
+{
+	"id": "e0gF0Pr1Qgk91Nf",
+	"json": "{\"id\":\"e0gF0Pr1Qgk91Nf\",\"url\":\"https://apify.com/mshopik/dormify-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/dormify-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/dormify-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:56.484Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/dormify-scraper",
+	"url": "https://apify.com/mshopik/dormify-scraper"
+}

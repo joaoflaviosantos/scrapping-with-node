@@ -1,0 +1,9 @@
+{
+	"id": "IRTFj4arYGaCTuG",
+	"json": "{\"id\":\"IRTFj4arYGaCTuG\",\"url\":\"https://www.google.com/search?q=persiana&num=100&filter=0&start=500\",\"loadedUrl\":\"https://www.google.com/search?q=persiana&num=100&filter=0&start=500\",\"uniqueKey\":\"https://www.google.com/search?filter=0&num=100&q=persiana&start=500\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"GOOGLE SEARCH\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:33:16.487Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.google.com/search?filter=0&num=100&q=persiana&start=500",
+	"url": "https://www.google.com/search?q=persiana&num=100&filter=0&start=500"
+}

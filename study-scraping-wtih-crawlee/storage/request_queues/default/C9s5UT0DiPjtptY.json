@@ -1,0 +1,9 @@
+{
+	"id": "C9s5UT0DiPjtptY",
+	"json": "{\"id\":\"C9s5UT0DiPjtptY\",\"url\":\"https://apify.com/arcatdmz/twitter-ff\",\"loadedUrl\":\"https://apify.com/arcatdmz/twitter-ff\",\"uniqueKey\":\"https://apify.com/arcatdmz/twitter-ff\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:42.286Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/arcatdmz/twitter-ff",
+	"url": "https://apify.com/arcatdmz/twitter-ff"
+}

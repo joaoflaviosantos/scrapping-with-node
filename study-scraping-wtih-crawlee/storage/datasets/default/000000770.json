@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/zuzka/covid-ng",
+	"uniqueIdentifier": "zuzka/covid-ng",
+	"owner": "zuzka",
+	"title": "Coronavirus stats in Nigeria",
+	"description": "Gets all the charts statistics (actual number of infected, deceased and recovered people) by COVID-19 in Nigeria from https://covid19.ncdc.gov.ng/.",
+	"modifiedDate": "2021-04-12T09:18:19.044Z",
+	"runCount": 117060
+}

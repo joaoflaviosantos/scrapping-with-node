@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mtrunkat/actor-task-copier",
+	"uniqueIdentifier": "mtrunkat/actor-task-copier",
+	"owner": "mtrunkat",
+	"title": "Actor Task Copier",
+	"description": "Copies actor tasks between accounts from one actor to another.",
+	"modifiedDate": "2022-10-26T09:24:42.375Z",
+	"runCount": 26
+}

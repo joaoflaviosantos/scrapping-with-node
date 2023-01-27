@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/alexey/instagram-reel-scraper",
+	"uniqueIdentifier": "alexey/instagram-reel-scraper",
+	"owner": "alexey",
+	"title": "Instagram Reel Scraper",
+	"description": "Use this no-code Instagram tool for scraping data from Instagram reels. Just add one or more Instagram usernames and get your data in seconds including hashtags, mentions, comments, images, likes, locations, and metadata. Download Instagram data in JSON, Excel, HTML and other formats.",
+	"modifiedDate": "2022-12-07T13:06:40.571Z",
+	"runCount": 4047
+}

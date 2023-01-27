@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/petr_cermak/datasets-compare",
+	"uniqueIdentifier": "petr_cermak/datasets-compare",
+	"owner": "petr_cermak",
+	"title": "Datasets Compare",
+	"description": "Act for comparing crawler execution results.\nBy default the final result set will contain only new and updated records.",
+	"modifiedDate": "2022-03-28T13:36:03.806Z",
+	"runCount": 2348
+}

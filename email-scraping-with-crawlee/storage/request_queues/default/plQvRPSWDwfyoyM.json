@@ -1,0 +1,9 @@
+{
+	"id": "plQvRPSWDwfyoyM",
+	"json": "{\"id\":\"plQvRPSWDwfyoyM\",\"url\":\"https://www.lidl.es\",\"loadedUrl\":\"https://www.lidl.es/\",\"uniqueKey\":\"https://www.lidl.es\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:32:42.875Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.lidl.es",
+	"url": "https://www.lidl.es"
+}

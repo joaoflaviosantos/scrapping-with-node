@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/realtor-scraper",
+	"uniqueIdentifier": "epctex/realtor-scraper",
+	"owner": "epctex",
+	"title": "Realtor.com Scraper",
+	"description": "Scrape realtor.com for data on millions of properties. Crawl real estate listings and extract descriptions, images, features, pricing, property details, neighborhood, nearby schools, and all other property details. You can specify search terms, filters, and much more.",
+	"modifiedDate": "2023-01-25T02:01:22.209Z",
+	"runCount": 3336
+}

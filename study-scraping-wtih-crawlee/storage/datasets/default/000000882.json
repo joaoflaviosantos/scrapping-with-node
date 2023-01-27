@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/target-scraper",
+	"uniqueIdentifier": "jupri/target-scraper",
+	"owner": "jupri",
+	"title": "Target.com Scraper",
+	"description": "Scrape product data from Target.com US E-Commerce website.",
+	"modifiedDate": "2022-12-27T04:58:46.761Z",
+	"runCount": 109
+}

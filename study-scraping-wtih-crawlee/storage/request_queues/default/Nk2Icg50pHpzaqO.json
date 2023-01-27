@@ -1,0 +1,9 @@
+{
+	"id": "Nk2Icg50pHpzaqO",
+	"json": "{\"id\":\"Nk2Icg50pHpzaqO\",\"url\":\"https://apify.com/alexey/vdab-be-jobs\",\"loadedUrl\":\"https://apify.com/alexey/vdab-be-jobs\",\"uniqueKey\":\"https://apify.com/alexey/vdab-be-jobs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:45.635Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/alexey/vdab-be-jobs",
+	"url": "https://apify.com/alexey/vdab-be-jobs"
+}

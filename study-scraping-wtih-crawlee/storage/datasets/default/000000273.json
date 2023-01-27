@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/commando-scraper",
+	"uniqueIdentifier": "mshopik/commando-scraper",
+	"owner": "mshopik",
+	"title": "commando Scraper",
+	"description": "Scrape commando and extract data on apparel from wearcommando.com. Our commando API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:08:10.772Z",
+	"runCount": 426
+}

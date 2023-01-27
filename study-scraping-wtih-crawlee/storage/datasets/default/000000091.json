@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/compass/Google-Maps-Reviews-Scraper",
+	"uniqueIdentifier": "compass/Google-Maps-Reviews-Scraper",
+	"owner": "compass",
+	"title": "Google Maps Reviews Scraper",
+	"description": "Google Maps Reviews Scraper extracts all reviews for a single place on Google Maps. Just enter the URL of the location you want to scrape and you'll get a dataset of all reviews.",
+	"modifiedDate": "2022-12-11T17:46:27.988Z",
+	"runCount": 2783
+}

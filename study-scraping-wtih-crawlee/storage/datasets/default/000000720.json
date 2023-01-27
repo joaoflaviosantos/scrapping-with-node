@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/wwwarcherandolivecom-scraper",
+	"uniqueIdentifier": "mshopik/wwwarcherandolivecom-scraper",
+	"owner": "mshopik",
+	"title": "www.archerandolive.com Scraper",
+	"description": "Scrape www.archerandolive.com and extract data on notebooks and planners from archerandolive.com. Our www.archerandolive.com API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:07:49.200Z",
+	"runCount": 427
+}

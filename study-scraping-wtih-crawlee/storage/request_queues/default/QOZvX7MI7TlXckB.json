@@ -1,0 +1,9 @@
+{
+	"id": "QOZvX7MI7TlXckB",
+	"json": "{\"id\":\"QOZvX7MI7TlXckB\",\"url\":\"https://apify.com/epctex/goodreads-scraper\",\"loadedUrl\":\"https://apify.com/epctex/goodreads-scraper\",\"uniqueKey\":\"https://apify.com/epctex/goodreads-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:57.560Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/epctex/goodreads-scraper",
+	"url": "https://apify.com/epctex/goodreads-scraper"
+}

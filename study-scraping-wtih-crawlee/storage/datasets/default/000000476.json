@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/yell-business",
+	"uniqueIdentifier": "jupri/yell-business",
+	"owner": "jupri",
+	"title": "Yell Scraper",
+	"description": "Scrape business data from Yell.com",
+	"modifiedDate": "2022-11-02T12:19:55.414Z",
+	"runCount": 1443
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/big-brain.io/upwork-application",
+	"uniqueIdentifier": "big-brain.io/upwork-application",
+	"owner": "big-brain.io",
+	"title": "Upwork Job Auto Apply",
+	"description": "Pass a job application URL, Upwork login information, and messaging and automatically apply to a job. Pair with Upwork's RSS feeds to apply within minutes of a job being posted.",
+	"modifiedDate": "2023-01-25T14:37:15.611Z",
+	"runCount": 27737
+}

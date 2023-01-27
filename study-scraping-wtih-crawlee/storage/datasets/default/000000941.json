@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/zuzka/tableau-refresher",
+	"uniqueIdentifier": "zuzka/tableau-refresher",
+	"owner": "zuzka",
+	"title": "Tableau Dashboard Refresher",
+	"description": "Do you have a Google Sheets dashboard on Tableau Public, but only automatically refreshing it once a day is not enough for you? Refresh your Tableau Public dashboards as many times a day as you need with this handy free automation tool by Apify.",
+	"modifiedDate": "2022-02-16T14:09:29.598Z",
+	"runCount": 10070
+}

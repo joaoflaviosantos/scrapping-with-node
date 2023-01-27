@@ -1,0 +1,9 @@
+{
+	"id": "tpDecUmabdR5AEo",
+	"json": "{\"id\":\"tpDecUmabdR5AEo\",\"url\":\"https://apify.com/epctex/clutchco-scraper\",\"loadedUrl\":\"https://apify.com/epctex/clutchco-scraper\",\"uniqueKey\":\"https://apify.com/epctex/clutchco-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:21.260Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/epctex/clutchco-scraper",
+	"url": "https://apify.com/epctex/clutchco-scraper"
+}

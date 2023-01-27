@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/shmlkv/facebook-marketplace",
+	"uniqueIdentifier": "shmlkv/facebook-marketplace",
+	"owner": "shmlkv",
+	"title": "Facebook Marketplace",
+	"description": "This is a simple scraper for Facebook Marketplace. It uses Playwright to scrape the data",
+	"modifiedDate": "2023-01-06T01:12:52.516Z",
+	"runCount": 31
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mtrunkat/url-list-download-html",
+	"uniqueIdentifier": "mtrunkat/url-list-download-html",
+	"owner": "mtrunkat",
+	"title": "Download HTML from URLs",
+	"description": "This actor takes a list of URLs and downloads HTML of each page.",
+	"modifiedDate": "2022-08-09T02:53:42.696Z",
+	"runCount": 170154
+}

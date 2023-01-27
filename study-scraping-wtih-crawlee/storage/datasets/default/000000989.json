@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mantra_dev/spotify-playlist-and-album-website-scraper",
+	"uniqueIdentifier": "mantra_dev/spotify-playlist-and-album-website-scraper",
+	"owner": "mantra_dev",
+	"title": "Spotify Playlist and Album Website Scraper",
+	"description": "Introducing Spotify Playlist and Album Website Scraper, the ultimate micro service for downloading and organizing your Spotify playlists and albums. With this service, all you need to do is provide the URL of the playlist or album you want to download, and it will do the rest.",
+	"modifiedDate": "2023-01-23T11:01:08.627Z",
+	"runCount": 104
+}

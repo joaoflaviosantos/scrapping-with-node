@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/jsdom-scraper",
+	"uniqueIdentifier": "apify/jsdom-scraper",
+	"owner": "apify",
+	"title": "JSDOM Scraper",
+	"description": "Parses the HTML using the JSDOM library, providing the same DOM API as browsers do (e.g. `window`). It is able to process client-side JavaScript without using a real browser. Performance-wise, it stands somewhere between the Cheerio Scraper and the browser scrapers.",
+	"modifiedDate": "2023-01-23T18:05:56.399Z",
+	"runCount": 59
+}

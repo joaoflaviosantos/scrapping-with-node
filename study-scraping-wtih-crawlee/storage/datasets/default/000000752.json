@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/the-spice-house-scraper",
+	"uniqueIdentifier": "mshopik/the-spice-house-scraper",
+	"owner": "mshopik",
+	"title": "The Spice House Scraper",
+	"description": "Scrape The Spice House and extract data on food from thespicehouse.com. Our The Spice House API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:58:23.475Z",
+	"runCount": 428
+}

@@ -1,0 +1,9 @@
+{
+	"id": "xHrzYCY76uTCJJt",
+	"json": "{\"id\":\"xHrzYCY76uTCJJt\",\"url\":\"https://apify.com/strajk/fitanu-fitanu-com-scraper\",\"loadedUrl\":\"https://apify.com/strajk/fitanu-fitanu-com-scraper\",\"uniqueKey\":\"https://apify.com/strajk/fitanu-fitanu-com-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:50.196Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/strajk/fitanu-fitanu-com-scraper",
+	"url": "https://apify.com/strajk/fitanu-fitanu-com-scraper"
+}

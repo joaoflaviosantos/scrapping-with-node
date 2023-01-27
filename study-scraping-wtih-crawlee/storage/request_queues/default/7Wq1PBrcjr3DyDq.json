@@ -1,0 +1,9 @@
+{
+	"id": "7Wq1PBrcjr3DyDq",
+	"json": "{\"id\":\"7Wq1PBrcjr3DyDq\",\"url\":\"https://apify.com/mshopik/dose-of-colors-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/dose-of-colors-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/dose-of-colors-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:03.802Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/dose-of-colors-scraper",
+	"url": "https://apify.com/mshopik/dose-of-colors-scraper"
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/pocesar/download-linkedin-video",
+	"uniqueIdentifier": "pocesar/download-linkedin-video",
+	"owner": "pocesar",
+	"title": "LinkedIn Video Downloader",
+	"description": "Download Linkedin videos in bulk",
+	"modifiedDate": "2022-08-19T04:10:31.177Z",
+	"runCount": 170
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/electro-threads-scraper",
+	"uniqueIdentifier": "mshopik/electro-threads-scraper",
+	"owner": "mshopik",
+	"title": "Electro Threads Scraper",
+	"description": "Scrape Electro Threads and extract data on apparel from electrothreads.com. Our Electro Threads API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:04:33.433Z",
+	"runCount": 425
+}

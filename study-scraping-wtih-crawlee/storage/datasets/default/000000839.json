@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukass/covid-az",
+	"uniqueIdentifier": "lukass/covid-az",
+	"owner": "lukass",
+	"title": "Coronavirus stats in Azerbaijan",
+	"description": "Gets an actual number of examined and infected people by COVID-19 in the Azerbaijan from https://koronavirusinfo.az/az/page/statistika/azerbaycanda-cari-veziyyet",
+	"modifiedDate": "2021-04-12T07:58:37.734Z",
+	"runCount": 116195
+}

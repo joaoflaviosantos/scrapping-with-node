@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/alexey/google-maps-itinerary",
+	"uniqueIdentifier": "alexey/google-maps-itinerary",
+	"owner": "alexey",
+	"title": "Google Maps Itinerary",
+	"description": "Scrapes a Google Maps itinerary by direct URL for the fastest trip duration, distance, and name.",
+	"modifiedDate": "2022-12-11T17:54:47.342Z",
+	"runCount": 306
+}

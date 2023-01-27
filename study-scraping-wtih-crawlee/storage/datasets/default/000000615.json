@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/example-process-crawl-results",
+	"uniqueIdentifier": "apify/example-process-crawl-results",
+	"owner": "apify",
+	"title": "Example Process Crawl Results",
+	"description": "Iterates through all results from a crawler run and count them. Needs to be called from the crawler's finish webhook by adding an URL to finish the webhook of your crawler. Use this actor as a starting point to develop custom post-processing of data from the crawler.",
+	"modifiedDate": "2022-10-19T20:50:50.597Z",
+	"runCount": 12856
+}

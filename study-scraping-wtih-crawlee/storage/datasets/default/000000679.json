@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/drobnikj/mongodb-import",
+	"uniqueIdentifier": "drobnikj/mongodb-import",
+	"owner": "drobnikj",
+	"title": "MongoDB Import",
+	"description": "Act import objects to specific mongodb collection. You can pass list of plain objects or Apify key-value store as input. For info see readme bellow.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": null
+}

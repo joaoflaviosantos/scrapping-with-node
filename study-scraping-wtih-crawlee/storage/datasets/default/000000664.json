@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/ripndip-scraper",
+	"uniqueIdentifier": "mshopik/ripndip-scraper",
+	"owner": "mshopik",
+	"title": "RIPNDIP Scraper",
+	"description": "Scrape RIPNDIP and extract data on apparel from ripndipclothing.com. Our RIPNDIP API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:11:42.187Z",
+	"runCount": 426
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/vojtam/espn",
+	"uniqueIdentifier": "vojtam/espn",
+	"owner": "vojtam",
+	"title": "ESPN.com Scraper",
+	"description": "The actor scrapes match results and articles from ESPN.com for hockey, baseball, and basketball.",
+	"modifiedDate": "2022-11-08T07:16:42.376Z",
+	"runCount": 129
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/fresh-water-systems-scraper",
+	"uniqueIdentifier": "mshopik/fresh-water-systems-scraper",
+	"owner": "mshopik",
+	"title": "Fresh Water Systems Scraper",
+	"description": "Scrape Fresh Water Systems and extract data on home appliances from freshwatersystems.com. Our Fresh Water Systems API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:57:21.401Z",
+	"runCount": 426
+}

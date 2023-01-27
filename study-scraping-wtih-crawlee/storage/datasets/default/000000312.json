@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/natasha.lekh/gas-prices-scraper",
+	"uniqueIdentifier": "natasha.lekh/gas-prices-scraper",
+	"owner": "natasha.lekh",
+	"title": "Gas Prices Scraper",
+	"description": "⛽ Find lowest gas prices and timestamps of price updates from gas stations in your area. Scrape gas station addresses, gas company names, open/closed status, website, reviews (stars), postal code and more. Download data scraped from Google Maps in various formats including HTML, JSON, and Excel.",
+	"modifiedDate": "2023-01-03T09:53:28.529Z",
+	"runCount": 1970
+}

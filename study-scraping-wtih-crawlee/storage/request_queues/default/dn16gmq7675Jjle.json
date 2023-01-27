@@ -1,0 +1,9 @@
+{
+	"id": "dn16gmq7675Jjle",
+	"json": "{\"id\":\"dn16gmq7675Jjle\",\"url\":\"https://apify.com/petrpatek/covid-austria\",\"loadedUrl\":\"https://apify.com/petrpatek/covid-austria\",\"uniqueKey\":\"https://apify.com/petrpatek/covid-austria\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:28.549Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/petrpatek/covid-austria",
+	"url": "https://apify.com/petrpatek/covid-austria"
+}

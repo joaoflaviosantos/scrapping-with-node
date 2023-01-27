@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/voyn/gumtree-scraper",
+	"uniqueIdentifier": "voyn/gumtree-scraper",
+	"owner": "voyn",
+	"title": "Gumtree Scraper",
+	"description": "Export data from search results of Gumtree.com, the free classified ads, and community website. Get images, location, prices, and descriptions of the available products and adverts. Save the data as HTML, JSON, CSV, Excel, or XML.",
+	"modifiedDate": "2022-10-10T16:00:36.809Z",
+	"runCount": 253
+}

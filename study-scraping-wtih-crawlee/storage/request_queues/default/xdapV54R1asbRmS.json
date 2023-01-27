@@ -1,0 +1,9 @@
+{
+	"id": "xdapV54R1asbRmS",
+	"json": "{\"id\":\"xdapV54R1asbRmS\",\"url\":\"https://apify.com/wandersonsousa/cnpj-brasil-extrator\",\"loadedUrl\":\"https://apify.com/wandersonsousa/cnpj-brasil-extrator\",\"uniqueKey\":\"https://apify.com/wandersonsousa/cnpj-brasil-extrator\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:07.765Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/wandersonsousa/cnpj-brasil-extrator",
+	"url": "https://apify.com/wandersonsousa/cnpj-brasil-extrator"
+}

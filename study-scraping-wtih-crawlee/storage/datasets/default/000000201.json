@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/turntablelabcom-scraper",
+	"uniqueIdentifier": "mshopik/turntablelabcom-scraper",
+	"owner": "mshopik",
+	"title": "TurntableLab.com Scraper",
+	"description": "Scrape TurntableLab.com and extract data on music from turntablelab.com. Our TurntableLab.com API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:17:53.316Z",
+	"runCount": 426
+}

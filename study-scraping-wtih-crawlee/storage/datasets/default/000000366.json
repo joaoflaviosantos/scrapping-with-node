@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/stussy-europe-scraper",
+	"uniqueIdentifier": "mshopik/stussy-europe-scraper",
+	"owner": "mshopik",
+	"title": "Stussy Europe Scraper",
+	"description": "Scrape Stussy Europe and extract data on apparel from stussy.co.uk. Our Stussy Europe API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:18:07.032Z",
+	"runCount": 425
+}

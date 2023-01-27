@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/petrpatek/covid-usa-cdc",
+	"uniqueIdentifier": "petrpatek/covid-usa-cdc",
+	"owner": "petrpatek",
+	"title": "Coronavirus USA CDC Scraper",
+	"description": "Gets an actual number of examined and infected people by COVID-19 in the USA from CDC https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html.",
+	"modifiedDate": "2021-06-04T07:01:32.106Z",
+	"runCount": 126515
+}

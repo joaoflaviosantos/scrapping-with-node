@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/untuckit-scraper",
+	"uniqueIdentifier": "mshopik/untuckit-scraper",
+	"owner": "mshopik",
+	"title": "UNTUCKit Scraper",
+	"description": "Scrape UNTUCKit and extract data on men's clothing from untuckit.com. Our UNTUCKit API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:13:56.109Z",
+	"runCount": 427
+}

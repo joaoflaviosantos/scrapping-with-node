@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/headphone-zone-scraper",
+	"uniqueIdentifier": "mshopik/headphone-zone-scraper",
+	"owner": "mshopik",
+	"title": "Headphone Zone Scraper",
+	"description": "Scrape Headphone Zone and extract data on audio equipment from headphonezone.in. Our Headphone Zone API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:36:35.595Z",
+	"runCount": 433
+}

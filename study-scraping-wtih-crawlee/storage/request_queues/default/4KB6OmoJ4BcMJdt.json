@@ -1,0 +1,9 @@
+{
+	"id": "4KB6OmoJ4BcMJdt",
+	"json": "{\"id\":\"4KB6OmoJ4BcMJdt\",\"url\":\"https://apify.com/jannovotny/status-page\",\"loadedUrl\":\"https://apify.com/jannovotny/status-page\",\"uniqueKey\":\"https://apify.com/jannovotny/status-page\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:14.543Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jannovotny/status-page",
+	"url": "https://apify.com/jannovotny/status-page"
+}

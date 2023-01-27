@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/natasha.lekh/cbs-news-scraper",
+	"uniqueIdentifier": "natasha.lekh/cbs-news-scraper",
+	"owner": "natasha.lekh",
+	"title": "CBS News Scraper",
+	"description": "Scrape news data from cbsnews.com with this unofficial API. Extract articles, monitor their popularity and performance and automate the fight against fake news. Filter the results by authors, topics, categories, or publication dates. Preview or download the results in your preferred format.",
+	"modifiedDate": "2022-08-07T19:27:17.285Z",
+	"runCount": 251
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/usatuancom-scraper",
+	"uniqueIdentifier": "mshopik/usatuancom-scraper",
+	"owner": "mshopik",
+	"title": "美国团购网 美国团购网USAtuan.com Scraper",
+	"description": "Scrape 美国团购网 美国团购网USAtuan.com and extract data on health from usatuan.com. Our 美国团购网 美国团购网USAtuan.com API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:29:51.103Z",
+	"runCount": 426
+}

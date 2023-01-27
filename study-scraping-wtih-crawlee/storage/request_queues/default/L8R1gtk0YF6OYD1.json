@@ -1,0 +1,9 @@
+{
+	"id": "L8R1gtk0YF6OYD1",
+	"json": "{\"id\":\"L8R1gtk0YF6OYD1\",\"url\":\"https://apify.com/katerinahronik/medium-response-notifications\",\"loadedUrl\":\"https://apify.com/katerinahronik/medium-response-notifications\",\"uniqueKey\":\"https://apify.com/katerinahronik/medium-response-notifications\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:34.221Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/katerinahronik/medium-response-notifications",
+	"url": "https://apify.com/katerinahronik/medium-response-notifications"
+}

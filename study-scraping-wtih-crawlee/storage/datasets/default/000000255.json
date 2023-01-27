@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/wwwexportleftoverscom-scraper",
+	"uniqueIdentifier": "mshopik/wwwexportleftoverscom-scraper",
+	"owner": "mshopik",
+	"title": "www.exportleftovers.com Scraper",
+	"description": "Scrape www.exportleftovers.com and extract data on computer hardware from exportleftovers.com. Our www.exportleftovers.com API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:12:26.504Z",
+	"runCount": 426
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/imdb-advanced-scraper",
+	"uniqueIdentifier": "epctex/imdb-advanced-scraper",
+	"owner": "epctex",
+	"title": "IMDB Advanced Scraper",
+	"description": "Advanced scraping on IMDB for data on millions of movies, artists and many more. Crawl TV Episodes and extract descriptions, images, casting, rating, artists and all other properties. You can specify search terms, filters, mappings, modes and much more.",
+	"modifiedDate": "2023-01-25T02:01:55.516Z",
+	"runCount": 932
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/beyond-yoga-scraper",
+	"uniqueIdentifier": "mshopik/beyond-yoga-scraper",
+	"owner": "mshopik",
+	"title": "Beyond Yoga Scraper",
+	"description": "Scrape Beyond Yoga and extract data on athletic apparel from beyondyoga.com. Our Beyond Yoga API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:46:05.927Z",
+	"runCount": 428
+}

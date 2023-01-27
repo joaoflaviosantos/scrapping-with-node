@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/natasha.lekh/vegan-places-finder",
+	"uniqueIdentifier": "natasha.lekh/vegan-places-finder",
+	"owner": "natasha.lekh",
+	"title": "🌱 Vegan Places Finder",
+	"description": "🌱 This no-code extraction tool will find all vegan restaurants on Google Maps and extract their details. Just enter the country and city of your search, e.g. Chicago, USA, and hit Start. Easy scraping of map data from the web for beginners.",
+	"modifiedDate": "2022-12-11T18:03:08.917Z",
+	"runCount": 301
+}

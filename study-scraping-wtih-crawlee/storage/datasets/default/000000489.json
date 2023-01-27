@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/allrecipes-advanced-scraper",
+	"uniqueIdentifier": "epctex/allrecipes-advanced-scraper",
+	"owner": "epctex",
+	"title": "Allrecipes Advanced Scraper",
+	"description": "Advanced scraping on Allrecipes for data on millions of recipes, articles, galleries and many more. Crawl Recipes and extract descriptions, images, steps, ingredients, nutritions and all other properties. You can specify search terms, filters, mappings and much more.",
+	"modifiedDate": "2023-01-25T02:01:24.689Z",
+	"runCount": 1043
+}

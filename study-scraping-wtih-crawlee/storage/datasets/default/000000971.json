@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mcdowell/leboncoin-scraper",
+	"uniqueIdentifier": "mcdowell/leboncoin-scraper",
+	"owner": "mcdowell",
+	"title": "Leboncoin Scraper",
+	"description": "Extremely fast Scraper that Extracts ads from leboncoin.fr",
+	"modifiedDate": "2022-10-26T09:30:19.067Z",
+	"runCount": 18045
+}

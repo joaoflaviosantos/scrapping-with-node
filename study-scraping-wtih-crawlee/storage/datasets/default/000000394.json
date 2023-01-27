@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/monitoring-reporter-dashboard",
+	"uniqueIdentifier": "apify/monitoring-reporter-dashboard",
+	"owner": "apify",
+	"title": "Monitoring Reporter Dashboard",
+	"description": "The monitoring reporter dashboard is a part of the Apify Monitoring Suite (apify/monitoring). See its readme for more information and how to use this.",
+	"modifiedDate": "2022-10-19T20:16:04.190Z",
+	"runCount": 131810
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/fastgrowingtreescom-scraper",
+	"uniqueIdentifier": "mshopik/fastgrowingtreescom-scraper",
+	"owner": "mshopik",
+	"title": "FastGrowingTrees.com Scraper",
+	"description": "Scrape FastGrowingTrees.com and extract data on home and garden from fast-growing-trees.com. Our FastGrowingTrees.com API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:39:16.387Z",
+	"runCount": 425
+}

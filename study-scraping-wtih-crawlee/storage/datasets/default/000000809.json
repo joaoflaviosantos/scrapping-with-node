@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/cosmetics-by-kylie-scraper",
+	"uniqueIdentifier": "mshopik/cosmetics-by-kylie-scraper",
+	"owner": "mshopik",
+	"title": "Kylie Cosmetics by Kylie Jenner Scraper",
+	"description": "Scrape Kylie Cosmetics by Kylie Jenner and extract data on make-up and cosmetics from kyliecosmetics.com. Our Kylie Cosmetics by Kylie Jenner API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:36:21.917Z",
+	"runCount": 428
+}

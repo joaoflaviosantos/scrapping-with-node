@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/maxcopell/zillow-api-scraper",
+	"uniqueIdentifier": "maxcopell/zillow-api-scraper",
+	"owner": "maxcopell",
+	"title": "Zillow Real Estate Scraper",
+	"description": "Our free Zillow scraper lets you extract data about properties for sale and rent on Zillow using the Zillow API, but with no daily call limits. Scrape millions of listings and download your data as HTML, JSON, CSV, Excel, XML, and RSS feed.",
+	"modifiedDate": "2023-01-17T12:29:02.969Z",
+	"runCount": 3076
+}

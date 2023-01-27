@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/web-scraper",
+	"uniqueIdentifier": "apify/web-scraper",
+	"owner": "apify",
+	"title": "Web Scraper",
+	"description": "Crawls arbitrary websites using the Chrome browser and extracts data from pages using a provided JavaScript code. The actor supports both recursive crawling and lists of URLs and automatically manages concurrency for maximum performance. This is Apify's basic tool for web crawling and scraping.",
+	"modifiedDate": "2023-01-23T09:59:28.768Z",
+	"runCount": null
+}

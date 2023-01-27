@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/nomatic-scraper",
+	"uniqueIdentifier": "mshopik/nomatic-scraper",
+	"owner": "mshopik",
+	"title": "NOMATIC Scraper",
+	"description": "Scrape NOMATIC and extract data on apparel from nomatic.com. Our NOMATIC API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:42:03.425Z",
+	"runCount": 426
+}

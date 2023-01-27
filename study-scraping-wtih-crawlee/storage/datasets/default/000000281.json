@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/alexey/instagram-tagged-scraper",
+	"uniqueIdentifier": "alexey/instagram-tagged-scraper",
+	"owner": "alexey",
+	"title": "Instagram Tagged Scraper",
+	"description": "Use this no-code Instagram tool for scraping data from Instagram user tagged posts. Just add one or more Instagram usernames and get your data in seconds including hashtags, mentions, comments, images, likes, locations, and metadata. Download Instagram data in JSON, Excel, HTML and other formats.",
+	"modifiedDate": "2022-12-07T13:13:47.958Z",
+	"runCount": 2699
+}

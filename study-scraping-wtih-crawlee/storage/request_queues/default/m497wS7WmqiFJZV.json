@@ -1,0 +1,9 @@
+{
+	"id": "m497wS7WmqiFJZV",
+	"json": "{\"id\":\"m497wS7WmqiFJZV\",\"url\":\"https://apify.com/jupri/skyscanner-flight\",\"loadedUrl\":\"https://apify.com/jupri/skyscanner-flight\",\"uniqueKey\":\"https://apify.com/jupri/skyscanner-flight\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:49.639Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jupri/skyscanner-flight",
+	"url": "https://apify.com/jupri/skyscanner-flight"
+}

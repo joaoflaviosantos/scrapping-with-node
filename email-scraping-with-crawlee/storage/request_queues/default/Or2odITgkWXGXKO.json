@@ -1,0 +1,9 @@
+{
+	"id": "Or2odITgkWXGXKO",
+	"json": "{\"id\":\"Or2odITgkWXGXKO\",\"url\":\"https://catalogodeservicos.economia.gov.br\",\"loadedUrl\":\"https://catalogodeservicos.economia.gov.br/\",\"uniqueKey\":\"https://catalogodeservicos.economia.gov.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:32:30.515Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://catalogodeservicos.economia.gov.br",
+	"url": "https://catalogodeservicos.economia.gov.br"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "7RNUpCRe3KTOBJX",
+	"json": "{\"id\":\"7RNUpCRe3KTOBJX\",\"url\":\"https://apify.com/drobnikj/firestore-import\",\"loadedUrl\":\"https://apify.com/drobnikj/firestore-import\",\"uniqueKey\":\"https://apify.com/drobnikj/firestore-import\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:00.194Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/drobnikj/firestore-import",
+	"url": "https://apify.com/drobnikj/firestore-import"
+}

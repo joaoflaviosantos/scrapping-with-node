@@ -1,0 +1,9 @@
+{
+	"id": "8V9xpome5W0Esne",
+	"json": "{\"id\":\"8V9xpome5W0Esne\",\"url\":\"https://twitter.com\",\"loadedUrl\":\"https://twitter.com/\",\"uniqueKey\":\"https://twitter.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:33:11.229Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://twitter.com",
+	"url": "https://twitter.com"
+}

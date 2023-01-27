@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/perci/apify-blog-scraper",
+	"uniqueIdentifier": "perci/apify-blog-scraper",
+	"owner": "perci",
+	"title": "Apify Blog Scraper",
+	"description": "Actor to extract data from blog posts in the Apify Blog.",
+	"modifiedDate": "2022-07-05T09:06:25.243Z",
+	"runCount": 226
+}

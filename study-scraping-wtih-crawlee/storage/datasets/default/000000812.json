@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lhotanok/fler-scraper",
+	"uniqueIdentifier": "lhotanok/fler-scraper",
+	"owner": "lhotanok",
+	"title": "Fler Scraper",
+	"description": "Fler Scraper extracts products from Fler.cz - an online marketplace for handmade goods. The scraper searches products by their sellers - you need to provide links to seller pages in `sellerUrls` input field. You can also limit the maximum number of items you need to be extracted.",
+	"modifiedDate": "2022-12-16T22:08:06.014Z",
+	"runCount": 60
+}

@@ -1,0 +1,9 @@
+{
+	"id": "FhN4Tf844slkv1e",
+	"json": "{\"id\":\"FhN4Tf844slkv1e\",\"url\":\"https://dicionario.priberam.org\",\"loadedUrl\":\"https://dicionario.priberam.org/\",\"uniqueKey\":\"https://dicionario.priberam.org\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:31:57.190Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://dicionario.priberam.org",
+	"url": "https://dicionario.priberam.org"
+}

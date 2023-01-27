@@ -1,0 +1,9 @@
+{
+	"id": "qq0EVi0SwRVi0Pk",
+	"json": "{\"id\":\"qq0EVi0SwRVi0Pk\",\"url\":\"https://apify.com/drobnikj/covid-stats-france\",\"loadedUrl\":\"https://apify.com/drobnikj/covid-stats-france\",\"uniqueKey\":\"https://apify.com/drobnikj/covid-stats-france\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:39.370Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/drobnikj/covid-stats-france",
+	"url": "https://apify.com/drobnikj/covid-stats-france"
+}

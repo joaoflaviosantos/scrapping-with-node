@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/petr_cermak/execution-to-knack",
+	"uniqueIdentifier": "petr_cermak/execution-to-knack",
+	"owner": "petr_cermak",
+	"title": "Execution To Knack",
+	"description": "Act for inserting crawler execution results into Knack database.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 1
+}

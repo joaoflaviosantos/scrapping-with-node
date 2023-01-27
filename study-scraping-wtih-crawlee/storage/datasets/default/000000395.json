@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/canva-scraper",
+	"uniqueIdentifier": "epctex/canva-scraper",
+	"owner": "epctex",
+	"title": "Canva Scraper",
+	"description": "Scrape Canva.com to crawl thousands of templates. Specify any keywords and extract data on all available templates on that keyword. You can scrape templates from search, list or users detail pages. Get colors, fonts, images, users and many more!",
+	"modifiedDate": "2023-01-25T02:03:23.583Z",
+	"runCount": 469
+}

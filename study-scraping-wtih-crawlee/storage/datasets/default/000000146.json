@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/spidoosho/bing-search-scraper",
+	"uniqueIdentifier": "spidoosho/bing-search-scraper",
+	"owner": "spidoosho",
+	"title": "Bing Search Result Scraper",
+	"description": "Bing Search Result Scraper extracts organic and paid results, ads, Related, People Also Ask, News, Videos and Images Answers. Supports all available markets and languages. Download data as HTML table, JSON, CSV, Excel, XML or RSS.",
+	"modifiedDate": "2022-02-08T06:54:12.741Z",
+	"runCount": 925
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/juansgaitan/crawler-orchestra",
+	"uniqueIdentifier": "juansgaitan/crawler-orchestra",
+	"owner": "juansgaitan",
+	"title": "Crawler Orchestra",
+	"description": "Call a crawler/s and handle its result/s inside an Act.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 4
+}

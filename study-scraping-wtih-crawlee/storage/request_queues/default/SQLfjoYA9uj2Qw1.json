@@ -1,0 +1,9 @@
+{
+	"id": "SQLfjoYA9uj2Qw1",
+	"json": "{\"id\":\"SQLfjoYA9uj2Qw1\",\"url\":\"https://apify.com/maxcopell/free-tripadvisor\",\"loadedUrl\":\"https://apify.com/maxcopell/free-tripadvisor\",\"uniqueKey\":\"https://apify.com/maxcopell/free-tripadvisor\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:14.640Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/maxcopell/free-tripadvisor",
+	"url": "https://apify.com/maxcopell/free-tripadvisor"
+}

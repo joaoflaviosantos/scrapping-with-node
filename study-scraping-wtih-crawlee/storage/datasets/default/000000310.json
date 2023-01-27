@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/yir/pdf-scraper",
+	"uniqueIdentifier": "yir/pdf-scraper",
+	"owner": "yir",
+	"title": "Example PDF Scraper",
+	"description": "Example of scraping PDF text using \"pdfExtract\".",
+	"modifiedDate": "2022-03-08T03:20:21.422Z",
+	"runCount": 1692
+}

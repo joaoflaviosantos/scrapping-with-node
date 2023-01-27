@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukaskrivka/results-checker",
+	"uniqueIdentifier": "lukaskrivka/results-checker",
+	"owner": "lukaskrivka",
+	"title": "Results Checker",
+	"description": "Check the results of your scrapers with this flexible checker. Just supply a dataset or key-value store ID and a few simple rules to get a detailed report.",
+	"modifiedDate": "2021-06-09T07:13:55.493Z",
+	"runCount": 5173
+}

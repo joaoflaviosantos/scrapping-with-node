@@ -1,0 +1,9 @@
+{
+	"id": "BZTgIimaD6pUxYh",
+	"json": "{\"id\":\"BZTgIimaD6pUxYh\",\"url\":\"https://apify.com/krakorj/covid-netherland\",\"loadedUrl\":\"https://apify.com/krakorj/covid-netherland\",\"uniqueKey\":\"https://apify.com/krakorj/covid-netherland\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:36.533Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/krakorj/covid-netherland",
+	"url": "https://apify.com/krakorj/covid-netherland"
+}

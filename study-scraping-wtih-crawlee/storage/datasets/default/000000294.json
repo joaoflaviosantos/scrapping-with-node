@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/anchor/leboncoin",
+	"uniqueIdentifier": "anchor/leboncoin",
+	"owner": "anchor",
+	"title": "Leboncoin extractor",
+	"description": "Extract information from leboncoin.fr : simply provide your search URL (+ your filters and location) and the number of times you want to click on \"Page Suivante\".",
+	"modifiedDate": "2022-12-12T18:15:17.835Z",
+	"runCount": 734
+}

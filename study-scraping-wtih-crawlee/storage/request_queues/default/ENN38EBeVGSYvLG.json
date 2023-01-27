@@ -1,0 +1,9 @@
+{
+	"id": "ENN38EBeVGSYvLG",
+	"json": "{\"id\":\"ENN38EBeVGSYvLG\",\"url\":\"https://apify.com/mshopik/heatpressnation-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/heatpressnation-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/heatpressnation-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:07.716Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/heatpressnation-scraper",
+	"url": "https://apify.com/mshopik/heatpressnation-scraper"
+}

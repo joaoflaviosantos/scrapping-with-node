@@ -1,0 +1,9 @@
+{
+	"id": "8IDsSDiVF0SIGQo",
+	"json": "{\"id\":\"8IDsSDiVF0SIGQo\",\"url\":\"https://apify.com/mshopik/killstar-uk-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/killstar-uk-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/killstar-uk-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:56.025Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/killstar-uk-scraper",
+	"url": "https://apify.com/mshopik/killstar-uk-scraper"
+}

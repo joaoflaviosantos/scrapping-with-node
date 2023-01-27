@@ -1,0 +1,9 @@
+{
+	"id": "vsShVV8b1JEIhFg",
+	"json": "{\"id\":\"vsShVV8b1JEIhFg\",\"url\":\"https://apify.com/gavilar/ingatlancom-scraper\",\"loadedUrl\":\"https://apify.com/gavilar/ingatlancom-scraper\",\"uniqueKey\":\"https://apify.com/gavilar/ingatlancom-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:10.445Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/gavilar/ingatlancom-scraper",
+	"url": "https://apify.com/gavilar/ingatlancom-scraper"
+}

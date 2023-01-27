@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/pocesar/request-list-bridge",
+	"uniqueIdentifier": "pocesar/request-list-bridge",
+	"owner": "pocesar",
+	"title": "RequestList Bridge",
+	"description": "Allows you to filter (thus cleaning up your list) and append new data to those requests before\nsending to your target task.\n\nAlso enables a workaround to provide requestsFromUrl to existing actors that don't support it natively.",
+	"modifiedDate": "2022-10-10T09:06:56.370Z",
+	"runCount": 56
+}

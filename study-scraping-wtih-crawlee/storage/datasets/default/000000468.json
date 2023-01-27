@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/august-home-scraper",
+	"uniqueIdentifier": "mshopik/august-home-scraper",
+	"owner": "mshopik",
+	"title": "August Home Scraper",
+	"description": "Scrape August Home and extract data on home and garden from august.com. Our August Home API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:55:23.687Z",
+	"runCount": 425
+}

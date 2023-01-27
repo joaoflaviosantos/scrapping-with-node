@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/playstation-store-scraper",
+	"uniqueIdentifier": "epctex/playstation-store-scraper",
+	"owner": "epctex",
+	"title": "Playstation Store Scraper",
+	"description": "Scrape games from the Playstation Store . Crawl and extract product information, related products, categories, discounts, different editions much more. Scrape the huge Playstation Store database and top game listings by any search term.",
+	"modifiedDate": "2023-01-25T02:02:43.204Z",
+	"runCount": 657
+}

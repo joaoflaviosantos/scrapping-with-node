@@ -1,0 +1,9 @@
+{
+	"id": "8bwJElGAXZFOM6S",
+	"json": "{\"id\":\"8bwJElGAXZFOM6S\",\"url\":\"https://apify.com/juansgaitan/link-extractor\",\"loadedUrl\":\"https://apify.com/juansgaitan/link-extractor\",\"uniqueKey\":\"https://apify.com/juansgaitan/link-extractor\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:42.638Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/juansgaitan/link-extractor",
+	"url": "https://apify.com/juansgaitan/link-extractor"
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/luxy-hair-scraper",
+	"uniqueIdentifier": "mshopik/luxy-hair-scraper",
+	"owner": "mshopik",
+	"title": "Luxy Hair Scraper",
+	"description": "Scrape Luxy Hair and extract data on hair care from luxyhair.com. Our Luxy Hair API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:44:36.484Z",
+	"runCount": 426
+}

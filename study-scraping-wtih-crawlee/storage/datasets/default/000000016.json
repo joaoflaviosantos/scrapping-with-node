@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/emastra/google-trends-scraper",
+	"uniqueIdentifier": "emastra/google-trends-scraper",
+	"owner": "emastra",
+	"title": "Google Trends Scraper",
+	"description": "Google Trends API to scrape data from Google Trends. Extract data for multiple search terms listed in a Google Sheet, define time ranges to get results at a higher frequency, select categories, and specify geographical locations. Download your data as HTML, JSON, CSV, Excel, XML, and more.",
+	"modifiedDate": "2023-01-04T08:09:19.939Z",
+	"runCount": 76965
+}

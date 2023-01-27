@@ -1,0 +1,9 @@
+{
+	"id": "wq3y1dj0MaG8A02",
+	"json": "{\"id\":\"wq3y1dj0MaG8A02\",\"url\":\"https://apify.com/mshopik/mastercard-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/mastercard-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/mastercard-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:42.331Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/mastercard-scraper",
+	"url": "https://apify.com/mshopik/mastercard-scraper"
+}

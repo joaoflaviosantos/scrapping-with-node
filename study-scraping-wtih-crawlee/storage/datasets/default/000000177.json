@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/dope-scraper",
+	"uniqueIdentifier": "mshopik/dope-scraper",
+	"owner": "mshopik",
+	"title": "DOPE Scraper",
+	"description": "Scrape DOPE and extract data on headwear from dope.com. Our DOPE API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:35:24.646Z",
+	"runCount": 426
+}

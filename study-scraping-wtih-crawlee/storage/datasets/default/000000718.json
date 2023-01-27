@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/naiise-scraper",
+	"uniqueIdentifier": "mshopik/naiise-scraper",
+	"owner": "mshopik",
+	"title": "Naiise Scraper",
+	"description": "Scrape Naiise and extract data on design from naiise.com. Our Naiise API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:10:15.354Z",
+	"runCount": 427
+}

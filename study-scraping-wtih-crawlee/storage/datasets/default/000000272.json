@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/culture-kings-scraper",
+	"uniqueIdentifier": "mshopik/culture-kings-scraper",
+	"owner": "mshopik",
+	"title": "Culture Kings Scraper",
+	"description": "Scrape Culture Kings and extract data on apparel from culturekings.com.au. Our Culture Kings API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:32:07.978Z",
+	"runCount": 425
+}

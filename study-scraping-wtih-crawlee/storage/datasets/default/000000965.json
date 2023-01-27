@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/medh/IMDB-Titles-Scraper-By-Company",
+	"uniqueIdentifier": "medh/IMDB-Titles-Scraper-By-Company",
+	"owner": "medh",
+	"title": "IMDB Titles Scraper By Company",
+	"description": "If you ever want to scrape all the titles from a specific production company, the IMDB Titles Scraper By Company will effectively help you do that.",
+	"modifiedDate": "2022-08-13T14:46:21.944Z",
+	"runCount": 289
+}

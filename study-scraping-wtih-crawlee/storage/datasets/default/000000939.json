@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/tlinhart/slack-notification-webhook",
+	"uniqueIdentifier": "tlinhart/slack-notification-webhook",
+	"owner": "tlinhart",
+	"title": "Slack Notification Webhook",
+	"description": "This actor is supposed to be run via webhooks to send Slack notifications about other actor/task's events.",
+	"modifiedDate": "2023-01-23T03:50:19.034Z",
+	"runCount": 2104
+}

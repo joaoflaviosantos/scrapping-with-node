@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/cyberfly/covid-pk",
+	"uniqueIdentifier": "cyberfly/covid-pk",
+	"owner": "cyberfly",
+	"title": "Coronavirus stats in Pakistan",
+	"description": "Gets current data about COVID-19 in Pakistan from the Pakistan government website at http://covid.gov.pk",
+	"modifiedDate": "2021-04-12T09:36:25.195Z",
+	"runCount": 127474
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/fray-scraper",
+	"uniqueIdentifier": "mshopik/fray-scraper",
+	"owner": "mshopik",
+	"title": "Fray Scraper",
+	"description": "Scrape Fray and extract data on skin and nail care from shopfray.com. Our Fray API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:10:40.905Z",
+	"runCount": 426
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/santa77/CashReceiptSK",
+	"uniqueIdentifier": "santa77/CashReceiptSK",
+	"owner": "santa77",
+	"title": "CashReceiptSK",
+	"description": "Actor will send you full detail of cash receipt in JSON format based on QR code content printed on cash receipt. It's for cash receipts issued at Slovakia by E-KASA.",
+	"modifiedDate": "2022-10-31T10:24:43.047Z",
+	"runCount": 194
+}

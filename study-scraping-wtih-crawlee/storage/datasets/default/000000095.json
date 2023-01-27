@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/summerboard-scraper",
+	"uniqueIdentifier": "mshopik/summerboard-scraper",
+	"owner": "mshopik",
+	"title": "Summerboard Scraper",
+	"description": "Scrape Summerboard and extract data on sporting from summerboard.com. Our Summerboard API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:07:16.633Z",
+	"runCount": 426
+}

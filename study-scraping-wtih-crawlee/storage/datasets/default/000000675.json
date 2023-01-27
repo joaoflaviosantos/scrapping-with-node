@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/cyberfly/covid-it",
+	"uniqueIdentifier": "cyberfly/covid-it",
+	"owner": "cyberfly",
+	"title": "Coronavirus stats in Italy",
+	"description": "Gets an actual number of examined and infected people by COVID-19 in Italy from the Italian Department of Civil Protection at https://github.com/pcm-dpc/COVID-19",
+	"modifiedDate": "2021-04-12T09:34:18.705Z",
+	"runCount": 128862
+}

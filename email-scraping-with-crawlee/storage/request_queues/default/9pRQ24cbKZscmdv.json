@@ -1,0 +1,9 @@
+{
+	"id": "9pRQ24cbKZscmdv",
+	"json": "{\"id\":\"9pRQ24cbKZscmdv\",\"url\":\"https://www.amazon.com.mx\",\"loadedUrl\":\"https://www.amazon.com.mx/\",\"uniqueKey\":\"https://www.amazon.com.mx\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:33:10.309Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com.mx",
+	"url": "https://www.amazon.com.mx"
+}

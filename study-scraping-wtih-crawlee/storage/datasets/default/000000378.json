@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jancurn/example-analyze-dom-css",
+	"uniqueIdentifier": "jancurn/example-analyze-dom-css",
+	"owner": "jancurn",
+	"title": "Webpage DOM & CSS Analyzer",
+	"description": "Example showing how to use headless Chromium with Puppeteer to open a web page, fetch the list of DOM nodes on the pages and obtain CSS styling information for each HTML element. The actor uses the Chrome DevTools Protocol to access the required browser functionality.",
+	"modifiedDate": "2022-11-22T14:26:41.182Z",
+	"runCount": 580
+}

@@ -1,0 +1,9 @@
+{
+	"id": "DizE2AFMZB5rgHo",
+	"json": "{\"id\":\"DizE2AFMZB5rgHo\",\"url\":\"https://apify.com/flood/linkedin-company-search-scraper\",\"loadedUrl\":\"https://apify.com/flood/linkedin-company-search-scraper\",\"uniqueKey\":\"https://apify.com/flood/linkedin-company-search-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:42.765Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/flood/linkedin-company-search-scraper",
+	"url": "https://apify.com/flood/linkedin-company-search-scraper"
+}

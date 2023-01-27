@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/katerinahronik/medium-response-notifications",
+	"uniqueIdentifier": "katerinahronik/medium-response-notifications",
+	"owner": "katerinahronik",
+	"title": "Medium Notifications",
+	"description": "Enables the set up of notifications for any Medium members, and it checks for new responses on Medium posts, so you never miss posts from users or followers. It can send notifications to a defined Slack channel (with a Slack token) or email.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 3986
+}

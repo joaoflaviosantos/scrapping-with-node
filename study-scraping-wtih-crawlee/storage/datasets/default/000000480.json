@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dtrungtin/github-users-scraper",
+	"uniqueIdentifier": "dtrungtin/github-users-scraper",
+	"owner": "dtrungtin",
+	"title": "Github Users Scraper",
+	"description": "Github Users Scraper is an Apify actor for extracting users or emails from Github. It allows you to extract all watchers, stargazers, and members from a repository page.",
+	"modifiedDate": "2022-09-23T06:40:49.799Z",
+	"runCount": 711
+}

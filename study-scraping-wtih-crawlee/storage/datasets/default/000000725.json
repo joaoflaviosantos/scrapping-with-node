@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/osear-malibu-scraper",
+	"uniqueIdentifier": "mshopik/osear-malibu-scraper",
+	"owner": "mshopik",
+	"title": "OSEA® Malibu Scraper",
+	"description": "Scrape OSEA® Malibu and extract data on face and body care from oseamalibu.com. Our OSEA® Malibu API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:57:34.705Z",
+	"runCount": 426
+}

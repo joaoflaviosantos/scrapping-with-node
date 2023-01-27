@@ -1,0 +1,9 @@
+{
+	"id": "q5LpZJAPEMG4zIS",
+	"json": "{\"id\":\"q5LpZJAPEMG4zIS\",\"url\":\"https://www.persianleague.com\",\"loadedUrl\":\"https://www.persianleague.com/\",\"uniqueKey\":\"https://www.persianleague.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:32:58.517Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.persianleague.com",
+	"url": "https://www.persianleague.com"
+}

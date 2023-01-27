@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/strajk/fitanu-fitanu-com-scraper",
+	"uniqueIdentifier": "strajk/fitanu-fitanu-com-scraper",
+	"owner": "strajk",
+	"title": "Fitanu (fitanu.com) scraper",
+	"description": "Scrapes products titles, prices, images and availability. Does NOT scrape product details. Uses Crawlee (Apify v3).",
+	"modifiedDate": "2022-10-12T09:08:43.439Z",
+	"runCount": 104
+}

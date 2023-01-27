@@ -1,0 +1,9 @@
+{
+	"id": "gWWygMesvPaxcub",
+	"json": "{\"id\":\"gWWygMesvPaxcub\",\"url\":\"https://apify.com/santa77/CashReceiptSK\",\"loadedUrl\":\"https://apify.com/santa77/cashreceiptsk\",\"uniqueKey\":\"https://apify.com/santa77/CashReceiptSK\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:44.284Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/santa77/CashReceiptSK",
+	"url": "https://apify.com/santa77/CashReceiptSK"
+}

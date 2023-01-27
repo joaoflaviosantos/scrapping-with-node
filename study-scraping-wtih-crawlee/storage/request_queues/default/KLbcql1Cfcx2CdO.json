@@ -1,0 +1,9 @@
+{
+	"id": "KLbcql1Cfcx2CdO",
+	"json": "{\"id\":\"KLbcql1Cfcx2CdO\",\"url\":\"https://apify.com/epctex/walmart-scraper\",\"loadedUrl\":\"https://apify.com/epctex/walmart-scraper\",\"uniqueKey\":\"https://apify.com/epctex/walmart-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:46.278Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/epctex/walmart-scraper",
+	"url": "https://apify.com/epctex/walmart-scraper"
+}

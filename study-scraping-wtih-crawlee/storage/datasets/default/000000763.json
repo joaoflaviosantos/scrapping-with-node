@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/davidrychly/covid-who-sprinklr",
+	"uniqueIdentifier": "davidrychly/covid-who-sprinklr",
+	"owner": "davidrychly",
+	"title": "WHO Global Coronavirus stats",
+	"description": "Gets an actual number of examined and infected people by COVID-19 globally from https://covid19.who.int/.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 49044
+}

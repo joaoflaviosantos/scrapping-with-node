@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukass/covid-jap",
+	"uniqueIdentifier": "lukass/covid-jap",
+	"owner": "lukass",
+	"title": "Coronavirus stats in Japan",
+	"description": "Gets an actual number of examined and infected people by COVID-19 in the Japan from https://www3.nhk.or.jp/news/special/coronavirus",
+	"modifiedDate": "2021-04-12T07:59:06.497Z",
+	"runCount": 145972
+}

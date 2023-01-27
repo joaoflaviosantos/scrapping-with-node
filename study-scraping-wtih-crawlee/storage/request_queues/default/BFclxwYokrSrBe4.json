@@ -1,0 +1,9 @@
+{
+	"id": "BFclxwYokrSrBe4",
+	"json": "{\"id\":\"BFclxwYokrSrBe4\",\"url\":\"https://apify.com/lukaskrivka/github-issues-to-spreadsheet\",\"loadedUrl\":\"https://apify.com/lukaskrivka/github-issues-to-spreadsheet\",\"uniqueKey\":\"https://apify.com/lukaskrivka/github-issues-to-spreadsheet\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:46.191Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/lukaskrivka/github-issues-to-spreadsheet",
+	"url": "https://apify.com/lukaskrivka/github-issues-to-spreadsheet"
+}

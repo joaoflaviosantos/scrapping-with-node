@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mtrunkat/puppeteer-promise-pool-example",
+	"uniqueIdentifier": "mtrunkat/puppeteer-promise-pool-example",
+	"owner": "mtrunkat",
+	"title": "Example Puppeteer Promise Pool",
+	"description": "Example how to use Puppeteer in parallel using 'es6-promise-pool' npm package.",
+	"modifiedDate": "2022-06-20T13:56:22.873Z",
+	"runCount": 467
+}

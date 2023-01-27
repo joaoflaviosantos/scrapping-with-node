@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/jaded-london-scraper",
+	"uniqueIdentifier": "mshopik/jaded-london-scraper",
+	"owner": "mshopik",
+	"title": "Jaded London Scraper",
+	"description": "Scrape Jaded London and extract data on apparel from jadedldn.com. Our Jaded London API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:40:38.520Z",
+	"runCount": 425
+}

@@ -1,0 +1,9 @@
+{
+	"id": "6c5RpjznCD2UTuF",
+	"json": "{\"id\":\"6c5RpjznCD2UTuF\",\"url\":\"https://apify.com/kelvinspencer/Universe-Oauth\",\"loadedUrl\":\"https://apify.com/kelvinspencer/universe-oauth\",\"uniqueKey\":\"https://apify.com/kelvinspencer/Universe-Oauth\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:54.274Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/kelvinspencer/Universe-Oauth",
+	"url": "https://apify.com/kelvinspencer/Universe-Oauth"
+}

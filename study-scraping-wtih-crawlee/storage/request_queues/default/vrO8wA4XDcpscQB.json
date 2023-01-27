@@ -1,0 +1,9 @@
+{
+	"id": "vrO8wA4XDcpscQB",
+	"json": "{\"id\":\"vrO8wA4XDcpscQB\",\"url\":\"https://apify.com/mshopik/the-spice-house-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/the-spice-house-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/the-spice-house-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:54.519Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/the-spice-house-scraper",
+	"url": "https://apify.com/mshopik/the-spice-house-scraper"
+}

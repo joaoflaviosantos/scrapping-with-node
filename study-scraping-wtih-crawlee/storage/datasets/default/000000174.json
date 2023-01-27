@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/creality3dr-printers-scraper",
+	"uniqueIdentifier": "mshopik/creality3dr-printers-scraper",
+	"owner": "mshopik",
+	"title": "Creality3D® Printers Scraper",
+	"description": "Scrape Creality3D® Printers and extract data on office products from creality3d.shop. Our Creality3D® Printers API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:15:34.110Z",
+	"runCount": 425
+}

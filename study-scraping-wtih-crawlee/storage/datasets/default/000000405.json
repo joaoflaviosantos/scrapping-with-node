@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/defensivedepth/Chrome-Web-Store",
+	"uniqueIdentifier": "defensivedepth/Chrome-Web-Store",
+	"owner": "defensivedepth",
+	"title": "Chrome Web Store",
+	"description": "Scrape metadata about an extension from the Chrome Web Store",
+	"modifiedDate": "2022-06-20T13:56:57.926Z",
+	"runCount": 596
+}

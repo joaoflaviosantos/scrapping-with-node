@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukaskrivka/google-sheets",
+	"uniqueIdentifier": "lukaskrivka/google-sheets",
+	"owner": "lukaskrivka",
+	"title": "Google Sheets Import & Export",
+	"description": "Import data from datasets or JSON files to Google Sheets. Programmatically process data in Sheets. Easier and faster than the official Google Sheets API and perfect for importing data from scraping.",
+	"modifiedDate": "2023-01-06T16:11:48.767Z",
+	"runCount": null
+}

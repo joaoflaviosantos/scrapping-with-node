@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/quacker/twitter-mentions",
+	"uniqueIdentifier": "quacker/twitter-mentions",
+	"owner": "quacker",
+	"title": "Twitter Mentions Scraper",
+	"description": "Scrape tweets that mention a specific Twitter handle with the Twitter Mentions Scraper by Apify. Get user information, tweets, statistics. Use for marketing research, monitoring brand mentions or tracking competitors. Integrate with other apps and services. Use the Apify API for programmatic access.",
+	"modifiedDate": "2023-01-24T10:09:14.391Z",
+	"runCount": 58
+}

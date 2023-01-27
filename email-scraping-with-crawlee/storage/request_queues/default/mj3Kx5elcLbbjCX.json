@@ -1,0 +1,9 @@
+{
+	"id": "mj3Kx5elcLbbjCX",
+	"json": "{\"id\":\"mj3Kx5elcLbbjCX\",\"url\":\"https://tambasa.com\",\"loadedUrl\":\"https://tambasa.com/\",\"uniqueKey\":\"https://tambasa.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:33:14.743Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://tambasa.com",
+	"url": "https://tambasa.com"
+}

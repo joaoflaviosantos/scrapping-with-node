@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/bajaaocom-scraper",
+	"uniqueIdentifier": "mshopik/bajaaocom-scraper",
+	"owner": "mshopik",
+	"title": "BAJAAO.COM Scraper",
+	"description": "Scrape BAJAAO.COM and extract data on music equipment and technology from bajaao.com. Our BAJAAO.COM API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:38:29.126Z",
+	"runCount": 425
+}

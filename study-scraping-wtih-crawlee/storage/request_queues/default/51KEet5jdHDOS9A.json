@@ -1,0 +1,9 @@
+{
+	"id": "51KEet5jdHDOS9A",
+	"json": "{\"id\":\"51KEet5jdHDOS9A\",\"url\":\"https://apify.com/mshopik/dania-furniture-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/dania-furniture-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/dania-furniture-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:28.674Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/dania-furniture-scraper",
+	"url": "https://apify.com/mshopik/dania-furniture-scraper"
+}

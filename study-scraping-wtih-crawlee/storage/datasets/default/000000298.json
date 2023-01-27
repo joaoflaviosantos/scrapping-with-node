@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/maxcopell/tripadvisor-things-to-do-scraper",
+	"uniqueIdentifier": "maxcopell/tripadvisor-things-to-do-scraper",
+	"owner": "maxcopell",
+	"title": "Tripadvisor Things To Do Scraper",
+	"description": "Scrape Tripadvisor destinations, attractions, and activities. Extract reviews, pricing, contact details, amenities, awards, and other important information about things to do on Tripadvisor.",
+	"modifiedDate": "2023-01-25T15:18:52.361Z",
+	"runCount": 1174
+}

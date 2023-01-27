@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/asrv-scraper",
+	"uniqueIdentifier": "mshopik/asrv-scraper",
+	"owner": "mshopik",
+	"title": "ASRV Scraper",
+	"description": "Scrape ASRV and extract data on athletic apparel from asrv.co. Our ASRV API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:11:38.538Z",
+	"runCount": 425
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/the-citizenry-scraper",
+	"uniqueIdentifier": "mshopik/the-citizenry-scraper",
+	"owner": "mshopik",
+	"title": "The Citizenry Scraper",
+	"description": "Scrape The Citizenry and extract data on home and interior decor from the-citizenry.com. Our The Citizenry API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:50:43.547Z",
+	"runCount": 428
+}

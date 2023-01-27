@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/billini-scraper",
+	"uniqueIdentifier": "mshopik/billini-scraper",
+	"owner": "mshopik",
+	"title": "Billini Scraper",
+	"description": "Scrape Billini and extract data on footwear from billini.com. Our Billini API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:05:56.460Z",
+	"runCount": 427
+}

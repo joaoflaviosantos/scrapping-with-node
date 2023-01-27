@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jakubbalada/content-checker",
+	"uniqueIdentifier": "jakubbalada/content-checker",
+	"owner": "jakubbalada",
+	"title": "Content Checker",
+	"description": "Monitor a website or web page for content changes. Automatically saves before and after screenshots and sends an email notification when content changes are detected.",
+	"modifiedDate": "2022-12-22T14:19:53.894Z",
+	"runCount": null
+}

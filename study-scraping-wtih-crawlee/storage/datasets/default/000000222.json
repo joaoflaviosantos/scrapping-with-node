@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/tigerfitnesscom-scraper",
+	"uniqueIdentifier": "mshopik/tigerfitnesscom-scraper",
+	"owner": "mshopik",
+	"title": "TigerFitness.com Scraper",
+	"description": "Scrape TigerFitness.com and extract data on fitness from tigerfitness.com. Our TigerFitness.com API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:02:32.583Z",
+	"runCount": 426
+}

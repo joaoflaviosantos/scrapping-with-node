@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/asos-scraper",
+	"uniqueIdentifier": "epctex/asos-scraper",
+	"owner": "epctex",
+	"title": "Asos Scraper",
+	"description": "Enables scraping of publicly available data from Asos products. Extracts images, description, and so on. The actor supports category urls.",
+	"modifiedDate": "2023-01-25T02:01:49.757Z",
+	"runCount": 7687
+}

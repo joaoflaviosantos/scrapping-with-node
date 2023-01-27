@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/pvolve-scraper",
+	"uniqueIdentifier": "mshopik/pvolve-scraper",
+	"owner": "mshopik",
+	"title": "P.volve Scraper",
+	"description": "Scrape P.volve and extract data on fitness from pvolve.com. Our P.volve API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:14:41.205Z",
+	"runCount": 426
+}

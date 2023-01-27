@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/the-sill-scraper",
+	"uniqueIdentifier": "mshopik/the-sill-scraper",
+	"owner": "mshopik",
+	"title": "The Sill Scraper",
+	"description": "Scrape The Sill and extract data on gardening and landscaping from thesill.com. Our The Sill API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:39:41.233Z",
+	"runCount": 427
+}

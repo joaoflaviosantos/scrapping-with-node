@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/playwright-scraper",
+	"uniqueIdentifier": "apify/playwright-scraper",
+	"owner": "apify",
+	"title": "Playwright Scraper",
+	"description": "Crawls websites with the headless Chromium, Chrome, or Firefox browser and Playwright library using a provided server-side Node.js code. Supports both recursive crawling and a list of URLs. Supports login to a website.",
+	"modifiedDate": "2022-12-12T12:21:55.690Z",
+	"runCount": 466
+}

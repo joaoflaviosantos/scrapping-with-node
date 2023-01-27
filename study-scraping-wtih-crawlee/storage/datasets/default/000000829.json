@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukass/drudge-report-scraper",
+	"uniqueIdentifier": "lukass/drudge-report-scraper",
+	"owner": "lukass",
+	"title": "Drudge Report Scraper",
+	"description": "Scrape news data from drudgereport.com with this unofficial API. Extract articles, monitor their popularity and performance and automate the fight against fake news. Filter the results by authors, topics, categories, or publication dates. Preview or download the results in your preferred format.",
+	"modifiedDate": "2022-08-07T18:44:08.179Z",
+	"runCount": 256
+}

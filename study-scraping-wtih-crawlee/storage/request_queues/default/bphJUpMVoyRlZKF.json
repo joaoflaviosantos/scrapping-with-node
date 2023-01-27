@@ -1,0 +1,9 @@
+{
+	"id": "bphJUpMVoyRlZKF",
+	"json": "{\"id\":\"bphJUpMVoyRlZKF\",\"url\":\"https://apify.com/pocesar/covid-brazil\",\"loadedUrl\":\"https://apify.com/pocesar/covid-brazil\",\"uniqueKey\":\"https://apify.com/pocesar/covid-brazil\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:49.844Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/pocesar/covid-brazil",
+	"url": "https://apify.com/pocesar/covid-brazil"
+}

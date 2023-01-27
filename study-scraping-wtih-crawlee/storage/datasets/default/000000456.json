@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/fungi-perfecti-scraper",
+	"uniqueIdentifier": "mshopik/fungi-perfecti-scraper",
+	"owner": "mshopik",
+	"title": "Fungi Perfecti Scraper",
+	"description": "Scrape Fungi Perfecti and extract data on biological sciences from fungi.com. Our Fungi Perfecti API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:06:09.829Z",
+	"runCount": 425
+}

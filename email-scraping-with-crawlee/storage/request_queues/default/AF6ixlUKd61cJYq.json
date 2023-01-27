@@ -1,0 +1,9 @@
+{
+	"id": "AF6ixlUKd61cJYq",
+	"json": "{\"id\":\"AF6ixlUKd61cJYq\",\"url\":\"https://www.tokstok.com.br\",\"loadedUrl\":\"https://www.tokstok.com.br/\",\"uniqueKey\":\"https://www.tokstok.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:31:47.037Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.tokstok.com.br",
+	"url": "https://www.tokstok.com.br"
+}

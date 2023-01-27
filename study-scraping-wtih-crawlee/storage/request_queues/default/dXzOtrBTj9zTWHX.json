@@ -1,0 +1,9 @@
+{
+	"id": "dXzOtrBTj9zTWHX",
+	"json": "{\"id\":\"dXzOtrBTj9zTWHX\",\"url\":\"https://apify.com/vaclavrut/Mall-cz\",\"loadedUrl\":\"https://apify.com/vaclavrut/mall-cz\",\"uniqueKey\":\"https://apify.com/vaclavrut/Mall-cz\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:32.737Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/vaclavrut/Mall-cz",
+	"url": "https://apify.com/vaclavrut/Mall-cz"
+}

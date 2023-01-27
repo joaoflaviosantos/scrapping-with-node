@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/autofacts/shopify",
+	"uniqueIdentifier": "autofacts/shopify",
+	"owner": "autofacts",
+	"title": "Shopify Scraper",
+	"description": "Shopify online store collection and product data extractor. Supports realtime price/stock monitor. Crawl product list or single product in a structured form, including title,description,price,sku, etc.",
+	"modifiedDate": "2022-04-11T14:29:49.544Z",
+	"runCount": 1562
+}

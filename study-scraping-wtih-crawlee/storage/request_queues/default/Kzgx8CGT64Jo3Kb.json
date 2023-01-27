@@ -1,0 +1,9 @@
+{
+	"id": "Kzgx8CGT64Jo3Kb",
+	"json": "{\"id\":\"Kzgx8CGT64Jo3Kb\",\"url\":\"https://apify.com/mshopik/secretlab-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/secretlab-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/secretlab-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:37.004Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/secretlab-scraper",
+	"url": "https://apify.com/mshopik/secretlab-scraper"
+}

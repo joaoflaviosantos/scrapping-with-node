@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/killstar-uk-scraper",
+	"uniqueIdentifier": "mshopik/killstar-uk-scraper",
+	"owner": "mshopik",
+	"title": "KILLSTAR UK Store Scraper",
+	"description": "Scrape KILLSTAR UK Store and extract data on apparel from killstar.com. Our KILLSTAR UK Store API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:16:00.751Z",
+	"runCount": 425
+}

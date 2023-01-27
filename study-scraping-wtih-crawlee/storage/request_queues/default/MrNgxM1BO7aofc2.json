@@ -1,0 +1,9 @@
+{
+	"id": "MrNgxM1BO7aofc2",
+	"json": "{\"id\":\"MrNgxM1BO7aofc2\",\"url\":\"https://apify.com/jupri/shopify-scraper\",\"loadedUrl\":\"https://apify.com/jupri/shopify-scraper\",\"uniqueKey\":\"https://apify.com/jupri/shopify-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:17.217Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jupri/shopify-scraper",
+	"url": "https://apify.com/jupri/shopify-scraper"
+}

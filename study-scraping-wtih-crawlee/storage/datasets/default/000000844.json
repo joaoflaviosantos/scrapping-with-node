@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/g-fuel-scraper",
+	"uniqueIdentifier": "mshopik/g-fuel-scraper",
+	"owner": "mshopik",
+	"title": "FUEL Scraper",
+	"description": "Scrape FUEL and extract data on soft drinks from gfuel.com. Our FUEL API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:34:32.439Z",
+	"runCount": 427
+}

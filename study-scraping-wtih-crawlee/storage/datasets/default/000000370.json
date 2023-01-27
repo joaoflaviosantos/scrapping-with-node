@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/lets-make-art-scraper",
+	"uniqueIdentifier": "mshopik/lets-make-art-scraper",
+	"owner": "mshopik",
+	"title": "Let's Make Art Scraper",
+	"description": "Scrape Let's Make Art and extract data on painting from letsmakeart.com. Our Let's Make Art API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:04:37.122Z",
+	"runCount": 426
+}

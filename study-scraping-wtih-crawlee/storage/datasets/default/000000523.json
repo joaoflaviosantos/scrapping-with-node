@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/outerknown-scraper",
+	"uniqueIdentifier": "mshopik/outerknown-scraper",
+	"owner": "mshopik",
+	"title": "Outerknown Scraper",
+	"description": "Scrape Outerknown and extract data on apparel from outerknown.com. Our Outerknown API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:32:21.332Z",
+	"runCount": 426
+}

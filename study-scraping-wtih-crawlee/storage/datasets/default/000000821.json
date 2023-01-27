@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/fjvs0283/actor-batch-builder",
+	"uniqueIdentifier": "fjvs0283/actor-batch-builder",
+	"owner": "fjvs0283",
+	"title": "Actor Build Starter",
+	"description": "Run builds for multiple actors in your account simultaneously. This can be useful when many actors in a given project have been updated. For example, the documentation might have been updated in 50 actors. This tool will help you trigger actor builds for all 50 at once.",
+	"modifiedDate": "2022-02-12T21:18:23.677Z",
+	"runCount": 443
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/nine-west-scraper",
+	"uniqueIdentifier": "mshopik/nine-west-scraper",
+	"owner": "mshopik",
+	"title": "Nine West Scraper",
+	"description": "Scrape Nine West and extract data on footwear from ninewest.com. Our Nine West API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:43:35.216Z",
+	"runCount": 425
+}

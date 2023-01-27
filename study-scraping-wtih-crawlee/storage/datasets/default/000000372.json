@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/goli-scraper",
+	"uniqueIdentifier": "mshopik/goli-scraper",
+	"owner": "mshopik",
+	"title": "Goli Scraper",
+	"description": "Scrape Goli and extract data on candy and sweets from goli.com. Our Goli API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:13:06.247Z",
+	"runCount": 425
+}

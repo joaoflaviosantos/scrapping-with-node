@@ -1,0 +1,9 @@
+{
+	"id": "1KAC7vtd2fLG6Lz",
+	"json": "{\"id\":\"1KAC7vtd2fLG6Lz\",\"url\":\"https://andrelux.com.br\",\"loadedUrl\":\"https://andrelux.com.br/\",\"uniqueKey\":\"https://andrelux.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:31:42.940Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://andrelux.com.br",
+	"url": "https://andrelux.com.br"
+}

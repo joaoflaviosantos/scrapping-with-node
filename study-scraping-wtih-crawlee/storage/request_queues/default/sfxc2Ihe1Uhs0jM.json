@@ -1,0 +1,9 @@
+{
+	"id": "sfxc2Ihe1Uhs0jM",
+	"json": "{\"id\":\"sfxc2Ihe1Uhs0jM\",\"url\":\"https://apify.com/mshopik/christy-dawn-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/christy-dawn-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/christy-dawn-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:28.629Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/christy-dawn-scraper",
+	"url": "https://apify.com/mshopik/christy-dawn-scraper"
+}

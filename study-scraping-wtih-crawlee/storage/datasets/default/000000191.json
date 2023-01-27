@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/gymshark-row-scraper",
+	"uniqueIdentifier": "mshopik/gymshark-row-scraper",
+	"owner": "mshopik",
+	"title": "Gymshark ROW Scraper",
+	"description": "Scrape Gymshark ROW and extract data on fitness from row.gymshark.com. Our Gymshark ROW API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:29:08.503Z",
+	"runCount": 425
+}

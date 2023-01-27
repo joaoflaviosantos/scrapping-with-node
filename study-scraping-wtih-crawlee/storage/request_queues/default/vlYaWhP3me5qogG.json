@@ -1,0 +1,9 @@
+{
+	"id": "vlYaWhP3me5qogG",
+	"json": "{\"id\":\"vlYaWhP3me5qogG\",\"url\":\"https://apify.com/mtnfranke/telegram-scraper\",\"loadedUrl\":\"https://apify.com/mtnfranke/telegram-scraper\",\"uniqueKey\":\"https://apify.com/mtnfranke/telegram-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:14.628Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mtnfranke/telegram-scraper",
+	"url": "https://apify.com/mtnfranke/telegram-scraper"
+}

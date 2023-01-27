@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/johndon/generic-lectio-scraper",
+	"uniqueIdentifier": "johndon/generic-lectio-scraper",
+	"owner": "johndon",
+	"title": "Lectio skema til kalender",
+	"description": "Få dit Lectio skema i din kalender vha. et ics-link. Kan bruges med Google Calendar, Apple Calendar, Outlook m. fl.",
+	"modifiedDate": "2022-09-27T11:54:31.275Z",
+	"runCount": 2799
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/glosterr/whoscored-player-information-scraper",
+	"uniqueIdentifier": "glosterr/whoscored-player-information-scraper",
+	"owner": "glosterr",
+	"title": "Whoscored Player Information Scraper",
+	"description": "Scrapes player information from Whoscored.com",
+	"modifiedDate": "2022-10-01T22:59:50.051Z",
+	"runCount": 162
+}

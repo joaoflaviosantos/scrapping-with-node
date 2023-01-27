@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mcdowell/yell-scraper",
+	"uniqueIdentifier": "mcdowell/yell-scraper",
+	"owner": "mcdowell",
+	"title": "Yell Scraper",
+	"description": "A scraper that extracts data from from Yell.com base on Keywords and Locality. Scrape and download business information data as HTML table, JSON, CSV, Excel, XML.",
+	"modifiedDate": "2022-09-26T13:56:49.430Z",
+	"runCount": 134
+}

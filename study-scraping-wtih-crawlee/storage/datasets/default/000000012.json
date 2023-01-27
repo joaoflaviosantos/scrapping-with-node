@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/vdrmota/contact-info-scraper",
+	"uniqueIdentifier": "vdrmota/contact-info-scraper",
+	"owner": "vdrmota",
+	"title": "Contact Details Scraper",
+	"description": "Free contact details scraper to extract and download emails, phone numbers, Facebook, Twitter, LinkedIn, and Instagram profiles from any website. Extract contact information at scale from lists of URLs and download the data as Excel, CSV, JSON, HTML, and XML.",
+	"modifiedDate": "2022-12-10T21:45:43.781Z",
+	"runCount": 955334
+}

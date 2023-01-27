@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/erikhiggy96/on3-recruit-scraper",
+	"uniqueIdentifier": "erikhiggy96/on3-recruit-scraper",
+	"owner": "erikhiggy96",
+	"title": "On3 Recruit Scraper",
+	"description": "Scrape and download American college football recruits information from all industries including On3, 247Sports, ESPN, and Rivals. Supports recruits by year. Download your data as HTML table, JSON, CSV, Excel, XML, and RSS feed.",
+	"modifiedDate": "2022-08-18T11:49:24.541Z",
+	"runCount": 187
+}

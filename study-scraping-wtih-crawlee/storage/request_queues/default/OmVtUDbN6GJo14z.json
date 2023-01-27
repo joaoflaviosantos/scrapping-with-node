@@ -1,0 +1,9 @@
+{
+	"id": "OmVtUDbN6GJo14z",
+	"json": "{\"id\":\"OmVtUDbN6GJo14z\",\"url\":\"https://apify.com/pocesar/google-search-by-image\",\"loadedUrl\":\"https://apify.com/pocesar/google-search-by-image\",\"uniqueKey\":\"https://apify.com/pocesar/google-search-by-image\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:39.450Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/pocesar/google-search-by-image",
+	"url": "https://apify.com/pocesar/google-search-by-image"
+}

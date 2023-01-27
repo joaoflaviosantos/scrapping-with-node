@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/medh/ASINs-Extractor",
+	"uniqueIdentifier": "medh/ASINs-Extractor",
+	"owner": "medh",
+	"title": "ASINs Extractor",
+	"description": "This actor allows you to extract ASINs from an Amazon input URL.",
+	"modifiedDate": "2022-08-02T22:59:51.015Z",
+	"runCount": 285
+}

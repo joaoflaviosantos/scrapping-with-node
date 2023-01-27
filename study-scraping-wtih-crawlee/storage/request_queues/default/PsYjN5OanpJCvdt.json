@@ -1,0 +1,9 @@
+{
+	"id": "PsYjN5OanpJCvdt",
+	"json": "{\"id\":\"PsYjN5OanpJCvdt\",\"url\":\"https://apify.com/spidoosho/notion-org-chart-generator\",\"loadedUrl\":\"https://apify.com/spidoosho/notion-org-chart-generator\",\"uniqueKey\":\"https://apify.com/spidoosho/notion-org-chart-generator\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:29.643Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/spidoosho/notion-org-chart-generator",
+	"url": "https://apify.com/spidoosho/notion-org-chart-generator"
+}

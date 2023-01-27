@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/booking-hotels",
+	"uniqueIdentifier": "jupri/booking-hotels",
+	"owner": "jupri",
+	"title": "Booking.com Extractor",
+	"description": "Scrape hotel prices data from Booking.com website.",
+	"modifiedDate": "2022-12-02T13:54:54.947Z",
+	"runCount": 1109
+}

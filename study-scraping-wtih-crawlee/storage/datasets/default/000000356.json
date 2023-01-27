@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/royal-design-studio-stencils-scraper",
+	"uniqueIdentifier": "mshopik/royal-design-studio-stencils-scraper",
+	"owner": "mshopik",
+	"title": "Royal Design Studio Stencils Scraper",
+	"description": "Scrape Royal Design Studio Stencils and extract data on home and interior decor from royaldesignstudio.com. Our Royal Design Studio Stencils API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:11:05.744Z",
+	"runCount": 425
+}

@@ -1,0 +1,9 @@
+{
+	"id": "CbwHH1uoAWp8tAq",
+	"json": "{\"id\":\"CbwHH1uoAWp8tAq\",\"url\":\"https://apify.com/apify/scrapy-executor\",\"loadedUrl\":\"https://apify.com/apify/scrapy-executor\",\"uniqueKey\":\"https://apify.com/apify/scrapy-executor\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:48.484Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/apify/scrapy-executor",
+	"url": "https://apify.com/apify/scrapy-executor"
+}

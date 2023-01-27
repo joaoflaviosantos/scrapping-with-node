@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mcdowell/home-depot",
+	"uniqueIdentifier": "mcdowell/home-depot",
+	"owner": "mcdowell",
+	"title": "Home Depot Scraper",
+	"description": "Scrape data from Home Depot - the largest home improvement retailer in the United States. Scrape products based on search query or category and extract information such as price, description and reviews. Export accumulated data into HTML, JSON, CSV, Excel, or XML formats.",
+	"modifiedDate": "2023-01-03T12:06:21.944Z",
+	"runCount": 73
+}

@@ -1,0 +1,9 @@
+{
+	"id": "FfM0svIDb3UTTL2",
+	"json": "{\"id\":\"FfM0svIDb3UTTL2\",\"url\":\"https://apify.com/big-brain.io/upwork-application\",\"loadedUrl\":\"https://apify.com/big-brain.io/upwork-application\",\"uniqueKey\":\"https://apify.com/big-brain.io/upwork-application\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:42.593Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/big-brain.io/upwork-application",
+	"url": "https://apify.com/big-brain.io/upwork-application"
+}

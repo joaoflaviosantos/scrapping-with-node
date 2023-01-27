@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/knix-scraper",
+	"uniqueIdentifier": "mshopik/knix-scraper",
+	"owner": "mshopik",
+	"title": "Knix Scraper",
+	"description": "Scrape Knix and extract data on women's clothing from knix.com. Our Knix API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:18:29.730Z",
+	"runCount": 426
+}

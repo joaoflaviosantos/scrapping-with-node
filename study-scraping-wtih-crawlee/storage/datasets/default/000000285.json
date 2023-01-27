@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/casper11515/trustpilot-reviews-scraper",
+	"uniqueIdentifier": "casper11515/trustpilot-reviews-scraper",
+	"owner": "casper11515",
+	"title": "Trustpilot reviews scraper",
+	"description": "Easily filter and extract thousands of reviews with data such as title, description, score, reviewer, country, company response, and much more from companies on Trustpilot.com and download them to multiple file formats.",
+	"modifiedDate": "2023-01-15T19:05:57.978Z",
+	"runCount": 504
+}

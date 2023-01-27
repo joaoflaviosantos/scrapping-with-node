@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/apartments-scraper",
+	"uniqueIdentifier": "epctex/apartments-scraper",
+	"owner": "epctex",
+	"title": "Apartments.com Scraper 🏡",
+	"description": "Scrape Apartments.com to crawl millions of real estate properties nationwide. Specify any US location and extract data on all available properties in that area. Our real estate scraper lets you filter and limit the results by page or total number. You can also target a specific property or area.",
+	"modifiedDate": "2023-01-25T02:01:31.572Z",
+	"runCount": 19207
+}

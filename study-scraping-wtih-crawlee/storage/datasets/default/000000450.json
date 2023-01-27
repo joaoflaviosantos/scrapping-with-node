@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/hulkapps-scraper",
+	"uniqueIdentifier": "mshopik/hulkapps-scraper",
+	"owner": "mshopik",
+	"title": "HulkApps Scraper",
+	"description": "Scrape HulkApps and extract data on  from hulkapps.com. Our HulkApps API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:32:12.761Z",
+	"runCount": 425
+}

@@ -1,0 +1,9 @@
+{
+	"id": "5QqK0M1ZoXXK76E",
+	"json": "{\"id\":\"5QqK0M1ZoXXK76E\",\"url\":\"https://apify.com/lukass/breitbart-scraper\",\"loadedUrl\":\"https://apify.com/lukass/breitbart-scraper\",\"uniqueKey\":\"https://apify.com/lukass/breitbart-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:01.339Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/lukass/breitbart-scraper",
+	"url": "https://apify.com/lukass/breitbart-scraper"
+}

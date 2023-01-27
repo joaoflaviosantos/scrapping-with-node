@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/dnb-scraper",
+	"uniqueIdentifier": "epctex/dnb-scraper",
+	"owner": "epctex",
+	"title": "Dun & Bradstreet Scraper",
+	"description": "Scrape data from the Dun & Bradstreet commercial database. Crawl and extract company information, insights, financial projections, industry snapshots, and much more. Scrape the huge D&B Data Cloud, Business Directory, articles, companies, and industries by search term.",
+	"modifiedDate": "2023-01-25T02:02:12.857Z",
+	"runCount": 26941
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/mcgee-and-co-scraper",
+	"uniqueIdentifier": "mshopik/mcgee-and-co-scraper",
+	"owner": "mshopik",
+	"title": "McGee Co. Scraper",
+	"description": "Scrape McGee Co. and extract data on home and interior decor from mcgeeandco.com. Our McGee Co. API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:14:12.017Z",
+	"runCount": 425
+}

@@ -1,0 +1,9 @@
+{
+	"id": "NbzlWV2DL0les6A",
+	"json": "{\"id\":\"NbzlWV2DL0les6A\",\"url\":\"https://apify.com/monkey/realtorcomlight\",\"loadedUrl\":\"https://apify.com/monkey/realtorcomlight\",\"uniqueKey\":\"https://apify.com/monkey/realtorcomlight\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:50.245Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/monkey/realtorcomlight",
+	"url": "https://apify.com/monkey/realtorcomlight"
+}

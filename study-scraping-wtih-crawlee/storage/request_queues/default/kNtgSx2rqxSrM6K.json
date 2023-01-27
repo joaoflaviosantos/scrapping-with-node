@@ -1,0 +1,9 @@
+{
+	"id": "kNtgSx2rqxSrM6K",
+	"json": "{\"id\":\"kNtgSx2rqxSrM6K\",\"url\":\"https://apify.com/cyberfly/covid-pk\",\"loadedUrl\":\"https://apify.com/cyberfly/covid-pk\",\"uniqueKey\":\"https://apify.com/cyberfly/covid-pk\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:56.474Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/cyberfly/covid-pk",
+	"url": "https://apify.com/cyberfly/covid-pk"
+}

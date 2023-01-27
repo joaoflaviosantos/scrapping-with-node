@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/clockworks/free-tiktok-scraper",
+	"uniqueIdentifier": "clockworks/free-tiktok-scraper",
+	"owner": "clockworks",
+	"title": "Free TikTok Scraper",
+	"description": "This free version of TikTok Scraper will get you up to 20 videos and 5 comments per run. Use it to extract data about videos, users, and channels based on hashtags or scrape full user profiles including posts, total likes, name, nickname, numbers of comments, shares, followers, following, and more.",
+	"modifiedDate": "2022-12-22T13:35:38.958Z",
+	"runCount": 212849
+}

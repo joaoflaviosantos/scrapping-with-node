@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/trudax/free-reddit-scraper",
+	"uniqueIdentifier": "trudax/free-reddit-scraper",
+	"owner": "trudax",
+	"title": "Free Reddit Scraper",
+	"description": "Free Reddit web scraper to crawl posts, comments, communities, and users without login. Limit web scraping by number of posts or items and extract all data in a dataset in multiple formats.",
+	"modifiedDate": "2022-12-12T12:24:07.433Z",
+	"runCount": 10492
+}

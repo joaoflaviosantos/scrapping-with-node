@@ -1,0 +1,9 @@
+{
+	"id": "NgtN7flX2K1qWnt",
+	"json": "{\"id\":\"NgtN7flX2K1qWnt\",\"url\":\"https://apify.com/junglee/amazon-reviews-scraper\",\"loadedUrl\":\"https://apify.com/junglee/amazon-reviews-scraper\",\"uniqueKey\":\"https://apify.com/junglee/amazon-reviews-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:47:55.150Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/junglee/amazon-reviews-scraper",
+	"url": "https://apify.com/junglee/amazon-reviews-scraper"
+}

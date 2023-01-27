@@ -1,0 +1,9 @@
+{
+	"id": "YiZaDlo4MTflCbf",
+	"json": "{\"id\":\"YiZaDlo4MTflCbf\",\"url\":\"https://apify.com/strajk/cyklobazar-cyklobazar-cz-scraper-rss\",\"loadedUrl\":\"https://apify.com/strajk/cyklobazar-cyklobazar-cz-scraper-rss\",\"uniqueKey\":\"https://apify.com/strajk/cyklobazar-cyklobazar-cz-scraper-rss\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:48.774Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/strajk/cyklobazar-cyklobazar-cz-scraper-rss",
+	"url": "https://apify.com/strajk/cyklobazar-cyklobazar-cz-scraper-rss"
+}

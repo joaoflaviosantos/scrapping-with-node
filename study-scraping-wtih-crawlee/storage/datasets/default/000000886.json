@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jakubbalada/html-renderer",
+	"uniqueIdentifier": "jakubbalada/html-renderer",
+	"owner": "jakubbalada",
+	"title": "Html Renderer",
+	"description": "Generate image for your HTML using a headless browser",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 17
+}

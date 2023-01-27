@@ -1,0 +1,9 @@
+{
+	"id": "Rc4AlzXGo07mc6c",
+	"json": "{\"id\":\"Rc4AlzXGo07mc6c\",\"url\":\"https://apify.com/katerinahronik/slack-message\",\"loadedUrl\":\"https://apify.com/katerinahronik/slack-message\",\"uniqueKey\":\"https://apify.com/katerinahronik/slack-message\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:40.099Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/katerinahronik/slack-message",
+	"url": "https://apify.com/katerinahronik/slack-message"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "JNwj9z5HJNl5FDE",
+	"json": "{\"id\":\"JNwj9z5HJNl5FDE\",\"url\":\"https://apify.com/apify/monitoring-teardown\",\"loadedUrl\":\"https://apify.com/apify/monitoring-teardown\",\"uniqueKey\":\"https://apify.com/apify/monitoring-teardown\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:11.986Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/apify/monitoring-teardown",
+	"url": "https://apify.com/apify/monitoring-teardown"
+}

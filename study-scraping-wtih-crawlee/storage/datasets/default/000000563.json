@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lhotanok/github-issues-to-slack",
+	"uniqueIdentifier": "lhotanok/github-issues-to-slack",
+	"owner": "lhotanok",
+	"title": "GitHub Issues to Slack",
+	"description": "Monitors GitHub issues and sends Slack notifications about their modification. Tracks changes in issue's state such as newly opened issue, closed issue or re-opened issue. Saves data with all scraped issues into key value store.",
+	"modifiedDate": "2022-01-22T23:54:10.687Z",
+	"runCount": 8091
+}

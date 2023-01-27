@@ -1,0 +1,9 @@
+{
+	"id": "DJNeiQTtTGqHgRX",
+	"json": "{\"id\":\"DJNeiQTtTGqHgRX\",\"url\":\"https://apify.com/nguyennk91/cainiao-tracking-actor\",\"loadedUrl\":\"https://apify.com/nguyennk91/cainiao-tracking-actor\",\"uniqueKey\":\"https://apify.com/nguyennk91/cainiao-tracking-actor\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:15.307Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/nguyennk91/cainiao-tracking-actor",
+	"url": "https://apify.com/nguyennk91/cainiao-tracking-actor"
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/beachsissi-scraper",
+	"uniqueIdentifier": "mshopik/beachsissi-scraper",
+	"owner": "mshopik",
+	"title": "Beachsissi beachsissi Scraper",
+	"description": "Scrape Beachsissi beachsissi and extract data on swimwear from beachsissi.com. Our Beachsissi beachsissi API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:54:02.897Z",
+	"runCount": 425
+}

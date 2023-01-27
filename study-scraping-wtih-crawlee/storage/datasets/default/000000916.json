@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukaskrivka/resurrect-on-out-of-memory",
+	"uniqueIdentifier": "lukaskrivka/resurrect-on-out-of-memory",
+	"owner": "lukaskrivka",
+	"title": "Resurrect run on Out of memory",
+	"description": "Simple helper actor to resurrect your runs when they run out of memory.",
+	"modifiedDate": "2022-04-05T23:22:13.273Z",
+	"runCount": 76
+}

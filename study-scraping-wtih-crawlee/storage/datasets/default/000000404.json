@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/trudax/actor-macys-scraper",
+	"uniqueIdentifier": "trudax/actor-macys-scraper",
+	"owner": "trudax",
+	"title": "Macy's Scraper",
+	"description": "Macy's web scraper to crawl product information including price and sale price, color, and images. Extract all data in a dataset in structured formats.",
+	"modifiedDate": "2023-01-23T20:09:30.553Z",
+	"runCount": 1073
+}

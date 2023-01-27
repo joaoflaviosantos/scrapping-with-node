@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/glosterr/soccerstats-scraper",
+	"uniqueIdentifier": "glosterr/soccerstats-scraper",
+	"owner": "glosterr",
+	"title": "SoccerSTATS.com Scraper",
+	"description": "Actor to get football data from popular football leagues for 2021-2022 and 2020-2021 seasons. Soccer data includes matchweeks, tables, and schedules from 15+ European football leagues.",
+	"modifiedDate": "2021-12-22T07:58:52.936Z",
+	"runCount": 793
+}

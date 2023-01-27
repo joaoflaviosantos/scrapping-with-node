@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/sister-jane-japan-scraper",
+	"uniqueIdentifier": "mshopik/sister-jane-japan-scraper",
+	"owner": "mshopik",
+	"title": "Sister Jane Japan Scraper",
+	"description": "Scrape Sister Jane Japan and extract data on women's clothing from sisterjane.com. Our Sister Jane Japan API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:32:34.842Z",
+	"runCount": 425
+}

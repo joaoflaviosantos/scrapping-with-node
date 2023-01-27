@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/hynekhruska/indeed-scraper",
+	"uniqueIdentifier": "hynekhruska/indeed-scraper",
+	"owner": "hynekhruska",
+	"title": "Indeed Scraper",
+	"description": "Scrape jobs posted on Indeed. Get detailed information from this job portal about saved and sponsored jobs. Specify the search based on location with the output attributes position, location, and description.",
+	"modifiedDate": "2023-01-18T08:21:41.533Z",
+	"runCount": 110047
+}

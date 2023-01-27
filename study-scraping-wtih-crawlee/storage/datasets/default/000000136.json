@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/scrapy-executor",
+	"uniqueIdentifier": "apify/scrapy-executor",
+	"owner": "apify",
+	"title": "Scrapy Executor",
+	"description": "Run Scrapy spiders written in Python on the Apify platform.",
+	"modifiedDate": "2022-10-18T18:06:28.233Z",
+	"runCount": 13948
+}

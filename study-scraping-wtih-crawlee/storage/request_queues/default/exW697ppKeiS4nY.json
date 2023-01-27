@@ -1,0 +1,9 @@
+{
+	"id": "exW697ppKeiS4nY",
+	"json": "{\"id\":\"exW697ppKeiS4nY\",\"url\":\"https://apify.com/mtrunkatova/politico-scraper\",\"loadedUrl\":\"https://apify.com/mtrunkatova/politico-scraper\",\"uniqueKey\":\"https://apify.com/mtrunkatova/politico-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:55.530Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mtrunkatova/politico-scraper",
+	"url": "https://apify.com/mtrunkatova/politico-scraper"
+}

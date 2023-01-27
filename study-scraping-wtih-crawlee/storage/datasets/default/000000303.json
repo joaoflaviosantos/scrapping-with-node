@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/ryanair-scraper",
+	"uniqueIdentifier": "epctex/ryanair-scraper",
+	"owner": "epctex",
+	"title": "Ryanair Scraper",
+	"description": "Scrape flights from Ryanair. Crawl and extract flights, prices, availability, and more. Creates a Ryanair API to let you scrape based on round trip, one way trip, and passenger management (adults, teens, children, infants) options.",
+	"modifiedDate": "2023-01-25T02:01:40.675Z",
+	"runCount": 39831
+}

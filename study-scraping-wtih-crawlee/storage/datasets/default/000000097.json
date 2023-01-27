@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/summersalt-scraper",
+	"uniqueIdentifier": "mshopik/summersalt-scraper",
+	"owner": "mshopik",
+	"title": "Summersalt Scraper",
+	"description": "Scrape Summersalt and extract data on swimwear from summersalt.com. Our Summersalt API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:42:34.472Z",
+	"runCount": 425
+}

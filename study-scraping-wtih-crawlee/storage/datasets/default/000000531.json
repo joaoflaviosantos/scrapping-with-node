@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/solestage-scraper",
+	"uniqueIdentifier": "mshopik/solestage-scraper",
+	"owner": "mshopik",
+	"title": "Solestage Solestage Scraper",
+	"description": "Scrape Solestage Solestage and extract data on footwear from solestage.com. Our Solestage Solestage API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:01:26.322Z",
+	"runCount": 426
+}

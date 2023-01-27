@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/francfranc-scraper",
+	"uniqueIdentifier": "mshopik/francfranc-scraper",
+	"owner": "mshopik",
+	"title": "Francfranc（フランフラン）公式通販 Scraper",
+	"description": "Scrape Francfranc（フランフラン）公式通販 and extract data on home furnishings from francfranc.com. Our Francfranc（フランフラン）公式通販 API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:56:18.228Z",
+	"runCount": 420
+}

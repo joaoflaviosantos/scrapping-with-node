@@ -1,0 +1,9 @@
+{
+	"id": "I1zjXKC06VY1aOy",
+	"json": "{\"id\":\"I1zjXKC06VY1aOy\",\"url\":\"https://apify.com/mshopik/frankies-bikinis-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/frankies-bikinis-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/frankies-bikinis-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:50:58.293Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/frankies-bikinis-scraper",
+	"url": "https://apify.com/mshopik/frankies-bikinis-scraper"
+}

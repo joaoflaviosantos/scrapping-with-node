@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/advisable_rain/uber-eats-menu-scraper",
+	"uniqueIdentifier": "advisable_rain/uber-eats-menu-scraper",
+	"owner": "advisable_rain",
+	"title": "Uber Eats Menu Scraper",
+	"description": "Extracts menu items from any Uber Eats store.",
+	"modifiedDate": "2022-12-01T09:06:37.238Z",
+	"runCount": 81
+}

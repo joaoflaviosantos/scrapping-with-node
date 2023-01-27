@@ -1,0 +1,9 @@
+{
+	"id": "RCVNN04QGcHr2Ph",
+	"json": "{\"id\":\"RCVNN04QGcHr2Ph\",\"url\":\"https://apify.com/mtrunkatova/newsweek-scraper\",\"loadedUrl\":\"https://apify.com/mtrunkatova/newsweek-scraper\",\"uniqueKey\":\"https://apify.com/mtrunkatova/newsweek-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:50.874Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mtrunkatova/newsweek-scraper",
+	"url": "https://apify.com/mtrunkatova/newsweek-scraper"
+}

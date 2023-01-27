@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/mikes-bikes-scraper",
+	"uniqueIdentifier": "mshopik/mikes-bikes-scraper",
+	"owner": "mshopik",
+	"title": "Mike's Bikes Scraper",
+	"description": "Scrape Mike's Bikes and extract data on cycling from mikesbikes.com. Our Mike's Bikes API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:44:43.117Z",
+	"runCount": 426
+}

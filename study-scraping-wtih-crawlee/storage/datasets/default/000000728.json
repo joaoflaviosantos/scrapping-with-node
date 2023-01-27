@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/neighborhood-scraper",
+	"uniqueIdentifier": "mshopik/neighborhood-scraper",
+	"owner": "mshopik",
+	"title": "NEIGHBORHOOD Scraper",
+	"description": "Scrape NEIGHBORHOOD and extract data on apparel from neighborhood.jp. Our NEIGHBORHOOD API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:18:11.394Z",
+	"runCount": 426
+}

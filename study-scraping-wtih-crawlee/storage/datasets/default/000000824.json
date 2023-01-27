@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/hamza.alwan/google-translator",
+	"uniqueIdentifier": "hamza.alwan/google-translator",
+	"owner": "hamza.alwan",
+	"title": "Google Translator",
+	"description": "Translate any text to any of the supported languages using google.translate.com",
+	"modifiedDate": "2023-01-04T08:55:53.209Z",
+	"runCount": 41
+}

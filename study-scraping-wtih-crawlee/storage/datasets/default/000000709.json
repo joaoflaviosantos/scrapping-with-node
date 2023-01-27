@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/tiktok-hashtag-scraper",
+	"uniqueIdentifier": "epctex/tiktok-hashtag-scraper",
+	"owner": "epctex",
+	"title": "Tiktok Hashtag Scraper",
+	"description": "Extract data from TikTok with our advanced scraper. Scrape videos, hashtags, posts, URLs, numbers of shares, followers, hearts, names, video, and music-related data and download it in various formats including HTML, JSON, CSV, Excel, or XML.",
+	"modifiedDate": "2023-01-02T10:26:48.308Z",
+	"runCount": 52
+}

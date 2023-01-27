@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/yuri/Icon-burglar",
+	"uniqueIdentifier": "yuri/Icon-burglar",
+	"owner": "yuri",
+	"title": "Icon Burglar",
+	"description": "This act takes the URLs prepared by a crawler and downloads the images to finally zip them",
+	"modifiedDate": "2022-06-20T13:56:00.419Z",
+	"runCount": 68
+}

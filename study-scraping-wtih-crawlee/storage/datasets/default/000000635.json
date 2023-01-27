@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukaskrivka/rust-actor-example",
+	"uniqueIdentifier": "lukaskrivka/rust-actor-example",
+	"owner": "lukaskrivka",
+	"title": "Actor in Rust Example",
+	"description": "Example actor built in Rust programming language. Downloads HTML from any page. Works on Apify platform and locally.",
+	"modifiedDate": "2021-12-16T23:25:04.763Z",
+	"runCount": 434
+}

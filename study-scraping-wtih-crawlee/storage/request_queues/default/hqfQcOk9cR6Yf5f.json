@@ -1,0 +1,9 @@
+{
+	"id": "hqfQcOk9cR6Yf5f",
+	"json": "{\"id\":\"hqfQcOk9cR6Yf5f\",\"url\":\"https://apify.com/mnmkng/abort-actor-runs\",\"loadedUrl\":\"https://apify.com/mnmkng/abort-actor-runs\",\"uniqueKey\":\"https://apify.com/mnmkng/abort-actor-runs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:33.631Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mnmkng/abort-actor-runs",
+	"url": "https://apify.com/mnmkng/abort-actor-runs"
+}

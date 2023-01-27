@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/dania-furniture-scraper",
+	"uniqueIdentifier": "mshopik/dania-furniture-scraper",
+	"owner": "mshopik",
+	"title": "Dania Furniture Scraper",
+	"description": "Scrape Dania Furniture and extract data on home furnishings from daniafurniture.com. Our Dania Furniture API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:04:24.415Z",
+	"runCount": 566
+}

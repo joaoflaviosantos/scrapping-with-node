@@ -1,0 +1,9 @@
+{
+	"id": "FbxSwBM4TzZXZzN",
+	"json": "{\"id\":\"FbxSwBM4TzZXZzN\",\"url\":\"https://apify.com/mshopik/the-chivery-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/the-chivery-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/the-chivery-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:31.726Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/the-chivery-scraper",
+	"url": "https://apify.com/mshopik/the-chivery-scraper"
+}

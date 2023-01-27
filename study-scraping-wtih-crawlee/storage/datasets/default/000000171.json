@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/wwwmodishstorecom-scraper",
+	"uniqueIdentifier": "mshopik/wwwmodishstorecom-scraper",
+	"owner": "mshopik",
+	"title": "www.modishstore.com Scraper",
+	"description": "Scrape www.modishstore.com and extract data on home furnishings from modishstore.com. Our www.modishstore.com API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:05:39.060Z",
+	"runCount": 426
+}

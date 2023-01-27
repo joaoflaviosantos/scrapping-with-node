@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/vojtam/screenshots-from-html",
+	"uniqueIdentifier": "vojtam/screenshots-from-html",
+	"owner": "vojtam",
+	"title": "Screenshots from HTML",
+	"description": "Actor creates screenshots from a saved HTML structure.",
+	"modifiedDate": "2022-10-13T18:50:10.213Z",
+	"runCount": 104
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/anchor/LinkedIn-company-url-finder",
+	"uniqueIdentifier": "anchor/LinkedIn-company-url-finder",
+	"owner": "anchor",
+	"title": "LinkedIn Company URL Finder",
+	"description": "LinkedIn Company URL Finder extracts the URLs of LinkedIn company pages. Just feed it a list of company names, and you get a list of their LinkedIn URLs.",
+	"modifiedDate": "2023-01-20T07:45:17.206Z",
+	"runCount": 1365
+}

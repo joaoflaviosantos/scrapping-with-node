@@ -1,0 +1,9 @@
+{
+	"id": "LyRQwTkp8S86vQU",
+	"json": "{\"id\":\"LyRQwTkp8S86vQU\",\"url\":\"https://apify.com/mshopik/incasecom-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/incasecom-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/incasecom-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:25.875Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/incasecom-scraper",
+	"url": "https://apify.com/mshopik/incasecom-scraper"
+}

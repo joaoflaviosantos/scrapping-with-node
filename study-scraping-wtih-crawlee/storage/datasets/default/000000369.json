@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/jlab-audio-scraper",
+	"uniqueIdentifier": "mshopik/jlab-audio-scraper",
+	"owner": "mshopik",
+	"title": "JLab Audio Scraper",
+	"description": "Scrape JLab Audio and extract data on audio equipment from jlabaudio.com. Our JLab Audio API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:00:34.056Z",
+	"runCount": 424
+}

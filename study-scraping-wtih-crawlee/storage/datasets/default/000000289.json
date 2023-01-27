@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/juansgaitan/link-extractor",
+	"uniqueIdentifier": "juansgaitan/link-extractor",
+	"owner": "juansgaitan",
+	"title": "Link Extractor",
+	"description": "Extract links from an Array of different paths/users parsed with a baseUrl and a pageFunction.",
+	"modifiedDate": "2022-10-10T09:04:41.413Z",
+	"runCount": 751
+}

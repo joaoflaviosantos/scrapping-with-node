@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/onidivo/trulia-scraper",
+	"uniqueIdentifier": "onidivo/trulia-scraper",
+	"owner": "onidivo",
+	"title": "Trulia Scraper",
+	"description": "Crawl the Trulia real estate listings site and extract data about homes for sale. Scrape home details for multiple search locations (City, Neighborhood, Zip, and County) and various search criteria and filters. Download and use the data whatever way you want.",
+	"modifiedDate": "2022-04-11T14:42:30.476Z",
+	"runCount": 589
+}

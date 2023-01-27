@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/petr_cermak/yellow-pages-scraper",
+	"uniqueIdentifier": "petr_cermak/yellow-pages-scraper",
+	"owner": "petr_cermak",
+	"title": "Yellow Pages Scraper",
+	"description": "Scrape addresses, phone numbers, categories, and names from Yellow Page listings. Customizable Yellow Pages API to crawl and download all contact data.",
+	"modifiedDate": "2022-08-12T07:52:08.522Z",
+	"runCount": 27513
+}

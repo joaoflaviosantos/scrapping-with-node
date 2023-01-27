@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/anchor/email-phone-extractor",
+	"uniqueIdentifier": "anchor/email-phone-extractor",
+	"owner": "anchor",
+	"title": "Email ✉️  & Phone ☎️ Extractor",
+	"description": "Extract emails, phone numbers, and other useful contact information from any list of websites you provide. Lets you specify URL patterns for your bot to follow. Export your data in structured formats and use it anywhere.",
+	"modifiedDate": "2022-12-07T22:14:05.068Z",
+	"runCount": 29744
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/4patriots-scraper",
+	"uniqueIdentifier": "mshopik/4patriots-scraper",
+	"owner": "mshopik",
+	"title": "4Patriots Scraper",
+	"description": "Scrape 4Patriots and extract data on computers from 4patriots.com. Our 4Patriots API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:52:46.599Z",
+	"runCount": 426
+}

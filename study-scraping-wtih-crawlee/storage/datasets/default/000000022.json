@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/yin/yelp-scraper",
+	"uniqueIdentifier": "yin/yelp-scraper",
+	"owner": "yin",
+	"title": "Yelp Scraper",
+	"description": "Free Yelp web scraper to extract data from Yelp. Fast Yelp review scraper, but also gets business details and ratings without using the Yelp API.",
+	"modifiedDate": "2023-01-16T10:34:24.315Z",
+	"runCount": 61688
+}

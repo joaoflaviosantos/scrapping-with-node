@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/inkboxtm-scraper",
+	"uniqueIdentifier": "mshopik/inkboxtm-scraper",
+	"owner": "mshopik",
+	"title": "Inkbox™ Scraper",
+	"description": "Scrape Inkbox™ and extract data on body art from inkbox.com. Our Inkbox™ API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:41:49.622Z",
+	"runCount": 426
+}

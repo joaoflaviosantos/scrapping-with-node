@@ -1,0 +1,9 @@
+{
+	"id": "Qk3TpgOKYolIMvO",
+	"json": "{\"id\":\"Qk3TpgOKYolIMvO\",\"url\":\"https://apify.com/mshopik/cosmetics-by-kylie-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/cosmetics-by-kylie-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/cosmetics-by-kylie-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:14.658Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/cosmetics-by-kylie-scraper",
+	"url": "https://apify.com/mshopik/cosmetics-by-kylie-scraper"
+}

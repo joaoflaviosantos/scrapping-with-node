@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/autofacts/farfetch",
+	"uniqueIdentifier": "autofacts/farfetch",
+	"owner": "autofacts",
+	"title": "Farfetch Scraper",
+	"description": "Farfetch web scraper to crawl product information including price and sale price, color, and images.",
+	"modifiedDate": "2023-01-21T14:52:37.505Z",
+	"runCount": 264
+}

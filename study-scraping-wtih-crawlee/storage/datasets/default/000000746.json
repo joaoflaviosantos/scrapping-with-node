@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/lumin-scraper",
+	"uniqueIdentifier": "mshopik/lumin-scraper",
+	"owner": "mshopik",
+	"title": "Lumin Scraper",
+	"description": "Scrape Lumin and extract data on skin and nail care from luminskin.com. Our Lumin API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:37:39.384Z",
+	"runCount": 434
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/i-saw-it-first-scraper",
+	"uniqueIdentifier": "mshopik/i-saw-it-first-scraper",
+	"owner": "mshopik",
+	"title": "SAW IT FIRST Scraper",
+	"description": "Scrape SAW IT FIRST and extract data on women's clothing from isawitfirst.com. Our SAW IT FIRST API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:40:33.492Z",
+	"runCount": 426
+}

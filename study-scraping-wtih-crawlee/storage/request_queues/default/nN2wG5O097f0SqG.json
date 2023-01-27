@@ -1,0 +1,9 @@
+{
+	"id": "nN2wG5O097f0SqG",
+	"json": "{\"id\":\"nN2wG5O097f0SqG\",\"url\":\"https://apify.com/mtrunkat/xmls-to-dataset\",\"loadedUrl\":\"https://apify.com/mtrunkat/xmls-to-dataset\",\"uniqueKey\":\"https://apify.com/mtrunkat/xmls-to-dataset\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:35.040Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mtrunkat/xmls-to-dataset",
+	"url": "https://apify.com/mtrunkat/xmls-to-dataset"
+}

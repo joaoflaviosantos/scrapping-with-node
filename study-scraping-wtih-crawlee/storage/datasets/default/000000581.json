@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/completed_ocarina/twitch-search-scraper",
+	"uniqueIdentifier": "completed_ocarina/twitch-search-scraper",
+	"owner": "completed_ocarina",
+	"title": "Twitch Video Search Scraper",
+	"description": "Search twitch.tv for streams and scrape their details",
+	"modifiedDate": "2022-09-03T00:04:43.110Z",
+	"runCount": 271
+}

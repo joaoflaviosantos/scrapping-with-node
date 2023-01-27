@@ -1,0 +1,9 @@
+{
+	"id": "ahl7XcEojmtlJZv",
+	"json": "{\"id\":\"ahl7XcEojmtlJZv\",\"url\":\"https://apify.com/jirimoravcik/go-actor-example\",\"loadedUrl\":\"https://apify.com/jirimoravcik/go-actor-example\",\"uniqueKey\":\"https://apify.com/jirimoravcik/go-actor-example\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:56.137Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/jirimoravcik/go-actor-example",
+	"url": "https://apify.com/jirimoravcik/go-actor-example"
+}

@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/cyberfly/DuckDuckGo",
+	"uniqueIdentifier": "cyberfly/DuckDuckGo",
+	"owner": "cyberfly",
+	"title": "DuckDuckGo",
+	"description": "Collect all search results and save them to default dataset and key-value store. Actor run takes only a few seconds to collect all results - synchronous run is recommended.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 254328
+}

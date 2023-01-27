@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dtrungtin/aliexpress-price-scraper",
+	"uniqueIdentifier": "dtrungtin/aliexpress-price-scraper",
+	"owner": "dtrungtin",
+	"title": "AliExpress Price Scraper",
+	"description": "AliExpress Price scraper will enable you to extracting prices of the products from www.aliexpress.com.",
+	"modifiedDate": "2022-08-16T17:38:38.573Z",
+	"runCount": 215
+}

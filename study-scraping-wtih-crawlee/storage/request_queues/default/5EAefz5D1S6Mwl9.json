@@ -1,0 +1,9 @@
+{
+	"id": "5EAefz5D1S6Mwl9",
+	"json": "{\"id\":\"5EAefz5D1S6Mwl9\",\"url\":\"https://apify.com/tomas_jindra/flashscore-scraper\",\"loadedUrl\":\"https://apify.com/tomas_jindra/flashscore-scraper\",\"uniqueKey\":\"https://apify.com/tomas_jindra/flashscore-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:08.001Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/tomas_jindra/flashscore-scraper",
+	"url": "https://apify.com/tomas_jindra/flashscore-scraper"
+}

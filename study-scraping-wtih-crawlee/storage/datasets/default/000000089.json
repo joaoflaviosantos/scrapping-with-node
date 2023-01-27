@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/clutchco-scraper",
+	"uniqueIdentifier": "epctex/clutchco-scraper",
+	"owner": "epctex",
+	"title": "Clutch.co Scraper",
+	"description": "Scrape data from the Clutch.co commercial database. Crawl and extract company information, company focus with numeric values, extended real client reviews, portfolio and much more. Scrape the huge Clutch.co companies and top company listings by any search term.",
+	"modifiedDate": "2023-01-25T02:01:35.614Z",
+	"runCount": 3360
+}

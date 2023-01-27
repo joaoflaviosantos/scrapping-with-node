@@ -1,0 +1,9 @@
+{
+	"id": "E8ez2srO8uCcFjU",
+	"json": "{\"id\":\"E8ez2srO8uCcFjU\",\"url\":\"https://www.cec.com.br\",\"loadedUrl\":\"https://www.cec.com.br/\",\"uniqueKey\":\"https://www.cec.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:31:55.189Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.cec.com.br",
+	"url": "https://www.cec.com.br"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Odr8K34RDSn4RwY",
+	"json": "{\"id\":\"Odr8K34RDSn4RwY\",\"url\":\"https://apify.com/drobnikj/keboola-input-mapping\",\"loadedUrl\":\"https://apify.com/drobnikj/keboola-input-mapping\",\"uniqueKey\":\"https://apify.com/drobnikj/keboola-input-mapping\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:58.369Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/drobnikj/keboola-input-mapping",
+	"url": "https://apify.com/drobnikj/keboola-input-mapping"
+}

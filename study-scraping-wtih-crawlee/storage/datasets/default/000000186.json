@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/inh-hair-scraper",
+	"uniqueIdentifier": "mshopik/inh-hair-scraper",
+	"owner": "mshopik",
+	"title": "INH Hair Scraper",
+	"description": "Scrape INH Hair and extract data on hair care from inhhair.com. Our INH Hair API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:03:31.358Z",
+	"runCount": 427
+}

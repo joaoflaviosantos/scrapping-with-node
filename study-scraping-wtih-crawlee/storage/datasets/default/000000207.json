@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/necessaire-scraper",
+	"uniqueIdentifier": "mshopik/necessaire-scraper",
+	"owner": "mshopik",
+	"title": "Nécessaire Scraper",
+	"description": "Scrape Nécessaire and extract data on health from necessaire.com. Our Nécessaire API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:20:33.528Z",
+	"runCount": 426
+}

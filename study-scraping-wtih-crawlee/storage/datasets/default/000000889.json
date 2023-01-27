@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/katerinahronik/covid-china",
+	"uniqueIdentifier": "katerinahronik/covid-china",
+	"owner": "katerinahronik",
+	"title": "Coronavirus stats in China",
+	"description": "Gets the statistics of the actual number of current confirmed, confirmed, suspected, cured and deceased people by COVID-19 in China from https://github.com/BlankerL/DXY-COVID-19-Data/blob/master/json/DXYOverall.json.",
+	"modifiedDate": "2021-04-12T09:29:42.019Z",
+	"runCount": 119156
+}

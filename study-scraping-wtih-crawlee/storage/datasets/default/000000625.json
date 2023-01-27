@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/cupshe-scraper",
+	"uniqueIdentifier": "mshopik/cupshe-scraper",
+	"owner": "mshopik",
+	"title": "Cupshe Scraper",
+	"description": "Scrape Cupshe and extract data on swimwear from cupshe.com. Our Cupshe API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:30:56.673Z",
+	"runCount": 427
+}

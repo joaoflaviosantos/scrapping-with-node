@@ -1,0 +1,9 @@
+{
+	"id": "846aMkSaVAJb8Xd",
+	"json": "{\"id\":\"846aMkSaVAJb8Xd\",\"url\":\"https://apify.com/vojtam/espn\",\"loadedUrl\":\"https://apify.com/vojtam/espn\",\"uniqueKey\":\"https://apify.com/vojtam/espn\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:38.496Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/vojtam/espn",
+	"url": "https://apify.com/vojtam/espn"
+}

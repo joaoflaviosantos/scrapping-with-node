@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dtrungtin/saksfifthavenue-scraper",
+	"uniqueIdentifier": "dtrungtin/saksfifthavenue-scraper",
+	"owner": "dtrungtin",
+	"title": "Saksfifthavenue Scraper",
+	"description": "Extracts all the products from https://www.saksfifthavenue.com/",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 549
+}

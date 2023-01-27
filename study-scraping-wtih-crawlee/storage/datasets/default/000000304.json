@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/pocesar/json-ld-schema",
+	"uniqueIdentifier": "pocesar/json-ld-schema",
+	"owner": "pocesar",
+	"title": "LD+JSON Schema scraper",
+	"description": "Extract all LD+JSON tags from the given URLs.",
+	"modifiedDate": "2022-02-04T05:44:03.640Z",
+	"runCount": 609
+}

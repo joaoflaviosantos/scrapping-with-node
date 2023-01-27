@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/inutil_labs/wscrp-free",
+	"uniqueIdentifier": "inutil_labs/wscrp-free",
+	"owner": "inutil_labs",
+	"title": "Whatsapp Scraper (Free)",
+	"description": "Scrape the Whatsapp network and fetch profile info of any user, including: Profile picture, About status, or check if it's a Whatsapp for Business or personal account.",
+	"modifiedDate": "2023-01-23T17:10:45.304Z",
+	"runCount": 525
+}

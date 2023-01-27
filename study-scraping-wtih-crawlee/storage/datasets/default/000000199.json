@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/lisa-says-gah-scraper",
+	"uniqueIdentifier": "mshopik/lisa-says-gah-scraper",
+	"owner": "mshopik",
+	"title": "Lisa Says Gah Scraper",
+	"description": "Scrape Lisa Says Gah and extract data on women's clothing from lisasaysgah.com. Our Lisa Says Gah API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:56:53.125Z",
+	"runCount": 425
+}

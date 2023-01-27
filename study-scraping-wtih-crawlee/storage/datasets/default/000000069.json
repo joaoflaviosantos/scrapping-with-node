@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/pocesar/facebook-latest-comments-scraper",
+	"uniqueIdentifier": "pocesar/facebook-latest-comments-scraper",
+	"owner": "pocesar",
+	"title": "Facebook Latest Comments Scraper",
+	"description": "Mini-actor to scrape Facebook comments from one or multiple post URLs. Get comment text, timestamps, author id, author name, etc. Download data in structured formats such as JSON, CSV, XML, Excel, and HTML and use it in apps, spreadsheets, and reports.\n​",
+	"modifiedDate": "2022-12-19T14:00:20.350Z",
+	"runCount": 815583
+}

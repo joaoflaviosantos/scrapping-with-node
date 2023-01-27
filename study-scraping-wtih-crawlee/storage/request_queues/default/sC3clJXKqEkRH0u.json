@@ -1,0 +1,9 @@
+{
+	"id": "sC3clJXKqEkRH0u",
+	"json": "{\"id\":\"sC3clJXKqEkRH0u\",\"url\":\"https://apify.com/undrtkr984/SoftwareAdviceProductNameSearch\",\"loadedUrl\":\"https://apify.com/undrtkr984/softwareadviceproductnamesearch\",\"uniqueKey\":\"https://apify.com/undrtkr984/SoftwareAdviceProductNameSearch\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:23.033Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/undrtkr984/SoftwareAdviceProductNameSearch",
+	"url": "https://apify.com/undrtkr984/SoftwareAdviceProductNameSearch"
+}

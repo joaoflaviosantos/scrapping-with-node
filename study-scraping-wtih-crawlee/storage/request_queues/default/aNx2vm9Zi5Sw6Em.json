@@ -1,0 +1,9 @@
+{
+	"id": "aNx2vm9Zi5Sw6Em",
+	"json": "{\"id\":\"aNx2vm9Zi5Sw6Em\",\"url\":\"https://apify.com/timwhite/YouTube-Channel-Data-Scraper\",\"loadedUrl\":\"https://apify.com/timwhite/youtube-channel-data-scraper\",\"uniqueKey\":\"https://apify.com/timwhite/YouTube-Channel-Data-Scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:12.501Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/timwhite/YouTube-Channel-Data-Scraper",
+	"url": "https://apify.com/timwhite/YouTube-Channel-Data-Scraper"
+}

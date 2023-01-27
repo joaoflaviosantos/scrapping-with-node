@@ -1,0 +1,9 @@
+{
+	"id": "uFwVJ08V6e8ZVFY",
+	"json": "{\"id\":\"uFwVJ08V6e8ZVFY\",\"url\":\"https://apify.com/mshopik/mirascreencom-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/mirascreencom-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/mirascreencom-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:03.520Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/mirascreencom-scraper",
+	"url": "https://apify.com/mshopik/mirascreencom-scraper"
+}

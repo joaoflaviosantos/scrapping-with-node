@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/amazon-asin",
+	"uniqueIdentifier": "jupri/amazon-asin",
+	"owner": "jupri",
+	"title": "Amazon ASIN Scraper",
+	"description": "Scrape ASIN product data from Amazon.com",
+	"modifiedDate": "2022-11-09T15:02:12.048Z",
+	"runCount": 213
+}

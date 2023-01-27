@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/interiors-online-scraper",
+	"uniqueIdentifier": "mshopik/interiors-online-scraper",
+	"owner": "mshopik",
+	"title": "Interiors Online Scraper",
+	"description": "Scrape Interiors Online and extract data on home furnishings from interiorsonline.com.au. Our Interiors Online API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:07:33.897Z",
+	"runCount": 426
+}

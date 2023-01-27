@@ -1,0 +1,9 @@
+{
+	"id": "a8ng96FYEWXDCK0",
+	"json": "{\"id\":\"a8ng96FYEWXDCK0\",\"url\":\"https://www.niusdiario.es\",\"uniqueKey\":\"https://www.niusdiario.es\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":3,\"errorMessages\":[\"Error: request timed out after 30 seconds.\\n    at Timeout._onTimeout (D:\\\\000 - AREA DE TRABALHO\\\\JOAO ESTUDO\\\\scrapping-with-node\\\\email-scraper-with-crawlee\\\\node_modules\\\\@apify\\\\src\\\\index.ts:88:74)\\n    at listOnTimeout (node:internal/timers:559:17)\\n    at processTimers (node:internal/timers:502:7)\",\"Error: request timed out after 30 seconds.\\n    at Timeout._onTimeout (D:\\\\000 - AREA DE TRABALHO\\\\JOAO ESTUDO\\\\scrapping-with-node\\\\email-scraper-with-crawlee\\\\node_modules\\\\@apify\\\\src\\\\index.ts:88:74)\\n    at listOnTimeout (node:internal/timers:559:17)\\n    at processTimers (node:internal/timers:502:7)\",\"Error: request timed out after 30 seconds.\\n    at Timeout._onTimeout (D:\\\\000 - AREA DE TRABALHO\\\\JOAO ESTUDO\\\\scrapping-with-node\\\\email-scraper-with-crawlee\\\\node_modules\\\\@apify\\\\src\\\\index.ts:88:74)\\n    at listOnTimeout (node:internal/timers:559:17)\\n    at processTimers (node:internal/timers:502:7)\",\"Error: request timed out after 30 seconds.\\n    at Timeout._onTimeout (D:\\\\000 - AREA DE TRABALHO\\\\JOAO ESTUDO\\\\scrapping-with-node\\\\email-scraper-with-crawlee\\\\node_modules\\\\@apify\\\\src\\\\index.ts:88:74)\\n    at listOnTimeout (node:internal/timers:559:17)\\n    at processTimers (node:internal/timers:502:7)\"],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":5}},\"handledAt\":\"2023-01-27T16:35:02.659Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 3,
+	"uniqueKey": "https://www.niusdiario.es",
+	"url": "https://www.niusdiario.es"
+}

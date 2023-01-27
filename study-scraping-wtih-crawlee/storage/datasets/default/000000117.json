@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/etsy-scraper",
+	"uniqueIdentifier": "epctex/etsy-scraper",
+	"owner": "epctex",
+	"title": "Etsy Scraper",
+	"description": "Scrape data from over 4 million sellers on Etsy. Crawl and extract descriptions, images, seller details, listed date, and all other product details. You can specify search terms, filters, and much more.",
+	"modifiedDate": "2023-01-25T02:02:17.100Z",
+	"runCount": 4114
+}

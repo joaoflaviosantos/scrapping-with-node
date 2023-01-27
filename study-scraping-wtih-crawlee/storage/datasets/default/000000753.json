@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/succulents-box-scraper",
+	"uniqueIdentifier": "mshopik/succulents-box-scraper",
+	"owner": "mshopik",
+	"title": "Succulents Box Scraper",
+	"description": "Scrape Succulents Box and extract data on gardening and landscaping from succulentsbox.com. Our Succulents Box API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:00:20.649Z",
+	"runCount": 429
+}

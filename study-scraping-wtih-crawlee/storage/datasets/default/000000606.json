@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/runtime_terror/google-search-reviews-scraper",
+	"uniqueIdentifier": "runtime_terror/google-search-reviews-scraper",
+	"owner": "runtime_terror",
+	"title": "Google Search Reviews Scraper",
+	"description": "Handy actor to scrape Google reviews from the search results page",
+	"modifiedDate": "2022-11-08T22:39:20.617Z",
+	"runCount": 175
+}

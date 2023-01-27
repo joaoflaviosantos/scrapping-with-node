@@ -1,0 +1,9 @@
+{
+	"id": "hw5wXvWvEvDJt3O",
+	"json": "{\"id\":\"hw5wXvWvEvDJt3O\",\"url\":\"https://apify.com/apify/proxy-test\",\"loadedUrl\":\"https://apify.com/apify/proxy-test\",\"uniqueKey\":\"https://apify.com/apify/proxy-test\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:46.981Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/apify/proxy-test",
+	"url": "https://apify.com/apify/proxy-test"
+}

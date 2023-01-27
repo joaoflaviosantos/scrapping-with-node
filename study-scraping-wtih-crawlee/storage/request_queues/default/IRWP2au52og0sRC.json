@@ -1,0 +1,9 @@
+{
+	"id": "IRWP2au52og0sRC",
+	"json": "{\"id\":\"IRWP2au52og0sRC\",\"url\":\"https://apify.com/mshopik/slice-1-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/slice-1-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/slice-1-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:49:09.751Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/slice-1-scraper",
+	"url": "https://apify.com/mshopik/slice-1-scraper"
+}

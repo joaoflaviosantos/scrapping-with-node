@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/epctex/trueachievements-scraper",
+	"uniqueIdentifier": "epctex/trueachievements-scraper",
+	"owner": "epctex",
+	"title": "Trueachievements Scraper",
+	"description": "Get any information from Trueachievements! Games, articles, comments, achievements, developers, publishers, genres, and all the extensive information are ready for you! Search for keywords, genres, publishers, and series, filter by your needs, and export your data by XML, JSON, CSV, Excel, or HTML",
+	"modifiedDate": "2023-01-18T20:52:32.698Z",
+	"runCount": 21
+}

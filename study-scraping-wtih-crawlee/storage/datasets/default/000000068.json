@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/apify/legacy-phantomjs-crawler",
+	"uniqueIdentifier": "apify/legacy-phantomjs-crawler",
+	"owner": "apify",
+	"title": "Legacy PhantomJS Crawler",
+	"description": "Replacement for the legacy Apify Crawler product with a backward-compatible interface. The actor uses PhantomJS headless browser to recursively crawl websites and extract data from them using a piece of front-end JavaScript code.",
+	"modifiedDate": "2021-08-11T13:37:22.267Z",
+	"runCount": null
+}

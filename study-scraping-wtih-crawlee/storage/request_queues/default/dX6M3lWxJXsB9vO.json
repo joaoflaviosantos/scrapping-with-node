@@ -1,0 +1,9 @@
+{
+	"id": "dX6M3lWxJXsB9vO",
+	"json": "{\"id\":\"dX6M3lWxJXsB9vO\",\"url\":\"https://apify.com/strajk/fdf-bike-shop-fdfbikeshop-cz-scraper\",\"loadedUrl\":\"https://apify.com/strajk/fdf-bike-shop-fdfbikeshop-cz-scraper\",\"uniqueKey\":\"https://apify.com/strajk/fdf-bike-shop-fdfbikeshop-cz-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:42.560Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/strajk/fdf-bike-shop-fdfbikeshop-cz-scraper",
+	"url": "https://apify.com/strajk/fdf-bike-shop-fdfbikeshop-cz-scraper"
+}

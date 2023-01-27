@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/banza-scraper",
+	"uniqueIdentifier": "mshopik/banza-scraper",
+	"owner": "mshopik",
+	"title": "Banza Scraper",
+	"description": "Scrape Banza and extract data on food from eatbanza.com. Our Banza API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:08:01.741Z",
+	"runCount": 426
+}

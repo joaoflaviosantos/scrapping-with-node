@@ -1,0 +1,9 @@
+{
+	"id": "D1NLvAHLn7YHUiZ",
+	"json": "{\"id\":\"D1NLvAHLn7YHUiZ\",\"url\":\"https://www.ladorosa.com.br\",\"loadedUrl\":\"https://www.ladorosa.com.br/\",\"uniqueKey\":\"https://www.ladorosa.com.br\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:33:09.191Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ladorosa.com.br",
+	"url": "https://www.ladorosa.com.br"
+}

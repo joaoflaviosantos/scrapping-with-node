@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/strajk-old/bike24-bike24-de-scraper",
+	"uniqueIdentifier": "strajk-old/bike24-bike24-de-scraper",
+	"owner": "strajk-old",
+	"title": "Bike24 (bike24.de) scraper",
+	"description": "Scrapes products titles, prices, images and availability. Does NOT scrape product details.",
+	"modifiedDate": "2022-05-28T11:04:10.754Z",
+	"runCount": 249
+}

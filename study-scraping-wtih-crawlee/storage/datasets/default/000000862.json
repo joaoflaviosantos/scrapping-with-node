@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/pocesar/download-facebook-video",
+	"uniqueIdentifier": "pocesar/download-facebook-video",
+	"owner": "pocesar",
+	"title": "Facebook video downloader",
+	"description": "Download Facebook videos in bulk",
+	"modifiedDate": "2022-09-15T12:25:19.504Z",
+	"runCount": 239
+}

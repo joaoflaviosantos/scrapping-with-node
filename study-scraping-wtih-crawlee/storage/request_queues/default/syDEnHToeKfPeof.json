@@ -1,0 +1,9 @@
+{
+	"id": "syDEnHToeKfPeof",
+	"json": "{\"id\":\"syDEnHToeKfPeof\",\"url\":\"https://apify.com/barry8schneider/task-metrics\",\"loadedUrl\":\"https://apify.com/barry8schneider/task-metrics\",\"uniqueKey\":\"https://apify.com/barry8schneider/task-metrics\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:28.064Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/barry8schneider/task-metrics",
+	"url": "https://apify.com/barry8schneider/task-metrics"
+}

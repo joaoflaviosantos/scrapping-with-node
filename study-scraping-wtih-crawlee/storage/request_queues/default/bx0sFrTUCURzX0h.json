@@ -1,0 +1,9 @@
+{
+	"id": "bx0sFrTUCURzX0h",
+	"json": "{\"id\":\"bx0sFrTUCURzX0h\",\"url\":\"https://apify.com/mhamas/website-backup\",\"loadedUrl\":\"https://apify.com/mhamas/website-backup\",\"uniqueKey\":\"https://apify.com/mhamas/website-backup\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:54.077Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mhamas/website-backup",
+	"url": "https://apify.com/mhamas/website-backup"
+}

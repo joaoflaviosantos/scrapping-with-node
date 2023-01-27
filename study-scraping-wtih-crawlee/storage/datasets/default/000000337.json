@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/european-wax-center-scraper",
+	"uniqueIdentifier": "mshopik/european-wax-center-scraper",
+	"owner": "mshopik",
+	"title": "European Wax Center Scraper",
+	"description": "Scrape European Wax Center and extract data on face and body care from waxcenter.com. Our European Wax Center API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:55:04.125Z",
+	"runCount": 425
+}

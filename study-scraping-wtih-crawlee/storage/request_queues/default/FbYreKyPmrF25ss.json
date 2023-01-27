@@ -1,0 +1,9 @@
+{
+	"id": "FbYreKyPmrF25ss",
+	"json": "{\"id\":\"FbYreKyPmrF25ss\",\"url\":\"https://apify.com/davidrychly/covid-sk-3\",\"loadedUrl\":\"https://apify.com/davidrychly/covid-sk-3\",\"uniqueKey\":\"https://apify.com/davidrychly/covid-sk-3\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:34.348Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/davidrychly/covid-sk-3",
+	"url": "https://apify.com/davidrychly/covid-sk-3"
+}

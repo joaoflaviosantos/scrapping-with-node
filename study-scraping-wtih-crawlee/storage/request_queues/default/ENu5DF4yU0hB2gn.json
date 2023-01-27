@@ -1,0 +1,9 @@
+{
+	"id": "ENu5DF4yU0hB2gn",
+	"json": "{\"id\":\"ENu5DF4yU0hB2gn\",\"url\":\"https://apify.com/mshopik/windsor-fashions-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/windsor-fashions-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/windsor-fashions-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:16.553Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/windsor-fashions-scraper",
+	"url": "https://apify.com/mshopik/windsor-fashions-scraper"
+}

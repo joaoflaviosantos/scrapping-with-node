@@ -1,0 +1,9 @@
+{
+	"id": "2s9H0upFLJUJT4c",
+	"json": "{\"id\":\"2s9H0upFLJUJT4c\",\"url\":\"https://apify.com/katerinahronik/covid-philippines\",\"loadedUrl\":\"https://apify.com/katerinahronik/covid-philippines\",\"uniqueKey\":\"https://apify.com/katerinahronik/covid-philippines\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:56.893Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/katerinahronik/covid-philippines",
+	"url": "https://apify.com/katerinahronik/covid-philippines"
+}

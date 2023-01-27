@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/big-life-journal-scraper",
+	"uniqueIdentifier": "mshopik/big-life-journal-scraper",
+	"owner": "mshopik",
+	"title": "Big Life Journal Scraper",
+	"description": "Scrape Big Life Journal and extract data on notebooks and planners from biglifejournal.com. Our Big Life Journal API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:01:39.209Z",
+	"runCount": 422
+}

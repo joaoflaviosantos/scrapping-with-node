@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/citiesocial-scraper",
+	"uniqueIdentifier": "mshopik/citiesocial-scraper",
+	"owner": "mshopik",
+	"title": "citiesocial Scraper",
+	"description": "Scrape citiesocial and extract data on gifts and special events from citiesocial.com. Our citiesocial API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:36:47.535Z",
+	"runCount": 425
+}

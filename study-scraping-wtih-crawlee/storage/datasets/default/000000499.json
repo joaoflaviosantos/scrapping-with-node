@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/pocesar/crypto-watcher",
+	"uniqueIdentifier": "pocesar/crypto-watcher",
+	"owner": "pocesar",
+	"title": "Bitcoin / Ethereum Address Watcher",
+	"description": "Scrape and watch for balance and transactions for Bitcoin and Ethereum addresses.",
+	"modifiedDate": "2022-03-18T04:10:46.123Z",
+	"runCount": 445
+}

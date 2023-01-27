@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lhotanok/trip-scraper",
+	"uniqueIdentifier": "lhotanok/trip-scraper",
+	"owner": "lhotanok",
+	"title": "Trip Scraper",
+	"description": "This Trip Scraper will extract data for different types of accommodation from Trip.com website.",
+	"modifiedDate": "2022-12-15T12:04:36.937Z",
+	"runCount": 178
+}

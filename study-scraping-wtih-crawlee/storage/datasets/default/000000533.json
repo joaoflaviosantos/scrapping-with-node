@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/rhinoshield-scraper",
+	"uniqueIdentifier": "mshopik/rhinoshield-scraper",
+	"owner": "mshopik",
+	"title": "犀牛盾｜官方網站– 犀牛盾 RhinoShield Scraper",
+	"description": "Scrape 犀牛盾｜官方網站– 犀牛盾 RhinoShield and extract data on mobile and wireless accessories from rhinoshield.tw. Our 犀牛盾｜官方網站– 犀牛盾 RhinoShield API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:53:06.197Z",
+	"runCount": 425
+}

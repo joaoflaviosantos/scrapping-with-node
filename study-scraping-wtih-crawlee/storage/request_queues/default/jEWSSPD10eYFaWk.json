@@ -1,0 +1,9 @@
+{
+	"id": "jEWSSPD10eYFaWk",
+	"json": "{\"id\":\"jEWSSPD10eYFaWk\",\"url\":\"https://apify.com/hamza.alwan/google-translator\",\"loadedUrl\":\"https://apify.com/hamza.alwan/google-translator\",\"uniqueKey\":\"https://apify.com/hamza.alwan/google-translator\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:19.139Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/hamza.alwan/google-translator",
+	"url": "https://apify.com/hamza.alwan/google-translator"
+}

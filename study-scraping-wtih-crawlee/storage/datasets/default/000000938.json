@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/hanatsai/the-sun-scraper",
+	"uniqueIdentifier": "hanatsai/the-sun-scraper",
+	"owner": "hanatsai",
+	"title": "The Sun Scraper",
+	"description": "Scrape news data from the-sun.com with this unofficial API. Extract articles, monitor their popularity and performance and automate the fight against fake news. Filter the results by authors, topics, categories, or publication dates. Preview or download the results in your preferred format.",
+	"modifiedDate": "2022-08-07T18:02:51.449Z",
+	"runCount": 258
+}

@@ -1,0 +1,9 @@
+{
+	"id": "cFCHGRq6omH1zas",
+	"json": "{\"id\":\"cFCHGRq6omH1zas\",\"url\":\"https://apify.com/enco/carsandbids\",\"loadedUrl\":\"https://apify.com/enco/carsandbids\",\"uniqueKey\":\"https://apify.com/enco/carsandbids\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:07.839Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/enco/carsandbids",
+	"url": "https://apify.com/enco/carsandbids"
+}

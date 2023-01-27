@@ -1,0 +1,9 @@
+{
+	"id": "aj0NsqKirLmGmx1",
+	"json": "{\"id\":\"aj0NsqKirLmGmx1\",\"url\":\"https://apify.com/apify/example-process-crawl-results\",\"loadedUrl\":\"https://apify.com/apify/example-process-crawl-results\",\"uniqueKey\":\"https://apify.com/apify/example-process-crawl-results\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:25.506Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/apify/example-process-crawl-results",
+	"url": "https://apify.com/apify/example-process-crawl-results"
+}

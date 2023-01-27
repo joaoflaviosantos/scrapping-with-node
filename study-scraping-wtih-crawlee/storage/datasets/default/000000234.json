@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/kprepublic-global-scraper",
+	"uniqueIdentifier": "mshopik/kprepublic-global-scraper",
+	"owner": "mshopik",
+	"title": "KPrepublic Global Scraper",
+	"description": "Scrape KPrepublic Global and extract data on consumer electronics from kprepublic.com. Our KPrepublic Global API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:52:27.817Z",
+	"runCount": 426
+}

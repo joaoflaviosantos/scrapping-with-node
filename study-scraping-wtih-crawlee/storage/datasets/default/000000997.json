@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/poly-and-bark-scraper",
+	"uniqueIdentifier": "mshopik/poly-and-bark-scraper",
+	"owner": "mshopik",
+	"title": "Poly Bark Scraper",
+	"description": "Scrape Poly Bark and extract data on home furnishings from polyandbark.com. Our Poly Bark API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:19:21.166Z",
+	"runCount": 429
+}

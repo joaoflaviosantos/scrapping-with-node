@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/your-super-scraper",
+	"uniqueIdentifier": "mshopik/your-super-scraper",
+	"owner": "mshopik",
+	"title": "Your Super Scraper",
+	"description": "Scrape Your Super and extract data on food and drink from yoursuper.com. Our Your Super API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:54:11.642Z",
+	"runCount": 426
+}

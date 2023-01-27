@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/alexey/facebook-url-to-id",
+	"uniqueIdentifier": "alexey/facebook-url-to-id",
+	"owner": "alexey",
+	"title": "Facebook URL to ID",
+	"description": "Scraping any Facebook URL as data object with internal Facebook ID and metadata if-when available.",
+	"modifiedDate": "2023-01-15T08:41:45.226Z",
+	"runCount": 57128
+}

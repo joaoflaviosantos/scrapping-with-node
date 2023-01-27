@@ -1,0 +1,9 @@
+{
+	"id": "z8u2bKtaOMcW9ru",
+	"json": "{\"id\":\"z8u2bKtaOMcW9ru\",\"url\":\"https://apify.com/strajk-old/bike24-bike24-de-scraper\",\"loadedUrl\":\"https://apify.com/strajk-old/bike24-bike24-de-scraper\",\"uniqueKey\":\"https://apify.com/strajk-old/bike24-bike24-de-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:03.102Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/strajk-old/bike24-bike24-de-scraper",
+	"url": "https://apify.com/strajk-old/bike24-bike24-de-scraper"
+}

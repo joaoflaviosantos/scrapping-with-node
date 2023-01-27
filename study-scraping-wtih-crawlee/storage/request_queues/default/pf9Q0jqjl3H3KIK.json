@@ -1,0 +1,9 @@
+{
+	"id": "pf9Q0jqjl3H3KIK",
+	"json": "{\"id\":\"pf9Q0jqjl3H3KIK\",\"url\":\"https://apify.com/davidrychly/covid-who-sprinklr\",\"loadedUrl\":\"https://apify.com/davidrychly/covid-who-sprinklr\",\"uniqueKey\":\"https://apify.com/davidrychly/covid-who-sprinklr\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:54:00.209Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/davidrychly/covid-who-sprinklr",
+	"url": "https://apify.com/davidrychly/covid-who-sprinklr"
+}

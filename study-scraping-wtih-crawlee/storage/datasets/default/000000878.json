@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/dtrungtin/covid-fi",
+	"uniqueIdentifier": "dtrungtin/covid-fi",
+	"owner": "dtrungtin",
+	"title": "Coronavirus stats in Finland",
+	"description": "Gets the actual number of Coronavirus cases and deaths by COVID-19 in Findland from https://thl.fi/fi/web/infektiotaudit-ja-rokotukset/ajankohtaista/ajankohtaista-koronaviruksesta-covid-19/tilannekatsaus-koronaviruksesta.",
+	"modifiedDate": "2021-09-22T09:00:58.912Z",
+	"runCount": 119573
+}

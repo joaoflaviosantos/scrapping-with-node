@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mstephen190/s3-bucket-uploader",
+	"uniqueIdentifier": "mstephen190/s3-bucket-uploader",
+	"owner": "mstephen190",
+	"title": "S3 Bucket Uploader",
+	"description": "Upload the items from the default dataset of an actor's run to an S3 bucket in JSON format.",
+	"modifiedDate": "2022-10-10T09:05:23.135Z",
+	"runCount": 62
+}

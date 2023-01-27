@@ -1,0 +1,9 @@
+{
+	"id": "yXGO4ECLLdJIS6E",
+	"json": "{\"id\":\"yXGO4ECLLdJIS6E\",\"url\":\"https://apify.com/junglee/amazon-bestsellers-scraper\",\"loadedUrl\":\"https://apify.com/junglee/amazon-bestsellers-scraper\",\"uniqueKey\":\"https://apify.com/junglee/amazon-bestsellers-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:48:10.751Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/junglee/amazon-bestsellers-scraper",
+	"url": "https://apify.com/junglee/amazon-bestsellers-scraper"
+}

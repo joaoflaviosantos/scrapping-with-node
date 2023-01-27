@@ -1,0 +1,9 @@
+{
+	"id": "JYZI03uN91XwtwM",
+	"json": "{\"id\":\"JYZI03uN91XwtwM\",\"url\":\"https://apify.com/epctex/trustradius-scraper\",\"loadedUrl\":\"https://apify.com/epctex/trustradius-scraper\",\"uniqueKey\":\"https://apify.com/epctex/trustradius-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:53:17.089Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/epctex/trustradius-scraper",
+	"url": "https://apify.com/epctex/trustradius-scraper"
+}

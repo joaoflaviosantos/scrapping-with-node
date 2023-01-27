@@ -1,0 +1,9 @@
+{
+	"id": "khGbzsed33HYf6r",
+	"json": "{\"id\":\"khGbzsed33HYf6r\",\"url\":\"https://apify.com/mtrunkatova/sfgate-scraper\",\"loadedUrl\":\"https://apify.com/mtrunkatova/sfgate-scraper\",\"uniqueKey\":\"https://apify.com/mtrunkatova/sfgate-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:36.429Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mtrunkatova/sfgate-scraper",
+	"url": "https://apify.com/mtrunkatova/sfgate-scraper"
+}

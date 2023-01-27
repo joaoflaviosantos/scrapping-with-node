@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/misceres/kickstarter-search",
+	"uniqueIdentifier": "misceres/kickstarter-search",
+	"owner": "misceres",
+	"title": "Kickstarter Scraper",
+	"description": "Search Kickstarter projects based on your selected criteria and get structured data on matching projects. Download your data as HTML table, JSON, CSV, Excel, XML, and RSS feed.",
+	"modifiedDate": "2022-11-04T08:41:57.421Z",
+	"runCount": 201321
+}

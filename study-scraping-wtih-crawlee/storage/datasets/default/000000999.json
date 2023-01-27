@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/hasbro-pulse-scraper",
+	"uniqueIdentifier": "mshopik/hasbro-pulse-scraper",
+	"owner": "mshopik",
+	"title": "Hasbro Pulse Scraper",
+	"description": "Scrape Hasbro Pulse and extract data on board games from hasbropulse.com. Our Hasbro Pulse API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:47:41.033Z",
+	"runCount": 428
+}

@@ -1,0 +1,9 @@
+{
+	"id": "jSUqYz1QgSFtKu3",
+	"json": "{\"id\":\"jSUqYz1QgSFtKu3\",\"url\":\"https://apify.com/mshopik/untuckit-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/untuckit-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/untuckit-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:16.824Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/untuckit-scraper",
+	"url": "https://apify.com/mshopik/untuckit-scraper"
+}

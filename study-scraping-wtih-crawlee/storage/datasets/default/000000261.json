@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/bluefly-scraper",
+	"uniqueIdentifier": "mshopik/bluefly-scraper",
+	"owner": "mshopik",
+	"title": "Bluefly Scraper",
+	"description": "Scrape Bluefly and extract data on women's clothing from bluefly.com. Our Bluefly API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:39:35.262Z",
+	"runCount": 425
+}

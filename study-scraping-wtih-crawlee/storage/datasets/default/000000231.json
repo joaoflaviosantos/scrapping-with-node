@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/warrior-12-scraper",
+	"uniqueIdentifier": "mshopik/warrior-12-scraper",
+	"owner": "mshopik",
+	"title": "Warrior 12 Scraper",
+	"description": "Scrape Warrior 12 and extract data on casual apparel from warrior12.com. Our Warrior 12 API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:10:54.612Z",
+	"runCount": 427
+}

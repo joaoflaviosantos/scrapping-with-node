@@ -1,0 +1,9 @@
+{
+	"id": "7tOyTBw3f5FZCoB",
+	"json": "{\"id\":\"7tOyTBw3f5FZCoB\",\"url\":\"https://apify.com/molly/amazon-reviews\",\"loadedUrl\":\"https://apify.com/molly/amazon-reviews\",\"uniqueKey\":\"https://apify.com/molly/amazon-reviews\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:42.601Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/molly/amazon-reviews",
+	"url": "https://apify.com/molly/amazon-reviews"
+}

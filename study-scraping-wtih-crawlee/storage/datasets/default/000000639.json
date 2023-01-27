@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/wholesome-culture-scraper",
+	"uniqueIdentifier": "mshopik/wholesome-culture-scraper",
+	"owner": "mshopik",
+	"title": "Wholesome Culture Scraper",
+	"description": "Scrape Wholesome Culture and extract data on apparel from wholesomeculture.com. Our Wholesome Culture API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:19:45.222Z",
+	"runCount": 427
+}

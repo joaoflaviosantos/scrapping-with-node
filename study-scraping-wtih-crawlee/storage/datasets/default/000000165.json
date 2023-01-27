@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/jolyn-scraper",
+	"uniqueIdentifier": "mshopik/jolyn-scraper",
+	"owner": "mshopik",
+	"title": "JOLYN Scraper",
+	"description": "Scrape JOLYN and extract data on swimwear from jolyn.com. Our JOLYN API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:00:26.501Z",
+	"runCount": 425
+}

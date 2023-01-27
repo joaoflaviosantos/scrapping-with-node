@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/wigscom-scraper",
+	"uniqueIdentifier": "mshopik/wigscom-scraper",
+	"owner": "mshopik",
+	"title": "Wigs.com Scraper",
+	"description": "Scrape Wigs.com and extract data on hair care from wigs.com. Our Wigs.com API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:58:52.163Z",
+	"runCount": 425
+}

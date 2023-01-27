@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/zuzka/onet-scraper",
+	"uniqueIdentifier": "zuzka/onet-scraper",
+	"owner": "zuzka",
+	"title": "Onet Scraper",
+	"description": "Scrape news data from onet.pl with this unofficial API. Extract articles, monitor their popularity and performance and automate the fight against fake news. Filter the results by authors, topics, categories, or publication dates. Preview or download the results in your preferred format.",
+	"modifiedDate": "2022-08-07T21:25:31.377Z",
+	"runCount": 252
+}

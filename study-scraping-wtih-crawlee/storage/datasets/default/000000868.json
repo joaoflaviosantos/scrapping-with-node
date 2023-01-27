@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/trudax/notion-automatic-backup",
+	"uniqueIdentifier": "trudax/notion-automatic-backup",
+	"owner": "trudax",
+	"title": "Notion Automatic Backup",
+	"description": "Create and schedule automatic Notion backups. This Notion backup tool logs into your Notion account and generates a zip file with all your valuable data.",
+	"modifiedDate": "2022-05-18T23:59:22.415Z",
+	"runCount": 59
+}

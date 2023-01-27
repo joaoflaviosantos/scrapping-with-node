@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/anchor/forward-dataset-webhook",
+	"uniqueIdentifier": "anchor/forward-dataset-webhook",
+	"owner": "anchor",
+	"title": "Forward dataset as POST data",
+	"description": "This actor forwards the results of an Actor to an endpoint, instead of having to fetch the results manually. It will download the dataset and attach it to the body of a POST request you will specify. It acts as a new webhook. Simply provide this actor URL in your webhook, and specify a URL",
+	"modifiedDate": "2022-10-10T15:33:37.258Z",
+	"runCount": 151
+}

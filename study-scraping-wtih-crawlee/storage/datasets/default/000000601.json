@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/lukaskrivka/check-compute-per-actor",
+	"uniqueIdentifier": "lukaskrivka/check-compute-per-actor",
+	"owner": "lukaskrivka",
+	"title": "Actor Compute Units Aggregator",
+	"description": "Aggregates daily or monthly usage of compute units for all your actors. Please don't use this if you have thousands of daily runs as it will overload the Apify API.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 499
+}

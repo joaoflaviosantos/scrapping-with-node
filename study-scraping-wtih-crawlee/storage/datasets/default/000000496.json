@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/molly/amazon-reviews",
+	"uniqueIdentifier": "molly/amazon-reviews",
+	"owner": "molly",
+	"title": "Amazon Reviews Scraper",
+	"description": "Scrape reviews from any product on Amazon!",
+	"modifiedDate": "2022-12-04T19:08:45.690Z",
+	"runCount": 391
+}

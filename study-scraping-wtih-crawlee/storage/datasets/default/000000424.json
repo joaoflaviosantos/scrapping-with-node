@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/alpkit-scraper",
+	"uniqueIdentifier": "mshopik/alpkit-scraper",
+	"owner": "mshopik",
+	"title": "Alpkit Scraper",
+	"description": "Scrape Alpkit and extract data on recreation from alpkit.com. Our Alpkit API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:07:54.520Z",
+	"runCount": 425
+}

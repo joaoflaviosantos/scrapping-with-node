@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/katerinahronik/toggl-invoice-download",
+	"uniqueIdentifier": "katerinahronik/toggl-invoice-download",
+	"owner": "katerinahronik",
+	"title": "Toggl Invoice Download",
+	"description": "Save time by automating monthly invoice downloads with web robotic process automation. Download invoices from Toggl and optionally upload the invoice to Dropbox and send an email notification.",
+	"modifiedDate": "2022-01-06T16:25:43.229Z",
+	"runCount": 289
+}

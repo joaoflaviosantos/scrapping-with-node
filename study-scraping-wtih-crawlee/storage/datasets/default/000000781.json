@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/vaclavrut/downloadKvStoreZip",
+	"uniqueIdentifier": "vaclavrut/downloadKvStoreZip",
+	"owner": "vaclavrut",
+	"title": "Zip Download of KV Store",
+	"description": "Creates a zip file from all items in the key-value store, zips them, and downloads them in a unique file. On input, you can specify the number of the files or keep it null to download them all. The key-value store must be under your Apify account.",
+	"modifiedDate": "2022-06-20T13:53:08.241Z",
+	"runCount": 31
+}

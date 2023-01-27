@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jancurn/product-hunt-user-finder",
+	"uniqueIdentifier": "jancurn/product-hunt-user-finder",
+	"owner": "jancurn",
+	"title": "Product Hunt User Finder",
+	"description": "Scrapes details on users on Product Hunt based on a provided list o Twitter usernames.",
+	"modifiedDate": "2021-04-01T15:07:46.072Z",
+	"runCount": 492
+}

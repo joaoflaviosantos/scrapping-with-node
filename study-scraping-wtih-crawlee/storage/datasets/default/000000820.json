@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/petr_cermak/ftp-upload",
+	"uniqueIdentifier": "petr_cermak/ftp-upload",
+	"owner": "petr_cermak",
+	"title": "FTP file uploader",
+	"description": "Performs a simple upload of an array of files to an FTP.",
+	"modifiedDate": "2022-10-10T09:05:51.265Z",
+	"runCount": 1497
+}

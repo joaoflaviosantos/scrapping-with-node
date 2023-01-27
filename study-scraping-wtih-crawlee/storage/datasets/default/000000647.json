@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/yeyo/single-tweet-scraper",
+	"uniqueIdentifier": "yeyo/single-tweet-scraper",
+	"owner": "yeyo",
+	"title": "Single Tweet Scraper",
+	"description": "Single Tweet Scraper helps you retrieve any specific Tweet without restrictions or rate limits, and returns live data.",
+	"modifiedDate": "2022-12-29T19:52:43.958Z",
+	"runCount": 48
+}

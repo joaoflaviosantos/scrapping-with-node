@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mtrunkatova/newsweek-scraper",
+	"uniqueIdentifier": "mtrunkatova/newsweek-scraper",
+	"owner": "mtrunkatova",
+	"title": "Newsweek Scraper",
+	"description": "Scrape news data from newsweek.com with this unofficial API. Extract articles, monitor their popularity and performance and automate the fight against fake news. Filter the results by authors, topics, categories, or publication dates. Preview or download the results in your preferred format.",
+	"modifiedDate": "2022-08-07T19:11:55.390Z",
+	"runCount": 251
+}

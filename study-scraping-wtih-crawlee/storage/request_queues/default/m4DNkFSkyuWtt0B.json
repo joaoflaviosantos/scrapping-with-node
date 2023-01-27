@@ -1,0 +1,9 @@
+{
+	"id": "m4DNkFSkyuWtt0B",
+	"json": "{\"id\":\"m4DNkFSkyuWtt0B\",\"url\":\"https://apify.com/mshopik/asrv-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/asrv-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/asrv-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:51:32.332Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/asrv-scraper",
+	"url": "https://apify.com/mshopik/asrv-scraper"
+}

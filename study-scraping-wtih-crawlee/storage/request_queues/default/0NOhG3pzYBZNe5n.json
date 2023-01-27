@@ -1,0 +1,9 @@
+{
+	"id": "0NOhG3pzYBZNe5n",
+	"json": "{\"id\":\"0NOhG3pzYBZNe5n\",\"url\":\"https://apify.com/katerinahronik/covid-china\",\"loadedUrl\":\"https://apify.com/katerinahronik/covid-china\",\"uniqueKey\":\"https://apify.com/katerinahronik/covid-china\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:55:30.239Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/katerinahronik/covid-china",
+	"url": "https://apify.com/katerinahronik/covid-china"
+}

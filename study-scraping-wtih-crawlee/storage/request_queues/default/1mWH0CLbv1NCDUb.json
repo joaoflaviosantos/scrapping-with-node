@@ -1,0 +1,9 @@
+{
+	"id": "1mWH0CLbv1NCDUb",
+	"json": "{\"id\":\"1mWH0CLbv1NCDUb\",\"url\":\"https://apify.com/mshopik/untilgonecom-scraper\",\"loadedUrl\":\"https://apify.com/mshopik/untilgonecom-scraper\",\"uniqueKey\":\"https://apify.com/mshopik/untilgonecom-scraper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:25.667Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/mshopik/untilgonecom-scraper",
+	"url": "https://apify.com/mshopik/untilgonecom-scraper"
+}

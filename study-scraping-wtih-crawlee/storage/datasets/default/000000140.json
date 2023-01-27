@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/selcukitmis/binance-top-traders-positions",
+	"uniqueIdentifier": "selcukitmis/binance-top-traders-positions",
+	"owner": "selcukitmis",
+	"title": "Binance Top Traders Future Positions",
+	"description": "Binance is the world's largest crypto exchange.\n\nOn Binance Leaderboard, you can see the current future positions of the traders with the highest monthly earnings and the most followers.",
+	"modifiedDate": "2022-04-19T22:07:06.732Z",
+	"runCount": 21360
+}

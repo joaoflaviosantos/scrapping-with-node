@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/bbc-shop-us-scraper",
+	"uniqueIdentifier": "mshopik/bbc-shop-us-scraper",
+	"owner": "mshopik",
+	"title": "BBC Shop US Scraper",
+	"description": "Scrape BBC Shop US and extract data on entertainment from shop.bbc.com. Our BBC Shop US API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T00:29:18.026Z",
+	"runCount": 430
+}

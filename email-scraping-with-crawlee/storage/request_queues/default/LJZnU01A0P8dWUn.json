@@ -1,0 +1,9 @@
+{
+	"id": "LJZnU01A0P8dWUn",
+	"json": "{\"id\":\"LJZnU01A0P8dWUn\",\"url\":\"https://oasis.pe\",\"loadedUrl\":\"https://oasis.pe/\",\"uniqueKey\":\"https://oasis.pe\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DOMAIN RESULT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-27T16:33:15.130Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://oasis.pe",
+	"url": "https://oasis.pe"
+}

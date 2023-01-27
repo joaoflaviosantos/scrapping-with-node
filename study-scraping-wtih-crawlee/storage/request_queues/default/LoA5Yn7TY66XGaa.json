@@ -1,0 +1,9 @@
+{
+	"id": "LoA5Yn7TY66XGaa",
+	"json": "{\"id\":\"LoA5Yn7TY66XGaa\",\"url\":\"https://apify.com/drobnikj/send-crawler-results\",\"loadedUrl\":\"https://apify.com/drobnikj/send-crawler-results\",\"uniqueKey\":\"https://apify.com/drobnikj/send-crawler-results\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-25T16:52:09.785Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://apify.com/drobnikj/send-crawler-results",
+	"url": "https://apify.com/drobnikj/send-crawler-results"
+}

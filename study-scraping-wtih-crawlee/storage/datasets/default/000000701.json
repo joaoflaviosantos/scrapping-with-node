@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jaroslavhejlek/cnn-top-stories",
+	"uniqueIdentifier": "jaroslavhejlek/cnn-top-stories",
+	"owner": "jaroslavhejlek",
+	"title": "CNN Top Stories Checker",
+	"description": "Measures data traffic done when CNN top stories are crawled. Optionally can cache responses in memory based on cache-control max-age header. Optionally can also block some tracking and analytics requests.",
+	"modifiedDate": "2022-06-20T13:53:06.443Z",
+	"runCount": 456
+}

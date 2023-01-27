@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/quacker/twitter-video-scraper",
+	"uniqueIdentifier": "quacker/twitter-video-scraper",
+	"owner": "quacker",
+	"title": "Twitter Video Scraper",
+	"description": "Insert a keyword that you would type into the Twitter search bar into the scraper’s input field, and extract the results you would view in the Videos tab.",
+	"modifiedDate": "2023-01-20T12:18:48.072Z",
+	"runCount": 581
+}

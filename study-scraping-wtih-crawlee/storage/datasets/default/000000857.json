@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/republic",
+	"uniqueIdentifier": "jupri/republic",
+	"owner": "jupri",
+	"title": "Republic.com Scraper",
+	"description": "Scrape funding/campaign data from Republic.com",
+	"modifiedDate": "2022-10-11T12:03:42.230Z",
+	"runCount": 190
+}

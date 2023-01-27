@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/jupri/realtor-homes",
+	"uniqueIdentifier": "jupri/realtor-homes",
+	"owner": "jupri",
+	"title": "Realtor Homes Scraper",
+	"description": "Scrape, extract, filter, sort 🏠 homes / property data from Realtor.com",
+	"modifiedDate": "2022-10-10T00:41:17.136Z",
+	"runCount": 137
+}

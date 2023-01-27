@@ -1,0 +1,9 @@
+{
+	"url": "https://apify.com/mshopik/outfitters-official-online-store-scraper",
+	"uniqueIdentifier": "mshopik/outfitters-official-online-store-scraper",
+	"owner": "mshopik",
+	"title": "Outfitters Official Online Scraper",
+	"description": "Scrape Outfitters Official Online and extract data on casual apparel from outfitters.com.pk. Our Outfitters Official Online API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
+	"modifiedDate": "2022-08-10T01:14:37.175Z",
+	"runCount": 425
+}
