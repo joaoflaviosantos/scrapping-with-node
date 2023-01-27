@@ -43,6 +43,8 @@ export default async function getBrazilCities() {
           cidade_link: cityLink ? 'https://pt.wikipedia.org' + cityLink : 'https://pt.wikipedia.org' + cityLinkOptional,
         })
       }
+
+    console.log(cityName)
     })
 
     // Instantiate parser.
@@ -61,7 +63,7 @@ export default async function getBrazilCities() {
   } catch (error: any) {
     await message({
       isError: true,
-      message: `Something\'s wrong. ${error.message}`,
+      message: `Something's wrong. ${error.message}`,
     })
   }
 }

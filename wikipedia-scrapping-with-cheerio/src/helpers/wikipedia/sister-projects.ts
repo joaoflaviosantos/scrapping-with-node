@@ -58,7 +58,7 @@ export default async function getSisterProjects() {
   } catch (error: any) {
     await message({
       isError: true,
-      message: `Something\'s wrong. ${error.message}`,
+      message: `Something's wrong. ${error.message}`,
     })
   }
 }
