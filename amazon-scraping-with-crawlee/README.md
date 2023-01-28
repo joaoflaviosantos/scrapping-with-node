@@ -4,7 +4,7 @@
 
 ## Testing this code
 
-Install [Node.js](https://nodejs.org/) and run this code on terminal.
+Install [Node.js](https://nodejs.org/) and run this command on terminal.
 
 ```node
 yarn start
