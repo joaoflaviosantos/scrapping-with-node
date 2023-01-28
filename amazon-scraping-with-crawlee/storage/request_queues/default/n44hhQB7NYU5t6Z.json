@@ -1,0 +1,9 @@
+{
+	"id": "n44hhQB7NYU5t6Z",
+	"json": "{\"id\":\"n44hhQB7NYU5t6Z\",\"url\":\"https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=drone\",\"loadedUrl\":\"https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=drone\",\"uniqueKey\":\"https://www.amazon.com/s/ref=nb_sb_noss?field-keywords=drone&url=search-alias%3Daps\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"keyword\":\"drone\",\"label\":\"START\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:25:45.217Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/s/ref=nb_sb_noss?field-keywords=drone&url=search-alias%3Daps",
+	"url": "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=drone"
+}

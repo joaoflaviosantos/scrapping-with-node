@@ -1,0 +1,9 @@
+{
+	"id": "WnW2zAbvpLdLYoU",
+	"json": "{\"id\":\"WnW2zAbvpLdLYoU\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B4S8DSCC&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B4S8DSCC&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B4S8DSCC&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Heygelo S90 Drone with Camera for Adults, 1080P HD Mini FPV Drones for Kids Beginners, Foldable RC Quadcopter Toys Gifts for Boys Girls with Altitude Hold, Voice/Gesture Control, 3 Speeds, 2 Batteries\",\"asin\":\"B0B4S8DSCC\",\"itemUrl\":\"https://www.amazon.com/S90-Drone-Beginners-Quadcopter-Batteries/dp/B0B4S8DSCC/ref=sr_1_30?keywords=drone&qid=1674944744&sr=8-30\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:01.772Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B4S8DSCC&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B4S8DSCC&pc=dp"
+}

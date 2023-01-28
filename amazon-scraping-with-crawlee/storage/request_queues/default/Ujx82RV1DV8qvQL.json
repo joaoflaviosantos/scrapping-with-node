@@ -1,0 +1,9 @@
+{
+	"id": "Ujx82RV1DV8qvQL",
+	"json": "{\"id\":\"Ujx82RV1DV8qvQL\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BP6YRR5V&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BP6YRR5V&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BP6YRR5V&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"E58 Drone with 1080P HD Camera, Foldable Live Video Drones for Adults Beginners,Gesture Control RC Quadcopter with 2 Batteries, Altitude Hold, Headless Mode,One Key Start/Landing,3D Flips, APP Control,Toys Gifts for Boys Girls\",\"asin\":\"B0BP6YRR5V\",\"itemUrl\":\"https://www.amazon.com/Foldable-Beginners-Quadcopter-Batteries-Altitude/dp/B0BP6YRR5V/ref=sr_1_6?keywords=drone&qid=1674944744&sr=8-6\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:25:59.970Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BP6YRR5V&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BP6YRR5V&pc=dp"
+}

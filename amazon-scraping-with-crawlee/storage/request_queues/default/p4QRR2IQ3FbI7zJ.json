@@ -1,0 +1,9 @@
+{
+	"id": "p4QRR2IQ3FbI7zJ",
+	"json": "{\"id\":\"p4QRR2IQ3FbI7zJ\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B82GLNRY&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B82GLNRY&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B82GLNRY&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Mini Drone with Camera for Adults Kids - 1080P HD FPV Camera Drones with Carrying Case, Foldable Drone Remote Control Toys Gifts RC Quadcopter for Boys Girls with 4 Batteries, Headless Mode, One Key Start, Speed Adjustment, 3D Flips for Kids or Beginners\",\"asin\":\"B0B82GLNRY\",\"itemUrl\":\"https://www.amazon.com/Mini-Drone-Camera-Adults-Kids/dp/B0B82GLNRY/ref=sr_1_10?keywords=drone&qid=1674944744&sr=8-10\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:00.265Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B82GLNRY&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B82GLNRY&pc=dp"
+}

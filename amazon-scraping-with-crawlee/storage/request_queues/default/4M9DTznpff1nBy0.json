@@ -1,0 +1,9 @@
+{
+	"id": "4M9DTznpff1nBy0",
+	"json": "{\"id\":\"4M9DTznpff1nBy0\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B08BYCZ7QH&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B08BYCZ7QH&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B08BYCZ7QH&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"SYMA Drone with 1080P FPV Camera,Optical Flow Positioning,Tap Fly,Altitude Hold,Headless Mode,3D Flips,2 Batteries 40mins Flying UFO Remote Control Quadcopter for Kids Beginners\",\"asin\":\"B08BYCZ7QH\",\"itemUrl\":\"https://www.amazon.com/Foldable-Positioning-Quadcopter-Beginners-Batteries/dp/B08BYCZ7QH/ref=sr_1_54?keywords=drone&qid=1674944744&sr=8-54\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:03.205Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B08BYCZ7QH&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B08BYCZ7QH&pc=dp"
+}

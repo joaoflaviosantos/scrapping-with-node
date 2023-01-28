@@ -1,0 +1,9 @@
+{
+	"id": "ADptjeKk2EtbyqU",
+	"json": "{\"id\":\"ADptjeKk2EtbyqU\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0916ZN6PH&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0916ZN6PH&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0916ZN6PH&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Holyton HT02 Golden Mini Drone for Adult Beginners and Kids, Portable RC Quadcopter with Auto Hovering, 3D Flip, 3 Speed Modes, Headless Mode and 3 Batteries, Emergency Stop, Gift for Boys Girls\",\"asin\":\"B0916ZN6PH\",\"itemUrl\":\"https://www.amazon.com/Holyton-Beginners-Quadcopter-Batteries-Emergency/dp/B0916ZN6PH/ref=sr_1_50?keywords=drone&qid=1674944744&sr=8-50\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:02.870Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0916ZN6PH&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0916ZN6PH&pc=dp"
+}

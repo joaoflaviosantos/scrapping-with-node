@@ -1,0 +1,9 @@
+{
+	"id": "zsjs0kN56U6DYcv",
+	"json": "{\"id\":\"zsjs0kN56U6DYcv\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BBRDW54S&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BBRDW54S&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BBRDW54S&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"SEAREFR Drones for Kids Adults with 1080P HD Camera, WiFi Mini FPV Drone for Beginners, Toys Gifts for Boys Girls, RC Quadcopter Helicopter, 2 Batteries, Gravity Control, Gesture Control, 3D Flips, Waypoints Fly, Headless Mode, Altitude Hold, One Key Take Off/Landing\",\"asin\":\"B0BBRDW54S\",\"itemUrl\":\"https://www.amazon.com/SEAREFR-Beginners-Quadcopter-Helicopter-Batteries/dp/B0BBRDW54S/ref=sr_1_52?keywords=drone&qid=1674944744&sr=8-52\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:03.006Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BBRDW54S&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BBRDW54S&pc=dp"
+}

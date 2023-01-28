@@ -1,0 +1,9 @@
+{
+	"id": "Dm9tw8oWHdLqn9z",
+	"json": "{\"id\":\"Dm9tw8oWHdLqn9z\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09KV8L7WN&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09KV8L7WN&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09KV8L7WN&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"MOCVOO Drones with Camera for Adults Kids, Foldable RC Quadcopter, Helicopter Toys, 1080P FPV Video Drone for Beginners, 2 Batteries, Carrying Case, One Key Start, Altitude Hold,Headless Mode,3D Flips\",\"asin\":\"B09KV8L7WN\",\"itemUrl\":\"https://www.amazon.com/Foldable-Quadcopter-Beginners-Batteries-Waypoints/dp/B09KV8L7WN/ref=sr_1_25?keywords=drone&qid=1674944744&sr=8-25\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:01.588Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09KV8L7WN&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09KV8L7WN&pc=dp"
+}

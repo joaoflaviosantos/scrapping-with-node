@@ -1,0 +1,9 @@
+{
+	"id": "nAF1jqkskScYwWA",
+	"json": "{\"id\":\"nAF1jqkskScYwWA\",\"url\":\"https://www.amazon.com/Drone-Sean-Bean/dp/B09YCGL1H6/ref=sr_1_59?keywords=drone&qid=1674944744&sr=8-59\",\"loadedUrl\":\"https://www.amazon.com/Drone-Sean-Bean/dp/B09YCGL1H6/ref=sr_1_59?keywords=drone&qid=1674944744&sr=8-59\",\"uniqueKey\":\"https://www.amazon.com/Drone-Sean-Bean/dp/B09YCGL1H6/ref=sr_1_59?keywords=drone&qid=1674944744&sr=8-59\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Drone\",\"asin\":\"B09YCGL1H6\",\"itemUrl\":\"https://www.amazon.com/Drone-Sean-Bean/dp/B09YCGL1H6/ref=sr_1_59?keywords=drone&qid=1674944744&sr=8-59\",\"keyword\":\"drone\"},\"label\":\"PRODUCT\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:25:58.913Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/Drone-Sean-Bean/dp/B09YCGL1H6/ref=sr_1_59?keywords=drone&qid=1674944744&sr=8-59",
+	"url": "https://www.amazon.com/Drone-Sean-Bean/dp/B09YCGL1H6/ref=sr_1_59?keywords=drone&qid=1674944744&sr=8-59"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "r74JzjLqN8wGwzN",
+	"json": "{\"id\":\"r74JzjLqN8wGwzN\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BCJ6C7FS&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BCJ6C7FS&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BCJ6C7FS&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"ZGMON Drones for Kids Adults with 1080P HD Camera, Foldable Mini Drone for Beginner, WiFI FPV RC Quadcopter Helicopter Toy Christmas Gift for Boys Girls with 2 Batteries, Voice Control, Gesture Control, Throw to Go, 3D Flip, Altitude Hold\",\"asin\":\"B0BCJ6C7FS\",\"itemUrl\":\"https://www.amazon.com/ZGMON-Quadcopter-Helicopter-Christmas-Batteries/dp/B0BCJ6C7FS/ref=sr_1_19?keywords=drone&qid=1674944744&sr=8-19\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:01.484Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BCJ6C7FS&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BCJ6C7FS&pc=dp"
+}

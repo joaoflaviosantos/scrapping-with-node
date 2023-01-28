@@ -1,0 +1,9 @@
+{
+	"id": "jTzKqxHCODPVQfs",
+	"json": "{\"id\":\"jTzKqxHCODPVQfs\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BCVQCTP1&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BCVQCTP1&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BCVQCTP1&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"INPORSA Mini Drone - Foldable Drone with Camera for Kids Beginners, Remote Control Quadcopter Toy with 720P FPV Camera, One Key Take Off/Landing, Altitude Hold, Headless Mode, 3D Flip, 2 Batteries, Black\",\"asin\":\"B0BCVQCTP1\",\"itemUrl\":\"https://www.amazon.com/INPORSA-Mini-Drone-Beginners-Quadcopter/dp/B0BCVQCTP1/ref=sr_1_60?keywords=drone&qid=1674944744&sr=8-60\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:03.564Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BCVQCTP1&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BCVQCTP1&pc=dp"
+}

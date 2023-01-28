@@ -1,0 +1,9 @@
+{
+	"id": "0oxKXNJRd628qXZ",
+	"json": "{\"id\":\"0oxKXNJRd628qXZ\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B08HJZ6BX6&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B08HJZ6BX6&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B08HJZ6BX6&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"HR Mini Drones For Kids,RC Drone For Beginners With Neno Light,RC Helicopter Quadcopter With Altitude Hold,360° Rotating,Shinning Led Lights,2 Batteries,Kids Gifts Toys For Boys Girls (Blue)\",\"asin\":\"B08HJZ6BX6\",\"itemUrl\":\"https://www.amazon.com/Beginners-Helicopter-Quadcopter-Altitude-Batteries/dp/B08HJZ6BX6/ref=sr_1_33?keywords=drone&qid=1674944744&sr=8-33\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:02.326Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B08HJZ6BX6&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B08HJZ6BX6&pc=dp"
+}

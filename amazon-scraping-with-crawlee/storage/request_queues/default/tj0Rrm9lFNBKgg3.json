@@ -1,0 +1,9 @@
+{
+	"id": "tj0Rrm9lFNBKgg3",
+	"json": "{\"id\":\"tj0Rrm9lFNBKgg3\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B084BSL8Q7&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B084BSL8Q7&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B084BSL8Q7&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Foldable Mini Drone for Kids Toys,V2 Nano Pocket RC Quadcopter for Beginners Gift,with 3 Batteries,Altitude Hold, Headless Mode,3D Flips, One Key Return,3 Speed Modes,Easy Fly\",\"asin\":\"B084BSL8Q7\",\"itemUrl\":\"https://www.amazon.com/Beginners-Foldable-Quadcopter-Adjustment-Batteries/dp/B084BSL8Q7/ref=sr_1_32?keywords=drone&qid=1674944744&sr=8-32\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:01.601Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B084BSL8Q7&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B084BSL8Q7&pc=dp"
+}

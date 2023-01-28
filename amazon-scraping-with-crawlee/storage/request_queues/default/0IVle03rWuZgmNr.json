@@ -1,0 +1,9 @@
+{
+	"id": "0IVle03rWuZgmNr",
+	"json": "{\"id\":\"0IVle03rWuZgmNr\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B077N3CXZY&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B077N3CXZY&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B077N3CXZY&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Potensic Upgraded A20 Mini Drone Easy to Fly Even to Kids and Beginners, RC Helicopter Quadcopter with Auto Hovering, Headless Mode, 3 Batteries and Remote Control, Gift Choice for Boys and Girls\",\"asin\":\"B077N3CXZY\",\"itemUrl\":\"https://www.amazon.com/Potensic-Quadcopter-Altitude-Function-Beginners/dp/B077N3CXZY/ref=sr_1_38?keywords=drone&qid=1674944744&sr=8-38\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:02.370Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B077N3CXZY&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B077N3CXZY&pc=dp"
+}

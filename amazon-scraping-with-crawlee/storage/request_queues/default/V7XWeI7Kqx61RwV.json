@@ -1,0 +1,9 @@
+{
+	"id": "V7XWeI7Kqx61RwV",
+	"json": "{\"id\":\"V7XWeI7Kqx61RwV\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09FF2HPWR&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09FF2HPWR&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09FF2HPWR&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"UranHub Drone with Camera for Adults HD 2K Camera Live Video Drone for Beginners w/Gesture Control, Voice Control, Altitude Hold, Headless Mode, Compatible with VR Glasses\",\"asin\":\"B09FF2HPWR\",\"itemUrl\":\"https://www.amazon.com/UranHub-Beginners-Altitude-Headless-Compatible/dp/B09FF2HPWR/ref=sr_1_48?keywords=drone&qid=1674944744&sr=8-48\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:03.102Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09FF2HPWR&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09FF2HPWR&pc=dp"
+}

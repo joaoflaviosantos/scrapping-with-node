@@ -1,0 +1,9 @@
+{
+	"id": "NZEaDuDUbLWhKA8",
+	"json": "{\"id\":\"NZEaDuDUbLWhKA8\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B093Q223N2&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B093Q223N2&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B093Q223N2&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"NEHEME NH330 Drone for Kids and Beginner, Mini Drone with Auto Hover, Headless Mode, 3D Flip and Throw to Go, Kids Toys Gift RC Quadcopter with Propeller, Easy to Fly Toys Drone for Boys Girls\",\"asin\":\"B093Q223N2\",\"itemUrl\":\"https://www.amazon.com/NEHEME-Beginner-Headless-Quadcopter-Propeller/dp/B093Q223N2/ref=sr_1_57?keywords=drone&qid=1674944744&sr=8-57\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:03.377Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B093Q223N2&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B093Q223N2&pc=dp"
+}

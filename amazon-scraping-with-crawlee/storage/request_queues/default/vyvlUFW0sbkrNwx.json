@@ -1,0 +1,9 @@
+{
+	"id": "vyvlUFW0sbkrNwx",
+	"json": "{\"id\":\"vyvlUFW0sbkrNwx\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BDL8PS54&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BDL8PS54&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BDL8PS54&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"TENSSENX GPS Drone with 1080P HD Camera for Adults and Kids, 5G Transmission FPV Drone, RC Quadcopter with 2 Batteries, Carrying Bag, Auto Return, Follow Me, Altitude Hold, Easy for Beginners\",\"asin\":\"B0BDL8PS54\",\"itemUrl\":\"https://www.amazon.com/TENSSENX-Transmission-Quadcopter-Batteries-Beginners/dp/B0BDL8PS54/ref=sr_1_11?keywords=drone&qid=1674944744&sr=8-11\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:00.621Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BDL8PS54&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BDL8PS54&pc=dp"
+}

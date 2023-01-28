@@ -1,0 +1,9 @@
+{
+	"id": "GUGrV4XuafXgMMT",
+	"json": "{\"id\":\"GUGrV4XuafXgMMT\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09YCGL1H6&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09YCGL1H6&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09YCGL1H6&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Drone\",\"asin\":\"B09YCGL1H6\",\"itemUrl\":\"https://www.amazon.com/Drone-Sean-Bean/dp/B09YCGL1H6/ref=sr_1_59?keywords=drone&qid=1674944744&sr=8-59\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:02.772Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09YCGL1H6&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09YCGL1H6&pc=dp"
+}

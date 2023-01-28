@@ -1,0 +1,9 @@
+{
+	"id": "CgRfolZwgA0hYj1",
+	"json": "{\"id\":\"CgRfolZwgA0hYj1\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BFWS4N4T&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BFWS4N4T&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BFWS4N4T&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Potensic ATOM SE Combo GPS Drone Quadcopter with 4K ShakeVanish Camera Less Than 249g, 62 Mins Flight Time, 4km FPV Transmission, Max. Speed 16m/s, Auto Return\",\"asin\":\"B0BFWS4N4T\",\"itemUrl\":\"https://www.amazon.com/Potensic-Quadcopter-ShakeVanish-Camera-Transmission/dp/B0BFWS4N4T/ref=sr_1_17?keywords=drone&qid=1674944744&sr=8-17\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:01.321Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BFWS4N4T&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BFWS4N4T&pc=dp"
+}

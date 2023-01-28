@@ -1,0 +1,9 @@
+{
+	"id": "bDPwCstC2u2ht7h",
+	"json": "{\"id\":\"bDPwCstC2u2ht7h\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BFFDZ393&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BFFDZ393&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BFFDZ393&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Drones for Kids, TUDELLO RC Mini Drone for Kids and Beginners, RC Quadcopter Indoor with Headless Mode, Small Helicopter with 3D Flip, Auto Hovering and 2 Batteries, Great Gift for Boys and Girls\",\"asin\":\"B0BFFDZ393\",\"itemUrl\":\"https://www.amazon.com/TUDELLO-Beginners-Quadcopter-Helicopter-Batteries/dp/B0BFFDZ393/ref=sr_1_20?keywords=drone&qid=1674944744&sr=8-20\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:01.383Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BFFDZ393&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BFFDZ393&pc=dp"
+}

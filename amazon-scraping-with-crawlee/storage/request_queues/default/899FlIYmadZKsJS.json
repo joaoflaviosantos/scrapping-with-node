@@ -1,0 +1,9 @@
+{
+	"id": "899FlIYmadZKsJS",
+	"json": "{\"id\":\"899FlIYmadZKsJS\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BCNMWYK8&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BCNMWYK8&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BCNMWYK8&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"NEHEME NH525 Foldable Drones with 1080P HD Camera for Adults, RC Quadcopter WiFi FPV Live Video, Altitude Hold, Headless Mode, One Key Take Off for Kids or Beginners with 2 Batteries, Upgraded Version\",\"asin\":\"B0BCNMWYK8\",\"itemUrl\":\"https://www.amazon.com/NEHEME-NH525-Quadcopter-Beginners-Batteries/dp/B0BCNMWYK8/ref=sr_1_9?keywords=drone&qid=1674944744&sr=8-9\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:00.313Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BCNMWYK8&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BCNMWYK8&pc=dp"
+}

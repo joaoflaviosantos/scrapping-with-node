@@ -1,0 +1,9 @@
+{
+	"id": "p1Imq8yx0KNC4qG",
+	"json": "{\"id\":\"p1Imq8yx0KNC4qG\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B93RTBK2&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B93RTBK2&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B93RTBK2&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"SIMREX X500 mini Drone Optical Flow Positioning RC Quadcopter with 720P HD Camera, Altitude Hold Headless Mode, Foldable FPV Drones WiFi Live Video 3D Flips Easy Fly Steady for Learning Gray\",\"asin\":\"B0B93RTBK2\",\"itemUrl\":\"https://www.amazon.com/SIMREX-Positioning-Quadcopter-Altitude-Headless/dp/B0B93RTBK2/ref=sr_1_28?keywords=drone&qid=1674944744&sr=8-28\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:01.531Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B93RTBK2&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B93RTBK2&pc=dp"
+}

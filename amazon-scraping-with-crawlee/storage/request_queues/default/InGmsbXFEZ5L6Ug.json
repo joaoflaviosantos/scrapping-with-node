@@ -1,0 +1,9 @@
+{
+	"id": "InGmsbXFEZ5L6Ug",
+	"json": "{\"id\":\"InGmsbXFEZ5L6Ug\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B497LZMP&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B497LZMP&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B497LZMP&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Drone with 1080P Camera for Adults,Foldable RC Quadcopter, Helicopter Toys, 1080P FPV Video Drone for Beginners, Dual Camera Drone, 2 Batteries and Carrying Case,One Key Start, Altitude Hold,Headless Mode,3D Flips Silver\",\"asin\":\"B0B497LZMP\",\"itemUrl\":\"https://www.amazon.com/Foldable-Quadcopter-Helicopter-Beginners-Batteries/dp/B0B497LZMP/ref=sr_1_51?keywords=drone&qid=1674944744&sr=8-51\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:03.023Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B497LZMP&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B497LZMP&pc=dp"
+}

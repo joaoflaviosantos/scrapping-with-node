@@ -1,0 +1,9 @@
+{
+	"id": "s6aqvWzWFQnXm6u",
+	"json": "{\"id\":\"s6aqvWzWFQnXm6u\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09BN79WB9&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09BN79WB9&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09BN79WB9&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Drone with Camera 1080P for Adults Foldable RC Quadcopter Drone for Kids Beginners with Altitude Hold, One Key Take Off/Landing, RC Toys Gifts for Kids and Adults\",\"asin\":\"B09BN79WB9\",\"itemUrl\":\"https://www.amazon.com/HR-Foldable-Quadcopter-Helicopter-Beginner/dp/B09BN79WB9/ref=sr_1_18?keywords=drone&qid=1674944744&sr=8-18\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:01.051Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09BN79WB9&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09BN79WB9&pc=dp"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "lb8myb08st7qgql",
+	"json": "{\"id\":\"lb8myb08st7qgql\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BS8TCCPC&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BS8TCCPC&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BS8TCCPC&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Drone with 1080P Dual HD Camera - 2022 Upgradded RC Quadcopter for Adults and Kids, WiFi FPV RC Drone for Beginners Live Video HD Wide Angle RC Aircraft, Trajectory Flight, Altitude Hold（Black）\",\"asin\":\"B0BS8TCCPC\",\"itemUrl\":\"https://www.amazon.com/Drone-1080P-Dual-Camera-Hold%EF%BC%88Black%EF%BC%89/dp/B0BS8TCCPC/ref=sr_1_45?keywords=drone&qid=1674944744&sr=8-45\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:02.354Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BS8TCCPC&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BS8TCCPC&pc=dp"
+}

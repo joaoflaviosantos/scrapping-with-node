@@ -1,0 +1,9 @@
+{
+	"id": "YQ6siETEB9LemWV",
+	"json": "{\"id\":\"YQ6siETEB9LemWV\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BBVZ849G&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BBVZ849G&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BBVZ849G&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Drone with 1080P Camera for Adults and Kids, Foldable FPV Remote Control Quadcopter with Voice Control, Gestures Selfie, Altitude Hold, One Key Start, 3D Flips, 2 Batteries, Toys Gifts for Boys Girls\",\"asin\":\"B0BBVZ849G\",\"itemUrl\":\"https://www.amazon.com/Foldable-Quadcopter-Gestures-Altitude-Batteries/dp/B0BBVZ849G/ref=sr_1_7?keywords=drone&qid=1674944744&sr=8-7\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:25:59.673Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BBVZ849G&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BBVZ849G&pc=dp"
+}

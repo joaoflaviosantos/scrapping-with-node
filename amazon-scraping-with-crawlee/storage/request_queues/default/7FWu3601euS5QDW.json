@@ -1,0 +1,9 @@
+{
+	"id": "7FWu3601euS5QDW",
+	"json": "{\"id\":\"7FWu3601euS5QDW\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B8V2DC5Q&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B8V2DC5Q&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B8V2DC5Q&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Drone for Kids, Mini Drone Toys with Colored LED Lights, RC Drone with 3D Flips, Headless Mode, Altitude Hold and 3 Batteries, Propellers Full Protect, Flying Drone Gifts for Beginners Boys and Girls\",\"asin\":\"B0B8V2DC5Q\",\"itemUrl\":\"https://www.amazon.com/Headless-Altitude-Batteries-Propellers-Beginners/dp/B0B8V2DC5Q/ref=sr_1_46?keywords=drone&qid=1674944744&sr=8-46\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:02.817Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B8V2DC5Q&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B8V2DC5Q&pc=dp"
+}

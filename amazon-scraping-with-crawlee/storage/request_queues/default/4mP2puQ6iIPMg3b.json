@@ -1,0 +1,9 @@
+{
+	"id": "4mP2puQ6iIPMg3b",
+	"json": "{\"id\":\"4mP2puQ6iIPMg3b\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BCG78LTW&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BCG78LTW&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BCG78LTW&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Potensic P5G Drones with Camera for Adults 4K, GPS Drone for Beginners, FPV 5G WiFi Transmission, Auto Return Home, Follow Me, 40 Mins Long Flight\",\"asin\":\"B0BCG78LTW\",\"itemUrl\":\"https://www.amazon.com/Potensic-Drones-Camera-Beginners-Transmission/dp/B0BCG78LTW/ref=sr_1_12?keywords=drone&qid=1674944744&sr=8-12\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:00.759Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BCG78LTW&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0BCG78LTW&pc=dp"
+}

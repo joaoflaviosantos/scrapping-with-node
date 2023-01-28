@@ -1,0 +1,9 @@
+{
+	"id": "0zEqg3f5XJ3chqD",
+	"json": "{\"id\":\"0zEqg3f5XJ3chqD\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B633N44L&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B633N44L&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B633N44L&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"RADCLO Mini Drone with Camera - 1080P HD FPV Foldable Drone with Carrying Case, 2 Batteries, 90° Adjustable Lens, One Key Take Off/Land, Altitude Hold, 360° Flip, Toys Gifts for Kids and Adults\",\"asin\":\"B0B633N44L\",\"itemUrl\":\"https://www.amazon.com/RADCLO-Mini-Drone-Camera-Adjustable/dp/B0B633N44L/ref=sr_1_5?keywords=drone&qid=1674944744&sr=8-5\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:25:59.810Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B633N44L&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B633N44L&pc=dp"
+}

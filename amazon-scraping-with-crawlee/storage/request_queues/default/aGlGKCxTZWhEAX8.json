@@ -1,0 +1,9 @@
+{
+	"id": "aGlGKCxTZWhEAX8",
+	"json": "{\"id\":\"aGlGKCxTZWhEAX8\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B08CV4GWWK&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B08CV4GWWK&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B08CV4GWWK&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"SANROCK U52 Drone with 1080P HD Camera for Adults Kids, WiFi Live Video FPV Drones RC Quadcopters for Beginners, Gesture Control, Gravity Sensor, Altitude Hold, 3D Flip, Custom Route, One Key Backward\",\"asin\":\"B08CV4GWWK\",\"itemUrl\":\"https://www.amazon.com/SANROCK-Quadcopter-Beginners-Altitude-Headless/dp/B08CV4GWWK/ref=sr_1_41?keywords=drone&qid=1674944744&sr=8-41\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:02.995Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B08CV4GWWK&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B08CV4GWWK&pc=dp"
+}

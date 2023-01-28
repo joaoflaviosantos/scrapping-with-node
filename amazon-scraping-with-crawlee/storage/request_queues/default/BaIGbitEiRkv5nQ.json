@@ -1,0 +1,9 @@
+{
+	"id": "BaIGbitEiRkv5nQ",
+	"json": "{\"id\":\"BaIGbitEiRkv5nQ\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B654HJRJ&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B654HJRJ&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B654HJRJ&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"ORKNELY Drone with Camera for Adults, WiFi 1080P HD Camera FPV Live Video, RC Quadcopter Kids Toys Gifts for Beginner with Gravity Sensor, Waypoints Functions, Headless Mode, One Key Take Off/Landing, Altitude Hold\",\"asin\":\"B0B654HJRJ\",\"itemUrl\":\"https://www.amazon.com/Quadcopter-Beginner-Waypoints-Functions-Headless/dp/B0B654HJRJ/ref=sr_1_34?keywords=drone&qid=1674944744&sr=8-34\",\"keyword\":\"drone\",\"description\":\"\"},\"label\":\"OFFERS\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-01-28T22:26:02.091Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B654HJRJ&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B0B654HJRJ&pc=dp"
+}
